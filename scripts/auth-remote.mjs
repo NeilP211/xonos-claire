@@ -1,8 +1,8 @@
-// Remote authorization helper for when the Spotify account owner (Lucy) is not
+// Remote authorization helper for when the Spotify account owner (Claire) is not
 // at this machine. Two steps:
 //
 //   1. npm run auth:link
-//      Prints an authorization URL. Send it to Lucy. She logs in to Spotify,
+//      Prints an authorization URL. Send it to Claire. She logs in to Spotify,
 //      clicks Agree, and lands on a dead http://127.0.0.1:8888/callback page
 //      (expected: nothing is listening on her machine). She copies the FULL URL
 //      from her address bar and sends it back.
@@ -34,7 +34,7 @@ loadDotEnv()
 const clientId = process.env.SPOTIFY_CLIENT_ID
 const clientSecret = process.env.SPOTIFY_CLIENT_SECRET
 const redirectUri = process.env.SPOTIFY_REDIRECT_URI || 'http://127.0.0.1:8888/callback'
-const STATE = 'xonos-lucy-remote'
+const STATE = 'xonos-claire-remote'
 
 if (!clientId || !clientSecret) {
   console.error('Missing SPOTIFY_CLIENT_ID / SPOTIFY_CLIENT_SECRET (env or .env file).')
@@ -54,7 +54,7 @@ if (mode === 'link') {
       state: STATE,
       show_dialog: 'true',
     }).toString()
-  console.log('Send this link to Lucy. She logs in, clicks Agree, then sends back')
+  console.log('Send this link to Claire. She logs in, clicks Agree, then sends back')
   console.log('the full URL of the broken page she lands on:\n')
   console.log(authUrl)
 } else if (mode === 'code') {
