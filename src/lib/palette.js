@@ -1,14 +1,13 @@
-// Restrained mono + violet ramp for the terminal/brutalist theme (placeholder
-// accent until Claire picks hers). Each fallback thumbnail gets a stable,
-// on-brand shade by index (no rainbow).
+// Restrained mono + dark-red ramp for the terminal/brutalist theme. Each
+// fallback thumbnail gets a stable, on-brand shade by index (no rainbow).
 export const PALETTE = [
-  '#8b5cf6', // violet
+  '#c1121f', // dark red
   '#2b2b2b', // graphite
-  '#6d3fd1', // dim violet
+  '#9d0f19', // dim red
   '#3a3a3a', // slate
-  '#b794ff', // light violet
+  '#e4626b', // light red
   '#1f1f1f', // near-black
-  '#4c2a8f', // dark violet
+  '#660b11', // deep red
   '#4a4a4a', // ash
 ]
 
