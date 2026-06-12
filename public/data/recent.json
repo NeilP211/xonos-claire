@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T03:32:48.647Z",
+  "updated_at": "2026-06-12T10:05:11.618Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -665,6 +665,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57",
       "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
       "duration_ms": 215338
+    },
+    {
+      "played_at": "2026-06-12T03:28:28.482Z",
+      "name": "Army Dreamers",
+      "artists": [
+        "Kate Bush"
+      ],
+      "album": "Never for Ever",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738135bea532f6949921a41d42",
+      "uri": "spotify:track:2LTCVKCcbKQBoqofOkI0fB",
+      "duration_ms": 178640
+    },
+    {
+      "played_at": "2026-06-12T06:08:09.318Z",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "duration_ms": 97960
+    },
+    {
+      "played_at": "2026-06-12T06:10:50.116Z",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+      "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-06-12T06:18:01.291Z",
+      "name": "snowfall",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed50c8fe9503fd8d73d82f9f",
+      "uri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4",
+      "duration_ms": 124065
     }
   ]
 }
