@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:00:57.518Z",
+  "generated_at": "2026-06-13T11:12:11.107Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -466,30 +466,6 @@
         },
         {
           "rank": 39,
-          "name": "Dust",
-          "artists": [
-            "Drake"
-          ],
-          "album": "ICEMAN",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-          "uri": "spotify:track:4eE16RJFDKf2WxBTqqfylu",
-          "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu",
-          "duration_ms": 189217
-        },
-        {
-          "rank": 40,
-          "name": "Janice STFU",
-          "artists": [
-            "Drake"
-          ],
-          "album": "ICEMAN",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-          "uri": "spotify:track:514joG57v4yKTsfQmz7stz",
-          "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
-          "duration_ms": 237344
-        },
-        {
-          "rank": 41,
           "name": "This Night Has Opened My Eyes - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -501,7 +477,7 @@
           "duration_ms": 221533
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -513,7 +489,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -525,7 +501,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "I Don't Like",
           "artists": [
             "Chief Keef",
@@ -538,7 +514,7 @@
           "duration_ms": 293840
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -550,7 +526,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Creep",
           "artists": [
             "Radiohead"
@@ -562,7 +538,7 @@
           "duration_ms": 238640
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -574,7 +550,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -587,7 +563,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -599,7 +575,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Best Friend (feat. Doja Cat)",
           "artists": [
             "Saweetie",
@@ -610,6 +586,30 @@
           "uri": "spotify:track:20BOju91NaEFK5Py4VJ2pp",
           "url": "https://open.spotify.com/track/20BOju91NaEFK5Py4VJ2pp",
           "duration_ms": 155883
+        },
+        {
+          "rank": 49,
+          "name": "Dark Red",
+          "artists": [
+            "Steve Lacy"
+          ],
+          "album": "Dark Red",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979",
+          "uri": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
+          "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
+          "duration_ms": 173104
+        },
+        {
+          "rank": 50,
+          "name": "Beanie",
+          "artists": [
+            "Chezile"
+          ],
+          "album": "Beanie",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+          "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+          "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
+          "duration_ms": 132160
         }
       ],
       "artists": [
@@ -671,6 +671,14 @@
         },
         {
           "rank": 8,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 9,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -678,20 +686,12 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "The Smiths",
           "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
           "genres": [],
           "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
           "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        },
-        {
-          "rank": 10,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 11,
@@ -703,19 +703,19 @@
         },
         {
           "rank": 12,
-          "name": "Kendrick Lamar",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
-          "genres": [],
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "rank": 13,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
           "genres": [],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        },
+        {
+          "rank": 13,
+          "name": "Kendrick Lamar",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+          "genres": [],
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
           "rank": 14,

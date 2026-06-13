@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T07:00:57.658Z",
+  "updated_at": "2026-06-13T11:12:11.212Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -964,6 +964,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
       "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
       "duration_ms": 216539
+    },
+    {
+      "played_at": "2026-06-13T07:40:06.978Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
     }
   ]
 }
