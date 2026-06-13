@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T16:11:57.854Z",
+  "updated_at": "2026-06-13T19:19:40.900Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -997,6 +997,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
       "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
       "duration_ms": 192318
+    },
+    {
+      "played_at": "2026-06-13T16:12:52.420Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-06-13T16:16:55.050Z",
+      "name": "No One Noticed (Extended English)",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "No One Noticed (Extended)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358c0f15c5247c0b719d7ffb0",
+      "uri": "spotify:track:4Q9qkdqu0qKKjaftRrAK9C",
+      "duration_ms": 284466
+    },
+    {
+      "played_at": "2026-06-13T16:20:08.857Z",
+      "name": "Halcyon Age",
+      "artists": [
+        "Vansire"
+      ],
+      "album": "Angel Youth",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a788765bdda04106bd7b0d29",
+      "uri": "spotify:track:7C5pKQBh9xr7kCsBT6Y2n8",
+      "duration_ms": 193379
+    },
+    {
+      "played_at": "2026-06-13T16:24:49.895Z",
+      "name": "Birch Tree",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Taking My Time to Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ad1cdd4785d829027fa61ba",
+      "uri": "spotify:track:2isf9DCebk6mUhGagcD5bf",
+      "duration_ms": 280603
+    },
+    {
+      "played_at": "2026-06-13T16:28:10.846Z",
+      "name": "What More Can I Say",
+      "artists": [
+        "The Notations"
+      ],
+      "album": "Still Here: 1967-1973",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384aa41ae4889e16ad3c3bff7",
+      "uri": "spotify:track:1PHPODXYdkxmU9nkrqLd8y",
+      "duration_ms": 200506
+    },
+    {
+      "played_at": "2026-06-13T16:29:46.494Z",
+      "name": "Me and the Birds",
+      "artists": [
+        "Duster"
+      ],
+      "album": "Contemporary Movement",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2905338b1e6e07e167ee305",
+      "uri": "spotify:track:4wEuNvb7oG8oZYrZPZ9rPr",
+      "duration_ms": 95226
     }
   ]
 }
