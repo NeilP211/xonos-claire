@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T13:51:20.616Z",
+  "updated_at": "2026-06-13T16:11:57.854Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -975,6 +975,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
       "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
       "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-13T16:05:21.207Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-06-13T16:08:33.958Z",
+      "name": "Blondie",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
+      "duration_ms": 192318
     }
   ]
 }

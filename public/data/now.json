@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-13T13:51:20.681Z",
-  "is_playing": false,
+  "updated_at": "2026-06-13T16:11:58.022Z",
+  "is_playing": true,
   "track": {
-    "name": "Loving Machine",
+    "name": "John Wayne",
     "artists": [
-      "TV Girl"
+      "Cigarettes After Sex"
     ],
-    "album": "Who Really Cares",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-    "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ"
+    "album": "Cigarettes After Sex",
+    "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+    "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F"
   },
-  "played_at": "2026-06-13T07:40:06.978Z"
+  "played_at": "2026-06-13T16:11:58.022Z"
 }
