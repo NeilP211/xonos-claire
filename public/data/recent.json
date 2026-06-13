@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:22:04.114Z",
+  "updated_at": "2026-06-13T02:57:52.966Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -721,6 +721,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bc4439fefba91f86724ff41e",
       "uri": "spotify:track:0jx2hPIzs7bNveWHU2Ohzu",
       "duration_ms": 185682
+    },
+    {
+      "played_at": "2026-06-13T00:14:33.703Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
+    },
+    {
+      "played_at": "2026-06-13T00:18:22.509Z",
+      "name": "Without You",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Without You",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
+      "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
+      "duration_ms": 228080
     }
   ]
 }

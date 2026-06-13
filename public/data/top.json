@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T22:22:04.022Z",
+  "generated_at": "2026-06-13T02:57:52.859Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -380,6 +380,18 @@
         },
         {
           "rank": 32,
+          "name": "Young",
+          "artists": [
+            "Vacations"
+          ],
+          "album": "Holy Grail",
+          "image": "https://i.scdn.co/image/ab67616d0000b27339019387e9a5c807e57cacaf",
+          "uri": "spotify:track:5JN8ZgTqm3sCugWPV11cHP",
+          "url": "https://open.spotify.com/track/5JN8ZgTqm3sCugWPV11cHP",
+          "duration_ms": 189160
+        },
+        {
+          "rank": 33,
           "name": "Make No Sense",
           "artists": [
             "YoungBoy Never Broke Again"
@@ -391,7 +403,7 @@
           "duration_ms": 148629
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Angel",
           "artists": [
             "Massive Attack",
@@ -404,7 +416,7 @@
           "duration_ms": 379533
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -416,7 +428,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -428,7 +440,7 @@
           "duration_ms": 241533
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -441,7 +453,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Picture You",
           "artists": [
             "Chappell Roan"
@@ -453,7 +465,7 @@
           "duration_ms": 187130
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Dust",
           "artists": [
             "Drake"
@@ -465,7 +477,7 @@
           "duration_ms": 189217
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Janice STFU",
           "artists": [
             "Drake"
@@ -477,7 +489,7 @@
           "duration_ms": 237344
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "This Night Has Opened My Eyes - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -489,7 +501,7 @@
           "duration_ms": 221533
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Fade To Black - Remastered",
           "artists": [
             "Metallica"
@@ -501,7 +513,7 @@
           "duration_ms": 417226
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -513,7 +525,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "I Don't Like",
           "artists": [
             "Chief Keef",
@@ -526,7 +538,7 @@
           "duration_ms": 293840
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Creep",
           "artists": [
             "Radiohead"
@@ -538,7 +550,7 @@
           "duration_ms": 238640
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -550,7 +562,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -563,7 +575,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -575,7 +587,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Best Friend (feat. Doja Cat)",
           "artists": [
             "Saweetie",
@@ -588,7 +600,7 @@
           "duration_ms": 155883
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Dark Red",
           "artists": [
             "Steve Lacy"
@@ -598,18 +610,6 @@
           "uri": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
           "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
           "duration_ms": 173104
-        },
-        {
-          "rank": 50,
-          "name": "Beanie",
-          "artists": [
-            "Chezile"
-          ],
-          "album": "Beanie",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
-          "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
-          "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
-          "duration_ms": 132160
         }
       ],
       "artists": [
