@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T19:19:40.900Z",
+  "updated_at": "2026-06-13T22:00:07.422Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -1063,6 +1063,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f2905338b1e6e07e167ee305",
       "uri": "spotify:track:4wEuNvb7oG8oZYrZPZ9rPr",
       "duration_ms": 95226
+    },
+    {
+      "played_at": "2026-06-13T20:54:00.338Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-06-13T20:59:45.561Z",
+      "name": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
+      "duration_ms": 218920
+    },
+    {
+      "played_at": "2026-06-13T21:02:53.466Z",
+      "name": "Symphonia IX",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "uri": "spotify:track:1rluwEqsWp5tz0lgyOT9rE",
+      "duration_ms": 181166
+    },
+    {
+      "played_at": "2026-06-13T21:05:08.464Z",
+      "name": "wonder if you care",
+      "artists": [
+        "flyingfish"
+      ],
+      "album": "wonder if you care",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
+      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
+      "duration_ms": 134556
+    },
+    {
+      "played_at": "2026-06-13T21:10:01.680Z",
+      "name": "Nothing's Gonna Hurt You Baby",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "I.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
+      "uri": "spotify:track:3W7KHojYGgYaoX9ogKO9hU",
+      "duration_ms": 286293
     }
   ]
 }
