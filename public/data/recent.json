@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T19:20:26.285Z",
+  "updated_at": "2026-06-14T22:06:02.608Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -1771,6 +1771,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
       "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
       "duration_ms": 134556
+    },
+    {
+      "played_at": "2026-06-14T19:36:11.545Z",
+      "name": "Serve The Servants",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:3w5Ekq9O8g0gGFEsT77Ydi",
+      "duration_ms": 217173
+    },
+    {
+      "played_at": "2026-06-14T19:39:35.707Z",
+      "name": "back to friends",
+      "artists": [
+        "sombr"
+      ],
+      "album": "back to friends",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
+      "uri": "spotify:track:0FTmksd2dxiE5e3rWyJXs6",
+      "duration_ms": 199032
+    },
+    {
+      "played_at": "2026-06-14T19:42:22.455Z",
+      "name": "That’s So True",
+      "artists": [
+        "Gracie Abrams"
+      ],
+      "album": "The Secret of Us (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731dac3694b3289cd903cb3acf",
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "duration_ms": 166300
+    },
+    {
+      "played_at": "2026-06-14T19:46:01.330Z",
+      "name": "Good Luck, Babe!",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "Good Luck, Babe!",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+      "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
+      "duration_ms": 218423
     }
   ]
 }
