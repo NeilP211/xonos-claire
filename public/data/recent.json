@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T16:19:09.269Z",
+  "updated_at": "2026-06-14T19:20:26.285Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -1516,6 +1516,261 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
       "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
       "duration_ms": 167864
+    },
+    {
+      "played_at": "2026-06-14T16:31:54.490Z",
+      "name": "Always Forever",
+      "artists": [
+        "Cults"
+      ],
+      "album": "Static",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
+      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
+      "duration_ms": 223750
+    },
+    {
+      "played_at": "2026-06-14T16:36:02.075Z",
+      "name": "Always Forever",
+      "artists": [
+        "Cults"
+      ],
+      "album": "Static",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
+      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
+      "duration_ms": 223750
+    },
+    {
+      "played_at": "2026-06-14T16:40:20.541Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-06-14T16:43:00.651Z",
+      "name": "Run Away",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "47",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9387414fb13819654912c8e",
+      "uri": "spotify:track:6doY5sLPHdE4g7RUQdYSz6",
+      "duration_ms": 159650
+    },
+    {
+      "played_at": "2026-06-14T16:47:59.782Z",
+      "name": "Silver Soul",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Teen Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
+      "duration_ms": 298680
+    },
+    {
+      "played_at": "2026-06-14T16:50:58.572Z",
+      "name": "Infrunami",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "The Lo-Fis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+      "uri": "spotify:track:0f8eRy9A0n6zXpKSHSCAEp",
+      "duration_ms": 178328
+    },
+    {
+      "played_at": "2026-06-14T16:59:28.083Z",
+      "name": "LIKE THAT",
+      "artists": [
+        "BABYMONSTER"
+      ],
+      "album": "BABYMONS7ER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683",
+      "uri": "spotify:track:7GDgpad2BQVuDUzaxHFakc",
+      "duration_ms": 168358
+    },
+    {
+      "played_at": "2026-06-14T17:02:18.166Z",
+      "name": "Best Friend (feat. Doja Cat)",
+      "artists": [
+        "Saweetie",
+        "Doja Cat"
+      ],
+      "album": "Best Friend (feat. Doja Cat)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739586402ce4d850abacdad3da",
+      "uri": "spotify:track:2etHQJxIbV0soyPhelVs9Y",
+      "duration_ms": 155883
+    },
+    {
+      "played_at": "2026-06-14T17:06:09.478Z",
+      "name": "Insomniac",
+      "artists": [
+        "Memo Boy",
+        "Chakra Efendi"
+      ],
+      "album": "Songs & Demos 2015-2017",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+      "duration_ms": 212307
+    },
+    {
+      "played_at": "2026-06-14T17:10:51.106Z",
+      "name": "Heart-Shaped Box",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+      "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
+      "duration_ms": 281160
+    },
+    {
+      "played_at": "2026-06-14T17:15:15.679Z",
+      "name": "Karma Police",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+      "duration_ms": 264066
+    },
+    {
+      "played_at": "2026-06-14T17:17:58.220Z",
+      "name": "Highschool Lover",
+      "artists": [
+        "Air"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
+      "duration_ms": 162093
+    },
+    {
+      "played_at": "2026-06-14T17:20:03.851Z",
+      "name": "Stars Will Fall",
+      "artists": [
+        "Duster"
+      ],
+      "album": "Capsule Losing Contact",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f638da8e77e449875219d378",
+      "uri": "spotify:track:0PgT8DiJmpqTnf9SnFnHM0",
+      "duration_ms": 118160
+    },
+    {
+      "played_at": "2026-06-14T17:24:21.169Z",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
+      "duration_ms": 256799
+    },
+    {
+      "played_at": "2026-06-14T17:28:21.563Z",
+      "name": "Serpentskirt",
+      "artists": [
+        "Cocteau Twins"
+      ],
+      "album": "Milk & Kisses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
+      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
+      "duration_ms": 239920
+    },
+    {
+      "played_at": "2026-06-14T17:34:11.229Z",
+      "name": "I Know It's Over - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "The Queen Is Dead",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
+      "uri": "spotify:track:3M2bD9SMYnJIPdrTKUnBd3",
+      "duration_ms": 349186
+    },
+    {
+      "played_at": "2026-06-14T17:37:59.085Z",
+      "name": "Covet",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Colourmeinkindness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+      "duration_ms": 227340
+    },
+    {
+      "played_at": "2026-06-14T17:44:13.582Z",
+      "name": "Lithium",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
+      "duration_ms": 257053
+    },
+    {
+      "played_at": "2026-06-14T17:46:26.343Z",
+      "name": "savior",
+      "artists": [
+        "Novulent"
+      ],
+      "album": "VOL. 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
+      "uri": "spotify:track:2AxxfzxsozTmBL2qUPQVRX",
+      "duration_ms": 132356
+    },
+    {
+      "played_at": "2026-06-14T17:51:37.960Z",
+      "name": "Heavenly",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
+      "duration_ms": 286773
+    },
+    {
+      "played_at": "2026-06-14T17:54:28.555Z",
+      "name": "Do Not Enter",
+      "artists": [
+        "Glare"
+      ],
+      "album": "Void in Blue",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
+      "uri": "spotify:track:3Lkkb6JlusrtnZFNnRvfOm",
+      "duration_ms": 170163
+    },
+    {
+      "played_at": "2026-06-14T17:58:02.884Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-06-14T18:00:17.909Z",
+      "name": "wonder if you care",
+      "artists": [
+        "flyingfish"
+      ],
+      "album": "wonder if you care",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
+      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
+      "duration_ms": 134556
     }
   ]
 }
