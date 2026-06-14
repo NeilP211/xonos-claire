@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T22:00:07.422Z",
+  "updated_at": "2026-06-14T03:36:04.727Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -1118,6 +1118,128 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
       "uri": "spotify:track:3W7KHojYGgYaoX9ogKO9hU",
       "duration_ms": 286293
+    },
+    {
+      "played_at": "2026-06-13T22:38:10.236Z",
+      "name": "Mrs Magic",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Mrs Magic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c",
+      "uri": "spotify:track:0TZejo18HlJ86OrWNsXKnw",
+      "duration_ms": 208500
+    },
+    {
+      "played_at": "2026-06-13T22:41:28.982Z",
+      "name": "Uptown Girl",
+      "artists": [
+        "Billy Joel"
+      ],
+      "album": "An Innocent Man",
+      "image": "https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613",
+      "uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
+      "duration_ms": 198294
+    },
+    {
+      "played_at": "2026-06-13T22:45:05.188Z",
+      "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "Hatful of Hollow",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
+      "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
+      "duration_ms": 215760
+    },
+    {
+      "played_at": "2026-06-13T22:50:20.350Z",
+      "name": "When the Sun Hits",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
+      "duration_ms": 285906
+    },
+    {
+      "played_at": "2026-06-13T22:53:15.529Z",
+      "name": "Come Back - Buddha Remastered 2001",
+      "artists": [
+        "The Five Stairsteps"
+      ],
+      "album": "The First Family of Soul: The Best of The Five Stairsteps",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b4b2642b767f641a15c9fef1",
+      "uri": "spotify:track:7K6KRwyvE0plDEzxrVmCon",
+      "duration_ms": 174706
+    },
+    {
+      "played_at": "2026-06-13T22:57:04.075Z",
+      "name": "Without You",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Without You",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
+      "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
+      "duration_ms": 228080
+    },
+    {
+      "played_at": "2026-06-13T22:58:34.591Z",
+      "name": "Nope your too late i already died",
+      "artists": [
+        "wifiskeleton",
+        "i wanna be a jack-o-lantern"
+      ],
+      "album": "suburban daredevil",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730713102d7bb855a4796f7cdc",
+      "uri": "spotify:track:0hta2Lb2zKJ7kEnAEZEE3G",
+      "duration_ms": 90067
+    },
+    {
+      "played_at": "2026-06-13T23:01:44.225Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
+    },
+    {
+      "played_at": "2026-06-13T23:04:51.265Z",
+      "name": "Back to the Old House - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "Louder Than Bombs",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
+      "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
+      "duration_ms": 186626
+    },
+    {
+      "played_at": "2026-06-13T23:15:55.560Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-06-13T23:19:50.568Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
     }
   ]
 }
