@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T03:36:04.727Z",
+  "updated_at": "2026-06-14T09:28:26.731Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -1240,6 +1240,282 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
       "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-06-14T03:54:14.066Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-06-14T03:55:34.205Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-06-14T04:00:56.161Z",
+      "name": "Wildflower",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Depression Cherry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab",
+      "uri": "spotify:track:24bzJwjGBWtGCs7xKIKQsB",
+      "duration_ms": 219453
+    },
+    {
+      "played_at": "2026-06-14T04:04:41.283Z",
+      "name": "Playground Love (with Gordon Tracks)",
+      "artists": [
+        "Air",
+        "Gordon Tracks"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
+      "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-06-14T04:08:01.212Z",
+      "name": "Master of None",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Beach House",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
+      "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
+      "duration_ms": 199413
+    },
+    {
+      "played_at": "2026-06-14T04:12:46.361Z",
+      "name": "Highschool Lover",
+      "artists": [
+        "Air"
+      ],
+      "album": "The Virgin Suicides Redux",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff818ca10579bfc270ee6e6c",
+      "uri": "spotify:track:24DYKYnSpyxxyoHEDXlIO1",
+      "duration_ms": 160173
+    },
+    {
+      "played_at": "2026-06-14T04:17:43.549Z",
+      "name": "Everything In Its Right Place",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "Kid A",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
+      "duration_ms": 251426
+    },
+    {
+      "played_at": "2026-06-14T04:21:59.834Z",
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "The Queen Is Dead",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
+      "uri": "spotify:track:0WQiDwKJclirSYG9v5tayI",
+      "duration_ms": 244586
+    },
+    {
+      "played_at": "2026-06-14T04:52:13.477Z",
+      "name": "Silver Soul",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Teen Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
+      "duration_ms": 298680
+    },
+    {
+      "played_at": "2026-06-14T04:57:51.861Z",
+      "name": "Je te laisserai des mots",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "album": "Je te laisserai des mots",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ea92a85c492af8a38750549",
+      "uri": "spotify:track:44A0o4jA8F2ZF03Zacwlwx",
+      "duration_ms": 160853
+    },
+    {
+      "played_at": "2026-06-14T06:15:54.262Z",
+      "name": "Mrs Magic (Strings Version)",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "F Song & Mrs Magic (Strings Versions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273534aa32cffc253c433d99e7c",
+      "uri": "spotify:track:4iVj0UxqLlgrFWNdOnCwFS",
+      "duration_ms": 221929
+    },
+    {
+      "played_at": "2026-06-14T06:38:44.601Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-06-14T06:42:41.975Z",
+      "name": "No One Noticed",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
+      "duration_ms": 236906
+    },
+    {
+      "played_at": "2026-06-14T06:47:38.385Z",
+      "name": "Runaway Runaway",
+      "artists": [
+        "ceZk"
+      ],
+      "album": "Runaway Runaway",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa26f50c240498a941d3b7a4",
+      "uri": "spotify:track:36sj44xxsQn1msaU4bOmc5",
+      "duration_ms": 245331
+    },
+    {
+      "played_at": "2026-06-14T06:53:10.856Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-06-14T06:54:49.225Z",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "duration_ms": 97960
+    },
+    {
+      "played_at": "2026-06-14T07:04:27.678Z",
+      "name": "The Subway",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Subway",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+      "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+      "duration_ms": 252276
+    },
+    {
+      "played_at": "2026-06-14T07:07:41.320Z",
+      "name": "Be My Baby",
+      "artists": [
+        "The Ronettes"
+      ],
+      "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
+      "uri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
+      "duration_ms": 160906
+    },
+    {
+      "played_at": "2026-06-14T07:10:42.461Z",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "album": "Self Aware",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "duration_ms": 180740
+    },
+    {
+      "played_at": "2026-06-14T07:12:33.047Z",
+      "name": "Intermission",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Taking My Time to Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ad1cdd4785d829027fa61ba",
+      "uri": "spotify:track:4hm33jVolpa22nzhlY72jD",
+      "duration_ms": 110181
+    },
+    {
+      "played_at": "2026-06-14T07:14:45.644Z",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+      "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-06-14T07:21:17.338Z",
+      "name": "Let Down",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
+      "duration_ms": 299560
+    },
+    {
+      "played_at": "2026-06-14T07:25:27.732Z",
+      "name": "Where Is My Mind? - 2007 Remaster",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Surfer Rosa (2007 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+      "duration_ms": 234973
+    },
+    {
+      "played_at": "2026-06-14T07:29:20.262Z",
+      "name": "Bad Habit",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Gemini Rights",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+      "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
+      "duration_ms": 232114
+    },
+    {
+      "played_at": "2026-06-14T07:32:08.656Z",
+      "name": "Not Allowed",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+      "duration_ms": 167864
     }
   ]
 }
