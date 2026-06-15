@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-06-15T17:14:14.387Z",
-  "is_playing": false,
+  "updated_at": "2026-06-15T20:51:35.016Z",
+  "is_playing": true,
   "track": {
-    "name": "Idea 25",
+    "name": "John Wayne",
     "artists": [
-      "Gibran Alcocer",
-      "Andrea Vanzo"
+      "Cigarettes After Sex"
     ],
-    "album": "Idea 25",
-    "image": "https://i.scdn.co/image/ab67616d0000b273236f5231f34a50122193acaa",
-    "uri": "spotify:track:7exOrewyAiFxxHkGMXIvUn"
+    "album": "Cigarettes After Sex",
+    "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+    "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F"
   },
-  "played_at": "2026-06-15T07:18:43.850Z"
+  "played_at": "2026-06-15T20:51:35.016Z"
 }
