@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T20:51:34.654Z",
+  "generated_at": "2026-06-15T22:59:55.167Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -296,6 +296,18 @@
         },
         {
           "rank": 25,
+          "name": "Nobody New",
+          "artists": [
+            "The Marías"
+          ],
+          "album": "Nobody New",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
+          "duration_ms": 215200
+        },
+        {
+          "rank": 26,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -308,7 +320,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Heavenly",
           "artists": [
             "Cigarettes After Sex"
@@ -320,7 +332,7 @@
           "duration_ms": 286773
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -332,7 +344,7 @@
           "duration_ms": 218920
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Rape Me",
           "artists": [
             "Nirvana"
@@ -344,7 +356,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Young",
           "artists": [
             "Vacations"
@@ -356,7 +368,7 @@
           "duration_ms": 189160
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "HUMBLE.",
           "artists": [
             "Kendrick Lamar"
@@ -368,7 +380,7 @@
           "duration_ms": 177000
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -381,7 +393,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Best Friend (feat. Doja Cat)",
           "artists": [
             "Saweetie",
@@ -394,7 +406,7 @@
           "duration_ms": 155883
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "BILLIE EILISH.",
           "artists": [
             "Armani White"
@@ -406,7 +418,7 @@
           "duration_ms": 99280
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Angel",
           "artists": [
             "Massive Attack",
@@ -419,7 +431,7 @@
           "duration_ms": 379533
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -431,7 +443,7 @@
           "duration_ms": 299240
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "All I Need",
           "artists": [
             "Radiohead"
@@ -443,7 +455,7 @@
           "duration_ms": 228746
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -455,7 +467,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Make No Sense",
           "artists": [
             "YoungBoy Never Broke Again"
@@ -467,7 +479,7 @@
           "duration_ms": 148629
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "LIKE THAT",
           "artists": [
             "BABYMONSTER"
@@ -479,7 +491,7 @@
           "duration_ms": 168358
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -491,7 +503,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -503,7 +515,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Je te laisserai des mots",
           "artists": [
             "Patrick Watson"
@@ -515,7 +527,7 @@
           "duration_ms": 160853
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -527,7 +539,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -539,7 +551,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Back to the Old House - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -551,7 +563,7 @@
           "duration_ms": 186626
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Mrs Magic",
           "artists": [
             "Strawberry Guy"
@@ -563,7 +575,7 @@
           "duration_ms": 208500
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -573,18 +585,6 @@
           "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
           "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE",
           "duration_ms": 241533
-        },
-        {
-          "rank": 48,
-          "name": "Nobody New",
-          "artists": [
-            "The Marías"
-          ],
-          "album": "Nobody New",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
-          "duration_ms": 215200
         },
         {
           "rank": 49,
@@ -702,6 +702,14 @@
         },
         {
           "rank": 12,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 13,
           "name": "Massive Attack",
           "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
           "genres": [],
@@ -709,7 +717,7 @@
           "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
           "genres": [],
@@ -717,7 +725,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -725,7 +733,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Kendrick Lamar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
           "genres": [],
@@ -733,7 +741,7 @@
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
           "genres": [],
@@ -741,7 +749,7 @@
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -749,20 +757,12 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
           "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh",
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        },
-        {
-          "rank": 19,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
           "rank": 20,
@@ -782,62 +782,6 @@
         },
         {
           "rank": 22,
-          "name": "Saweetie",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb0214fabf2d511f3a395f2cde",
-          "genres": [],
-          "uri": "spotify:artist:6cK3NBO6uP7hh0oyuVELFl",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "rank": 23,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 24,
-          "name": "Mac DeMarco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [],
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "rank": 25,
-          "name": "bleood",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
-          "genres": [],
-          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
-          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-        },
-        {
-          "rank": 26,
-          "name": "Lil Baby",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
-          "genres": [],
-          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "rank": 27,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
-        },
-        {
-          "rank": 28,
-          "name": "Øneheart",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
-          "genres": [],
-          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "rank": 29,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5eb601c3f85fe11328b87142999",
           "genres": [],
@@ -845,7 +789,71 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
+          "rank": 23,
+          "name": "Saweetie",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0214fabf2d511f3a395f2cde",
+          "genres": [],
+          "uri": "spotify:artist:6cK3NBO6uP7hh0oyuVELFl",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "rank": 24,
+          "name": "Metallica",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
+          "genres": [],
+          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        },
+        {
+          "rank": 25,
+          "name": "Mac DeMarco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+          "genres": [],
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "rank": 26,
+          "name": "bleood",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
+          "genres": [],
+          "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
+          "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
+        },
+        {
+          "rank": 27,
+          "name": "Lil Baby",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
+          "genres": [],
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "rank": 28,
+          "name": "Alice In Chains",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "genres": [],
+          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 29,
+          "name": "Vansire",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
+          "genres": [],
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        },
+        {
           "rank": 30,
+          "name": "Øneheart",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
+          "genres": [],
+          "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "rank": 31,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089",
           "genres": [],
@@ -853,7 +861,15 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "name": "Chezile",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
+          "genres": [],
+          "uri": "spotify:artist:1EmdfupUQDpXOcb4Nj2mBH",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "rank": 33,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -861,7 +877,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb95ccca370d8bd50e84c222bc",
           "genres": [],
@@ -869,20 +885,12 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
           "genres": [],
           "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "rank": 34,
-          "name": "Vansire",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
-          "genres": [],
-          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         }
       ]
     },

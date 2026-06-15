@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T20:51:34.801Z",
+  "updated_at": "2026-06-15T22:59:55.287Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2080,6 +2080,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738586d2fe8cbaa31f2897d11f",
       "uri": "spotify:track:7nicn8ELgX9KaaHSS3MWxw",
       "duration_ms": 153101
+    },
+    {
+      "played_at": "2026-06-15T20:54:50.508Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-06-15T20:59:07.956Z",
+      "name": "Heavy",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "CINEMA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
+      "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1",
+      "duration_ms": 253213
+    },
+    {
+      "played_at": "2026-06-15T21:01:03.489Z",
+      "name": "Tattoo",
+      "artists": [
+        "ShyBully"
+      ],
+      "album": "Tattoo",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba019533fccaf98a41901fe8",
+      "uri": "spotify:track:4euQ7vAaBdNCmoVcqND2l7",
+      "duration_ms": 107303
+    },
+    {
+      "played_at": "2026-06-15T21:04:36.676Z",
+      "name": "YKWIM?",
+      "artists": [
+        "Yot Club"
+      ],
+      "album": "Bipolar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
+      "uri": "spotify:track:2vWBUC9djv6BtiGlmKiQaH",
+      "duration_ms": 212750
+    },
+    {
+      "played_at": "2026-06-15T21:06:21.942Z",
+      "name": "Sparrow Paradise",
+      "artists": [
+        "SlumpAbe"
+      ],
+      "album": "Sparrow Paradise",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739e4a15e0e08320075d8baa51",
+      "uri": "spotify:track:0HTzHkYNMEzvHlg6P3Ib1U",
+      "duration_ms": 104767
     }
   ]
 }
