@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T16:43:25.998Z",
+  "updated_at": "2026-06-16T20:45:49.903Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2213,6 +2213,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27354942e85b9b227cc68c4e71b",
       "uri": "spotify:track:0Wzv6Y5yj6vVMeN2x2BBdg",
       "duration_ms": 158571
+    },
+    {
+      "played_at": "2026-06-16T20:33:07.096Z",
+      "name": "Ethereal",
+      "artists": [
+        "Txmy"
+      ],
+      "album": "Ethereal",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ecfb69038cb68d0302099f3",
+      "uri": "spotify:track:7gymMiUpp1AOYR5EiRDDrO",
+      "duration_ms": 168000
+    },
+    {
+      "played_at": "2026-06-16T20:36:33.616Z",
+      "name": "Lullaby for Erik",
+      "artists": [
+        "Evgeny Grinko"
+      ],
+      "album": "Lullabies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738cfcf2eb08eca89ffc7200d8",
+      "uri": "spotify:track:3sBxh59ZK7HcYjczb0uCv5",
+      "duration_ms": 201413
+    },
+    {
+      "played_at": "2026-06-16T20:40:14.377Z",
+      "name": "I Wanted to Leave",
+      "artists": [
+        "SYML"
+      ],
+      "album": "I Wanted to Leave",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcf0c16b6f6ef829249c9aa9",
+      "uri": "spotify:track:61iGwqhbDwkXanVo5LwJyF",
+      "duration_ms": 203911
+    },
+    {
+      "played_at": "2026-06-16T20:42:08.821Z",
+      "name": "Idea 15",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 15",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340657df4ac026379cb47588e",
+      "uri": "spotify:track:7MJ8g0egEkhvGu44IamrDE",
+      "duration_ms": 114000
+    },
+    {
+      "played_at": "2026-06-16T20:43:55.210Z",
+      "name": "Behind Every Decision",
+      "artists": [
+        "Yehezkel Raz"
+      ],
+      "album": "Preludes, Book 2 - Torrents",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738cde66b96b0233687791f220",
+      "uri": "spotify:track:2kbruQXVXFmxxm4l75zuwy",
+      "duration_ms": 105940
+    },
+    {
+      "played_at": "2026-06-16T20:45:35.336Z",
+      "name": "stellar",
+      "artists": [
+        ".diedlonely",
+        "énouement"
+      ],
+      "album": "stellar",
+      "image": "https://i.scdn.co/image/ab67616d0000b27364cf51cfaf81d9b874c79cae",
+      "uri": "spotify:track:2PpYJcgJN6PzozUv7rU669",
+      "duration_ms": 99672
     }
   ]
 }
