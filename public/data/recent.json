@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T03:40:17.985Z",
+  "updated_at": "2026-06-16T11:04:44.205Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2135,6 +2135,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739e4a15e0e08320075d8baa51",
       "uri": "spotify:track:0HTzHkYNMEzvHlg6P3Ib1U",
       "duration_ms": 104767
+    },
+    {
+      "played_at": "2026-06-16T06:28:53.223Z",
+      "name": "Don't Let Me Go",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:0nEGX81PCOQyGsXmllrOjI",
+      "duration_ms": 262560
+    },
+    {
+      "played_at": "2026-06-16T06:33:03.862Z",
+      "name": "Idea 22",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
+      "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-06-16T06:36:06.346Z",
+      "name": "Hotline Bling",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Hotline Bling",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e5d255609885c2e04f57948",
+      "uri": "spotify:track:7aImLSYlrzJMZp7Vzn4r8L",
+      "duration_ms": 182000
+    },
+    {
+      "played_at": "2026-06-16T06:39:05.485Z",
+      "name": "Je te laisserai des mots (Piano Version)",
+      "artists": [
+        "Micha Philipp"
+      ],
+      "album": "Je te laisserai des mots (Piano Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376a5367faca5516c1da63075",
+      "uri": "spotify:track:0APmcWz4dTAgQfdNiVXbvF",
+      "duration_ms": 152642
+    },
+    {
+      "played_at": "2026-06-16T06:42:09.010Z",
+      "name": "Van Gogh",
+      "artists": [
+        "Virginio Aiello",
+        "On Piano"
+      ],
+      "album": "Van Gogh",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed9d9414970d2e3e2c8a15b3",
+      "uri": "spotify:track:2vCGb0Sr5ismOhXPliKLRW",
+      "duration_ms": 183083
+    },
+    {
+      "played_at": "2026-06-16T06:45:03.986Z",
+      "name": "New Home (Slowed)",
+      "artists": [
+        "Austin Farwell"
+      ],
+      "album": "New Home (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e74e9e3b8b1d6be3b0c44052",
+      "uri": "spotify:track:6h6runZeeczWEuEW2pFvYW",
+      "duration_ms": 174521
+    },
+    {
+      "played_at": "2026-06-16T06:47:50.264Z",
+      "name": "Idea 10 (Slowed & Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354942e85b9b227cc68c4e71b",
+      "uri": "spotify:track:0Wzv6Y5yj6vVMeN2x2BBdg",
+      "duration_ms": 158571
     }
   ]
 }
