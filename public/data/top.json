@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T15:17:17.216Z",
+  "generated_at": "2026-06-17T20:07:53.166Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -53,18 +53,6 @@
         },
         {
           "rank": 5,
-          "name": "Lithium - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:0kUNGAdU8J4jDvxhBtgDF8",
-          "url": "https://open.spotify.com/track/0kUNGAdU8J4jDvxhBtgDF8",
-          "duration_ms": 256398
-        },
-        {
-          "rank": 6,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -76,16 +64,28 @@
           "duration_ms": 180740
         },
         {
+          "rank": 6,
+          "name": "Lithium - Remastered",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:0kUNGAdU8J4jDvxhBtgDF8",
+          "url": "https://open.spotify.com/track/0kUNGAdU8J4jDvxhBtgDF8",
+          "duration_ms": 256398
+        },
+        {
           "rank": 7,
-          "name": "Dumb",
+          "name": "All Apologies",
           "artists": [
             "Nirvana"
           ],
           "album": "In Utero",
           "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
-          "duration_ms": 151893
+          "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+          "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe",
+          "duration_ms": 233173
         },
         {
           "rank": 8,
@@ -103,30 +103,6 @@
         },
         {
           "rank": 9,
-          "name": "All Apologies",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
-          "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe",
-          "duration_ms": 233173
-        },
-        {
-          "rank": 10,
-          "name": "My Iron Lung",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "The Bends",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
-          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
-          "duration_ms": 276426
-        },
-        {
-          "rank": 11,
           "name": "Cry",
           "artists": [
             "Cigarettes After Sex"
@@ -138,7 +114,7 @@
           "duration_ms": 256799
         },
         {
-          "rank": 12,
+          "rank": 10,
           "name": "Hit the Quan - Original Version",
           "artists": [
             "iLoveMemphis"
@@ -150,7 +126,19 @@
           "duration_ms": 181080
         },
         {
-          "rank": 13,
+          "rank": 11,
+          "name": "Dumb",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
+          "duration_ms": 151893
+        },
+        {
+          "rank": 12,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -162,7 +150,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -174,7 +162,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Just",
           "artists": [
             "Radiohead"
@@ -184,6 +172,18 @@
           "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
           "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR",
           "duration_ms": 234800
+        },
+        {
+          "rank": 15,
+          "name": "No Surprises",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "OK Computer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+          "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
+          "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB",
+          "duration_ms": 229120
         },
         {
           "rank": 16,
@@ -199,15 +199,15 @@
         },
         {
           "rank": 17,
-          "name": "No Surprises",
+          "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
-            "Radiohead"
+            "Pixies"
           ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
-          "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB",
-          "duration_ms": 229120
+          "album": "Surfer Rosa (2007 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
+          "duration_ms": 234973
         },
         {
           "rank": 18,
@@ -223,30 +223,18 @@
         },
         {
           "rank": 19,
-          "name": "Where Is My Mind? - 2007 Remaster",
+          "name": "My Iron Lung",
           "artists": [
-            "Pixies"
+            "Radiohead"
           ],
-          "album": "Surfer Rosa (2007 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
-          "duration_ms": 234973
+          "album": "The Bends",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
+          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
+          "duration_ms": 276426
         },
         {
           "rank": 20,
-          "name": "In Bloom - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
-          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
-          "duration_ms": 254533
-        },
-        {
-          "rank": 21,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -258,7 +246,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Angel - Radio Edit",
           "artists": [
             "Massive Attack",
@@ -271,7 +259,7 @@
           "duration_ms": 324853
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "That’s So True",
           "artists": [
             "Gracie Abrams"
@@ -283,19 +271,7 @@
           "duration_ms": 166300
         },
         {
-          "rank": 24,
-          "name": "My Own Summer (Shove It)",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Around the Fur",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-          "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
-          "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
-          "duration_ms": 214760
-        },
-        {
-          "rank": 25,
+          "rank": 23,
           "name": "Nobody New",
           "artists": [
             "The Marías"
@@ -307,7 +283,7 @@
           "duration_ms": 215200
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -320,7 +296,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Heavenly",
           "artists": [
             "Cigarettes After Sex"
@@ -332,7 +308,43 @@
           "duration_ms": 286773
         },
         {
+          "rank": 26,
+          "name": "Homage",
+          "artists": [
+            "Mild High Club"
+          ],
+          "album": "Skiptracing",
+          "image": "https://i.scdn.co/image/ab67616d0000b27396bc7d5bd0b6488de76598ab",
+          "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
+          "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK",
+          "duration_ms": 177493
+        },
+        {
+          "rank": 27,
+          "name": "My Own Summer (Shove It)",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Around the Fur",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+          "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+          "url": "https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF",
+          "duration_ms": 214760
+        },
+        {
           "rank": 28,
+          "name": "In Bloom - Remastered",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
+          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
+          "duration_ms": 254533
+        },
+        {
+          "rank": 29,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -342,18 +354,6 @@
           "uri": "spotify:track:5AEOqLsRJFAoSS4ay4Jzao",
           "url": "https://open.spotify.com/track/5AEOqLsRJFAoSS4ay4Jzao",
           "duration_ms": 218920
-        },
-        {
-          "rank": 29,
-          "name": "Rape Me",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-          "uri": "spotify:track:5Rizj5FLb2AyNKu9esjYY6",
-          "url": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6",
-          "duration_ms": 170000
         },
         {
           "rank": 30,
@@ -407,18 +407,6 @@
         },
         {
           "rank": 34,
-          "name": "BILLIE EILISH.",
-          "artists": [
-            "Armani White"
-          ],
-          "album": "Road to CASABLANCO.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b91b4ade012ef3a2448e3a96",
-          "uri": "spotify:track:2tDOCMuKSX9IEo9TJ4pBBk",
-          "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk",
-          "duration_ms": 99280
-        },
-        {
-          "rank": 35,
           "name": "Angel",
           "artists": [
             "Massive Attack",
@@ -431,7 +419,7 @@
           "duration_ms": 379533
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -441,6 +429,18 @@
           "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
           "url": "https://open.spotify.com/track/18OvVTXtC3lx1Iym9E0RyT",
           "duration_ms": 152000
+        },
+        {
+          "rank": 36,
+          "name": "BILLIE EILISH.",
+          "artists": [
+            "Armani White"
+          ],
+          "album": "Road to CASABLANCO.",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b91b4ade012ef3a2448e3a96",
+          "uri": "spotify:track:2tDOCMuKSX9IEo9TJ4pBBk",
+          "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk",
+          "duration_ms": 99280
         },
         {
           "rank": 37,
@@ -504,18 +504,6 @@
         },
         {
           "rank": 42,
-          "name": "wonder if you care",
-          "artists": [
-            "flyingfish"
-          ],
-          "album": "wonder if you care",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
-          "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
-          "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4",
-          "duration_ms": 134556
-        },
-        {
-          "rank": 43,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -525,6 +513,18 @@
           "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
           "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
           "duration_ms": 323475
+        },
+        {
+          "rank": 43,
+          "name": "wonder if you care",
+          "artists": [
+            "flyingfish"
+          ],
+          "album": "wonder if you care",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734814bb361e6c680dab6cdade",
+          "uri": "spotify:track:2XZyRlOF5rasIrbYaLKrJE",
+          "url": "https://open.spotify.com/track/2XZyRlOF5rasIrbYaLKrJE",
+          "duration_ms": 134556
         },
         {
           "rank": 44,
@@ -540,6 +540,18 @@
         },
         {
           "rank": 45,
+          "name": "Rape Me",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero (Deluxe Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+          "uri": "spotify:track:5Rizj5FLb2AyNKu9esjYY6",
+          "url": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6",
+          "duration_ms": 170000
+        },
+        {
+          "rank": 46,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -551,7 +563,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -561,18 +573,6 @@
           "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
           "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
           "duration_ms": 132160
-        },
-        {
-          "rank": 47,
-          "name": "Back to the Old House - 2011 Remaster",
-          "artists": [
-            "The Smiths"
-          ],
-          "album": "Louder Than Bombs",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
-          "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
-          "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb",
-          "duration_ms": 186626
         },
         {
           "rank": 48,
@@ -588,15 +588,15 @@
         },
         {
           "rank": 49,
-          "name": "Sextape",
+          "name": "Back to the Old House - 2011 Remaster",
           "artists": [
-            "Deftones"
+            "The Smiths"
           ],
-          "album": "Diamond Eyes",
-          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-          "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-          "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE",
-          "duration_ms": 241533
+          "album": "Louder Than Bombs",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
+          "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
+          "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb",
+          "duration_ms": 186626
         },
         {
           "rank": 50,
@@ -726,14 +726,6 @@
         },
         {
           "rank": 15,
-          "name": "Kendrick Lamar",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
-          "genres": [],
-          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "rank": 16,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
           "genres": [],
@@ -741,7 +733,7 @@
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -749,12 +741,20 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
           "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh",
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        },
+        {
+          "rank": 18,
+          "name": "Kendrick Lamar",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+          "genres": [],
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
           "rank": 19,
@@ -838,14 +838,6 @@
         },
         {
           "rank": 29,
-          "name": "The Strokes",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089",
-          "genres": [],
-          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        },
-        {
-          "rank": 30,
           "name": "Chezile",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
           "genres": [],
@@ -853,7 +845,7 @@
           "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -861,7 +853,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Trippie Redd",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
           "genres": [],
@@ -869,7 +861,7 @@
           "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Saweetie",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0214fabf2d511f3a395f2cde",
           "genres": [],
