@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:51:29.795Z",
+  "updated_at": "2026-06-17T03:39:53.636Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2325,6 +2325,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c4636d33993e7e56e69c8034",
       "uri": "spotify:track:2nltARCkZyrzjQANViDpuX",
       "duration_ms": 98560
+    },
+    {
+      "played_at": "2026-06-17T00:12:20.374Z",
+      "name": "Solas",
+      "artists": [
+        "Jamie Duffy"
+      ],
+      "album": "Jamie Duffy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273104f5846b7d971601bd8df8e",
+      "uri": "spotify:track:2d3nhobsfg3DrP2TiOgzHK",
+      "duration_ms": 192593
     }
   ]
 }
