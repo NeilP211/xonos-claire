@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T18:07:54.252Z",
+  "updated_at": "2026-06-18T22:54:34.521Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2391,6 +2391,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a788765bdda04106bd7b0d29",
       "uri": "spotify:track:7C5pKQBh9xr7kCsBT6Y2n8",
       "duration_ms": 193379
+    },
+    {
+      "played_at": "2026-06-18T19:06:55.292Z",
+      "name": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
+      "duration_ms": 290146
+    },
+    {
+      "played_at": "2026-06-18T19:11:00.703Z",
+      "name": "Je te laisserai des mots",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "album": "Je te laisserai des mots",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ea92a85c492af8a38750549",
+      "uri": "spotify:track:44A0o4jA8F2ZF03Zacwlwx",
+      "duration_ms": 160853
+    },
+    {
+      "played_at": "2026-06-18T19:28:10.492Z",
+      "name": "Master of None",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Beach House",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
+      "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
+      "duration_ms": 199413
+    },
+    {
+      "played_at": "2026-06-18T19:45:08.707Z",
+      "name": "Fake Plastic Trees",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "The Bends",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+      "uri": "spotify:track:73CKjW3vsUXRpy3NnX4H7F",
+      "duration_ms": 290706
     }
   ]
 }
