@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T22:54:34.521Z",
+  "updated_at": "2026-06-19T03:53:53.489Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2435,6 +2435,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
       "uri": "spotify:track:73CKjW3vsUXRpy3NnX4H7F",
       "duration_ms": 290706
+    },
+    {
+      "played_at": "2026-06-19T02:59:56.451Z",
+      "name": "No One Noticed (Extended English)",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "No One Noticed (Extended)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358c0f15c5247c0b719d7ffb0",
+      "uri": "spotify:track:4Q9qkdqu0qKKjaftRrAK9C",
+      "duration_ms": 284466
     }
   ]
 }
