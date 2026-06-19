@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T17:19:37.153Z",
+  "updated_at": "2026-06-19T19:44:02.511Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2491,6 +2491,130 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
       "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
       "duration_ms": 234973
+    },
+    {
+      "played_at": "2026-06-19T18:39:55.527Z",
+      "name": "snowfall",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed50c8fe9503fd8d73d82f9f",
+      "uri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4",
+      "duration_ms": 124065
+    },
+    {
+      "played_at": "2026-06-19T18:43:37.414Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-06-19T18:48:02.073Z",
+      "name": "All Apologies",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+      "duration_ms": 233173
+    },
+    {
+      "played_at": "2026-06-19T18:51:12.084Z",
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "artists": [
+        "Cocteau Twins",
+        "Harold Budd"
+      ],
+      "album": "The Moon and the Melodies (2024 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
+      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
+      "duration_ms": 189632
+    },
+    {
+      "played_at": "2026-06-19T18:55:14.064Z",
+      "name": "Sextape",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
+      "duration_ms": 241533
+    },
+    {
+      "played_at": "2026-06-19T18:59:03.229Z",
+      "name": "Duvet",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:42qNWdLKCI41S4uzfamhFM",
+      "duration_ms": 203600
+    },
+    {
+      "played_at": "2026-06-19T19:04:23.312Z",
+      "name": "K.",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
+      "duration_ms": 319560
+    },
+    {
+      "played_at": "2026-06-19T19:12:52.121Z",
+      "name": "Playground Love (with Gordon Tracks)",
+      "artists": [
+        "Air",
+        "Gordon Tracks"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
+      "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-06-19T19:16:35.939Z",
+      "name": "Constellations",
+      "artists": [
+        "Duster"
+      ],
+      "album": "Stratosphere",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
+      "uri": "spotify:track:1MXOWbSCEjoGwivtIMnlBV",
+      "duration_ms": 223200
+    },
+    {
+      "played_at": "2026-06-19T19:22:02.628Z",
+      "name": "Blue Light",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:3BdHMOIA9B0bN53jbE5nWe",
+      "duration_ms": 310733
+    },
+    {
+      "played_at": "2026-06-19T19:42:12.833Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
     }
   ]
 }
