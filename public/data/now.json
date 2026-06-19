@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-06-19T19:44:02.677Z",
-  "is_playing": true,
+  "updated_at": "2026-06-19T22:01:19.989Z",
+  "is_playing": false,
   "track": {
-    "name": "Dumb",
+    "name": "Playground Love (with Gordon Tracks)",
     "artists": [
-      "Nirvana"
+      "Air",
+      "Gordon Tracks"
     ],
-    "album": "In Utero",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-    "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q"
+    "album": "The Virgin Suicides (Original Motion Picture Score)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+    "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb"
   },
-  "played_at": "2026-06-19T19:44:02.677Z"
+  "played_at": "2026-06-19T21:52:41.554Z"
 }
