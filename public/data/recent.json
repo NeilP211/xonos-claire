@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:01:19.918Z",
+  "updated_at": "2026-06-20T02:55:58.310Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2859,6 +2859,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
       "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
       "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-06-19T22:07:11.221Z",
+      "name": "When the Sun Hits",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
+      "duration_ms": 285906
     }
   ]
 }
