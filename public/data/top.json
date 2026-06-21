@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:03:03.322Z",
+  "generated_at": "2026-06-21T03:42:19.329Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,18 +41,6 @@
         },
         {
           "rank": 4,
-          "name": "Heart-Shaped Box",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-          "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
-          "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa",
-          "duration_ms": 281160
-        },
-        {
-          "rank": 5,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -64,7 +52,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -76,7 +64,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -88,7 +76,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Cry",
           "artists": [
             "Cigarettes After Sex"
@@ -98,6 +86,18 @@
           "uri": "spotify:track:3p4hRhMcb6ch8OLtATMaLw",
           "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw",
           "duration_ms": 256799
+        },
+        {
+          "rank": 8,
+          "name": "Heart-Shaped Box",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero (Deluxe Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+          "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
+          "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa",
+          "duration_ms": 281160
         },
         {
           "rank": 9,
@@ -246,20 +246,6 @@
         },
         {
           "rank": 21,
-          "name": "No Hands (feat. Roscoe Dash & Wale)",
-          "artists": [
-            "Waka Flocka Flame",
-            "Roscoe Dash",
-            "Wale"
-          ],
-          "album": "Flockaveli",
-          "image": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
-          "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
-          "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H",
-          "duration_ms": 263773
-        },
-        {
-          "rank": 22,
           "name": "Heavenly",
           "artists": [
             "Cigarettes After Sex"
@@ -271,7 +257,7 @@
           "duration_ms": 286773
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Angel - Radio Edit",
           "artists": [
             "Massive Attack",
@@ -284,7 +270,7 @@
           "duration_ms": 324853
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -294,6 +280,20 @@
           "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
           "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
           "duration_ms": 254533
+        },
+        {
+          "rank": 24,
+          "name": "No Hands (feat. Roscoe Dash & Wale)",
+          "artists": [
+            "Waka Flocka Flame",
+            "Roscoe Dash",
+            "Wale"
+          ],
+          "album": "Flockaveli",
+          "image": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
+          "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
+          "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H",
+          "duration_ms": 263773
         },
         {
           "rank": 25,
@@ -589,18 +589,6 @@
         },
         {
           "rank": 49,
-          "name": "BILLIE EILISH.",
-          "artists": [
-            "Armani White"
-          ],
-          "album": "Road to CASABLANCO.",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b91b4ade012ef3a2448e3a96",
-          "uri": "spotify:track:2tDOCMuKSX9IEo9TJ4pBBk",
-          "url": "https://open.spotify.com/track/2tDOCMuKSX9IEo9TJ4pBBk",
-          "duration_ms": 99280
-        },
-        {
-          "rank": 50,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -610,6 +598,18 @@
           "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
           "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
           "duration_ms": 132160
+        },
+        {
+          "rank": 50,
+          "name": "Mrs Magic",
+          "artists": [
+            "Strawberry Guy"
+          ],
+          "album": "Mrs Magic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c",
+          "uri": "spotify:track:0TZejo18HlJ86OrWNsXKnw",
+          "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw",
+          "duration_ms": 208500
         }
       ],
       "artists": [
@@ -807,14 +807,6 @@
         },
         {
           "rank": 25,
-          "name": "Lil Baby",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
-          "genres": [],
-          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "rank": 26,
           "name": "Playboi Carti",
           "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
           "genres": [],
@@ -822,12 +814,20 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf7d840dfd8e04ed802d1587c",
           "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "rank": 27,
+          "name": "The Strokes",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089",
+          "genres": [],
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
           "rank": 28,
@@ -847,14 +847,6 @@
         },
         {
           "rank": 30,
-          "name": "Metallica",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
-          "genres": [],
-          "uri": "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        },
-        {
-          "rank": 31,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0d06f3b5f3cb05fc657f12c",
           "genres": [],
@@ -862,15 +854,15 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
-          "rank": 32,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
+          "rank": 31,
+          "name": "Lil Baby",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
           "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Saweetie",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0214fabf2d511f3a395f2cde",
           "genres": [],
