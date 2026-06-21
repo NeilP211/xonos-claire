@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-21T14:00:34.776Z",
-  "is_playing": false,
+  "updated_at": "2026-06-21T16:27:35.897Z",
+  "is_playing": true,
   "track": {
-    "name": "Karma Police",
+    "name": "Back to the Old House - 2011 Remaster",
     "artists": [
-      "Radiohead"
+      "The Smiths"
     ],
-    "album": "OK Computer",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-    "uri": "spotify:track:63OQupATfueTdZMWTxW03A"
+    "album": "Louder Than Bombs",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
+    "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb"
   },
-  "played_at": "2026-06-20T23:39:21.878Z"
+  "played_at": "2026-06-21T16:27:35.897Z"
 }
