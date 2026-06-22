@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:10:20.270Z",
+  "updated_at": "2026-06-22T03:46:17.938Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -2969,6 +2969,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
       "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
       "duration_ms": 186626
+    },
+    {
+      "played_at": "2026-06-22T01:48:32.032Z",
+      "name": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "hate that i made you love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+      "uri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
+      "duration_ms": 197949
+    },
+    {
+      "played_at": "2026-06-22T01:57:27.971Z",
+      "name": "The Subway",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Subway",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
+      "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
+      "duration_ms": 252276
+    },
+    {
+      "played_at": "2026-06-22T02:25:06.405Z",
+      "name": "snowfall",
+      "artists": [
+        "Øneheart",
+        "reidenshi"
+      ],
+      "album": "snowfall",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ed50c8fe9503fd8d73d82f9f",
+      "uri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4",
+      "duration_ms": 124065
+    },
+    {
+      "played_at": "2026-06-22T02:27:34.941Z",
+      "name": "nostalgia",
+      "artists": [
+        "Øneheart"
+      ],
+      "album": "nostalgia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273378e1973ca1a9e4c104b0296",
+      "uri": "spotify:track:768xi4B8fL5dG028KbCjLl",
+      "duration_ms": 124615
+    },
+    {
+      "played_at": "2026-06-22T02:29:12.047Z",
+      "name": "gray cat",
+      "artists": [
+        "nleave",
+        "wintercat"
+      ],
+      "album": "gray cat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ae9c0f9fdb4cc7cb34b4ba9b",
+      "uri": "spotify:track:5WIaKimmml8rsXap5iSoUp",
+      "duration_ms": 96551
     }
   ]
 }
