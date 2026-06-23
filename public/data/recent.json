@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T17:13:59.396Z",
+  "updated_at": "2026-06-23T19:55:45.114Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3262,6 +3262,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613",
       "uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
       "duration_ms": 198294
+    },
+    {
+      "played_at": "2026-06-23T19:08:26.810Z",
+      "name": "HUMBLE.",
+      "artists": [
+        "Kendrick Lamar"
+      ],
+      "album": "DAMN.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+      "uri": "spotify:track:7KXjTSCq5nL1LoYtL7XAwS",
+      "duration_ms": 177000
+    },
+    {
+      "played_at": "2026-06-23T19:16:02.177Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
+    },
+    {
+      "played_at": "2026-06-23T19:23:17.778Z",
+      "name": "Eleven Weeks",
+      "artists": [
+        "Vansire"
+      ],
+      "album": "The Rolling, Driftless North",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc4439fefba91f86724ff41e",
+      "uri": "spotify:track:0jx2hPIzs7bNveWHU2Ohzu",
+      "duration_ms": 185682
     }
   ]
 }
