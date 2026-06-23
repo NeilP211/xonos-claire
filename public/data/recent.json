@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:55:45.114Z",
+  "updated_at": "2026-06-23T22:09:14.441Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3295,6 +3295,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bc4439fefba91f86724ff41e",
       "uri": "spotify:track:0jx2hPIzs7bNveWHU2Ohzu",
       "duration_ms": 185682
+    },
+    {
+      "played_at": "2026-06-23T21:30:01.755Z",
+      "name": "Bad Habit",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Gemini Rights",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+      "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
+      "duration_ms": 232114
     }
   ]
 }
