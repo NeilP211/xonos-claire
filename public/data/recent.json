@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T18:04:20.226Z",
+  "updated_at": "2026-06-24T19:05:11.492Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3306,6 +3306,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
       "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
       "duration_ms": 232114
+    },
+    {
+      "played_at": "2026-06-24T18:29:46.881Z",
+      "name": "Dracarys",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:1eW5pYWfahrmseEKvCyoYR",
+      "duration_ms": 173386
+    },
+    {
+      "played_at": "2026-06-24T18:45:28.061Z",
+      "name": "Main Title (From Game of Thrones: Season 3)",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:0M9QjRGZhvqJATvgQS4Hob",
+      "duration_ms": 104266
+    },
+    {
+      "played_at": "2026-06-24T18:48:18.558Z",
+      "name": "A Lannister Always Pays His Debts",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:1vPEPhmGDnp8RR6GCBozaa",
+      "duration_ms": 170560
+    },
+    {
+      "played_at": "2026-06-24T18:51:11.960Z",
+      "name": "Dracarys",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+      "uri": "spotify:track:1eW5pYWfahrmseEKvCyoYR",
+      "duration_ms": 173386
     }
   ]
 }
