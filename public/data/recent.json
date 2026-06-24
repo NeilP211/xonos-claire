@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T19:05:11.492Z",
+  "updated_at": "2026-06-24T19:41:25.845Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3350,6 +3350,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
       "uri": "spotify:track:1eW5pYWfahrmseEKvCyoYR",
       "duration_ms": 173386
+    },
+    {
+      "played_at": "2026-06-24T19:09:52.158Z",
+      "name": "The Night King",
+      "artists": [
+        "Ramin Djawadi"
+      ],
+      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
+      "uri": "spotify:track:1aDklx1GaBqHFowCzz63wU",
+      "duration_ms": 530532
     }
   ]
 }
