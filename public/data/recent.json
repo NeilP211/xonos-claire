@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T22:18:40.682Z",
+  "updated_at": "2026-06-26T02:55:36.056Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3383,6 +3383,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b",
       "uri": "spotify:track:0NLm9bQG7ikL5k9x9TtYT7",
       "duration_ms": 242484
+    },
+    {
+      "played_at": "2026-06-25T22:55:58.637Z",
+      "name": "back to friends",
+      "artists": [
+        "sombr"
+      ],
+      "album": "I Barely Know Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+      "uri": "spotify:track:7qjZnBKE73H4Oxkopwulqe",
+      "duration_ms": 199032
+    },
+    {
+      "played_at": "2026-06-25T23:05:29.668Z",
+      "name": "LIKE THAT",
+      "artists": [
+        "BABYMONSTER"
+      ],
+      "album": "BABYMONS7ER",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683",
+      "uri": "spotify:track:7GDgpad2BQVuDUzaxHFakc",
+      "duration_ms": 168358
+    },
+    {
+      "played_at": "2026-06-25T23:09:17.583Z",
+      "name": "Kiss Me More (feat. SZA)",
+      "artists": [
+        "Doja Cat",
+        "SZA"
+      ],
+      "album": "Planet Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49",
+      "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
+      "duration_ms": 208666
+    },
+    {
+      "played_at": "2026-06-25T23:12:38.047Z",
+      "name": "Super Bass",
+      "artists": [
+        "Nicki Minaj"
+      ],
+      "album": "Pink Friday (Complete Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf",
+      "uri": "spotify:track:3hlksXnvbKogFdPbpO9vel",
+      "duration_ms": 200013
+    },
+    {
+      "played_at": "2026-06-25T23:43:31.779Z",
+      "name": "Best Friend (feat. Doja Cat)",
+      "artists": [
+        "Saweetie",
+        "Doja Cat"
+      ],
+      "album": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c547aeca467bfa366aef1bce",
+      "uri": "spotify:track:20BOju91NaEFK5Py4VJ2pp",
+      "duration_ms": 155883
     }
   ]
 }
