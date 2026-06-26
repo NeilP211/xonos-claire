@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T19:42:25.383Z",
+  "updated_at": "2026-06-26T22:08:48.170Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3562,6 +3562,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
       "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
       "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-06-26T20:27:21.042Z",
+      "name": "Twilight",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:6d67Xv8ms2noA8wWFLiPDN",
+      "duration_ms": 228800
+    },
+    {
+      "played_at": "2026-06-26T20:37:05.494Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
     }
   ]
 }
