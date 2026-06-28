@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T03:24:43.469Z",
+  "updated_at": "2026-06-28T08:46:24.822Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3974,6 +3974,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736ad1cdd4785d829027fa61ba",
       "uri": "spotify:track:2isf9DCebk6mUhGagcD5bf",
       "duration_ms": 280603
+    },
+    {
+      "played_at": "2026-06-28T04:40:14.230Z",
+      "name": "Duvet",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:42qNWdLKCI41S4uzfamhFM",
+      "duration_ms": 203600
+    },
+    {
+      "played_at": "2026-06-28T04:43:30.368Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
+    },
+    {
+      "played_at": "2026-06-28T04:46:44.161Z",
+      "name": "Halcyon Age",
+      "artists": [
+        "Vansire"
+      ],
+      "album": "Angel Youth",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a788765bdda04106bd7b0d29",
+      "uri": "spotify:track:7C5pKQBh9xr7kCsBT6Y2n8",
+      "duration_ms": 193379
+    },
+    {
+      "played_at": "2026-06-28T04:49:55.441Z",
+      "name": "My Kind of Woman",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d",
+      "uri": "spotify:track:6jgkEbmQ2F2onEqsEhiliL",
+      "duration_ms": 190845
+    },
+    {
+      "played_at": "2026-06-28T04:52:08.541Z",
+      "name": "Romantic Homicide",
+      "artists": [
+        "d4vd"
+      ],
+      "album": "Romantic Homicide",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
+      "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
+      "duration_ms": 132630
     }
   ]
 }
