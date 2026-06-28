@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T21:59:37.355Z",
+  "updated_at": "2026-06-28T03:24:43.469Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -3886,6 +3886,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
       "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-06-27T22:03:42.587Z",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+      "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-06-27T22:08:35.939Z",
+      "name": "Touch",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:1v7ptGUBS2DbbRmfIG0hU2",
+      "duration_ms": 292853
+    },
+    {
+      "played_at": "2026-06-27T22:12:24.470Z",
+      "name": "Without You",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Without You",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
+      "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
+      "duration_ms": 228080
+    },
+    {
+      "played_at": "2026-06-27T22:15:59.724Z",
+      "name": "Back To Me",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Back To Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078",
+      "uri": "spotify:track:4E0P1xs3JNmsNr5c5nFTZJ",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-06-27T22:20:57.155Z",
+      "name": "Kids",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Kids",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730df6a00937f62abc0e73c0ab",
+      "uri": "spotify:track:6cMMZ2pdP4PkYsVJqX2WUh",
+      "duration_ms": 269142
+    },
+    {
+      "played_at": "2026-06-28T01:47:22.701Z",
+      "name": "Eleven Weeks",
+      "artists": [
+        "Vansire"
+      ],
+      "album": "The Rolling, Driftless North",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc4439fefba91f86724ff41e",
+      "uri": "spotify:track:0jx2hPIzs7bNveWHU2Ohzu",
+      "duration_ms": 185682
+    },
+    {
+      "played_at": "2026-06-28T01:52:42.085Z",
+      "name": "Leap",
+      "artists": [
+        "BUBBLE TEA AND CIGARETTES"
+      ],
+      "album": "There's Nothing But Pleasure",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380ffce6bf780c1eec24b748d",
+      "uri": "spotify:track:2F03ErA7jS7hbCEGoU9fHU",
+      "duration_ms": 312753
+    },
+    {
+      "played_at": "2026-06-28T02:00:33.109Z",
+      "name": "Birch Tree",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Taking My Time to Be",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ad1cdd4785d829027fa61ba",
+      "uri": "spotify:track:2isf9DCebk6mUhGagcD5bf",
+      "duration_ms": 280603
     }
   ]
 }
