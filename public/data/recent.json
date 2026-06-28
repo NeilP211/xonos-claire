@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T16:07:39.178Z",
+  "updated_at": "2026-06-28T19:12:46.981Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -4029,6 +4029,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
       "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
       "duration_ms": 132630
+    },
+    {
+      "played_at": "2026-06-28T18:26:48.964Z",
+      "name": "Blondie",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
+      "duration_ms": 192318
     }
   ]
 }
