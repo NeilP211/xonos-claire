@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T19:51:13.699Z",
+  "updated_at": "2026-06-29T22:06:58.880Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -4863,6 +4863,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
       "uri": "spotify:track:4HuiEuJ7ZW8jewUuZBg6sk",
       "duration_ms": 176146
+    },
+    {
+      "played_at": "2026-06-29T19:53:12.275Z",
+      "name": "It Almost Worked",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "The Night in Question: French Exit Outtakes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-06-29T19:56:27.172Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-06-29T20:00:21.695Z",
+      "name": "What Would I Do?",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "What Would I Do?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba5c5d0971159a6e3299d78b",
+      "uri": "spotify:track:5EJA7Rwkeuvm98CZg0XXNO",
+      "duration_ms": 234000
     }
   ]
 }
