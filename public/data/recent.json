@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T03:29:39.938Z",
+  "updated_at": "2026-06-29T10:49:24.335Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -4565,6 +4565,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
       "uri": "spotify:track:3lhLML5eIwmPnw2xWKosZX",
       "duration_ms": 225000
+    },
+    {
+      "played_at": "2026-06-29T03:27:09.293Z",
+      "name": "Hello Juliet",
+      "artists": [
+        "Clarion"
+      ],
+      "album": "Hello Juliet",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d513d86c5ada0285a77a658",
+      "uri": "spotify:track:0miNQiJqyO5CIZbyLTHO7J",
+      "duration_ms": 208000
+    },
+    {
+      "played_at": "2026-06-29T05:09:45.776Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-06-29T05:13:00.222Z",
+      "name": "7 Weeks & 3 Days",
+      "artists": [
+        "yungatita"
+      ],
+      "album": "7 Weeks & 3 Days Alternate Versions or Whatever",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e206ee4e019a25e3f0872daf",
+      "uri": "spotify:track:0axyPKOP8JcJCMYzXDpom0",
+      "duration_ms": 194000
+    },
+    {
+      "played_at": "2026-06-29T05:17:18.640Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-06-29T05:18:47.599Z",
+      "name": "hope you're happy",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hope you're happy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fa1b81aca85ce8460abdc6d6",
+      "uri": "spotify:track:1f7ycIZhPsNe5ylQyn46nJ",
+      "duration_ms": 88484
+    },
+    {
+      "played_at": "2026-06-29T05:21:50.366Z",
+      "name": "For the First Time",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "This Old Dog",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739f1b21f21b13ff2d3e891f6b",
+      "uri": "spotify:track:2R4AlwtrrkMaRKojcTIzmL",
+      "duration_ms": 182306
+    },
+    {
+      "played_at": "2026-06-29T05:25:48.635Z",
+      "name": "sins",
+      "artists": [
+        "rot"
+      ],
+      "album": "sins",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733057bad37c11cea98e8931aa",
+      "uri": "spotify:track:4JNq12RqmAI1wTUvh4Nznk",
+      "duration_ms": 224947
     }
   ]
 }
