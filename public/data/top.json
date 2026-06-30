@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T11:42:32.025Z",
+  "generated_at": "2026-06-30T14:10:15.720Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1187,6 +1187,18 @@
         },
         {
           "rank": 25,
+          "name": "Dumb",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
+          "duration_ms": 151893
+        },
+        {
+          "rank": 26,
           "name": "Heavenly",
           "artists": [
             "Cigarettes After Sex"
@@ -1198,7 +1210,7 @@
           "duration_ms": 286773
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -1210,7 +1222,7 @@
           "duration_ms": 317706
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Come Back - Buddha Remastered 2001",
           "artists": [
             "The Five Stairsteps"
@@ -1222,7 +1234,7 @@
           "duration_ms": 174706
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Without You",
           "artists": [
             "Strawberry Guy"
@@ -1234,7 +1246,7 @@
           "duration_ms": 228080
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -1246,7 +1258,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -1256,18 +1268,6 @@
           "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
           "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
           "duration_ms": 213920
-        },
-        {
-          "rank": 31,
-          "name": "Something In The Way - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:2WL6GQzPuK9Nrpy9XwNEbz",
-          "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz",
-          "duration_ms": 232203
         },
         {
           "rank": 32,
@@ -1283,15 +1283,15 @@
         },
         {
           "rank": 33,
-          "name": "Dumb",
+          "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
           ],
-          "album": "In Utero",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
-          "duration_ms": 151893
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:2WL6GQzPuK9Nrpy9XwNEbz",
+          "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz",
+          "duration_ms": 232203
         },
         {
           "rank": 34,
@@ -1721,6 +1721,14 @@
         },
         {
           "rank": 28,
+          "name": "Weezer",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd0d06f3b5f3cb05fc657f12c",
+          "genres": [],
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "rank": 29,
           "name": "i don't like mirrors",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
           "genres": [],
@@ -1728,7 +1736,7 @@
           "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1736,20 +1744,12 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "rank": 31,
-          "name": "Weezer",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd0d06f3b5f3cb05fc657f12c",
-          "genres": [],
-          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
           "rank": 32,
@@ -1793,6 +1793,14 @@
         },
         {
           "rank": 37,
+          "name": "Jdot Breezy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
+          "genres": [],
+          "uri": "spotify:artist:0VSM8D7ibtXjJgukfVR0eZ",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        },
+        {
+          "rank": 38,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
           "genres": [],
@@ -1800,7 +1808,7 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Nicholas Britell",
           "image": "https://i.scdn.co/image/ab6761610000e5ebac71b9e9c61e3b989058015a",
           "genres": [],
@@ -1808,7 +1816,7 @@
           "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Chezile",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
           "genres": [],
@@ -1816,7 +1824,7 @@
           "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -1824,7 +1832,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Lil Baby",
           "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
           "genres": [],
@@ -1832,7 +1840,7 @@
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -1840,7 +1848,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1848,7 +1856,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Pitbull",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8d8ac7290d0fe2d12fb6e4d9",
           "genres": [],
@@ -1856,7 +1864,7 @@
           "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Travis Scott",
           "image": "https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71",
           "genres": [],
@@ -1864,7 +1872,15 @@
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "name": "Chief Keef",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe816aaf5f96c04fdfa8fadc7",
+          "genres": [],
+          "uri": "spotify:artist:15iVAtD3s3FsQR4w1v6M0P",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "rank": 48,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -1872,7 +1888,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Ken Carson",
           "image": "https://i.scdn.co/image/ab6761610000e5eb03c084aeb145ac1a0515a89f",
           "genres": [],
@@ -1880,28 +1896,12 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         },
         {
-          "rank": 48,
-          "name": "Trippie Redd",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf2db81b3312a1f167fc54096",
-          "genres": [],
-          "uri": "spotify:artist:6Xgp2XMz1fhVYe7i6yNAax",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "rank": 49,
-          "name": "Blood Nose",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7b672f596aec73eb0bdd3739",
-          "genres": [],
-          "uri": "spotify:artist:6fPWD6aplRohXMpRRAF6Wa",
-          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
-        },
-        {
           "rank": 50,
-          "name": "Alex G",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
+          "name": "Gracie Abrams",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb18e3675ebfda9c29cfb2b57e",
           "genres": [],
-          "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+          "uri": "spotify:artist:4tuJ0bMpJh08umKkEXKUI5",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ]
     },
