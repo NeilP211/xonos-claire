@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:18:27.172Z",
+  "updated_at": "2026-07-02T22:03:41.540Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5400,6 +5400,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
       "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
       "duration_ms": 319560
+    },
+    {
+      "played_at": "2026-07-02T20:31:13.479Z",
+      "name": "Master of None",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Beach House",
+      "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
+      "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
+      "duration_ms": 199413
     }
   ]
 }
