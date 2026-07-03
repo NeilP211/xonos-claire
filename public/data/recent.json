@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T06:27:50.479Z",
+  "updated_at": "2026-07-03T11:29:14.990Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5544,6 +5544,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
       "duration_ms": 257053
+    },
+    {
+      "played_at": "2026-07-03T07:07:03.419Z",
+      "name": "Playground Love (with Gordon Tracks)",
+      "artists": [
+        "Air",
+        "Gordon Tracks"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
+      "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-07-03T07:11:19.361Z",
+      "name": "did i tell u that i miss u",
+      "artists": [
+        "adore"
+      ],
+      "album": "did i tell u that i miss u",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e5db09ae4a2813a1b2b342a5",
+      "uri": "spotify:track:3qeFjtPJ1lIRKDTB5DZWpt",
+      "duration_ms": 115921
+    },
+    {
+      "played_at": "2026-07-03T07:13:54.375Z",
+      "name": "The Lost Soul Down X Lost Soul",
+      "artists": [
+        "NBSPLV"
+      ],
+      "album": "The Lost Soul Down X Lost Soul",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e150c941941594a25bec73f",
+      "uri": "spotify:track:0kbBU3ey5IkKwPvDHXJOry",
+      "duration_ms": 151348
+    },
+    {
+      "played_at": "2026-07-03T07:17:27.117Z",
+      "name": "Insomniac",
+      "artists": [
+        "Memo Boy",
+        "Chakra Efendi"
+      ],
+      "album": "Songs & Demos 2015-2017",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+      "duration_ms": 212307
     }
   ]
 }
