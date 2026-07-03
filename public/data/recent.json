@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T22:03:41.540Z",
+  "updated_at": "2026-07-03T02:34:04.498Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5411,6 +5411,117 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
       "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
       "duration_ms": 199413
+    },
+    {
+      "played_at": "2026-07-03T01:55:02.721Z",
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "artists": [
+        "Cocteau Twins",
+        "Harold Budd"
+      ],
+      "album": "The Moon and the Melodies (2024 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
+      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
+      "duration_ms": 189632
+    },
+    {
+      "played_at": "2026-07-03T01:58:22.114Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-07-03T01:59:22.964Z",
+      "name": "dead fish",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "dead fish",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb96054356cae2ebb19dd225",
+      "uri": "spotify:track:6qruVLSB5yVGYBmDpJycsp",
+      "duration_ms": 60379
+    },
+    {
+      "played_at": "2026-07-03T02:02:59.955Z",
+      "name": "Fear",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "A Different Age",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
+      "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
+      "duration_ms": 216539
+    },
+    {
+      "played_at": "2026-07-03T02:05:14.999Z",
+      "name": "wonder if you care",
+      "artists": [
+        "flyingfish"
+      ],
+      "album": "wonder if you care",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
+      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
+      "duration_ms": 134556
+    },
+    {
+      "played_at": "2026-07-03T02:07:57.573Z",
+      "name": "Highschool Lover",
+      "artists": [
+        "Air"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
+      "duration_ms": 162093
+    },
+    {
+      "played_at": "2026-07-03T02:11:57.947Z",
+      "name": "Serpentskirt",
+      "artists": [
+        "Cocteau Twins"
+      ],
+      "album": "Milk & Kisses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
+      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
+      "duration_ms": 239920
+    },
+    {
+      "played_at": "2026-07-03T02:15:09.740Z",
+      "name": "Letting Go",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "Rehash",
+      "image": "https://i.scdn.co/image/ab67616d0000b273478caac085cbc2607f6ab1d1",
+      "uri": "spotify:track:62zj6l5dQuzO7FrePuxP2D",
+      "duration_ms": 191360
+    },
+    {
+      "played_at": "2026-07-03T02:16:30.297Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
+      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-07-03T02:20:20.559Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
     }
   ]
 }
