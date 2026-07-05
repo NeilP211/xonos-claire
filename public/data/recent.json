@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T19:10:44.292Z",
+  "updated_at": "2026-07-05T21:57:49.567Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5736,6 +5736,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273fcccf691e05e86753bb954a9",
       "uri": "spotify:track:69cGlmgNyMf2K6AvmLBuRD",
       "duration_ms": 199280
+    },
+    {
+      "played_at": "2026-07-05T20:21:20.481Z",
+      "name": "blissful lights",
+      "artists": [
+        "voi"
+      ],
+      "album": "blissful lights",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732cfaab9f98c6edcf8752b232",
+      "uri": "spotify:track:5XATagtnWgdR6bF23g5sWm",
+      "duration_ms": 151456
+    },
+    {
+      "played_at": "2026-07-05T20:23:45.867Z",
+      "name": "finally, the peace i seek",
+      "artists": [
+        "porch kiss",
+        "hallow"
+      ],
+      "album": "finally, the peace i seek",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aaebab8165961015daa2d46f",
+      "uri": "spotify:track:4EfAf9ZfBfc4zOQkwWNtLq",
+      "duration_ms": 144927
+    },
+    {
+      "played_at": "2026-07-05T20:28:23.222Z",
+      "name": "resonance - midwest emo version",
+      "artists": [
+        "jacal"
+      ],
+      "album": "resonance (midwest emo version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1",
+      "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
+      "duration_ms": 219024
     }
   ]
 }
