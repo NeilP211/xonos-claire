@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T02:41:21.492Z",
+  "updated_at": "2026-07-05T06:37:21.094Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5725,6 +5725,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
       "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
       "duration_ms": 162093
+    },
+    {
+      "played_at": "2026-07-05T05:10:40.862Z",
+      "name": "Lovers From The Past",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "Lovers From The Past",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcccf691e05e86753bb954a9",
+      "uri": "spotify:track:69cGlmgNyMf2K6AvmLBuRD",
+      "duration_ms": 199280
     }
   ]
 }
