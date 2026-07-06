@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T02:46:33.106Z",
+  "generated_at": "2026-07-06T07:08:23.597Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -115,6 +115,18 @@
         },
         {
           "rank": 10,
+          "name": "Babydoll",
+          "artists": [
+            "Dominic Fike"
+          ],
+          "album": "Don't Forget About Me, Demos",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "duration_ms": 97960
+        },
+        {
+          "rank": 11,
           "name": "Resonance",
           "artists": [
             "Home"
@@ -126,7 +138,7 @@
           "duration_ms": 212938
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "YKWIM?",
           "artists": [
             "Yot Club"
@@ -138,7 +150,7 @@
           "duration_ms": 212750
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -150,7 +162,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "The Man Who Sold The World - Live",
           "artists": [
             "Nirvana"
@@ -162,7 +174,7 @@
           "duration_ms": 261093
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -174,7 +186,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -186,7 +198,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -198,7 +210,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -210,7 +222,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -222,7 +234,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Homage",
           "artists": [
             "Mild High Club"
@@ -232,18 +244,6 @@
           "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
           "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK",
           "duration_ms": 177493
-        },
-        {
-          "rank": 20,
-          "name": "Babydoll",
-          "artists": [
-            "Dominic Fike"
-          ],
-          "album": "Don't Forget About Me, Demos",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-          "duration_ms": 97960
         },
         {
           "rank": 21,
@@ -2086,18 +2086,6 @@
         },
         {
           "rank": 17,
-          "name": "Be My Baby",
-          "artists": [
-            "The Ronettes"
-          ],
-          "album": "Presenting the Fabulous Ronettes Featuring Veronica",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
-          "uri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
-          "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1",
-          "duration_ms": 160906
-        },
-        {
-          "rank": 18,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -2108,6 +2096,18 @@
           "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
           "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
           "duration_ms": 212307
+        },
+        {
+          "rank": 18,
+          "name": "Be My Baby",
+          "artists": [
+            "The Ronettes"
+          ],
+          "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
+          "uri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
+          "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1",
+          "duration_ms": 160906
         },
         {
           "rank": 19,
@@ -2814,6 +2814,14 @@
         },
         {
           "rank": 40,
+          "name": "Glare",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
+          "genres": [],
+          "uri": "spotify:artist:2dXj6aC3DsxoTDyhk3u4gl",
+          "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
+        },
+        {
+          "rank": 41,
           "name": "Chezile",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
           "genres": [],
@@ -2821,7 +2829,7 @@
           "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Mitski",
           "image": "https://i.scdn.co/image/ab6761610000e5eb16eec86fff40fa5ef0b57cef",
           "genres": [],
@@ -2829,7 +2837,7 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "P1Harmony",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8d6e3894be7b8f3914928c50",
           "genres": [],
@@ -2837,7 +2845,7 @@
           "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "sombr",
           "image": "https://i.scdn.co/image/ab6761610000e5eb78edaa6468cae153565c2c97",
           "genres": [],
@@ -2845,7 +2853,15 @@
           "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         },
         {
-          "rank": 44,
+          "rank": 45,
+          "name": "Blood Nose",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7b672f596aec73eb0bdd3739",
+          "genres": [],
+          "uri": "spotify:artist:6fPWD6aplRohXMpRRAF6Wa",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
+        },
+        {
+          "rank": 46,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -2853,7 +2869,7 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Playboi Carti",
           "image": "https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a",
           "genres": [],
@@ -2861,7 +2877,7 @@
           "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -2869,7 +2885,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Ariana Grande",
           "image": "https://i.scdn.co/image/ab6761610000e5eb766397ec42a573a53eb5fb87",
           "genres": [],
@@ -2877,28 +2893,12 @@
           "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Pixies",
           "image": "https://i.scdn.co/image/ab6761610000e5eb419ffe5eb82b7460c76a986a",
           "genres": [],
           "uri": "spotify:artist:6zvul52xwTWzilBZl6BUbT",
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        },
-        {
-          "rank": 49,
-          "name": "Lady Gaga",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaadc18cac8d48124357c38e6",
-          "genres": [],
-          "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "rank": 50,
-          "name": "The Cranberries",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
-          "genres": [],
-          "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ]
     }
