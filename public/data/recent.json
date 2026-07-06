@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T17:39:54.860Z",
+  "updated_at": "2026-07-06T19:50:31.299Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5925,6 +5925,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
       "uri": "spotify:track:458JkK5eJhh4C4s6nTuz7g",
       "duration_ms": 273706
+    },
+    {
+      "played_at": "2026-07-06T18:55:45.495Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
     }
   ]
 }
