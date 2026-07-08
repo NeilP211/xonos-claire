@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:08:35.966Z",
+  "updated_at": "2026-07-08T02:20:59.584Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5936,6 +5936,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
       "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
       "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-07-08T00:19:47.846Z",
+      "name": "Lithium",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
+      "duration_ms": 257053
     }
   ]
 }
