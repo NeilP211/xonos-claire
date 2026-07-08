@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-08T02:20:59.656Z",
-  "is_playing": false,
+  "updated_at": "2026-07-08T05:47:16.063Z",
+  "is_playing": true,
   "track": {
-    "name": "Lithium",
+    "name": "The Man Who Sold The World - Live",
     "artists": [
       "Nirvana"
     ],
-    "album": "Nevermind (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-    "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7"
+    "album": "Nirvana",
+    "image": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
+    "uri": "spotify:track:1XnPVbzLhuBv0sHaCTgyoi"
   },
-  "played_at": "2026-07-08T00:19:47.846Z"
+  "played_at": "2026-07-08T05:47:16.063Z"
 }

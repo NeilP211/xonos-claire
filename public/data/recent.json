@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T02:20:59.584Z",
+  "updated_at": "2026-07-08T05:47:15.951Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -5947,6 +5947,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
       "duration_ms": 257053
+    },
+    {
+      "played_at": "2026-07-08T05:42:35.587Z",
+      "name": "Smells Like Teen Spirit",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
+      "duration_ms": 301920
+    },
+    {
+      "played_at": "2026-07-08T05:45:17.545Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
     }
   ]
 }
