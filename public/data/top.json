@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:40:58.192Z",
+  "generated_at": "2026-07-10T11:47:08.087Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -66,18 +66,6 @@
         },
         {
           "rank": 6,
-          "name": "Babydoll",
-          "artists": [
-            "Dominic Fike"
-          ],
-          "album": "Don't Forget About Me, Demos",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-          "duration_ms": 97960
-        },
-        {
-          "rank": 7,
           "name": "Resonance",
           "artists": [
             "Home"
@@ -89,7 +77,7 @@
           "duration_ms": 212938
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -101,7 +89,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "YKWIM?",
           "artists": [
             "Yot Club"
@@ -113,7 +101,7 @@
           "duration_ms": 212750
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -125,7 +113,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -138,7 +126,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "The Man Who Sold The World - Live",
           "artists": [
             "Nirvana"
@@ -150,7 +138,7 @@
           "duration_ms": 261093
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Idea 22",
           "artists": [
             "Gibran Alcocer"
@@ -162,7 +150,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -174,7 +162,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -186,7 +174,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Just",
           "artists": [
             "Radiohead"
@@ -198,7 +186,7 @@
           "duration_ms": 234800
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -210,7 +198,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -222,7 +210,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Homage",
           "artists": [
             "Mild High Club"
@@ -232,6 +220,18 @@
           "uri": "spotify:track:7DcJ6fEBb7BaKuYKTwiDxK",
           "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK",
           "duration_ms": 177493
+        },
+        {
+          "rank": 19,
+          "name": "Babydoll",
+          "artists": [
+            "Dominic Fike"
+          ],
+          "album": "Don't Forget About Me, Demos",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "duration_ms": 97960
         },
         {
           "rank": 20,
@@ -406,18 +406,6 @@
         },
         {
           "rank": 34,
-          "name": "Je te laisserai des mots",
-          "artists": [
-            "Patrick Watson"
-          ],
-          "album": "Je te laisserai des mots",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738ea92a85c492af8a38750549",
-          "uri": "spotify:track:44A0o4jA8F2ZF03Zacwlwx",
-          "url": "https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx",
-          "duration_ms": 160853
-        },
-        {
-          "rank": 35,
           "name": "dead fish",
           "artists": [
             "Blood Nose"
@@ -429,7 +417,7 @@
           "duration_ms": 60379
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Lost & Found",
           "artists": [
             "Dj Rozzy",
@@ -442,7 +430,7 @@
           "duration_ms": 182649
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -454,7 +442,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -466,19 +454,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 39,
-          "name": "Beanie",
-          "artists": [
-            "Chezile"
-          ],
-          "album": "Beanie",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
-          "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
-          "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
-          "duration_ms": 132160
-        },
-        {
-          "rank": 40,
+          "rank": 38,
           "name": "Mrs Magic",
           "artists": [
             "Strawberry Guy"
@@ -490,7 +466,7 @@
           "duration_ms": 208500
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Dracarys",
           "artists": [
             "Ramin Djawadi"
@@ -502,7 +478,7 @@
           "duration_ms": 173386
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Dark Wings, Dark Words",
           "artists": [
             "Ramin Djawadi"
@@ -514,7 +490,7 @@
           "duration_ms": 167906
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -526,7 +502,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -538,7 +514,7 @@
           "duration_ms": 218920
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "i miss your warm hands",
           "artists": [
             "i don't like mirrors"
@@ -550,7 +526,7 @@
           "duration_ms": 131730
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Highschool Lover",
           "artists": [
             "Air"
@@ -562,7 +538,7 @@
           "duration_ms": 162093
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Inside Out",
           "artists": [
             "Duster"
@@ -574,7 +550,7 @@
           "duration_ms": 141040
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Laura Palmer's Theme - Instrumental",
           "artists": [
             "Angelo Badalamenti"
@@ -586,7 +562,7 @@
           "duration_ms": 292000
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Not Allowed",
           "artists": [
             "TV Girl"
@@ -598,7 +574,7 @@
           "duration_ms": 167864
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Blondie",
           "artists": [
             "Current Joys"
@@ -608,6 +584,30 @@
           "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
           "url": "https://open.spotify.com/track/6l8T96kpkx6RY9kFac7eMU",
           "duration_ms": 192318
+        },
+        {
+          "rank": 49,
+          "name": "scars",
+          "artists": [
+            "Novulent"
+          ],
+          "album": "VOL. 1",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
+          "uri": "spotify:track:0ENO8Pu1riZdUdYEErLA8z",
+          "url": "https://open.spotify.com/track/0ENO8Pu1riZdUdYEErLA8z",
+          "duration_ms": 95002
+        },
+        {
+          "rank": 50,
+          "name": "Without You",
+          "artists": [
+            "Strawberry Guy"
+          ],
+          "album": "Without You",
+          "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
+          "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
+          "url": "https://open.spotify.com/track/2hIrHUgeI2cKYwM18MkGPK",
+          "duration_ms": 228080
         }
       ],
       "artists": [
