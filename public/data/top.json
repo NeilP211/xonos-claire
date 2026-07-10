@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T11:47:08.087Z",
+  "generated_at": "2026-07-10T14:12:44.861Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1682,6 +1682,14 @@
         },
         {
           "rank": 25,
+          "name": "Cocteau Twins",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
+          "genres": [],
+          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "rank": 26,
           "name": "Blood Nose",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7b672f596aec73eb0bdd3739",
           "genres": [],
@@ -1689,7 +1697,7 @@
           "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -1697,7 +1705,7 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1705,20 +1713,12 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
           "uri": "spotify:artist:2Q0rAyTIfdTUwDt8jpEpv0",
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
-        },
-        {
-          "rank": 29,
-          "name": "Cocteau Twins",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
-          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
           "rank": 30,
@@ -1730,6 +1730,14 @@
         },
         {
           "rank": 31,
+          "name": "Mazzy Star",
+          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
+          "genres": [],
+          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        },
+        {
+          "rank": 32,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd0d06f3b5f3cb05fc657f12c",
           "genres": [],
@@ -1737,7 +1745,7 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Alex G",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
           "genres": [],
@@ -1745,7 +1753,7 @@
           "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "i don't like mirrors",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
           "genres": [],
@@ -1753,20 +1761,12 @@
           "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Øneheart",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4c269b485b26d528162212f",
           "genres": [],
           "uri": "spotify:artist:0dgJbQ0bKPyUXco8hEXN7X",
           "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "rank": 35,
-          "name": "Mazzy Star",
-          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
-          "genres": [],
-          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         },
         {
           "rank": 36,
@@ -1786,6 +1786,14 @@
         },
         {
           "rank": 38,
+          "name": "The Strokes",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
+          "genres": [],
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        },
+        {
+          "rank": 39,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -1793,7 +1801,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Tame Impala",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
           "genres": [],
@@ -1801,7 +1809,7 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -1809,20 +1817,12 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Jdot Breezy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
           "genres": [],
           "uri": "spotify:artist:0VSM8D7ibtXjJgukfVR0eZ",
           "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
-        },
-        {
-          "rank": 42,
-          "name": "The Strokes",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
-          "genres": [],
-          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
           "rank": 43,
