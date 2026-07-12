@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-12T18:59:25.169Z",
-  "is_playing": false,
+  "updated_at": "2026-07-12T21:43:47.646Z",
+  "is_playing": true,
   "track": {
-    "name": "afternoon",
+    "name": "Lovers Rock",
     "artists": [
-      "voi"
+      "TV Girl"
     ],
-    "album": "afternoon",
-    "image": "https://i.scdn.co/image/ab67616d0000b2730438247505451fc93830fe84",
-    "uri": "spotify:track:0vde7TUTw5bRfFFmkb6gBo"
+    "album": "French Exit",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+    "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM"
   },
-  "played_at": "2026-07-12T01:00:11.677Z"
+  "played_at": "2026-07-12T21:43:47.646Z"
 }
