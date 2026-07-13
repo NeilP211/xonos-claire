@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T11:57:38.944Z",
+  "updated_at": "2026-07-13T14:38:24.750Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -6908,6 +6908,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
       "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
       "duration_ms": 186626
+    },
+    {
+      "played_at": "2026-07-13T08:03:17.192Z",
+      "name": "I Love You",
+      "artists": [
+        "Fontaines D.C."
+      ],
+      "album": "Skinty Fia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
+      "uri": "spotify:track:5XhMgAWzou6EjDmQtoyoZE",
+      "duration_ms": 305800
     }
   ]
 }
