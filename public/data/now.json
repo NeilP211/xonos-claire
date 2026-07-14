@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-07-13T21:52:31.934Z",
+  "updated_at": "2026-07-14T02:03:31.482Z",
   "is_playing": false,
   "track": {
-    "name": "I Love You",
+    "name": "Go Away",
     "artists": [
-      "Fontaines D.C."
+      "Weezer",
+      "Best Coast"
     ],
-    "album": "Skinty Fia",
-    "image": "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
-    "uri": "spotify:track:5XhMgAWzou6EjDmQtoyoZE"
+    "album": "Everything Will Be Alright In The End",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+    "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi"
   },
-  "played_at": "2026-07-13T08:03:17.192Z"
+  "played_at": "2026-07-14T00:18:17.007Z"
 }

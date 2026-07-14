@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T21:52:31.856Z",
+  "updated_at": "2026-07-14T02:03:31.405Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -6919,6 +6919,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
       "uri": "spotify:track:5XhMgAWzou6EjDmQtoyoZE",
       "duration_ms": 305800
+    },
+    {
+      "played_at": "2026-07-13T23:57:57.637Z",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "album": "Self Aware",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "duration_ms": 180740
+    },
+    {
+      "played_at": "2026-07-14T00:03:03.583Z",
+      "name": "Zombie - 2025 Remastered",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "No Need To Argue (2025 Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+      "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+      "duration_ms": 305626
+    },
+    {
+      "played_at": "2026-07-14T00:06:47.748Z",
+      "name": "Always Forever",
+      "artists": [
+        "Cults"
+      ],
+      "album": "Static",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
+      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
+      "duration_ms": 223750
+    },
+    {
+      "played_at": "2026-07-14T00:10:59.628Z",
+      "name": "Covet",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Colourmeinkindness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+      "duration_ms": 227340
+    },
+    {
+      "played_at": "2026-07-14T00:14:34.763Z",
+      "name": "Sunsetz",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:0yuAWlxq59xT3agQ965OxE",
+      "duration_ms": 214680
+    },
+    {
+      "played_at": "2026-07-14T00:18:17.007Z",
+      "name": "Go Away",
+      "artists": [
+        "Weezer",
+        "Best Coast"
+      ],
+      "album": "Everything Will Be Alright In The End",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
+      "duration_ms": 193733
     }
   ]
 }
