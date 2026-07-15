@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T05:26:15.407Z",
+  "generated_at": "2026-07-15T08:00:55.914Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -78,6 +78,18 @@
         },
         {
           "rank": 7,
+          "name": "Babydoll",
+          "artists": [
+            "Dominic Fike"
+          ],
+          "album": "Don't Forget About Me, Demos",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "duration_ms": 97960
+        },
+        {
+          "rank": 8,
           "name": "Young",
           "artists": [
             "Vacations"
@@ -89,7 +101,7 @@
           "duration_ms": 189160
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Letting Go",
           "artists": [
             "Rehash"
@@ -101,7 +113,7 @@
           "duration_ms": 191360
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -113,7 +125,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Go Away",
           "artists": [
             "Weezer",
@@ -126,7 +138,7 @@
           "duration_ms": 193733
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Just",
           "artists": [
             "Radiohead"
@@ -138,7 +150,7 @@
           "duration_ms": 234800
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -150,7 +162,19 @@
           "duration_ms": 151893
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "name": "The Man Who Sold The World - Live",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+          "duration_ms": 261093
+        },
+        {
+          "rank": 15,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -163,7 +187,19 @@
           "duration_ms": 189632
         },
         {
-          "rank": 14,
+          "rank": 16,
+          "name": "Self Aware",
+          "artists": [
+            "Temper City"
+          ],
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
+        },
+        {
+          "rank": 17,
           "name": "Homage",
           "artists": [
             "Mild High Club"
@@ -175,7 +211,7 @@
           "duration_ms": 177493
         },
         {
-          "rank": 15,
+          "rank": 18,
           "name": "dead fish",
           "artists": [
             "Blood Nose"
@@ -187,7 +223,7 @@
           "duration_ms": 60379
         },
         {
-          "rank": 16,
+          "rank": 19,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -199,7 +235,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 17,
+          "rank": 20,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -211,7 +247,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 18,
+          "rank": 21,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -223,7 +259,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 19,
+          "rank": 22,
           "name": "Fear",
           "artists": [
             "Current Joys"
@@ -235,7 +271,7 @@
           "duration_ms": 216539
         },
         {
-          "rank": 20,
+          "rank": 23,
           "name": "blissful lights",
           "artists": [
             "voi"
@@ -247,7 +283,7 @@
           "duration_ms": 151456
         },
         {
-          "rank": 21,
+          "rank": 24,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -260,7 +296,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 22,
+          "rank": 25,
           "name": "Let Down",
           "artists": [
             "Radiohead"
@@ -272,31 +308,7 @@
           "duration_ms": 299560
         },
         {
-          "rank": 23,
-          "name": "The Man Who Sold The World - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
-          "duration_ms": 261093
-        },
-        {
-          "rank": 24,
-          "name": "Self Aware",
-          "artists": [
-            "Temper City"
-          ],
-          "album": "Self Aware",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-          "duration_ms": 180740
-        },
-        {
-          "rank": 25,
+          "rank": 26,
           "name": "LIKE THAT",
           "artists": [
             "BABYMONSTER"
@@ -306,18 +318,6 @@
           "uri": "spotify:track:7GDgpad2BQVuDUzaxHFakc",
           "url": "https://open.spotify.com/track/7GDgpad2BQVuDUzaxHFakc",
           "duration_ms": 168358
-        },
-        {
-          "rank": 26,
-          "name": "Babydoll",
-          "artists": [
-            "Dominic Fike"
-          ],
-          "album": "Don't Forget About Me, Demos",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-          "duration_ms": 97960
         },
         {
           "rank": 27,
@@ -358,90 +358,6 @@
         },
         {
           "rank": 30,
-          "name": "Nobody New",
-          "artists": [
-            "The Marías"
-          ],
-          "album": "Nobody New",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
-          "duration_ms": 215200
-        },
-        {
-          "rank": 31,
-          "name": "Vanished",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-          "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
-          "duration_ms": 242960
-        },
-        {
-          "rank": 32,
-          "name": "Dracarys",
-          "artists": [
-            "Ramin Djawadi"
-          ],
-          "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
-          "uri": "spotify:track:1eW5pYWfahrmseEKvCyoYR",
-          "url": "https://open.spotify.com/track/1eW5pYWfahrmseEKvCyoYR",
-          "duration_ms": 173386
-        },
-        {
-          "rank": 33,
-          "name": "Dark Wings, Dark Words",
-          "artists": [
-            "Ramin Djawadi"
-          ],
-          "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
-          "uri": "spotify:track:2YZy9wVrWyWIGJK7LsJbgZ",
-          "url": "https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ",
-          "duration_ms": 167906
-        },
-        {
-          "rank": 34,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
-        },
-        {
-          "rank": 35,
-          "name": "Highschool Lover",
-          "artists": [
-            "Air"
-          ],
-          "album": "The Virgin Suicides (Original Motion Picture Score)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-          "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
-          "url": "https://open.spotify.com/track/6JBDPZ0DOmc5mBJprphQc8",
-          "duration_ms": 162093
-        },
-        {
-          "rank": 36,
-          "name": "Louise",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-          "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
-          "duration_ms": 194453
-        },
-        {
-          "rank": 37,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -453,7 +369,103 @@
           "duration_ms": 234973
         },
         {
+          "rank": 31,
+          "name": "Nobody New",
+          "artists": [
+            "The Marías"
+          ],
+          "album": "Nobody New",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+          "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+          "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt",
+          "duration_ms": 215200
+        },
+        {
+          "rank": 32,
+          "name": "John Wayne",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+          "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+          "url": "https://open.spotify.com/track/4xbN7giFhdGbSQTPyG178F",
+          "duration_ms": 258013
+        },
+        {
+          "rank": 33,
+          "name": "Vanished",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+          "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
+          "duration_ms": 242960
+        },
+        {
+          "rank": 34,
+          "name": "Dracarys",
+          "artists": [
+            "Ramin Djawadi"
+          ],
+          "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+          "uri": "spotify:track:1eW5pYWfahrmseEKvCyoYR",
+          "url": "https://open.spotify.com/track/1eW5pYWfahrmseEKvCyoYR",
+          "duration_ms": 173386
+        },
+        {
+          "rank": 35,
+          "name": "Dark Wings, Dark Words",
+          "artists": [
+            "Ramin Djawadi"
+          ],
+          "album": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27348748bd2a03ab836434cf40e",
+          "uri": "spotify:track:2YZy9wVrWyWIGJK7LsJbgZ",
+          "url": "https://open.spotify.com/track/2YZy9wVrWyWIGJK7LsJbgZ",
+          "duration_ms": 167906
+        },
+        {
+          "rank": 36,
+          "name": "Karma Police",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "OK Computer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+          "duration_ms": 264066
+        },
+        {
+          "rank": 37,
+          "name": "Highschool Lover",
+          "artists": [
+            "Air"
+          ],
+          "album": "The Virgin Suicides (Original Motion Picture Score)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+          "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
+          "url": "https://open.spotify.com/track/6JBDPZ0DOmc5mBJprphQc8",
+          "duration_ms": 162093
+        },
+        {
           "rank": 38,
+          "name": "Louise",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+          "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
+          "duration_ms": 194453
+        },
+        {
+          "rank": 39,
           "name": "scars",
           "artists": [
             "Novulent"
@@ -465,7 +477,7 @@
           "duration_ms": 95002
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -477,7 +489,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -487,18 +499,6 @@
           "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
           "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
           "duration_ms": 154800
-        },
-        {
-          "rank": 41,
-          "name": "John Wayne",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-          "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-          "url": "https://open.spotify.com/track/4xbN7giFhdGbSQTPyG178F",
-          "duration_ms": 258013
         },
         {
           "rank": 42,
@@ -725,6 +725,14 @@
         },
         {
           "rank": 15,
+          "name": "Title Fight",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
+          "genres": [],
+          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        },
+        {
+          "rank": 16,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -732,7 +740,7 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Vansire",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
           "genres": [],
@@ -740,7 +748,7 @@
           "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jdot Breezy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
           "genres": [],
@@ -748,7 +756,7 @@
           "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
           "genres": [],
@@ -756,39 +764,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 19,
-          "name": "Mac DeMarco",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [],
-          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
           "rank": 20,
-          "name": "sign crushes motorist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
-          "genres": [],
-          "uri": "spotify:artist:02vrwnrNEeDRV96o9iPSYP",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        },
-        {
-          "rank": 21,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
-        },
-        {
-          "rank": 22,
-          "name": "The Strokes",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
-          "genres": [],
-          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        },
-        {
-          "rank": 23,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
           "genres": [],
@@ -796,12 +772,36 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 24,
-          "name": "Title Fight",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
+          "rank": 21,
+          "name": "Mac DeMarco",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
-          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+          "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        },
+        {
+          "rank": 22,
+          "name": "sign crushes motorist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
+          "genres": [],
+          "uri": "spotify:artist:02vrwnrNEeDRV96o9iPSYP",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        },
+        {
+          "rank": 23,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 24,
+          "name": "The Strokes",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
+          "genres": [],
+          "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
           "rank": 25,
@@ -813,11 +813,11 @@
         },
         {
           "rank": 26,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "name": "Beach House",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
           "rank": 27,
