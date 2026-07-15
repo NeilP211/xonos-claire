@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T19:04:36.414Z",
+  "generated_at": "2026-07-15T21:55:18.240Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -741,14 +741,6 @@
         },
         {
           "rank": 17,
-          "name": "Vansire",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
-          "genres": [],
-          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        },
-        {
-          "rank": 18,
           "name": "Jdot Breezy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
           "genres": [],
@@ -756,7 +748,7 @@
           "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
           "genres": [],
@@ -764,7 +756,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
           "genres": [],
@@ -772,7 +764,7 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
@@ -780,7 +772,7 @@
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -788,7 +780,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4e214c2e956d00c02e81e3e",
           "genres": [],
@@ -796,7 +788,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
           "genres": [],
@@ -804,7 +796,7 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
@@ -812,7 +804,7 @@
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Mazzy Star",
           "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
           "genres": [],
@@ -820,12 +812,20 @@
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        {
+          "rank": 27,
+          "name": "Vansire",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
+          "genres": [],
+          "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
         {
           "rank": 28,
