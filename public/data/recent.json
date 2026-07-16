@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T19:03:14.743Z",
+  "updated_at": "2026-07-16T22:00:18.128Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7283,6 +7283,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
       "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-07-16T20:05:58.242Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-07-16T20:09:18.527Z",
+      "name": "I Don't Care",
+      "artists": [
+        "VIOLENT VIRA"
+      ],
+      "album": "I Don't Care",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ee4633de5a5cc7742134139d",
+      "uri": "spotify:track:1OY9W4ZohLPBVqkNmEUNGH",
+      "duration_ms": 181028
+    },
+    {
+      "played_at": "2026-07-16T20:13:08.739Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
+    },
+    {
+      "played_at": "2026-07-16T20:19:09.835Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-07-16T20:23:19.836Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
     }
   ]
 }
