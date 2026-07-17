@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T05:37:55.814Z",
+  "updated_at": "2026-07-17T08:02:18.813Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7338,6 +7338,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
       "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
       "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-07-17T06:52:56.593Z",
+      "name": "unrequited",
+      "artists": [
+        "Midrift"
+      ],
+      "album": "unrequited",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a4ce00760ca56e00dd51ac39",
+      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
+      "duration_ms": 130142
     }
   ]
 }

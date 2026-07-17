@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T05:37:55.744Z",
+  "generated_at": "2026-07-17T08:02:18.704Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -725,14 +725,6 @@
         },
         {
           "rank": 15,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 16,
           "name": "Title Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
           "genres": [],
@@ -740,12 +732,20 @@
           "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
           "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh",
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        },
+        {
+          "rank": 17,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
           "rank": 18,
