@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T19:00:50.649Z",
+  "updated_at": "2026-07-17T21:48:08.904Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7437,6 +7437,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
       "uri": "spotify:track:2qSkIjg1o9h3YT9RAgYN75",
       "duration_ms": 175459
+    },
+    {
+      "played_at": "2026-07-17T19:02:12.570Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-07-17T19:05:23.794Z",
+      "name": "Please Please Please",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "album": "Short n' Sweet",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
+      "duration_ms": 186365
+    },
+    {
+      "played_at": "2026-07-17T19:09:02.666Z",
+      "name": "Good Luck, Babe!",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "Good Luck, Babe!",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+      "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
+      "duration_ms": 218423
     }
   ]
 }
