@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-17T16:11:31.812Z",
-  "is_playing": false,
+  "updated_at": "2026-07-17T19:00:50.761Z",
+  "is_playing": true,
   "track": {
-    "name": "unrequited",
+    "name": "West Coast",
     "artists": [
-      "Midrift"
+      "Lana Del Rey"
     ],
-    "album": "unrequited",
-    "image": "https://i.scdn.co/image/ab67616d0000b273a4ce00760ca56e00dd51ac39",
-    "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h"
+    "album": "Ultraviolence (Deluxe)",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+    "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV"
   },
-  "played_at": "2026-07-17T06:52:56.593Z"
+  "played_at": "2026-07-17T19:00:50.762Z"
 }
