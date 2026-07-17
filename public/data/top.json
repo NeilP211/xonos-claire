@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:13:22.062Z",
+  "generated_at": "2026-07-17T05:37:55.744Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1513,6 +1513,14 @@
         },
         {
           "rank": 7,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "rank": 8,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -1520,7 +1528,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
           "genres": [],
@@ -1528,7 +1536,7 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -1536,7 +1544,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Alexandre Desplat",
           "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
           "genres": [],
@@ -1544,7 +1552,7 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -1552,20 +1560,12 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
           "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        },
-        {
-          "rank": 13,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 14,
@@ -1834,7 +1834,7 @@
         {
           "rank": 47,
           "name": "Lil Baby",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb514da623c55dc9d2155705dd",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb345f9be864ad543c7597936e",
           "genres": [],
           "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
           "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
