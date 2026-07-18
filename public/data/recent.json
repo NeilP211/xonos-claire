@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T15:52:42.952Z",
+  "updated_at": "2026-07-18T18:57:10.440Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7470,6 +7470,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
       "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
       "duration_ms": 218423
+    },
+    {
+      "played_at": "2026-07-18T17:52:04.647Z",
+      "name": "Like That (feat. Gucci Mane)",
+      "artists": [
+        "Doja Cat",
+        "Gucci Mane"
+      ],
+      "album": "Hot Pink",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed",
+      "uri": "spotify:track:4EivmOT13NMpNSfTKn9p4s",
+      "duration_ms": 163167
+    },
+    {
+      "played_at": "2026-07-18T17:57:12.303Z",
+      "name": "Be Quiet and Drive (Far Away)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
+      "duration_ms": 299866
+    },
+    {
+      "played_at": "2026-07-18T18:02:30.471Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-07-18T18:07:12.078Z",
+      "name": "Heart-Shaped Box",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+      "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
+      "duration_ms": 281160
+    },
+    {
+      "played_at": "2026-07-18T18:09:47.387Z",
+      "name": "Safe In Your Skin",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Shed",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+      "duration_ms": 154800
     }
   ]
 }
