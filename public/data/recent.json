@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T21:45:30.745Z",
+  "updated_at": "2026-07-19T02:14:17.806Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7548,6 +7548,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
       "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
       "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-07-18T23:03:23.043Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-07-18T23:06:28.575Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-07-18T23:10:32.350Z",
+      "name": "Lavender",
+      "artists": [
+        "Druidess"
+      ],
+      "album": "The Product Of My Love",
+      "image": "https://i.scdn.co/image/ab67616d0000b273306dc0ec784f762b74197a02",
+      "uri": "spotify:track:73JlnwZjafppQRnzU2jRyd",
+      "duration_ms": 243486
     }
   ]
 }
