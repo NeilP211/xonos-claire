@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:07:38.300Z",
+  "generated_at": "2026-07-19T15:53:36.152Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1482,19 +1482,19 @@
         },
         {
           "rank": 6,
-          "name": "The Smiths",
-          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-          "genres": [],
-          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        },
-        {
-          "rank": 7,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
           "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "rank": 7,
+          "name": "The Smiths",
+          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+          "genres": [],
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         },
         {
           "rank": 8,
