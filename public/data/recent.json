@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T02:14:17.806Z",
+  "updated_at": "2026-07-19T05:47:39.325Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -7581,6 +7581,94 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273306dc0ec784f762b74197a02",
       "uri": "spotify:track:73JlnwZjafppQRnzU2jRyd",
       "duration_ms": 243486
+    },
+    {
+      "played_at": "2026-07-19T05:14:17.109Z",
+      "name": "Black Hole Sun",
+      "artists": [
+        "Soundgarden"
+      ],
+      "album": "Superunknown (20th Anniversary)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500",
+      "uri": "spotify:track:4xdHI4eFNst0vTZuuKrWjr",
+      "duration_ms": 318586
+    },
+    {
+      "played_at": "2026-07-19T05:18:37.680Z",
+      "name": "vampire",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-07-19T05:23:02.970Z",
+      "name": "Summertime Sadness",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:1Ist6PR2BZR3n2z2Y5R6S1",
+      "duration_ms": 264773
+    },
+    {
+      "played_at": "2026-07-19T05:26:10.564Z",
+      "name": "Picture You",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a21d22ecf823e1c90aa22d1f",
+      "uri": "spotify:track:2Pspo5BWPcTnMHMstLFRHV",
+      "duration_ms": 187130
+    },
+    {
+      "played_at": "2026-07-19T05:30:27.832Z",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
+      "duration_ms": 256799
+    },
+    {
+      "played_at": "2026-07-19T05:34:41.893Z",
+      "name": "505",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "Favourite Worst Nightmare (Standard Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+      "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
+      "duration_ms": 253586
+    },
+    {
+      "played_at": "2026-07-19T05:38:39.214Z",
+      "name": "No One Noticed",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
+      "duration_ms": 236906
+    },
+    {
+      "played_at": "2026-07-19T05:42:40.125Z",
+      "name": "Back To Black",
+      "artists": [
+        "Amy Winehouse"
+      ],
+      "album": "Back To Black",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dc65d5638a3de4a0bdf3c05f",
+      "uri": "spotify:track:30FURVTCpbKyykjSEQzGkH",
+      "duration_ms": 240440
     }
   ]
 }
