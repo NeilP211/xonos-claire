@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:57:28.114Z",
+  "generated_at": "2026-07-21T02:13:04.428Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -616,7 +616,10 @@
           "rank": 1,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "rock"
+          ],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -624,7 +627,10 @@
           "rank": 2,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
-          "genres": [],
+          "genres": [
+            "art rock",
+            "alternative rock"
+          ],
           "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
@@ -640,7 +646,13 @@
           "rank": 4,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
+          "genres": [
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "rock",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -656,7 +668,10 @@
           "rank": 6,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
-          "genres": [],
+          "genres": [
+            "soundtrack",
+            "score"
+          ],
           "uri": "spotify:artist:1hCkSJcXREhrodeIHQdav8",
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
@@ -680,7 +695,10 @@
           "rank": 9,
           "name": "Cocteau Twins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
+          "genres": [
+            "dream pop",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
@@ -704,7 +722,12 @@
           "rank": 12,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -712,7 +735,9 @@
           "rank": 13,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -720,7 +745,9 @@
           "rank": 14,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
-          "genres": [],
+          "genres": [
+            "lo-fi indie"
+          ],
           "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL",
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
@@ -728,7 +755,13 @@
           "rank": 15,
           "name": "Title Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
-          "genres": [],
+          "genres": [
+            "midwest emo",
+            "shoegaze",
+            "post-hardcore",
+            "melodic hardcore",
+            "emo"
+          ],
           "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
           "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         },
@@ -744,7 +777,9 @@
           "rank": 17,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
@@ -760,7 +795,9 @@
           "rank": 19,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
@@ -768,7 +805,9 @@
           "rank": 20,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
-          "genres": [],
+          "genres": [
+            "slowcore"
+          ],
           "uri": "spotify:artist:02vrwnrNEeDRV96o9iPSYP",
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
@@ -776,7 +815,10 @@
           "rank": 21,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
+          "genres": [
+            "witch house",
+            "darkwave"
+          ],
           "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
@@ -784,7 +826,11 @@
           "rank": 22,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
-          "genres": [],
+          "genres": [
+            "garage rock",
+            "indie rock",
+            "alternative rock"
+          ],
           "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V",
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
@@ -800,7 +846,10 @@
           "rank": 24,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
-          "genres": [],
+          "genres": [
+            "indie",
+            "lo-fi indie"
+          ],
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         },
@@ -808,7 +857,9 @@
           "rank": 25,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
@@ -816,7 +867,9 @@
           "rank": 26,
           "name": "Vansire",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:6ft7JnxMyZhp7N52qzHymY",
           "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
@@ -2855,7 +2908,56 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "shoegaze",
+        "weight": 0.091441111923921
+      },
+      {
+        "genre": "dream pop",
+        "weight": 0.07754206291148501
+      },
+      {
+        "genre": "rock",
+        "weight": 0.07095830285296269
+      },
+      {
+        "genre": "bedroom pop",
+        "weight": 0.06656912948061448
+      },
+      {
+        "genre": "alternative rock",
+        "weight": 0.0570592538405267
+      },
+      {
+        "genre": "witch house",
+        "weight": 0.05047549378200439
+      },
+      {
+        "genre": "lo-fi indie",
+        "weight": 0.04681784930504755
+      },
+      {
+        "genre": "grunge",
+        "weight": 0.036576444769568395
+      },
+      {
+        "genre": "art rock",
+        "weight": 0.03584491587417703
+      },
+      {
+        "genre": "nu metal",
+        "weight": 0.03438185808339429
+      },
+      {
+        "genre": "alternative metal",
+        "weight": 0.03438185808339429
+      },
+      {
+        "genre": "rap metal",
+        "weight": 0.03438185808339429
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }
