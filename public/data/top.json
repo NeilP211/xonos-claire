@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:08:04.117Z",
+  "generated_at": "2026-07-22T22:01:11.020Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -428,6 +428,18 @@
         },
         {
           "rank": 36,
+          "name": "Zombie - 2025 Remastered",
+          "artists": [
+            "The Cranberries"
+          ],
+          "album": "No Need To Argue (2025 Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+          "duration_ms": 305626
+        },
+        {
+          "rank": 37,
           "name": "scars",
           "artists": [
             "Novulent"
@@ -439,7 +451,7 @@
           "duration_ms": 95002
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -451,7 +463,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -463,7 +475,7 @@
           "duration_ms": 218920
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -475,7 +487,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -487,7 +499,7 @@
           "duration_ms": 88484
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Romantic Homicide",
           "artists": [
             "d4vd"
@@ -499,7 +511,7 @@
           "duration_ms": 132630
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Best Friend (feat. Doja Cat)",
           "artists": [
             "Saweetie",
@@ -512,7 +524,7 @@
           "duration_ms": 155883
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -524,7 +536,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -536,7 +548,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Tweak Shit, Pt. 2",
           "artists": [
             "Jdot Breezy"
@@ -548,7 +560,7 @@
           "duration_ms": 142106
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Young",
           "artists": [
             "Vacations"
@@ -560,7 +572,7 @@
           "duration_ms": 189160
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -573,7 +585,7 @@
           "duration_ms": 212693
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -585,7 +597,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "where we ended",
           "artists": [
             "rutherford"
@@ -595,18 +607,6 @@
           "uri": "spotify:track:0B1mFZRbhCrKiHJEJse429",
           "url": "https://open.spotify.com/track/0B1mFZRbhCrKiHJEJse429",
           "duration_ms": 145028
-        },
-        {
-          "rank": 50,
-          "name": "Here With Me",
-          "artists": [
-            "d4vd"
-          ],
-          "album": "Here With Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4ddcc23f630f4c2728a5255",
-          "uri": "spotify:track:0dS2u2UFd88TIzDDaZDLvS",
-          "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS",
-          "duration_ms": 242484
         }
       ],
       "artists": [
