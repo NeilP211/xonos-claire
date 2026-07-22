@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T05:45:11.996Z",
+  "updated_at": "2026-07-22T08:21:13.241Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -8223,6 +8223,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
       "duration_ms": 218920
+    },
+    {
+      "played_at": "2026-07-22T05:48:47.712Z",
+      "name": "My Own Summer (Shove It)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:1158ckiB5S4cpsdYHDB9IF",
+      "duration_ms": 214760
     }
   ]
 }
