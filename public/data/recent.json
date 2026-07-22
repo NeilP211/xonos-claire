@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T02:11:26.061Z",
+  "updated_at": "2026-07-22T05:45:11.996Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -8179,6 +8179,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273696bceaee71bf3637f1f6c9d",
       "uri": "spotify:track:0hCjDPhl5JbFpYbrlebXvB",
       "duration_ms": 314753
+    },
+    {
+      "played_at": "2026-07-22T04:02:08.711Z",
+      "name": "Five String Serenade",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:7pfqtkZsNheOoDziqquDT3",
+      "duration_ms": 264466
+    },
+    {
+      "played_at": "2026-07-22T04:08:00.509Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
+    },
+    {
+      "played_at": "2026-07-22T04:14:35.750Z",
+      "name": "Where Is My Mind?",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Death to the Pixies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2",
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "duration_ms": 229226
+    },
+    {
+      "played_at": "2026-07-22T04:18:15.183Z",
+      "name": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
+      "duration_ms": 218920
     }
   ]
 }
