@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T02:22:49.017Z",
+  "generated_at": "2026-07-23T05:49:55.943Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -512,6 +512,18 @@
         },
         {
           "rank": 43,
+          "name": "Suffocation",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles (II)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+          "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ",
+          "url": "https://open.spotify.com/track/12oxsGACfwMozi4nK9noGQ",
+          "duration_ms": 242293
+        },
+        {
+          "rank": 44,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -523,7 +535,7 @@
           "duration_ms": 88484
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Romantic Homicide",
           "artists": [
             "d4vd"
@@ -535,7 +547,7 @@
           "duration_ms": 132630
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Best Friend (feat. Doja Cat)",
           "artists": [
             "Saweetie",
@@ -548,7 +560,7 @@
           "duration_ms": 155883
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -560,7 +572,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -572,7 +584,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Tweak Shit, Pt. 2",
           "artists": [
             "Jdot Breezy"
@@ -584,7 +596,7 @@
           "duration_ms": 142106
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Young",
           "artists": [
             "Vacations"
@@ -594,19 +606,6 @@
           "uri": "spotify:track:5JN8ZgTqm3sCugWPV11cHP",
           "url": "https://open.spotify.com/track/5JN8ZgTqm3sCugWPV11cHP",
           "duration_ms": 189160
-        },
-        {
-          "rank": 50,
-          "name": "Playground Love (with Gordon Tracks)",
-          "artists": [
-            "Air",
-            "Gordon Tracks"
-          ],
-          "album": "The Virgin Suicides (Original Motion Picture Score)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-          "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
-          "url": "https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb",
-          "duration_ms": 212693
         }
       ],
       "artists": [
@@ -628,6 +627,14 @@
         },
         {
           "rank": 3,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "rank": 4,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -635,20 +642,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Mazzy Star",
           "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
           "genres": [],
           "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        },
-        {
-          "rank": 5,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 6,
@@ -748,38 +747,6 @@
         },
         {
           "rank": 18,
-          "name": "Chappell Roan",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
-          "genres": [],
-          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        },
-        {
-          "rank": 19,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 20,
-          "name": "Jdot Breezy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
-          "genres": [],
-          "uri": "spotify:artist:0VSM8D7ibtXjJgukfVR0eZ",
-          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
-        },
-        {
-          "rank": 21,
-          "name": "Strawberry Guy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
-          "genres": [],
-          "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        },
-        {
-          "rank": 22,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -787,12 +754,44 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 23,
+          "rank": 19,
+          "name": "Chappell Roan",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
+          "genres": [],
+          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        },
+        {
+          "rank": 20,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 21,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
           "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        },
+        {
+          "rank": 22,
+          "name": "Jdot Breezy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
+          "genres": [],
+          "uri": "spotify:artist:0VSM8D7ibtXjJgukfVR0eZ",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        },
+        {
+          "rank": 23,
+          "name": "Strawberry Guy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb5fed28f52bb2768713f07ef1",
+          "genres": [],
+          "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
           "rank": 24,
@@ -836,6 +835,14 @@
         },
         {
           "rank": 29,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 30,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
           "genres": [],
