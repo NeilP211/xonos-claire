@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T16:23:24.306Z",
+  "updated_at": "2026-07-23T19:08:13.830Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -8979,6 +8979,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:4VSg5K1hnbmIg4PwRdY6wV",
       "duration_ms": 342093
+    },
+    {
+      "played_at": "2026-07-23T18:55:27.706Z",
+      "name": "Suffocation",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles (II)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
+      "uri": "spotify:track:12oxsGACfwMozi4nK9noGQ",
+      "duration_ms": 242293
+    },
+    {
+      "played_at": "2026-07-23T18:56:19.765Z",
+      "name": "Shades Of Cool",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:4VSg5K1hnbmIg4PwRdY6wV",
+      "duration_ms": 342093
+    },
+    {
+      "played_at": "2026-07-23T19:02:11.351Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-07-23T19:06:28.149Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
     }
   ]
 }
