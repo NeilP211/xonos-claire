@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T11:06:16.424Z",
+  "generated_at": "2026-07-23T13:47:23.892Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1097,15 +1097,15 @@
         },
         {
           "rank": 21,
-          "name": "",
+          "name": "Self Aware",
           "artists": [
-            ""
+            "Temper City"
           ],
-          "album": "",
-          "image": null,
-          "uri": "spotify:track:3vuTjROEdeCq8V3c1cvlxJ",
-          "url": "https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ",
-          "duration_ms": 0
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
         },
         {
           "rank": 22,
@@ -1293,18 +1293,6 @@
         },
         {
           "rank": 37,
-          "name": "My Iron Lung",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "The Bends",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
-          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
-          "duration_ms": 276426
-        },
-        {
-          "rank": 38,
           "name": "Something In The Way - Remastered",
           "artists": [
             "Nirvana"
@@ -1314,6 +1302,18 @@
           "uri": "spotify:track:2WL6GQzPuK9Nrpy9XwNEbz",
           "url": "https://open.spotify.com/track/2WL6GQzPuK9Nrpy9XwNEbz",
           "duration_ms": 232203
+        },
+        {
+          "rank": 38,
+          "name": "My Iron Lung",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "The Bends",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
+          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
+          "duration_ms": 276426
         },
         {
           "rank": 39,
@@ -1775,6 +1775,14 @@
         },
         {
           "rank": 40,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 41,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1782,7 +1790,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "The Strokes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
           "genres": [],
@@ -1790,7 +1798,7 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Metallica",
           "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44",
           "genres": [],
@@ -1798,7 +1806,7 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Tame Impala",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe412a782245eb20d9626c601",
           "genres": [],
@@ -1806,7 +1814,7 @@
           "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Kanye West",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a",
           "genres": [],
@@ -1814,7 +1822,15 @@
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         },
         {
-          "rank": 45,
+          "rank": 46,
+          "name": "Memo Boy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
+          "genres": [],
+          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        },
+        {
+          "rank": 47,
           "name": "Jdot Breezy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebffab36f74657e8cd08e540e9",
           "genres": [],
@@ -1822,7 +1838,7 @@
           "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Nicholas Britell",
           "image": "https://i.scdn.co/image/ab6761610000e5ebac71b9e9c61e3b989058015a",
           "genres": [],
@@ -1830,7 +1846,7 @@
           "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Chezile",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
           "genres": [],
@@ -1838,28 +1854,12 @@
           "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
           "uri": "spotify:artist:41GfvEtCZu3KXaThpF01c1",
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
-        },
-        {
-          "rank": 49,
-          "name": "Lil Baby",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb345f9be864ad543c7597936e",
-          "genres": [],
-          "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "rank": 50,
-          "name": "Alice In Chains",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
-          "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ]
     },
