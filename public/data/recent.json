@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:01:25.597Z",
+  "updated_at": "2026-07-24T02:13:44.577Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -9265,6 +9265,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae",
       "uri": "spotify:track:6GGtHZgBycCgGBUhZo81xe",
       "duration_ms": 209156
+    },
+    {
+      "played_at": "2026-07-24T00:20:10.315Z",
+      "name": "Tulsa Jesus Freak",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Chemtrails Over The Country Club",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
+      "uri": "spotify:track:0hyImI8JaWONOrzKH7kJsC",
+      "duration_ms": 215673
+    },
+    {
+      "played_at": "2026-07-24T00:22:08.228Z",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "duration_ms": 97960
+    },
+    {
+      "played_at": "2026-07-24T00:27:07.930Z",
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "uri": "spotify:track:0pUVeEgZuNyFzIMKp67RbS",
+      "duration_ms": 299240
+    },
+    {
+      "played_at": "2026-07-24T00:31:29.482Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-07-24T00:36:20.117Z",
+      "name": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
+      "duration_ms": 290146
+    },
+    {
+      "played_at": "2026-07-24T00:41:20.392Z",
+      "name": "Let Down",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
+      "duration_ms": 299560
     }
   ]
 }
