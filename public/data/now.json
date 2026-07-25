@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-07-25T13:15:31.574Z",
-  "is_playing": false,
+  "updated_at": "2026-07-25T16:00:35.703Z",
+  "is_playing": true,
   "track": {
-    "name": "She Will Destroy You",
+    "name": "Margaret (feat. Bleachers)",
     "artists": [
-      "Cocteau Twins",
-      "Harold Budd"
+      "Lana Del Rey",
+      "Bleachers"
     ],
-    "album": "The Moon and the Melodies",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732bace4cf1388fa974fcdc14c",
-    "uri": "spotify:track:2cWc4NJ2WYAZllS4VWFcHs"
+    "album": "Did you know that there's a tunnel under Ocean Blvd",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+    "uri": "spotify:track:1o82DwNisONAd2mu1RcGE6"
   },
-  "played_at": "2026-07-25T02:05:04.943Z"
+  "played_at": "2026-07-25T16:00:35.703Z"
 }
