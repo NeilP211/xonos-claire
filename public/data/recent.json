@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T21:51:08.044Z",
+  "updated_at": "2026-07-26T02:24:36.951Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -10051,6 +10051,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
       "uri": "spotify:track:6REVvevOeVVq3vou7xAsJu",
       "duration_ms": 95386
+    },
+    {
+      "played_at": "2026-07-26T00:17:53.484Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-07-26T00:26:43.054Z",
+      "name": "Cry",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
+      "duration_ms": 256799
     }
   ]
 }
