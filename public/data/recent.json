@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T02:24:36.951Z",
+  "updated_at": "2026-07-26T05:56:36.171Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -10073,6 +10073,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
       "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
       "duration_ms": 256799
+    },
+    {
+      "played_at": "2026-07-26T04:03:38.848Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-07-26T04:06:26.874Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-07-26T04:11:32.610Z",
+      "name": "vampire",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "GUTS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+      "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-07-26T04:14:17.729Z",
+      "name": "White Mustang",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:6eygbzyL6hY8jFQTARDuo9",
+      "duration_ms": 164710
+    },
+    {
+      "played_at": "2026-07-26T04:22:48.271Z",
+      "name": "Hollywood Bowl",
+      "artists": [
+        "Rob Grant",
+        "Lana Del Rey"
+      ],
+      "album": "Lost At Sea",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fc406017b6abd3c1d2eaf284",
+      "uri": "spotify:track:0837Am3wsBxCmfxo1DiFmz",
+      "duration_ms": 253240
+    },
+    {
+      "played_at": "2026-07-26T04:28:53.364Z",
+      "name": "Opera House",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:2Ddfm2NQwTRsf7YVlt258S",
+      "duration_ms": 364680
+    },
+    {
+      "played_at": "2026-07-26T04:32:29.240Z",
+      "name": "Headlock",
+      "artists": [
+        "Imogen Heap"
+      ],
+      "album": "Speak for Yourself (Deluxe Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57",
+      "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
+      "duration_ms": 215338
     }
   ]
 }
