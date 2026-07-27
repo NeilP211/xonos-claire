@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-27T19:20:08.681Z",
-  "is_playing": true,
+  "updated_at": "2026-07-27T22:02:06.861Z",
+  "is_playing": false,
   "track": {
-    "name": "Sarah",
+    "name": "The Only Exception",
     "artists": [
-      "Alex G"
+      "Paramore"
     ],
-    "album": "Trick",
-    "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
-    "uri": "spotify:track:4HuiEuJ7ZW8jewUuZBg6sk"
+    "album": "Brand New Eyes",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+    "uri": "spotify:track:7JIuqL4ZqkpfGKQhYlrirs"
   },
-  "played_at": "2026-07-27T19:20:08.681Z"
+  "played_at": "2026-07-27T20:25:16.854Z"
 }
