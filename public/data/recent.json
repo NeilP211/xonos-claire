@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T19:07:54.943Z",
+  "updated_at": "2026-07-29T21:56:14.453Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -11461,6 +11461,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
       "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
       "duration_ms": 134556
+    },
+    {
+      "played_at": "2026-07-29T20:08:48.278Z",
+      "name": "My Girlfriend",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Lonely Women",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
+      "uri": "spotify:track:36RNOJkIDAoyfEOHdLhmD3",
+      "duration_ms": 248222
+    },
+    {
+      "played_at": "2026-07-29T20:13:50.690Z",
+      "name": "Roseblood",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "Among My Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
+      "uri": "spotify:track:2qV5Ce0sMlFsrseRO5CTMU",
+      "duration_ms": 291040
+    },
+    {
+      "played_at": "2026-07-29T20:18:38.991Z",
+      "name": "Look On Down From The Bridge",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "Among My Swan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
+      "uri": "spotify:track:010ALbbh5KlQ4fKWgSdhRd",
+      "duration_ms": 287893
     }
   ]
 }
