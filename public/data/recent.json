@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T21:56:14.453Z",
+  "updated_at": "2026-07-30T01:59:25.438Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -11494,6 +11494,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
       "uri": "spotify:track:010ALbbh5KlQ4fKWgSdhRd",
       "duration_ms": 287893
+    },
+    {
+      "played_at": "2026-07-29T23:15:13.537Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-07-29T23:16:29.606Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-07-29T23:21:12.723Z",
+      "name": "Linger",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "Stars: The Best Of The Cranberries 1992-2002",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
+      "duration_ms": 274773
+    },
+    {
+      "played_at": "2026-07-29T23:23:49.140Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-07-29T23:27:55.732Z",
+      "name": "Covet",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Colourmeinkindness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+      "duration_ms": 227340
+    },
+    {
+      "played_at": "2026-07-29T23:30:57.034Z",
+      "name": "Are You The One",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Be Here Now / Are You The One",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+      "duration_ms": 180906
     }
   ]
 }
