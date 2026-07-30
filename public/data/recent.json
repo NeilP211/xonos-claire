@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T16:23:31.480Z",
+  "updated_at": "2026-07-30T19:18:59.825Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -11637,6 +11637,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
       "uri": "spotify:track:5Ddlk6C2JVxb1SReZ6O1wk",
       "duration_ms": 223880
+    },
+    {
+      "played_at": "2026-07-30T18:35:10.937Z",
+      "name": "You Know You're Right",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nirvana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
+      "uri": "spotify:track:5O8L4I2S4izFGDjvP7xAKv",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-07-30T18:39:19.133Z",
+      "name": "matrix (bl studio loop)",
+      "artists": [
+        "chrmbchrmb"
+      ],
+      "album": "doodles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1dd19a7f521864eedfaeb8b",
+      "uri": "spotify:track:0J1EjKUyxMkYXwdGZ8AsrB",
+      "duration_ms": 108648
+    },
+    {
+      "played_at": "2026-07-30T18:42:06.006Z",
+      "name": "Missing Textures",
+      "artists": [
+        "NIVEK FFORHS"
+      ],
+      "album": "Missing Textures",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c904e7c27c0e16a9b60b2d7",
+      "uri": "spotify:track:3YsSke12CuFEJUpCysd4VU",
+      "duration_ms": 166363
+    },
+    {
+      "played_at": "2026-07-30T18:45:12.843Z",
+      "name": "Untrust Us",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
+      "duration_ms": 186373
+    },
+    {
+      "played_at": "2026-07-30T18:47:07.360Z",
+      "name": "#voyuitwaaien - SUPER slowed -pitch",
+      "artists": [
+        "latex fruit"
+      ],
+      "album": "#voyuitwaaien Remixes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737afc09e7873c32344780a23a",
+      "uri": "spotify:track:6yV3akSoxxh006bFLHPfVW",
+      "duration_ms": 114091
+    },
+    {
+      "played_at": "2026-07-30T18:51:23.390Z",
+      "name": "worry - ultra slowed",
+      "artists": [
+        "LONOWN",
+        "riserayss"
+      ],
+      "album": "worry (ultra slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
+      "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
+      "duration_ms": 255591
     }
   ]
 }
