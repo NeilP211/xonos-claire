@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T01:59:25.438Z",
+  "updated_at": "2026-07-30T05:36:07.831Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -11560,6 +11560,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
       "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
       "duration_ms": 180906
+    },
+    {
+      "played_at": "2026-07-30T03:03:25.929Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-07-30T03:04:30.004Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-07-30T03:07:18.763Z",
+      "name": "About A Girl",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Bleach",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+      "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
+      "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-07-30T03:11:34.383Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
+    },
+    {
+      "played_at": "2026-07-30T03:15:26.903Z",
+      "name": "Something In The Way",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
+      "duration_ms": 232146
+    },
+    {
+      "played_at": "2026-07-30T03:19:20.533Z",
+      "name": "All Apologies",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+      "duration_ms": 233173
+    },
+    {
+      "played_at": "2026-07-30T03:23:05.727Z",
+      "name": "Drain You",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:5Ddlk6C2JVxb1SReZ6O1wk",
+      "duration_ms": 223880
     }
   ]
 }
