@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T19:18:06.850Z",
+  "updated_at": "2026-07-31T22:00:35.875Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -12013,6 +12013,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
       "uri": "spotify:track:6ysZGg7CqStzPV1ZALpNky",
       "duration_ms": 267284
+    },
+    {
+      "played_at": "2026-07-31T20:57:52.011Z",
+      "name": "Tangled dreams",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Tangled dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398b81526d3c0f73f3c8ba753",
+      "uri": "spotify:track:5PCoCu7jl8FJTm6rKAmFDZ",
+      "duration_ms": 262387
+    },
+    {
+      "played_at": "2026-07-31T21:01:54.814Z",
+      "name": "I Wanna Be Your Dog",
+      "artists": [
+        "John McCrea"
+      ],
+      "album": "Cruella (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b71fd49eb20d0275387779f",
+      "uri": "spotify:track:2SE9ICRvVuTkb3flvGQtqe",
+      "duration_ms": 235706
+    },
+    {
+      "played_at": "2026-07-31T21:06:53.731Z",
+      "name": "Sexy Boy",
+      "artists": [
+        "Air"
+      ],
+      "album": "Moon Safari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709",
+      "uri": "spotify:track:7Fx3o9QtK1vtpkEWkM6OJu",
+      "duration_ms": 298466
     }
   ]
 }
