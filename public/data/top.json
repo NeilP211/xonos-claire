@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:02:08.496Z",
+  "generated_at": "2026-08-01T21:51:00.938Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -89,6 +89,18 @@
         },
         {
           "rank": 8,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 9,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -100,7 +112,19 @@
           "duration_ms": 305626
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "불꽃으로 / Bulkkoch Eulo",
+          "artists": [
+            "past self"
+          ],
+          "album": "불꽃으로 / Bulkkoch Eulo",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
+          "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
+          "url": "https://open.spotify.com/track/4aSu60cZXfMbu6y7TcsPp1",
+          "duration_ms": 236000
+        },
+        {
+          "rank": 11,
           "name": "Be Quiet and Drive (Far Away)",
           "artists": [
             "Deftones"
@@ -112,7 +136,7 @@
           "duration_ms": 299866
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -124,7 +148,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -136,7 +160,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Roseblood",
           "artists": [
             "Mazzy Star"
@@ -148,7 +172,7 @@
           "duration_ms": 291040
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -160,7 +184,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -172,7 +196,7 @@
           "duration_ms": 274720
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -184,7 +208,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -196,7 +220,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -209,7 +233,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -222,7 +246,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 19,
+          "rank": 21,
           "name": "resonance - midwest emo version",
           "artists": [
             "jacal"
@@ -234,7 +258,7 @@
           "duration_ms": 219024
         },
         {
-          "rank": 20,
+          "rank": 22,
           "name": "blissful lights",
           "artists": [
             "voi"
@@ -246,7 +270,7 @@
           "duration_ms": 151456
         },
         {
-          "rank": 21,
+          "rank": 23,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -256,30 +280,6 @@
           "uri": "spotify:track:784VjdNkpXhFV0RHquzsi2",
           "url": "https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2",
           "duration_ms": 200906
-        },
-        {
-          "rank": 22,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
-        },
-        {
-          "rank": 23,
-          "name": "불꽃으로 / Bulkkoch Eulo",
-          "artists": [
-            "past self"
-          ],
-          "album": "불꽃으로 / Bulkkoch Eulo",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
-          "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
-          "url": "https://open.spotify.com/track/4aSu60cZXfMbu6y7TcsPp1",
-          "duration_ms": 236000
         },
         {
           "rank": 24,
