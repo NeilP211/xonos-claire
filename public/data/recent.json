@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T05:51:41.634Z",
+  "updated_at": "2026-08-01T08:13:18.857Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -12189,6 +12189,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd",
       "uri": "spotify:track:5Q6Xzp25aXYxNJ4B6vBkcf",
       "duration_ms": 202320
+    },
+    {
+      "played_at": "2026-08-01T07:08:17.962Z",
+      "name": "무당 / Mudang",
+      "artists": [
+        "past self"
+      ],
+      "album": "무당 / Mudang",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+      "duration_ms": 253977
     }
   ]
 }
