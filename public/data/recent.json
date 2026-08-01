@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T13:09:07.109Z",
+  "updated_at": "2026-08-01T15:57:51.759Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -12200,6 +12200,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
       "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
       "duration_ms": 253977
+    },
+    {
+      "played_at": "2026-08-01T15:45:07.491Z",
+      "name": "Клетка",
+      "artists": [
+        "Molchat Doma"
+      ],
+      "album": "Этажи",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+      "uri": "spotify:track:4nvsRb9ypaqqDXcZxjn6ba",
+      "duration_ms": 283485
+    },
+    {
+      "played_at": "2026-08-01T15:50:19.367Z",
+      "name": "Клетка",
+      "artists": [
+        "Molchat Doma"
+      ],
+      "album": "Этажи",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+      "uri": "spotify:track:4nvsRb9ypaqqDXcZxjn6ba",
+      "duration_ms": 283485
+    },
+    {
+      "played_at": "2026-08-01T15:53:47.419Z",
+      "name": "Twist The Knife",
+      "artists": [
+        "Chromatics"
+      ],
+      "album": "Closer To Grey",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350c2c6a6d09ce3a76ef17396",
+      "uri": "spotify:track:2KVStewnFKCp6gjREeHRDy",
+      "duration_ms": 207578
     }
   ]
 }
