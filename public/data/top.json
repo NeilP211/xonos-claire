@@ -1,10 +1,22 @@
 {
-  "generated_at": "2026-08-02T05:52:28.559Z",
+  "generated_at": "2026-08-02T08:15:02.938Z",
   "ranges": {
     "short_term": {
       "tracks": [
         {
           "rank": 1,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 2,
           "name": "Fade Into You",
           "artists": [
             "Mazzy Star"
@@ -16,7 +28,7 @@
           "duration_ms": 295600
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -26,18 +38,6 @@
           "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
           "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
           "duration_ms": 227340
-        },
-        {
-          "rank": 3,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
         },
         {
           "rank": 4,
@@ -826,6 +826,22 @@
         },
         {
           "rank": 28,
+          "name": "Flawed Mangoes",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8492b22a6e5102ab571909e7",
+          "genres": [],
+          "uri": "spotify:artist:4MrQDA45Gd0llLrwFUzimG",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        },
+        {
+          "rank": 29,
+          "name": "salvia palth",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
+          "genres": [],
+          "uri": "spotify:artist:0pg0Zm8FsGAYy5kdHuBnSo",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        },
+        {
+          "rank": 30,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
@@ -833,7 +849,7 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -841,7 +857,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Korea Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3d75b562f299a5525f4ff634",
           "genres": [],
@@ -849,7 +865,7 @@
           "url": "https://open.spotify.com/artist/1Z5bekaSxinwyB2pxG6pks"
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "jacal",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8518fee1c3fa246c97fa193f",
           "genres": [],
@@ -857,7 +873,7 @@
           "url": "https://open.spotify.com/artist/1kgoGhvV1nEGVHFhY4VbcH"
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
           "genres": [],
@@ -865,7 +881,7 @@
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Big Thief",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb2be573b9d9ca2bf7f113d92",
           "genres": [],
@@ -873,7 +889,7 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -881,7 +897,7 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -889,7 +905,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
