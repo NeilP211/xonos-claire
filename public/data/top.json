@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:11:09.935Z",
+  "generated_at": "2026-08-02T15:57:14.928Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1686,6 +1686,14 @@
         },
         {
           "rank": 21,
+          "name": "past self",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
+          "genres": [],
+          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
+          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
+        },
+        {
+          "rank": 22,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
           "genres": [],
@@ -1693,20 +1701,12 @@
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Mac DeMarco",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
           "genres": [],
           "uri": "spotify:artist:3Sz7ZnJQBIHsXLUSo0OQtM",
           "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        },
-        {
-          "rank": 23,
-          "name": "past self",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
-          "genres": [],
-          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
-          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
         },
         {
           "rank": 24,
