@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:03:23.804Z",
+  "generated_at": "2026-08-02T21:51:25.983Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -137,6 +137,18 @@
         },
         {
           "rank": 12,
+          "name": "Lithium - Remastered",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:0kUNGAdU8J4jDvxhBtgDF8",
+          "url": "https://open.spotify.com/track/0kUNGAdU8J4jDvxhBtgDF8",
+          "duration_ms": 256398
+        },
+        {
+          "rank": 13,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -148,7 +160,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Be Quiet and Drive (Far Away)",
           "artists": [
             "Deftones"
@@ -160,7 +172,7 @@
           "duration_ms": 299866
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -172,7 +184,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -184,7 +196,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Roseblood",
           "artists": [
             "Mazzy Star"
@@ -196,7 +208,7 @@
           "duration_ms": 291040
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -208,7 +220,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -220,7 +232,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -232,7 +244,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -244,7 +256,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -257,7 +269,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -270,7 +282,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "resonance - midwest emo version",
           "artists": [
             "jacal"
@@ -282,7 +294,7 @@
           "duration_ms": 219024
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "blissful lights",
           "artists": [
             "voi"
@@ -294,7 +306,7 @@
           "duration_ms": 151456
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -306,7 +318,7 @@
           "duration_ms": 200906
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Just",
           "artists": [
             "Radiohead"
@@ -316,18 +328,6 @@
           "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
           "url": "https://open.spotify.com/track/1dyTcli07c77mtQK3ahUZR",
           "duration_ms": 234800
-        },
-        {
-          "rank": 27,
-          "name": "Lithium - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:0kUNGAdU8J4jDvxhBtgDF8",
-          "url": "https://open.spotify.com/track/0kUNGAdU8J4jDvxhBtgDF8",
-          "duration_ms": 256398
         },
         {
           "rank": 28,
@@ -873,6 +873,14 @@
         },
         {
           "rank": 34,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 35,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
           "genres": [],
@@ -880,7 +888,7 @@
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Big Thief",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb2be573b9d9ca2bf7f113d92",
           "genres": [],
@@ -888,7 +896,7 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -896,7 +904,15 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 37,
+          "rank": 38,
+          "name": "Twin Tribes",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
+          "genres": [],
+          "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        },
+        {
+          "rank": 39,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
@@ -904,7 +920,7 @@
           "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
