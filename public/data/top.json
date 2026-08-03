@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:51:25.983Z",
+  "generated_at": "2026-08-03T02:25:16.544Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,6 +17,18 @@
         },
         {
           "rank": 2,
+          "name": "The Man Who Sold The World - Live",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+          "duration_ms": 261093
+        },
+        {
+          "rank": 3,
           "name": "Fade Into You",
           "artists": [
             "Mazzy Star"
@@ -28,7 +40,7 @@
           "duration_ms": 295600
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "i love u. (ultra slowed)",
           "artists": [
             "wiv"
@@ -40,7 +52,7 @@
           "duration_ms": 170008
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -50,18 +62,6 @@
           "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
           "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
           "duration_ms": 227340
-        },
-        {
-          "rank": 5,
-          "name": "The Man Who Sold The World - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
-          "duration_ms": 261093
         },
         {
           "rank": 6,
@@ -283,30 +283,6 @@
         },
         {
           "rank": 24,
-          "name": "resonance - midwest emo version",
-          "artists": [
-            "jacal"
-          ],
-          "album": "resonance (midwest emo version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1",
-          "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
-          "url": "https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7",
-          "duration_ms": 219024
-        },
-        {
-          "rank": 25,
-          "name": "blissful lights",
-          "artists": [
-            "voi"
-          ],
-          "album": "blissful lights",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732cfaab9f98c6edcf8752b232",
-          "uri": "spotify:track:5XATagtnWgdR6bF23g5sWm",
-          "url": "https://open.spotify.com/track/5XATagtnWgdR6bF23g5sWm",
-          "duration_ms": 151456
-        },
-        {
-          "rank": 26,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -318,7 +294,7 @@
           "duration_ms": 200906
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Just",
           "artists": [
             "Radiohead"
@@ -330,7 +306,7 @@
           "duration_ms": 234800
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -342,7 +318,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -354,7 +330,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -366,7 +342,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "I Wanna Be Your Dog",
           "artists": [
             "John McCrea"
@@ -378,7 +354,7 @@
           "duration_ms": 235706
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -390,7 +366,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -402,7 +378,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -414,7 +390,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "No One's Deserving",
           "artists": [
             "Superheaven"
@@ -426,7 +402,7 @@
           "duration_ms": 183317
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "dead fish",
           "artists": [
             "Blood Nose"
@@ -438,7 +414,7 @@
           "duration_ms": 60379
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -450,7 +426,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Drain You - Remastered",
           "artists": [
             "Nirvana"
@@ -462,7 +438,7 @@
           "duration_ms": 223733
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -474,7 +450,7 @@
           "duration_ms": 219724
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "Into Me",
           "artists": [
             "Glare"
@@ -486,7 +462,7 @@
           "duration_ms": 123253
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -498,7 +474,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -510,7 +486,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "my love is yours",
           "artists": [
             "Blood Nose"
@@ -522,7 +498,7 @@
           "duration_ms": 73420
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -534,7 +510,7 @@
           "duration_ms": 88484
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -546,7 +522,7 @@
           "duration_ms": 241533
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -558,7 +534,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "Let Down",
           "artists": [
             "Radiohead"
@@ -570,7 +546,7 @@
           "duration_ms": 299560
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -582,7 +558,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "misery.",
           "artists": [
             "pupsies"
@@ -594,7 +570,7 @@
           "duration_ms": 166401
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Beware",
           "artists": [
             "Deftones"
@@ -604,6 +580,31 @@
           "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
           "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS",
           "duration_ms": 360666
+        },
+        {
+          "rank": 49,
+          "name": "The Other Woman",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1KuVEZR4xuQVNr1KkanAV4",
+          "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4",
+          "duration_ms": 181960
+        },
+        {
+          "rank": 50,
+          "name": "Go Away",
+          "artists": [
+            "Weezer",
+            "Best Coast"
+          ],
+          "album": "Everything Will Be Alright In The End",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+          "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
+          "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi",
+          "duration_ms": 193733
         }
       ],
       "artists": [
