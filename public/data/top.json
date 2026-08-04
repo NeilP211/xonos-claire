@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:43:29.387Z",
+  "generated_at": "2026-08-04T08:29:55.403Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1782,6 +1782,14 @@
         },
         {
           "rank": 33,
+          "name": "Alex G",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
+          "genres": [],
+          "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        },
+        {
+          "rank": 34,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1789,7 +1797,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5eb601c3f85fe11328b87142999",
           "genres": [],
@@ -1797,20 +1805,12 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
           "uri": "spotify:artist:5AyEXCtu3xnnsTGCo4RVZh",
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        },
-        {
-          "rank": 36,
-          "name": "Alex G",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
-          "genres": [],
-          "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         },
         {
           "rank": 37,
