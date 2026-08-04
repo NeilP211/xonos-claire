@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T22:04:23.182Z",
+  "updated_at": "2026-08-04T02:05:25.138Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -12866,6 +12866,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b694e89ba937dd2631ff584c",
       "uri": "spotify:track:5HNCy40Ni5BZJFw1TKzRsC",
       "duration_ms": 382280
+    },
+    {
+      "played_at": "2026-08-04T01:30:30.803Z",
+      "name": "Linger",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "Stars: The Best Of The Cranberries 1992-2002",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
+      "duration_ms": 274773
+    },
+    {
+      "played_at": "2026-08-04T01:33:09.230Z",
+      "name": "Advice",
+      "artists": [
+        "Alex G"
+      ],
+      "album": "Trick",
+      "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
+      "uri": "spotify:track:3poJLRLGViMX3gicX9UYtD",
+      "duration_ms": 157973
     }
   ]
 }
