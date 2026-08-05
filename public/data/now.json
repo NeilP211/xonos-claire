@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-05T02:04:34.154Z",
-  "is_playing": false,
+  "updated_at": "2026-08-05T05:42:14.532Z",
+  "is_playing": true,
   "track": {
-    "name": "Advice",
+    "name": "When You're Gone",
     "artists": [
-      "Alex G"
+      "The Cranberries"
     ],
-    "album": "Trick",
-    "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
-    "uri": "spotify:track:3poJLRLGViMX3gicX9UYtD"
+    "album": "To The Faithful Departed",
+    "image": "https://i.scdn.co/image/ab67616d0000b2731eab8368d90f9c87692e6474",
+    "uri": "spotify:track:3EXrtClWmgsM7dw75Mw2M1"
   },
-  "played_at": "2026-08-04T01:33:09.230Z"
+  "played_at": "2026-08-05T05:42:14.532Z"
 }
