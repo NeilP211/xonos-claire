@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T15:51:51.484Z",
+  "updated_at": "2026-08-07T18:49:06.932Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13120,6 +13120,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
       "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
       "duration_ms": 253977
+    },
+    {
+      "played_at": "2026-08-07T18:15:15.448Z",
+      "name": "Apocalypse - Slowed + Reverb",
+      "artists": [
+        "cloud9ine"
+      ],
+      "album": "Apocalypse (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273afa5dc0bf08e3124d8db244d",
+      "uri": "spotify:track:2tFFGX7rfIVHVLdprmqyLo",
+      "duration_ms": 394333
+    },
+    {
+      "played_at": "2026-08-07T18:23:56.290Z",
+      "name": "lost in reality",
+      "artists": [
+        "Aurenth"
+      ],
+      "album": "lost in reality",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370999ab0b338f3a0289bf9f6",
+      "uri": "spotify:track:2um4o2p7iNt7OS6Lp9UZxf",
+      "duration_ms": 102807
+    },
+    {
+      "played_at": "2026-08-07T18:30:08.690Z",
+      "name": "Closer - Deep Slowed",
+      "artists": [
+        "Thatone"
+      ],
+      "album": "Closer (Deep Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd64ca215a4e10c77c3533a1",
+      "uri": "spotify:track:200B5FpJOMkXXO7fW9vpo2",
+      "duration_ms": 371957
+    },
+    {
+      "played_at": "2026-08-07T18:31:50.455Z",
+      "name": "realization",
+      "artists": [
+        "FutureVille"
+      ],
+      "album": "realization",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b8a9efdf8939639aa1dcb5d",
+      "uri": "spotify:track:6XHKzsTUwsDivIBQYQHaGg",
+      "duration_ms": 101298
+    },
+    {
+      "played_at": "2026-08-07T18:35:03.355Z",
+      "name": "Saturn - Slowed + Reverb",
+      "artists": [
+        "beachgazing"
+      ],
+      "album": "Saturn (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27366ab2cf2808fd7b0b2cbeead",
+      "uri": "spotify:track:5G405K5lC7Ard1IeGGwM3L",
+      "duration_ms": 192413
+    },
+    {
+      "played_at": "2026-08-07T18:36:49.654Z",
+      "name": "(Dream) - Slowed + Reverb",
+      "artists": [
+        "cloud9ine"
+      ],
+      "album": "(Dream) [Slowed + Reverb]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ca055d7035d1e63f037ea69",
+      "uri": "spotify:track:28d14OpHu3C9HvSld48QY9",
+      "duration_ms": 105826
+    },
+    {
+      "played_at": "2026-08-07T18:39:32.139Z",
+      "name": "demise",
+      "artists": [
+        "death by falling"
+      ],
+      "album": "demise",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386c57cd3066a6163db4e90a4",
+      "uri": "spotify:track:58RkkDUjchw6afFkItEgy7",
+      "duration_ms": 162059
+    },
+    {
+      "played_at": "2026-08-07T18:41:54.499Z",
+      "name": "childhood - Instrumental Version",
+      "artists": [
+        "daniel.mp3",
+        "Zamaro"
+      ],
+      "album": "childhood (Instrumental Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738881b9fabf29c670a212b02c",
+      "uri": "spotify:track:1BkkFDeXd3DuGPsYM9Yx5K",
+      "duration_ms": 141921
     }
   ]
 }
