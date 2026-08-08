@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T01:14:59.281Z",
+  "updated_at": "2026-08-08T04:07:57.002Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13209,6 +13209,96 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738881b9fabf29c670a212b02c",
       "uri": "spotify:track:1BkkFDeXd3DuGPsYM9Yx5K",
       "duration_ms": 141921
+    },
+    {
+      "played_at": "2026-08-08T01:47:29.649Z",
+      "name": "childhood - Instrumental Version",
+      "artists": [
+        "daniel.mp3",
+        "Zamaro"
+      ],
+      "album": "childhood (Instrumental Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738881b9fabf29c670a212b02c",
+      "uri": "spotify:track:1BkkFDeXd3DuGPsYM9Yx5K",
+      "duration_ms": 141921
+    },
+    {
+      "played_at": "2026-08-08T01:51:39.056Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-08-08T01:56:11.257Z",
+      "name": "Yugoslavskiy Groove",
+      "artists": [
+        "Soft Blade"
+      ],
+      "album": "Softic",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730964e199a69d8152017d0a88",
+      "uri": "spotify:track:0CRZ3cFFZEUglP5RlU2f9o",
+      "duration_ms": 244000
+    },
+    {
+      "played_at": "2026-08-08T02:00:30.144Z",
+      "name": "Crimewave",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+      "duration_ms": 258453
+    },
+    {
+      "played_at": "2026-08-08T02:08:30.976Z",
+      "name": "Vampiro",
+      "artists": [
+        "French Police"
+      ],
+      "album": "Haunted Castle (Extended Play)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357c113f0a42bc3d06a08fee6",
+      "uri": "spotify:track:2ZgKOGthLtSzmDWde75FtY",
+      "duration_ms": 136803
+    },
+    {
+      "played_at": "2026-08-08T02:16:10.331Z",
+      "name": "Leni (Crystal Castles vs GoodBooks)",
+      "artists": [
+        "GoodBooks",
+        "Crystal Castles"
+      ],
+      "album": "Control Freaks (The Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
+      "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH",
+      "duration_ms": 256398
+    },
+    {
+      "played_at": "2026-08-08T02:56:37.922Z",
+      "name": "Pretty Boy",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:2vVXZKnEIU5j0yVDGQX46l",
+      "duration_ms": 166000
+    },
+    {
+      "played_at": "2026-08-08T03:27:36.652Z",
+      "name": "Laura",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Lonely Women",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
+      "uri": "spotify:track:0JB7DcI1AJZUaytdPQll0Z",
+      "duration_ms": 215394
     }
   ]
 }
