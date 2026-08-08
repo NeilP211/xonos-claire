@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T18:30:25.783Z",
+  "updated_at": "2026-08-08T21:25:07.243Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13310,6 +13310,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
       "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-08T18:00:49.575Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
     }
   ]
 }
