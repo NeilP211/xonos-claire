@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:26:22.910Z",
+  "updated_at": "2026-08-09T18:33:28.988Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13740,6 +13740,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b405027d5b63acb6945f3beb",
       "uri": "spotify:track:6Hzle86uYcpy3QkcCmMKgE",
       "duration_ms": 188265
+    },
+    {
+      "played_at": "2026-08-09T18:11:04.869Z",
+      "name": "Undone - The Sweater Song",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Weezer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
+      "duration_ms": 305533
     }
   ]
 }
