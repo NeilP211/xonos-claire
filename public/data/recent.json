@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T18:33:28.988Z",
+  "updated_at": "2026-08-09T21:26:41.697Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13751,6 +13751,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
       "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
       "duration_ms": 305533
+    },
+    {
+      "played_at": "2026-08-09T18:48:40.668Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-09T18:51:55.479Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-09T18:57:18.005Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
     }
   ]
 }

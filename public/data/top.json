@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:33:28.872Z",
+  "generated_at": "2026-08-09T21:26:41.527Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -293,6 +293,18 @@
         },
         {
           "rank": 25,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 26,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -304,7 +316,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -316,7 +328,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -328,7 +340,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "I Wanna Be Your Dog",
           "artists": [
             "John McCrea"
@@ -340,7 +352,7 @@
           "duration_ms": 235706
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Let Down",
           "artists": [
             "Radiohead"
@@ -352,7 +364,7 @@
           "duration_ms": 299560
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -365,7 +377,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -378,7 +390,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -390,7 +402,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -402,7 +414,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -414,7 +426,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "No One's Deserving",
           "artists": [
             "Superheaven"
@@ -426,7 +438,7 @@
           "duration_ms": 183317
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -438,7 +450,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Go Away",
           "artists": [
             "Weezer",
@@ -451,7 +463,7 @@
           "duration_ms": 193733
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -463,7 +475,7 @@
           "duration_ms": 219724
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -475,7 +487,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Drain You - Remastered",
           "artists": [
             "Nirvana"
@@ -487,7 +499,7 @@
           "duration_ms": 223733
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Into Me",
           "artists": [
             "Glare"
@@ -499,7 +511,7 @@
           "duration_ms": 123253
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -511,7 +523,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "my love is yours",
           "artists": [
             "Blood Nose"
@@ -523,7 +535,7 @@
           "duration_ms": 73420
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -535,7 +547,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -547,7 +559,7 @@
           "duration_ms": 88484
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -559,7 +571,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "misery.",
           "artists": [
             "pupsies"
@@ -571,7 +583,7 @@
           "duration_ms": 166401
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "dead fish",
           "artists": [
             "Blood Nose"
@@ -583,7 +595,7 @@
           "duration_ms": 60379
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Sextape",
           "artists": [
             "Deftones"
@@ -593,18 +605,6 @@
           "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
           "url": "https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE",
           "duration_ms": 241533
-        },
-        {
-          "rank": 50,
-          "name": "Beware",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Saturday Night Wrist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-          "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
-          "url": "https://open.spotify.com/track/2ASygm7048ssav4ekbehPS",
-          "duration_ms": 360666
         }
       ],
       "artists": [
@@ -2102,16 +2102,15 @@
         },
         {
           "rank": 12,
-          "name": "Insomniac",
+          "name": "The Man Who Sold The World - Live",
           "artists": [
-            "Memo Boy",
-            "Chakra Efendi"
+            "Nirvana"
           ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
-          "duration_ms": 212307
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+          "duration_ms": 261093
         },
         {
           "rank": 13,
@@ -2127,6 +2126,19 @@
         },
         {
           "rank": 14,
+          "name": "Insomniac",
+          "artists": [
+            "Memo Boy",
+            "Chakra Efendi"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
+          "duration_ms": 212307
+        },
+        {
+          "rank": 15,
           "name": "Cry",
           "artists": [
             "Cigarettes After Sex"
@@ -2136,18 +2148,6 @@
           "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
           "url": "https://open.spotify.com/track/7mDTvYD2ieE4Q28XFziMfJ",
           "duration_ms": 256799
-        },
-        {
-          "rank": 15,
-          "name": "The Man Who Sold The World - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
-          "duration_ms": 261093
         },
         {
           "rank": 16,
@@ -2383,18 +2383,6 @@
         },
         {
           "rank": 35,
-          "name": "Notion",
-          "artists": [
-            "The Rare Occasions"
-          ],
-          "album": "Notion",
-          "image": "https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08",
-          "uri": "spotify:track:0sTlGEld0h8kIPZaKDYUf4",
-          "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4",
-          "duration_ms": 195120
-        },
-        {
-          "rank": 36,
           "name": "Let Down",
           "artists": [
             "Radiohead"
@@ -2404,6 +2392,18 @@
           "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
           "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
           "duration_ms": 299560
+        },
+        {
+          "rank": 36,
+          "name": "Notion",
+          "artists": [
+            "The Rare Occasions"
+          ],
+          "album": "Notion",
+          "image": "https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08",
+          "uri": "spotify:track:0sTlGEld0h8kIPZaKDYUf4",
+          "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4",
+          "duration_ms": 195120
         },
         {
           "rank": 37,
@@ -2551,6 +2551,18 @@
         },
         {
           "rank": 49,
+          "name": "John Wayne",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+          "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+          "url": "https://open.spotify.com/track/4xbN7giFhdGbSQTPyG178F",
+          "duration_ms": 258013
+        },
+        {
+          "rank": 50,
           "name": "Freaks",
           "artists": [
             "Surf Curse"
@@ -2560,18 +2572,6 @@
           "uri": "spotify:track:7EkWXAI1wn8Ii883ecd9xr",
           "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr",
           "duration_ms": 147062
-        },
-        {
-          "rank": 50,
-          "name": "Always Forever",
-          "artists": [
-            "Cults"
-          ],
-          "album": "Static",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
-          "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
-          "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
-          "duration_ms": 223750
         }
       ],
       "artists": [
@@ -2681,14 +2681,6 @@
         },
         {
           "rank": 14,
-          "name": "Massive Attack",
-          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
-          "genres": [],
-          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "rank": 15,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -2696,20 +2688,28 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 16,
-          "name": "Superheaven",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
+          "rank": 15,
+          "name": "Massive Attack",
+          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
           "genres": [],
-          "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "The Cranberries",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
           "genres": [],
           "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "rank": 17,
+          "name": "Superheaven",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
+          "genres": [],
+          "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
           "rank": 18,
