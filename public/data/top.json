@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:55:53.428Z",
+  "generated_at": "2026-08-10T18:50:58.590Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,6 +17,18 @@
         },
         {
           "rank": 2,
+          "name": "The Man Who Sold The World - Live",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+          "duration_ms": 261093
+        },
+        {
+          "rank": 3,
           "name": "무당 / Mudang",
           "artists": [
             "past self"
@@ -28,7 +40,7 @@
           "duration_ms": 253977
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -38,18 +50,6 @@
           "uri": "spotify:track:1WYrTfvKjQYaYfVziGG1ET",
           "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
           "duration_ms": 274720
-        },
-        {
-          "rank": 4,
-          "name": "The Man Who Sold The World - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
-          "duration_ms": 261093
         },
         {
           "rank": 5,
@@ -137,6 +137,18 @@
         },
         {
           "rank": 12,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 13,
           "name": "Be Quiet and Drive (Far Away)",
           "artists": [
             "Deftones"
@@ -148,7 +160,7 @@
           "duration_ms": 299866
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -160,7 +172,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Roseblood",
           "artists": [
             "Mazzy Star"
@@ -172,7 +184,7 @@
           "duration_ms": 291040
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -184,7 +196,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -196,7 +208,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -208,7 +220,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -220,7 +232,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -232,7 +244,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -244,7 +256,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "WASTE",
           "artists": [
             "KXLLSWXTCH"
@@ -256,7 +268,7 @@
           "duration_ms": 120428
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "resonance - midwest emo version",
           "artists": [
             "jacal"
@@ -268,7 +280,7 @@
           "duration_ms": 219024
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -280,7 +292,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -290,18 +302,6 @@
           "uri": "spotify:track:56eSclzdXaWU5jOJ7DX7Vp",
           "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
           "duration_ms": 298680
-        },
-        {
-          "rank": 25,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         },
         {
           "rank": 26,
@@ -548,6 +548,18 @@
         },
         {
           "rank": 46,
+          "name": "Vanished",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+          "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
+          "duration_ms": 242960
+        },
+        {
+          "rank": 47,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -559,7 +571,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -571,7 +583,7 @@
           "duration_ms": 88484
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Look On Down From The Bridge",
           "artists": [
             "Mazzy Star"
@@ -583,7 +595,7 @@
           "duration_ms": 287893
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -593,18 +605,6 @@
           "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
           "url": "https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp",
           "duration_ms": 152000
-        },
-        {
-          "rank": 50,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
         }
       ],
       "artists": [

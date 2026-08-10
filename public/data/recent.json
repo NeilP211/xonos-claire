@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T15:55:53.484Z",
+  "updated_at": "2026-08-10T18:50:58.745Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -14029,6 +14029,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
       "uri": "spotify:track:010ALbbh5KlQ4fKWgSdhRd",
       "duration_ms": 287893
+    },
+    {
+      "played_at": "2026-08-10T17:16:11.505Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-08-10T17:23:24.734Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-10T17:26:39.616Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-10T17:30:27.820Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-08-10T17:34:31.220Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
     }
   ]
 }
