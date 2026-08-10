@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T21:26:41.697Z",
+  "updated_at": "2026-08-10T01:21:25.033Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -13784,6 +13784,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
       "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-09T23:52:52.137Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-08-09T23:55:48.919Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-08-09T23:58:21.237Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
     }
   ]
 }
