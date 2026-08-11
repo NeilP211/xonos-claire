@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T01:19:21.596Z",
+  "updated_at": "2026-08-11T04:16:10.976Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -14348,6 +14348,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
       "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
       "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-08-11T02:22:59.814Z",
+      "name": "Sleep Walk",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:2HrgY8IeC2nE5Hrr17jIii",
+      "duration_ms": 150680
     }
   ]
 }
