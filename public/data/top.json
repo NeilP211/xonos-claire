@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T04:44:19.669Z",
+  "generated_at": "2026-08-12T07:17:18.389Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -65,18 +65,6 @@
         },
         {
           "rank": 6,
-          "name": "i love u. (ultra slowed)",
-          "artists": [
-            "wiv"
-          ],
-          "album": "quiet disappearance",
-          "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
-          "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
-          "url": "https://open.spotify.com/track/2NUqjbsDUwEFM6TyqN0moy",
-          "duration_ms": 170008
-        },
-        {
-          "rank": 7,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -88,16 +76,28 @@
           "duration_ms": 213920
         },
         {
-          "rank": 8,
-          "name": "Self Aware",
+          "rank": 7,
+          "name": "i love u. (ultra slowed)",
           "artists": [
-            "Temper City"
+            "wiv"
           ],
-          "album": "Self Aware",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-          "duration_ms": 180740
+          "album": "quiet disappearance",
+          "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
+          "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
+          "url": "https://open.spotify.com/track/2NUqjbsDUwEFM6TyqN0moy",
+          "duration_ms": 170008
+        },
+        {
+          "rank": 8,
+          "name": "Silver Soul",
+          "artists": [
+            "Beach House"
+          ],
+          "album": "Teen Dream",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a9a2f4dbb6ce31157d2e4783",
+          "uri": "spotify:track:56eSclzdXaWU5jOJ7DX7Vp",
+          "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
+          "duration_ms": 298680
         },
         {
           "rank": 9,
@@ -149,18 +149,6 @@
         },
         {
           "rank": 13,
-          "name": "Silver Soul",
-          "artists": [
-            "Beach House"
-          ],
-          "album": "Teen Dream",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a9a2f4dbb6ce31157d2e4783",
-          "uri": "spotify:track:56eSclzdXaWU5jOJ7DX7Vp",
-          "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
-          "duration_ms": 298680
-        },
-        {
-          "rank": 14,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -172,7 +160,7 @@
           "duration_ms": 200906
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Roseblood",
           "artists": [
             "Mazzy Star"
@@ -184,7 +172,7 @@
           "duration_ms": 291040
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Be Quiet and Drive (Far Away)",
           "artists": [
             "Deftones"
@@ -196,19 +184,19 @@
           "duration_ms": 299866
         },
         {
-          "rank": 17,
-          "name": "Babydoll",
+          "rank": 16,
+          "name": "Self Aware",
           "artists": [
-            "Dominic Fike"
+            "Temper City"
           ],
-          "album": "Don't Forget About Me, Demos",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-          "duration_ms": 97960
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -220,7 +208,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -230,6 +218,18 @@
           "uri": "spotify:track:36RLpWj2hzT7SFUMQSZfst",
           "url": "https://open.spotify.com/track/36RLpWj2hzT7SFUMQSZfst",
           "duration_ms": 286253
+        },
+        {
+          "rank": 19,
+          "name": "Where Is My Mind? - 2007 Remaster",
+          "artists": [
+            "Pixies"
+          ],
+          "album": "Surfer Rosa (2007 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
+          "duration_ms": 234973
         },
         {
           "rank": 20,
@@ -341,18 +341,6 @@
         },
         {
           "rank": 29,
-          "name": "The Subway",
-          "artists": [
-            "Chappell Roan"
-          ],
-          "album": "The Subway",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442",
-          "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
-          "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
-          "duration_ms": 252276
-        },
-        {
-          "rank": 30,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -364,19 +352,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 31,
-          "name": "Where Is My Mind? - 2007 Remaster",
-          "artists": [
-            "Pixies"
-          ],
-          "album": "Surfer Rosa (2007 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
-          "duration_ms": 234973
-        },
-        {
-          "rank": 32,
+          "rank": 30,
           "name": "Brian is the Most Beautiful",
           "artists": [
             "Memo Boy"
@@ -388,7 +364,7 @@
           "duration_ms": 225000
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -400,7 +376,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "I Wanna Be Your Dog",
           "artists": [
             "John McCrea"
@@ -412,7 +388,7 @@
           "duration_ms": 235706
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -425,7 +401,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -438,7 +414,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -450,7 +426,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -462,7 +438,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -474,7 +450,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "No One's Deserving",
           "artists": [
             "Superheaven"
@@ -486,7 +462,7 @@
           "duration_ms": 183317
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -498,7 +474,19 @@
           "duration_ms": 229515
         },
         {
-          "rank": 42,
+          "rank": 40,
+          "name": "Babydoll",
+          "artists": [
+            "Dominic Fike"
+          ],
+          "album": "Don't Forget About Me, Demos",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+          "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+          "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
+          "duration_ms": 97960
+        },
+        {
+          "rank": 41,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -510,7 +498,7 @@
           "duration_ms": 219724
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -522,7 +510,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -534,7 +522,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Drain You - Remastered",
           "artists": [
             "Nirvana"
@@ -544,6 +532,18 @@
           "uri": "spotify:track:1g8aFMG95SNAIQKuwTln6s",
           "url": "https://open.spotify.com/track/1g8aFMG95SNAIQKuwTln6s",
           "duration_ms": 223733
+        },
+        {
+          "rank": 45,
+          "name": "Louise",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+          "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
+          "duration_ms": 194453
         },
         {
           "rank": 46,
@@ -559,6 +559,19 @@
         },
         {
           "rank": 47,
+          "name": "Disappear - Pastel Ghost Remix",
+          "artists": [
+            "Virgo",
+            "Pastel Ghost"
+          ],
+          "album": "IX Remixes",
+          "image": "https://i.scdn.co/image/ab67616d0000b27345a2abdde564b3984771a465",
+          "uri": "spotify:track:48LSdWSZZA1Bh006PFDfdT",
+          "url": "https://open.spotify.com/track/48LSdWSZZA1Bh006PFDfdT",
+          "duration_ms": 325381
+        },
+        {
+          "rank": 48,
           "name": "Into Dust",
           "artists": [
             "Mazzy Star"
@@ -570,7 +583,7 @@
           "duration_ms": 336760
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "my love is yours",
           "artists": [
             "Blood Nose"
@@ -582,7 +595,7 @@
           "duration_ms": 73420
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -592,18 +605,6 @@
           "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
           "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
           "duration_ms": 154800
-        },
-        {
-          "rank": 50,
-          "name": "hope you're happy",
-          "artists": [
-            "Blood Nose"
-          ],
-          "album": "hope you're happy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fa1b81aca85ce8460abdc6d6",
-          "uri": "spotify:track:1f7ycIZhPsNe5ylQyn46nJ",
-          "url": "https://open.spotify.com/track/1f7ycIZhPsNe5ylQyn46nJ",
-          "duration_ms": 88484
         }
       ],
       "artists": [
@@ -681,14 +682,6 @@
         },
         {
           "rank": 10,
-          "name": "Beach House",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
-          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        },
-        {
-          "rank": 11,
           "name": "Cocteau Twins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
           "genres": [],
@@ -696,12 +689,20 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "flyingfish",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34",
           "genres": [],
           "uri": "spotify:artist:4aCzIdK4ystmbXSZVyVrSG",
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        },
+        {
+          "rank": 12,
+          "name": "Beach House",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+          "genres": [],
+          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
           "rank": 13,
@@ -769,14 +770,6 @@
         },
         {
           "rank": 21,
-          "name": "Strawberry Guy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
-          "genres": [],
-          "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        },
-        {
-          "rank": 22,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
           "genres": [],
@@ -784,15 +777,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 23,
-          "name": "Title Fight",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
-          "genres": [],
-          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        },
-        {
-          "rank": 24,
+          "rank": 22,
           "name": "Pixies",
           "image": "https://i.scdn.co/image/ab6761610000e5eb419ffe5eb82b7460c76a986a",
           "genres": [],
@@ -800,7 +785,15 @@
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         },
         {
-          "rank": 25,
+          "rank": 23,
+          "name": "Strawberry Guy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
+          "genres": [],
+          "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
+          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        },
+        {
+          "rank": 24,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
@@ -808,7 +801,7 @@
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Flawed Mangoes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8492b22a6e5102ab571909e7",
           "genres": [],
@@ -816,7 +809,7 @@
           "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -824,7 +817,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -832,7 +825,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "salvia palth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
           "genres": [],
@@ -840,7 +833,7 @@
           "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -848,7 +841,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -856,7 +849,7 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Twin Tribes",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
           "genres": [],
@@ -864,7 +857,7 @@
           "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -872,7 +865,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Basement",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
           "genres": [],
@@ -880,7 +873,7 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
           "genres": [],
@@ -888,7 +881,7 @@
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Big Thief",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb2be573b9d9ca2bf7f113d92",
           "genres": [],
@@ -896,7 +889,7 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "cloud9ine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70d23e2a9a834dc60d1cb4bb",
           "genres": [],
@@ -904,7 +897,7 @@
           "url": "https://open.spotify.com/artist/6OF10xYnaVc1rrej6TuB00"
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "French Police",
           "image": "https://i.scdn.co/image/ab6761610000e5eba8cae3b22c79dfbb1ab22621",
           "genres": [],
@@ -912,7 +905,7 @@
           "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -920,7 +913,7 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
@@ -928,7 +921,7 @@
           "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
@@ -936,7 +929,7 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
