@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:41:26.720Z",
+  "generated_at": "2026-08-12T01:27:41.152Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -77,6 +77,18 @@
         },
         {
           "rank": 7,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 8,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -88,7 +100,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -100,7 +112,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -112,7 +124,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "불꽃으로 / Bulkkoch Eulo",
           "artists": [
             "past self"
@@ -124,7 +136,7 @@
           "duration_ms": 236000
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -136,7 +148,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -148,7 +160,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -158,18 +170,6 @@
           "uri": "spotify:track:784VjdNkpXhFV0RHquzsi2",
           "url": "https://open.spotify.com/track/784VjdNkpXhFV0RHquzsi2",
           "duration_ms": 200906
-        },
-        {
-          "rank": 14,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         },
         {
           "rank": 15,
@@ -317,6 +317,18 @@
         },
         {
           "rank": 27,
+          "name": "Vanished",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+          "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
+          "duration_ms": 242960
+        },
+        {
+          "rank": 28,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -328,7 +340,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -340,7 +352,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -352,7 +364,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -364,7 +376,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Brian is the Most Beautiful",
           "artists": [
             "Memo Boy"
@@ -376,7 +388,7 @@
           "duration_ms": 225000
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -388,7 +400,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "I Wanna Be Your Dog",
           "artists": [
             "John McCrea"
@@ -400,7 +412,7 @@
           "duration_ms": 235706
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -413,7 +425,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -426,7 +438,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -438,7 +450,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -450,7 +462,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -462,7 +474,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "No One's Deserving",
           "artists": [
             "Superheaven"
@@ -474,7 +486,7 @@
           "duration_ms": 183317
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -486,7 +498,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -498,7 +510,19 @@
           "duration_ms": 219724
         },
         {
-          "rank": 42,
+          "rank": 43,
+          "name": "The Blonde",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+          "url": "https://open.spotify.com/track/72cGBEqu7RitIOoACXYjfR",
+          "duration_ms": 227760
+        },
+        {
+          "rank": 44,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -510,7 +534,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Drain You - Remastered",
           "artists": [
             "Nirvana"
@@ -522,7 +546,7 @@
           "duration_ms": 223733
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Into Me",
           "artists": [
             "Glare"
@@ -534,7 +558,7 @@
           "duration_ms": 123253
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Into Dust",
           "artists": [
             "Mazzy Star"
@@ -546,7 +570,7 @@
           "duration_ms": 336760
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "my love is yours",
           "artists": [
             "Blood Nose"
@@ -558,19 +582,7 @@
           "duration_ms": 73420
         },
         {
-          "rank": 47,
-          "name": "Vanished",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-          "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT",
-          "duration_ms": 242960
-        },
-        {
-          "rank": 48,
+          "rank": 49,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -582,7 +594,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "hope you're happy",
           "artists": [
             "Blood Nose"
@@ -592,18 +604,6 @@
           "uri": "spotify:track:1f7ycIZhPsNe5ylQyn46nJ",
           "url": "https://open.spotify.com/track/1f7ycIZhPsNe5ylQyn46nJ",
           "duration_ms": 88484
-        },
-        {
-          "rank": 50,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
         }
       ],
       "artists": [
@@ -921,14 +921,6 @@
         },
         {
           "rank": 40,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "rank": 41,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
@@ -936,12 +928,20 @@
           "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
           "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF",
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        },
+        {
+          "rank": 42,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         }
       ]
     },
@@ -2434,102 +2434,6 @@
         },
         {
           "rank": 40,
-          "name": "Your face",
-          "artists": [
-            "Wisp"
-          ],
-          "album": "Pandora",
-          "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-          "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-          "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv",
-          "duration_ms": 229728
-        },
-        {
-          "rank": 41,
-          "name": "Here With Me",
-          "artists": [
-            "d4vd"
-          ],
-          "album": "Petals to Thorns",
-          "image": "https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7",
-          "uri": "spotify:track:5LrN7yUQAzvthd4QujgPFr",
-          "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
-          "duration_ms": 242484
-        },
-        {
-          "rank": 42,
-          "name": "The Adults Are Talking",
-          "artists": [
-            "The Strokes"
-          ],
-          "album": "The New Abnormal",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
-          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-          "duration_ms": 309053
-        },
-        {
-          "rank": 43,
-          "name": "Supermassive Black Hole",
-          "artists": [
-            "Muse"
-          ],
-          "album": "Black Holes and Revelations",
-          "image": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
-          "uri": "spotify:track:3lPr8ghNDBLc2uZovNyLs9",
-          "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9",
-          "duration_ms": 212439
-        },
-        {
-          "rank": 44,
-          "name": "From The Start",
-          "artists": [
-            "Laufey"
-          ],
-          "album": "Bewitched",
-          "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
-          "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
-          "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
-          "duration_ms": 169573
-        },
-        {
-          "rank": 45,
-          "name": "Headlock",
-          "artists": [
-            "Imogen Heap"
-          ],
-          "album": "Speak for Yourself (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27396623f4784c88259592fb8a1",
-          "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
-          "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou",
-          "duration_ms": 215338
-        },
-        {
-          "rank": 46,
-          "name": "Smells Like Teen Spirit",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-          "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
-          "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T",
-          "duration_ms": 301920
-        },
-        {
-          "rank": 47,
-          "name": "JoyRide",
-          "artists": [
-            "CORTIS"
-          ],
-          "album": "COLOR OUTSIDE THE LINES",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
-          "uri": "spotify:track:6T17ZI0glfM2IGLdUwtnLK",
-          "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
-          "duration_ms": 157733
-        },
-        {
-          "rank": 48,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -2541,7 +2445,115 @@
           "duration_ms": 214800
         },
         {
+          "rank": 41,
+          "name": "Your face",
+          "artists": [
+            "Wisp"
+          ],
+          "album": "Pandora",
+          "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+          "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+          "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv",
+          "duration_ms": 229728
+        },
+        {
+          "rank": 42,
+          "name": "Here With Me",
+          "artists": [
+            "d4vd"
+          ],
+          "album": "Petals to Thorns",
+          "image": "https://i.scdn.co/image/ab67616d0000b27364fa1bda999f4fbd2b7c4bb7",
+          "uri": "spotify:track:5LrN7yUQAzvthd4QujgPFr",
+          "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
+          "duration_ms": 242484
+        },
+        {
+          "rank": 43,
+          "name": "The Adults Are Talking",
+          "artists": [
+            "The Strokes"
+          ],
+          "album": "The New Abnormal",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+          "duration_ms": 309053
+        },
+        {
+          "rank": 44,
+          "name": "Supermassive Black Hole",
+          "artists": [
+            "Muse"
+          ],
+          "album": "Black Holes and Revelations",
+          "image": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
+          "uri": "spotify:track:3lPr8ghNDBLc2uZovNyLs9",
+          "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9",
+          "duration_ms": 212439
+        },
+        {
+          "rank": 45,
+          "name": "From The Start",
+          "artists": [
+            "Laufey"
+          ],
+          "album": "Bewitched",
+          "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
+          "uri": "spotify:track:43iIQbw5hx986dUEZbr3eN",
+          "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN",
+          "duration_ms": 169573
+        },
+        {
+          "rank": 46,
+          "name": "Headlock",
+          "artists": [
+            "Imogen Heap"
+          ],
+          "album": "Speak for Yourself (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27396623f4784c88259592fb8a1",
+          "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
+          "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou",
+          "duration_ms": 215338
+        },
+        {
+          "rank": 47,
+          "name": "Smells Like Teen Spirit",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+          "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
+          "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T",
+          "duration_ms": 301920
+        },
+        {
+          "rank": 48,
+          "name": "JoyRide",
+          "artists": [
+            "CORTIS"
+          ],
+          "album": "COLOR OUTSIDE THE LINES",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
+          "uri": "spotify:track:6T17ZI0glfM2IGLdUwtnLK",
+          "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
+          "duration_ms": 157733
+        },
+        {
           "rank": 49,
+          "name": "Always Forever",
+          "artists": [
+            "Cults"
+          ],
+          "album": "Static",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
+          "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
+          "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
+          "duration_ms": 223750
+        },
+        {
+          "rank": 50,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -2551,18 +2563,6 @@
           "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
           "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
           "duration_ms": 285906
-        },
-        {
-          "rank": 50,
-          "name": "John Wayne",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-          "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-          "url": "https://open.spotify.com/track/4xbN7giFhdGbSQTPyG178F",
-          "duration_ms": 258013
         }
       ],
       "artists": [
@@ -2616,6 +2616,14 @@
         },
         {
           "rank": 7,
+          "name": "Chappell Roan",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
+          "genres": [],
+          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        },
+        {
+          "rank": 8,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -2623,20 +2631,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
           "uri": "spotify:artist:1ebt9HnXdyYA6KgLXr1n4P",
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        },
-        {
-          "rank": 9,
-          "name": "Chappell Roan",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
-          "genres": [],
-          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
           "rank": 10,
@@ -2656,22 +2656,6 @@
         },
         {
           "rank": 12,
-          "name": "Cocteau Twins",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
-          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "rank": 13,
-          "name": "Air",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
-          "genres": [],
-          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "rank": 14,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -2679,20 +2663,36 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 15,
-          "name": "Massive Attack",
-          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
+          "rank": 13,
+          "name": "Cocteau Twins",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
           "genres": [],
-          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
-          "rank": 16,
+          "rank": 14,
+          "name": "Air",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
+          "genres": [],
+          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        },
+        {
+          "rank": 15,
           "name": "The Cranberries",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
           "genres": [],
           "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "rank": 16,
+          "name": "Massive Attack",
+          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
+          "genres": [],
+          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         },
         {
           "rank": 17,

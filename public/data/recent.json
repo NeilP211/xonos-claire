@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T21:41:26.825Z",
+  "updated_at": "2026-08-12T01:27:41.321Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -14414,6 +14414,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
       "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
       "duration_ms": 234973
+    },
+    {
+      "played_at": "2026-08-11T22:00:43.163Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-11T22:04:01.901Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-11T22:07:16.836Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-11T22:11:23.544Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-08-11T22:15:27.017Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-08-11T22:18:24.412Z",
+      "name": "Do You Know Who You Are?",
+      "artists": [
+        "Texas Is The Reason"
+      ],
+      "album": "Do You Know Who You Are?: The Complete Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b273198d3379f0eb1599fc6a5da1",
+      "uri": "spotify:track:74HsNf2R9s09gpib6m9nbz",
+      "duration_ms": 163053
+    },
+    {
+      "played_at": "2026-08-11T22:23:46.299Z",
+      "name": "Swing Lynn",
+      "artists": [
+        "Harmless"
+      ],
+      "album": "I'm Sure",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735713e82880ef7c842a8f104e",
+      "uri": "spotify:track:3VCXx37jNGNOMns6z2OnvJ",
+      "duration_ms": 321438
     }
   ]
 }
