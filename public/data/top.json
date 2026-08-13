@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T18:56:31.608Z",
+  "generated_at": "2026-08-13T21:39:44.689Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -221,18 +221,6 @@
         },
         {
           "rank": 19,
-          "name": "Born To Die",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:36RLpWj2hzT7SFUMQSZfst",
-          "url": "https://open.spotify.com/track/36RLpWj2hzT7SFUMQSZfst",
-          "duration_ms": 286253
-        },
-        {
-          "rank": 20,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -244,7 +232,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -256,7 +244,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -266,6 +254,18 @@
           "uri": "spotify:track:2fehVgZ1rciAcl0lYh1Mpq",
           "url": "https://open.spotify.com/track/2fehVgZ1rciAcl0lYh1Mpq",
           "duration_ms": 259266
+        },
+        {
+          "rank": 22,
+          "name": "Pure",
+          "artists": [
+            "SIENNA SPIRO"
+          ],
+          "album": "Visitor",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+          "uri": "spotify:track:31IKMjvv6Oskp4hjGVeYsT",
+          "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT",
+          "duration_ms": 219924
         },
         {
           "rank": 23,
@@ -881,6 +881,14 @@
         },
         {
           "rank": 35,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 36,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
           "genres": [],
@@ -888,7 +896,7 @@
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -896,7 +904,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Basement",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
           "genres": [],
@@ -904,7 +912,7 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "wiv",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe6322459df61bd6af4b46163",
           "genres": [],
@@ -912,7 +920,7 @@
           "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Big Thief",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb2be573b9d9ca2bf7f113d92",
           "genres": [],
@@ -920,7 +928,7 @@
           "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "cloud9ine",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70d23e2a9a834dc60d1cb4bb",
           "genres": [],
@@ -928,7 +936,7 @@
           "url": "https://open.spotify.com/artist/6OF10xYnaVc1rrej6TuB00"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "French Police",
           "image": "https://i.scdn.co/image/ab6761610000e5eba8cae3b22c79dfbb1ab22621",
           "genres": [],
@@ -936,7 +944,7 @@
           "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -944,7 +952,7 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
@@ -952,7 +960,7 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
@@ -960,7 +968,7 @@
           "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],

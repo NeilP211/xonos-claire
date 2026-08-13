@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T18:56:31.754Z",
+  "updated_at": "2026-08-13T21:39:44.844Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -15069,6 +15069,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
       "uri": "spotify:track:3GYlZ7tbxLOxe6ewMNVTkw",
       "duration_ms": 281380
+    },
+    {
+      "played_at": "2026-08-13T21:00:30.490Z",
+      "name": "We Hug Now",
+      "artists": [
+        "Sydney Rose"
+      ],
+      "album": "We Hug Now",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a87e82923532962833f012e2",
+      "uri": "spotify:track:7zFio8WT0tTBqLs1pXYKqy",
+      "duration_ms": 248821
     }
   ]
 }
