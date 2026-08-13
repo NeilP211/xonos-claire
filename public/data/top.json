@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:47:50.992Z",
+  "generated_at": "2026-08-13T07:19:44.706Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2129,6 +2129,18 @@
         },
         {
           "rank": 13,
+          "name": "Lithium",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+          "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
+          "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7",
+          "duration_ms": 257053
+        },
+        {
+          "rank": 14,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -2140,7 +2152,19 @@
           "duration_ms": 132160
         },
         {
-          "rank": 14,
+          "rank": 15,
+          "name": "Karma Police",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "OK Computer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+          "duration_ms": 264066
+        },
+        {
+          "rank": 16,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -2153,7 +2177,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Cry",
           "artists": [
             "Cigarettes After Sex"
@@ -2165,19 +2189,7 @@
           "duration_ms": 256799
         },
         {
-          "rank": 16,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
-        },
-        {
-          "rank": 17,
+          "rank": 18,
           "name": "Washing Machine Heart",
           "artists": [
             "Mitski"
@@ -2187,18 +2199,6 @@
           "uri": "spotify:track:3jjsRKEsF42ccXf8kWR3nu",
           "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu",
           "duration_ms": 128198
-        },
-        {
-          "rank": 18,
-          "name": "Lithium",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-          "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-          "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7",
-          "duration_ms": 257053
         },
         {
           "rank": 19,
@@ -2263,18 +2263,6 @@
         },
         {
           "rank": 24,
-          "name": "Master of None",
-          "artists": [
-            "Beach House"
-          ],
-          "album": "Beach House",
-          "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
-          "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
-          "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u",
-          "duration_ms": 199413
-        },
-        {
-          "rank": 25,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -2285,6 +2273,18 @@
           "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
           "url": "https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb",
           "duration_ms": 212693
+        },
+        {
+          "rank": 25,
+          "name": "Master of None",
+          "artists": [
+            "Beach House"
+          ],
+          "album": "Beach House",
+          "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da",
+          "uri": "spotify:track:3stWWPN41byqp8loPdy92u",
+          "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u",
+          "duration_ms": 199413
         },
         {
           "rank": 26,
@@ -2434,6 +2434,18 @@
         },
         {
           "rank": 38,
+          "name": "The Adults Are Talking",
+          "artists": [
+            "The Strokes"
+          ],
+          "album": "The New Abnormal",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+          "duration_ms": 309053
+        },
+        {
+          "rank": 39,
           "name": "What You Want",
           "artists": [
             "CORTIS"
@@ -2445,7 +2457,7 @@
           "duration_ms": 194093
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Heavenly",
           "artists": [
             "Cigarettes After Sex"
@@ -2457,7 +2469,7 @@
           "duration_ms": 286773
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -2469,7 +2481,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -2481,7 +2493,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -2491,18 +2503,6 @@
           "uri": "spotify:track:5LrN7yUQAzvthd4QujgPFr",
           "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
           "duration_ms": 242484
-        },
-        {
-          "rank": 43,
-          "name": "The Adults Are Talking",
-          "artists": [
-            "The Strokes"
-          ],
-          "album": "The New Abnormal",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
-          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-          "duration_ms": 309053
         },
         {
           "rank": 44,
@@ -2624,6 +2624,14 @@
         },
         {
           "rank": 5,
+          "name": "Billie Eilish",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
+          "genres": [],
+          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "rank": 6,
           "name": "Lana Del Rey",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
           "genres": [],
@@ -2631,7 +2639,7 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -2639,20 +2647,12 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
           "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        },
-        {
-          "rank": 8,
-          "name": "Billie Eilish",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
-          "genres": [],
-          "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
           "rank": 9,
@@ -2912,46 +2912,14 @@
         },
         {
           "rank": 41,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "name": "Nessa Barrett",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1f4b6c0c5a69cc28880f833f",
           "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+          "uri": "spotify:artist:7pwufEBGfggjoI8twqlsmQ",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         },
         {
           "rank": 42,
-          "name": "Dybbukk",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf527e6bb70e9d714813a649c",
-          "genres": [],
-          "uri": "spotify:artist:0UAfgrYSLcjHNocndTNjhH",
-          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
-        },
-        {
-          "rank": 43,
-          "name": "KXLLSWXTCH",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb331ab4e3c9903e7bfdb78e32",
-          "genres": [],
-          "uri": "spotify:artist:2VDZoCBGjxbHJbnzSX5nP6",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        },
-        {
-          "rank": 44,
-          "name": "The Neighbourhood",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-          "genres": [],
-          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        },
-        {
-          "rank": 45,
-          "name": "Eminem",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
-          "genres": [],
-          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "rank": 46,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5eb601c3f85fe11328b87142999",
           "genres": [],
@@ -2959,7 +2927,47 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
+          "rank": 43,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 44,
+          "name": "Dybbukk",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf527e6bb70e9d714813a649c",
+          "genres": [],
+          "uri": "spotify:artist:0UAfgrYSLcjHNocndTNjhH",
+          "url": "https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH"
+        },
+        {
+          "rank": 45,
+          "name": "KXLLSWXTCH",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb331ab4e3c9903e7bfdb78e32",
+          "genres": [],
+          "uri": "spotify:artist:2VDZoCBGjxbHJbnzSX5nP6",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        },
+        {
+          "rank": 46,
+          "name": "The Neighbourhood",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "genres": [],
+          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        },
+        {
           "rank": 47,
+          "name": "Eminem",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b",
+          "genres": [],
+          "uri": "spotify:artist:7dGJo4pcD2V6oG8kP0tJRR",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "rank": 48,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
           "genres": [],
@@ -2967,7 +2975,7 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "t.A.T.u.",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
           "genres": [],
@@ -2975,20 +2983,12 @@
           "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
           "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
-        },
-        {
-          "rank": 50,
-          "name": "Mitski",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89",
-          "genres": [],
-          "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ]
     }
