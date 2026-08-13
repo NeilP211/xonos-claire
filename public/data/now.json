@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-13T01:38:10.675Z",
-  "is_playing": true,
+  "updated_at": "2026-08-13T04:47:51.250Z",
+  "is_playing": false,
   "track": {
-    "name": "Karma Police",
+    "name": "Selfless",
     "artists": [
-      "Radiohead"
+      "The Strokes"
     ],
-    "album": "OK Computer",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-    "uri": "spotify:track:63OQupATfueTdZMWTxW03A"
+    "album": "The New Abnormal",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+    "uri": "spotify:track:2t0wwvR15fc3K1ey8OiOaN"
   },
-  "played_at": "2026-08-13T01:38:10.675Z"
+  "played_at": "2026-08-13T04:25:05.236Z"
 }
