@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-12T21:39:53.453Z",
-  "is_playing": false,
+  "updated_at": "2026-08-13T01:38:10.675Z",
+  "is_playing": true,
   "track": {
-    "name": "ocean eyes",
+    "name": "Karma Police",
     "artists": [
-      "Billie Eilish"
+      "Radiohead"
     ],
-    "album": "Ocean Eyes",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732cafcdd985630d72594ecc49",
-    "uri": "spotify:track:2uIX8YMNjGMD7441kqyyNU"
+    "album": "OK Computer",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+    "uri": "spotify:track:63OQupATfueTdZMWTxW03A"
   },
-  "played_at": "2026-08-12T19:24:15.951Z"
+  "played_at": "2026-08-13T01:38:10.675Z"
 }
