@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T15:55:03.732Z",
+  "updated_at": "2026-08-13T18:56:31.754Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -15025,6 +15025,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
       "uri": "spotify:track:2t0wwvR15fc3K1ey8OiOaN",
       "duration_ms": 222093
+    },
+    {
+      "played_at": "2026-08-13T18:21:33.826Z",
+      "name": "Pure",
+      "artists": [
+        "SIENNA SPIRO"
+      ],
+      "album": "Visitor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+      "uri": "spotify:track:31IKMjvv6Oskp4hjGVeYsT",
+      "duration_ms": 219924
+    },
+    {
+      "played_at": "2026-08-13T18:25:23.290Z",
+      "name": "Pure",
+      "artists": [
+        "SIENNA SPIRO"
+      ],
+      "album": "Visitor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
+      "uri": "spotify:track:31IKMjvv6Oskp4hjGVeYsT",
+      "duration_ms": 219924
+    },
+    {
+      "played_at": "2026-08-13T18:36:04.555Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-08-13T18:40:46.961Z",
+      "name": "TV",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "album": "Guitar Songs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
+      "uri": "spotify:track:3GYlZ7tbxLOxe6ewMNVTkw",
+      "duration_ms": 281380
     }
   ]
 }
