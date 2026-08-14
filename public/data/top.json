@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:28:19.980Z",
+  "generated_at": "2026-08-14T04:44:47.390Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -221,6 +221,18 @@
         },
         {
           "rank": 19,
+          "name": "happier",
+          "artists": [
+            "Olivia Rodrigo"
+          ],
+          "album": "SOUR",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+          "uri": "spotify:track:2tGvwE8GcFKwNdAXMnlbfl",
+          "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl",
+          "duration_ms": 175933
+        },
+        {
+          "rank": 20,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -232,7 +244,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -244,7 +256,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -256,7 +268,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Pure",
           "artists": [
             "SIENNA SPIRO"
@@ -268,7 +280,7 @@
           "duration_ms": 219924
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -280,7 +292,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -292,7 +304,19 @@
           "duration_ms": 309053
         },
         {
-          "rank": 25,
+          "rank": 26,
+          "name": "Born To Die",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:36RLpWj2hzT7SFUMQSZfst",
+          "url": "https://open.spotify.com/track/36RLpWj2hzT7SFUMQSZfst",
+          "duration_ms": 286253
+        },
+        {
+          "rank": 27,
           "name": "WASTE",
           "artists": [
             "KXLLSWXTCH"
@@ -304,7 +328,7 @@
           "duration_ms": 120428
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "resonance - midwest emo version",
           "artists": [
             "jacal"
@@ -316,7 +340,7 @@
           "duration_ms": 219024
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -328,7 +352,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -340,7 +364,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -352,7 +376,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -364,7 +388,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Brian is the Most Beautiful",
           "artists": [
             "Memo Boy"
@@ -376,7 +400,7 @@
           "duration_ms": 225000
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -388,7 +412,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "I Wanna Be Your Dog",
           "artists": [
             "John McCrea"
@@ -400,7 +424,7 @@
           "duration_ms": 235706
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Two of Hearts",
           "artists": [
             "Stacey Q"
@@ -412,7 +436,7 @@
           "duration_ms": 239693
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -425,7 +449,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Sea, Swallow Me - 2024 Remaster",
           "artists": [
             "Cocteau Twins",
@@ -438,19 +462,7 @@
           "duration_ms": 189632
         },
         {
-          "rank": 37,
-          "name": "happier",
-          "artists": [
-            "Olivia Rodrigo"
-          ],
-          "album": "SOUR",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-          "uri": "spotify:track:2tGvwE8GcFKwNdAXMnlbfl",
-          "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl",
-          "duration_ms": 175933
-        },
-        {
-          "rank": 38,
+          "rank": 39,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -462,7 +474,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Yugoslavskiy Groove - Slowed + Reverb",
           "artists": [
             "Xodyl"
@@ -474,7 +486,7 @@
           "duration_ms": 67200
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -486,7 +498,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -498,7 +510,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "No One's Deserving",
           "artists": [
             "Superheaven"
@@ -510,7 +522,7 @@
           "duration_ms": 183317
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -522,7 +534,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -534,7 +546,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -546,7 +558,7 @@
           "duration_ms": 219724
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Drain You - Remastered",
           "artists": [
             "Nirvana"
@@ -558,7 +570,7 @@
           "duration_ms": 223733
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -570,7 +582,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -582,7 +594,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -592,18 +604,6 @@
           "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
           "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
           "duration_ms": 194453
-        },
-        {
-          "rank": 50,
-          "name": "Into Me",
-          "artists": [
-            "Glare"
-          ],
-          "album": "Into You",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735b956c9f8b6f17910d7d0fdb",
-          "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
-          "url": "https://open.spotify.com/track/38CbWMaYnma3byQ4CDomBu",
-          "duration_ms": 123253
         }
       ],
       "artists": [
@@ -1089,6 +1089,18 @@
         },
         {
           "rank": 10,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 11,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -1100,7 +1112,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -1112,7 +1124,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -1122,18 +1134,6 @@
           "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
           "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB",
           "duration_ms": 229120
-        },
-        {
-          "rank": 13,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         },
         {
           "rank": 14,
@@ -1717,19 +1717,19 @@
         },
         {
           "rank": 17,
-          "name": "Cocteau Twins",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
-          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        },
-        {
-          "rank": 18,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
           "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH",
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "rank": 18,
+          "name": "Cocteau Twins",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
+          "genres": [],
+          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
           "rank": 19,
