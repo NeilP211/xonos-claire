@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:46:39.581Z",
+  "generated_at": "2026-08-14T21:20:26.806Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -29,18 +29,6 @@
         },
         {
           "rank": 3,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
-        },
-        {
-          "rank": 4,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -50,6 +38,18 @@
           "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
           "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
           "duration_ms": 213920
+        },
+        {
+          "rank": 4,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
         },
         {
           "rank": 5,
@@ -777,6 +777,14 @@
         },
         {
           "rank": 22,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 23,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -784,7 +792,7 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e9b4d4f1b69ea6796d2b6cc",
           "genres": [],
@@ -792,7 +800,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Pixies",
           "image": "https://i.scdn.co/image/ab6761610000e5eb419ffe5eb82b7460c76a986a",
           "genres": [],
@@ -800,20 +808,12 @@
           "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        },
-        {
-          "rank": 26,
-          "name": "Wisp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
-          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 27,
@@ -857,11 +857,11 @@
         },
         {
           "rank": 32,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 33,
@@ -945,14 +945,6 @@
         },
         {
           "rank": 43,
-          "name": "Chappell Roan",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
-          "genres": [],
-          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        },
-        {
-          "rank": 44,
           "name": "Paramore",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
           "genres": [],
@@ -960,7 +952,7 @@
           "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
@@ -968,7 +960,7 @@
           "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Mareux",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
           "genres": [],
