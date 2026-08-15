@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:21:27.702Z",
+  "updated_at": "2026-08-15T21:16:20.132Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -15697,6 +15697,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bbce93679d0dd58d7b7c46ec",
       "uri": "spotify:track:5ZNrtDCYDwzIBKmZAclBOu",
       "duration_ms": 125538
+    },
+    {
+      "played_at": "2026-08-15T18:32:59.582Z",
+      "name": "dead fish",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "dead fish",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bb96054356cae2ebb19dd225",
+      "uri": "spotify:track:6qruVLSB5yVGYBmDpJycsp",
+      "duration_ms": 60379
+    },
+    {
+      "played_at": "2026-08-15T19:59:18.475Z",
+      "name": "All Apologies",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+      "duration_ms": 233173
+    },
+    {
+      "played_at": "2026-08-15T20:05:14.938Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-08-15T20:08:51.925Z",
+      "name": "Fear",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "A Different Age",
+      "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
+      "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
+      "duration_ms": 216539
+    },
+    {
+      "played_at": "2026-08-15T20:17:50.679Z",
+      "name": "Vanished",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
+      "duration_ms": 242960
+    },
+    {
+      "played_at": "2026-08-15T20:21:22.123Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-08-15T20:23:00.606Z",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "duration_ms": 97960
     }
   ]
 }
