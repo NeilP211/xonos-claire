@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:20:26.949Z",
+  "updated_at": "2026-08-15T00:58:48.374Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -15289,6 +15289,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
       "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
       "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-08-14T23:11:32.090Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-08-14T23:16:32.128Z",
+      "name": "Let Down",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
+      "duration_ms": 299560
+    },
+    {
+      "played_at": "2026-08-14T23:17:57.944Z",
+      "name": "nuts",
+      "artists": [
+        "Lil Peep",
+        "rainy bear"
+      ],
+      "album": "LIVE FOREVER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273254820046b555c7751e67f76",
+      "uri": "spotify:track:4k3xDpAdBuM17mNNHhOZkK",
+      "duration_ms": 85360
+    },
+    {
+      "played_at": "2026-08-14T23:25:25.260Z",
+      "name": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Young And Beautiful",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "duration_ms": 236053
     }
   ]
 }
