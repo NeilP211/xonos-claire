@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T00:58:48.374Z",
+  "updated_at": "2026-08-15T03:34:12.550Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -15334,6 +15334,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
       "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
       "duration_ms": 236053
+    },
+    {
+      "played_at": "2026-08-15T01:37:37.658Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-08-15T01:41:35.061Z",
+      "name": "No One Noticed",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Submarine",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
+      "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
+      "duration_ms": 236906
+    },
+    {
+      "played_at": "2026-08-15T01:47:27.289Z",
+      "name": "Picture You",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "uri": "spotify:track:5KtvumPgVZmt8wg9xONE0T",
+      "duration_ms": 187130
     }
   ]
 }
