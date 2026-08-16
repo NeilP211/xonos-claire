@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:21:09.843Z",
+  "generated_at": "2026-08-16T21:15:11.701Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -281,6 +281,18 @@
         },
         {
           "rank": 24,
+          "name": "Youngest Daughter",
+          "artists": [
+            "Superheaven"
+          ],
+          "album": "Jar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
+          "duration_ms": 249514
+        },
+        {
+          "rank": 25,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -292,7 +304,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -304,7 +316,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -316,7 +328,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -328,7 +340,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -341,7 +353,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "hold me in your arms",
           "artists": [
             "Blood Nose"
@@ -353,7 +365,7 @@
           "duration_ms": 80097
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -365,7 +377,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -377,7 +389,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -389,7 +401,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "WASTE",
           "artists": [
             "KXLLSWXTCH"
@@ -401,7 +413,7 @@
           "duration_ms": 120428
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -413,7 +425,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "resonance - midwest emo version",
           "artists": [
             "jacal"
@@ -423,18 +435,6 @@
           "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
           "url": "https://open.spotify.com/track/0luw44Of3IgnW2CHRnW2f7",
           "duration_ms": 219024
-        },
-        {
-          "rank": 36,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
         },
         {
           "rank": 37,
@@ -2153,6 +2153,19 @@
         },
         {
           "rank": 13,
+          "name": "Insomniac",
+          "artists": [
+            "Memo Boy",
+            "Chakra Efendi"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
+          "duration_ms": 212307
+        },
+        {
+          "rank": 14,
           "name": "Lithium",
           "artists": [
             "Nirvana"
@@ -2164,7 +2177,7 @@
           "duration_ms": 257053
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -2176,7 +2189,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -2186,19 +2199,6 @@
           "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
           "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
           "duration_ms": 264066
-        },
-        {
-          "rank": 16,
-          "name": "Insomniac",
-          "artists": [
-            "Memo Boy",
-            "Chakra Efendi"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
-          "duration_ms": 212307
         },
         {
           "rank": 17,
@@ -2458,42 +2458,6 @@
         },
         {
           "rank": 38,
-          "name": "The Adults Are Talking",
-          "artists": [
-            "The Strokes"
-          ],
-          "album": "The New Abnormal",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
-          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-          "duration_ms": 309053
-        },
-        {
-          "rank": 39,
-          "name": "What You Want",
-          "artists": [
-            "CORTIS"
-          ],
-          "album": "What You Want",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c99e4b439fcb318678a9a1a6",
-          "uri": "spotify:track:3rAcN3CLeSrkhIZN8PHbwb",
-          "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb",
-          "duration_ms": 194093
-        },
-        {
-          "rank": 40,
-          "name": "Heavenly",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Cry",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-          "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
-          "url": "https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np",
-          "duration_ms": 286773
-        },
-        {
-          "rank": 41,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -2505,7 +2469,55 @@
           "duration_ms": 214800
         },
         {
+          "rank": 39,
+          "name": "The Adults Are Talking",
+          "artists": [
+            "The Strokes"
+          ],
+          "album": "The New Abnormal",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+          "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+          "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+          "duration_ms": 309053
+        },
+        {
+          "rank": 40,
+          "name": "Covet",
+          "artists": [
+            "Basement"
+          ],
+          "album": "Colourmeinkindness",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+          "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+          "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
+          "duration_ms": 227340
+        },
+        {
+          "rank": 41,
+          "name": "What You Want",
+          "artists": [
+            "CORTIS"
+          ],
+          "album": "What You Want",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c99e4b439fcb318678a9a1a6",
+          "uri": "spotify:track:3rAcN3CLeSrkhIZN8PHbwb",
+          "url": "https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb",
+          "duration_ms": 194093
+        },
+        {
           "rank": 42,
+          "name": "Heavenly",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cry",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+          "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
+          "url": "https://open.spotify.com/track/5E02BgqYNN9VzafXrYP6Np",
+          "duration_ms": 286773
+        },
+        {
+          "rank": 43,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -2517,7 +2529,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -2527,18 +2539,6 @@
           "uri": "spotify:track:5LrN7yUQAzvthd4QujgPFr",
           "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
           "duration_ms": 242484
-        },
-        {
-          "rank": 44,
-          "name": "Covet",
-          "artists": [
-            "Basement"
-          ],
-          "album": "Colourmeinkindness",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-          "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-          "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
-          "duration_ms": 227340
         },
         {
           "rank": 45,
@@ -2590,6 +2590,18 @@
         },
         {
           "rank": 49,
+          "name": "Self Aware",
+          "artists": [
+            "Temper City"
+          ],
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
+        },
+        {
+          "rank": 50,
           "name": "JoyRide",
           "artists": [
             "CORTIS"
@@ -2599,18 +2611,6 @@
           "uri": "spotify:track:6T17ZI0glfM2IGLdUwtnLK",
           "url": "https://open.spotify.com/track/6T17ZI0glfM2IGLdUwtnLK",
           "duration_ms": 157733
-        },
-        {
-          "rank": 50,
-          "name": "Always Forever",
-          "artists": [
-            "Cults"
-          ],
-          "album": "Static",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
-          "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
-          "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
-          "duration_ms": 223750
         }
       ],
       "artists": [
@@ -2720,19 +2720,19 @@
         },
         {
           "rank": 14,
-          "name": "Air",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
-          "genres": [],
-          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
-          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
-        },
-        {
-          "rank": 15,
           "name": "The Cranberries",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
           "genres": [],
           "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "rank": 15,
+          "name": "Air",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
+          "genres": [],
+          "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
         {
           "rank": 16,
