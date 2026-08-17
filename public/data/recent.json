@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T18:32:20.775Z",
+  "updated_at": "2026-08-17T21:21:03.194Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16358,6 +16358,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27378bfc95470c00486dccde0aa",
       "uri": "spotify:track:0BpVAwVSq0De3DtroDmmKh",
       "duration_ms": 123924
+    },
+    {
+      "played_at": "2026-08-17T20:40:39.620Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
     }
   ]
 }
