@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T03:45:16.501Z",
+  "updated_at": "2026-08-17T06:43:35.862Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16138,6 +16138,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
       "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
       "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-08-17T04:13:58.016Z",
+      "name": "Her",
+      "artists": [
+        "The American Dawn"
+      ],
+      "album": "Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b273975493c69e395bf309144b81",
+      "uri": "spotify:track:2vlkTkPqdATznKHu9gD2c1",
+      "duration_ms": 214086
+    },
+    {
+      "played_at": "2026-08-17T04:18:23.528Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
     }
   ]
 }
