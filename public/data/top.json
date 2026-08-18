@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:21:03.010Z",
+  "generated_at": "2026-08-18T00:57:51.706Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -197,6 +197,18 @@
         },
         {
           "rank": 17,
+          "name": "Dumb",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
+          "duration_ms": 151893
+        },
+        {
+          "rank": 18,
           "name": "Roseblood",
           "artists": [
             "Mazzy Star"
@@ -208,7 +220,7 @@
           "duration_ms": 291040
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -220,7 +232,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -232,7 +244,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -244,7 +256,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "happier",
           "artists": [
             "Olivia Rodrigo"
@@ -256,7 +268,7 @@
           "duration_ms": 175933
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "100",
           "artists": [
             "Dean Blunt"
@@ -268,7 +280,7 @@
           "duration_ms": 200906
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -280,7 +292,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -292,7 +304,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -304,7 +316,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -316,7 +328,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -328,7 +340,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -340,7 +352,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "WASTE",
           "artists": [
             "KXLLSWXTCH"
@@ -352,7 +364,7 @@
           "duration_ms": 120428
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -364,7 +376,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -376,7 +388,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -388,7 +400,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "All The Things She Said",
           "artists": [
             "t.A.T.u."
@@ -400,7 +412,7 @@
           "duration_ms": 214440
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Romantic Homicide",
           "artists": [
             "d4vd"
@@ -412,7 +424,7 @@
           "duration_ms": 132630
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -422,18 +434,6 @@
           "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
           "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
           "duration_ms": 252276
-        },
-        {
-          "rank": 36,
-          "name": "Dumb",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
-          "duration_ms": 151893
         },
         {
           "rank": 37,
@@ -616,19 +616,19 @@
         },
         {
           "rank": 2,
-          "name": "Radiohead",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
-          "genres": [],
-          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        },
-        {
-          "rank": 3,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 3,
+          "name": "Radiohead",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
+          "genres": [],
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
           "rank": 4,
