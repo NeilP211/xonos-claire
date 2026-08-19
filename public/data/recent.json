@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:27:37.601Z",
+  "updated_at": "2026-08-19T21:20:45.579Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16646,6 +16646,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
       "uri": "spotify:track:3W7KHojYGgYaoX9ogKO9hU",
       "duration_ms": 286293
+    },
+    {
+      "played_at": "2026-08-19T19:29:08.118Z",
+      "name": "escape",
+      "artists": [
+        "jacal"
+      ],
+      "album": "escape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d968cf3ed00003dae43d49d",
+      "uri": "spotify:track:2C4uXFyCjXo7F2OVPDxVLY",
+      "duration_ms": 195428
+    },
+    {
+      "played_at": "2026-08-19T19:51:47.849Z",
+      "name": "Covet",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Colourmeinkindness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+      "duration_ms": 227340
+    },
+    {
+      "played_at": "2026-08-19T19:54:29.159Z",
+      "name": "Abbi",
+      "artists": [
+        "Vincemp3"
+      ],
+      "album": "Abbi",
+      "image": "https://i.scdn.co/image/ab67616d0000b27308bd664a1d2f1433876f5d68",
+      "uri": "spotify:track:7iIQkOIwWJoZeTMJgBwuq8",
+      "duration_ms": 160867
+    },
+    {
+      "played_at": "2026-08-19T19:58:04.329Z",
+      "name": "so hard to quit you",
+      "artists": [
+        "juggler"
+      ],
+      "album": "so hard to quit you",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732e6e5b9edd4f08de62dcb83e",
+      "uri": "spotify:track:38pgm3S0t7KI4N4K3z11e6",
+      "duration_ms": 214861
+    },
+    {
+      "played_at": "2026-08-19T20:01:58.616Z",
+      "name": "Dagger",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:3MmRfG64qt04Efx9gK9Ec8",
+      "duration_ms": 218253
+    },
+    {
+      "played_at": "2026-08-19T20:07:16.887Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
     }
   ]
 }
