@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T12:36:51.850Z",
+  "updated_at": "2026-08-19T15:26:30.460Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16567,6 +16567,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
       "uri": "spotify:track:2OErSh4oVVAUll0vHxdr6p",
       "duration_ms": 193320
+    },
+    {
+      "played_at": "2026-08-19T14:20:57.959Z",
+      "name": "About A Girl",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Bleach",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+      "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
+      "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-08-19T14:25:47.951Z",
+      "name": "Keep on Loving You",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Affection",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
+      "uri": "spotify:track:3GUSidbQwd7xuvU6AQorRh",
+      "duration_ms": 233000
+    },
+    {
+      "played_at": "2026-08-19T14:30:06.417Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-08-19T14:33:16.502Z",
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "artists": [
+        "Cocteau Twins",
+        "Harold Budd"
+      ],
+      "album": "The Moon and the Melodies (2024 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
+      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
+      "duration_ms": 189632
+    },
+    {
+      "played_at": "2026-08-19T14:37:10.968Z",
+      "name": "Playground Love (with Gordon Tracks)",
+      "artists": [
+        "Air",
+        "Gordon Tracks"
+      ],
+      "album": "The Virgin Suicides (Original Motion Picture Score)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
+      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
+      "duration_ms": 212693
+    },
+    {
+      "played_at": "2026-08-19T14:40:46.621Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
     }
   ]
 }
