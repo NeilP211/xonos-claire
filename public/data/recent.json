@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T15:26:30.460Z",
+  "updated_at": "2026-08-19T18:27:37.601Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16635,6 +16635,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
       "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
       "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-08-19T16:22:02.201Z",
+      "name": "Nothing's Gonna Hurt You Baby",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "I.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
+      "uri": "spotify:track:3W7KHojYGgYaoX9ogKO9hU",
+      "duration_ms": 286293
     }
   ]
 }
