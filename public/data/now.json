@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-18T21:18:42.465Z",
-  "is_playing": false,
+  "updated_at": "2026-08-19T00:58:25.828Z",
+  "is_playing": true,
   "track": {
-    "name": "It Almost Worked",
+    "name": "Smells Like Teen Spirit",
     "artists": [
-      "TV Girl"
+      "Nirvana"
     ],
-    "album": "The Night in Question: French Exit Outtakes",
-    "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-    "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp"
+    "album": "Nevermind (Remastered)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+    "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T"
   },
-  "played_at": "2026-08-18T14:34:25.932Z"
+  "played_at": "2026-08-19T00:58:25.828Z"
 }

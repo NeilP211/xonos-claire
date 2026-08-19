@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T21:18:42.389Z",
+  "updated_at": "2026-08-19T00:58:25.695Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -16479,6 +16479,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
       "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
       "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-08-18T22:02:23.379Z",
+      "name": "Drown",
+      "artists": [
+        "Strange Boutique"
+      ],
+      "album": "The Loved One",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738bebed1a542c6b07e0aa362d",
+      "uri": "spotify:track:3SLEmILstFcyEkFFhL4QE1",
+      "duration_ms": 278048
+    },
+    {
+      "played_at": "2026-08-19T00:53:19.397Z",
+      "name": "Red Wine Supernova",
+      "artists": [
+        "Chappell Roan"
+      ],
+      "album": "The Rise and Fall of a Midwest Princess",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+      "uri": "spotify:track:7FOgcfdz9Nx5V9lCNXdBYv",
+      "duration_ms": 192720
+    },
+    {
+      "played_at": "2026-08-19T00:57:42.891Z",
+      "name": "Lithium",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
+      "duration_ms": 257053
     }
   ]
 }
