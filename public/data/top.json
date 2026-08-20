@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:29:01.994Z",
+  "generated_at": "2026-08-20T12:37:54.251Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1100,6 +1100,18 @@
         },
         {
           "rank": 9,
+          "name": "Self Aware",
+          "artists": [
+            "Temper City"
+          ],
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
+        },
+        {
+          "rank": 10,
           "name": "Young",
           "artists": [
             "Vacations"
@@ -1111,7 +1123,7 @@
           "duration_ms": 189160
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -1121,18 +1133,6 @@
           "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
           "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe",
           "duration_ms": 233173
-        },
-        {
-          "rank": 11,
-          "name": "Self Aware",
-          "artists": [
-            "Temper City"
-          ],
-          "album": "Self Aware",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-          "duration_ms": 180740
         },
         {
           "rank": 12,
@@ -1956,38 +1956,14 @@
         },
         {
           "rank": 44,
-          "name": "Memo Boy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
+          "name": "Steve Lacy",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
-          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
-          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+          "uri": "spotify:artist:57vWImR43h4CaDao012Ofp",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
           "rank": 45,
-          "name": "Chezile",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
-          "genres": [],
-          "uri": "spotify:artist:1EmdfupUQDpXOcb4Nj2mBH",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        },
-        {
-          "rank": 46,
-          "name": "Title Fight",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
-          "genres": [],
-          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        },
-        {
-          "rank": 47,
-          "name": "voi",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd71c4bf98cbcb95c51bc4938",
-          "genres": [],
-          "uri": "spotify:artist:2YxAYKXFoY3SQvuJsWy1bb",
-          "url": "https://open.spotify.com/artist/2YxAYKXFoY3SQvuJsWy1bb"
-        },
-        {
-          "rank": 48,
           "name": "Arctic Monkeys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
           "genres": [],
@@ -1995,12 +1971,36 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         },
         {
-          "rank": 49,
-          "name": "Steve Lacy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
+          "rank": 46,
+          "name": "Memo Boy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
-          "uri": "spotify:artist:57vWImR43h4CaDao012Ofp",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
+        },
+        {
+          "rank": 47,
+          "name": "Chezile",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb1593dbc8b1c5ee3c62b55a1",
+          "genres": [],
+          "uri": "spotify:artist:1EmdfupUQDpXOcb4Nj2mBH",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        },
+        {
+          "rank": 48,
+          "name": "Title Fight",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
+          "genres": [],
+          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        },
+        {
+          "rank": 49,
+          "name": "voi",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd71c4bf98cbcb95c51bc4938",
+          "genres": [],
+          "uri": "spotify:artist:2YxAYKXFoY3SQvuJsWy1bb",
+          "url": "https://open.spotify.com/artist/2YxAYKXFoY3SQvuJsWy1bb"
         },
         {
           "rank": 50,
