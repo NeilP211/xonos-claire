@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:46:12.689Z",
+  "updated_at": "2026-08-21T06:38:02.148Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17086,6 +17086,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
       "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
       "duration_ms": 215760
+    },
+    {
+      "played_at": "2026-08-21T05:40:46.133Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-08-21T05:43:40.395Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-08-21T06:36:08.416Z",
+      "name": "Go Away",
+      "artists": [
+        "Weezer",
+        "Best Coast"
+      ],
+      "album": "Everything Will Be Alright In The End",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
+      "duration_ms": 193733
     }
   ]
 }
