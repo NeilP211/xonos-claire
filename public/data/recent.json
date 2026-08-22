@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T00:58:11.512Z",
+  "updated_at": "2026-08-22T03:37:15.690Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17120,6 +17120,96 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
       "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
       "duration_ms": 193733
+    },
+    {
+      "played_at": "2026-08-22T03:09:45.417Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-08-22T03:13:18.370Z",
+      "name": "Gilded Lily",
+      "artists": [
+        "Cults"
+      ],
+      "album": "Offering",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d0349cd631791ca446be337a",
+      "uri": "spotify:track:3Z0qLOS0cqWKPHXkbTXmNF",
+      "duration_ms": 212736
+    },
+    {
+      "played_at": "2026-08-22T03:17:25.653Z",
+      "name": "Cannock Chase",
+      "artists": [
+        "Labi Siffre"
+      ],
+      "album": "Crying Laughing Loving Lying",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
+      "uri": "spotify:track:0WAEGVylZjbe2mQ6Or6HxY",
+      "duration_ms": 246866
+    },
+    {
+      "played_at": "2026-08-22T03:20:37.894Z",
+      "name": "Need 2",
+      "artists": [
+        "Pinegrove"
+      ],
+      "album": "Everything So Far",
+      "image": "https://i.scdn.co/image/ab67616d0000b273251adf76d00dcb1356e25b10",
+      "uri": "spotify:track:1BDRKVuooLvqayamtAEV4z",
+      "duration_ms": 191796
+    },
+    {
+      "played_at": "2026-08-22T03:24:13.535Z",
+      "name": "may you never forget me",
+      "artists": [
+        "Temachii"
+      ],
+      "album": "flora maniia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac4a383aa9f6935cb7bb03e4",
+      "uri": "spotify:track:7LpY1rFYJINvy3WQyC95tD",
+      "duration_ms": 215064
+    },
+    {
+      "played_at": "2026-08-22T03:27:23.701Z",
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "artists": [
+        "Cocteau Twins",
+        "Harold Budd"
+      ],
+      "album": "The Moon and the Melodies (2024 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
+      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
+      "duration_ms": 189632
+    },
+    {
+      "played_at": "2026-08-22T03:32:08.443Z",
+      "name": "No One Noticed (Extended English)",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "No One Noticed (Extended)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358c0f15c5247c0b719d7ffb0",
+      "uri": "spotify:track:4Q9qkdqu0qKKjaftRrAK9C",
+      "duration_ms": 284466
+    },
+    {
+      "played_at": "2026-08-22T03:36:46.952Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }
