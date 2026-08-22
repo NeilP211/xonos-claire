@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:15:36.929Z",
+  "updated_at": "2026-08-22T18:21:48.848Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17342,6 +17342,85 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b4e28326e51abb259fd24b60",
       "uri": "spotify:track:3g8ENWXJH4jB3C1dDT0Wt7",
       "duration_ms": 131419
+    },
+    {
+      "played_at": "2026-08-22T17:22:31.464Z",
+      "name": "intertwined",
+      "artists": [
+        "vampireisthatyou",
+        "tiffny"
+      ],
+      "album": "intertwined",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfc27438328176f3ccf6bbbf",
+      "uri": "spotify:track:30XW6hMQbiTUGRyVNnWhZk",
+      "duration_ms": 181384
+    },
+    {
+      "played_at": "2026-08-22T17:23:18.012Z",
+      "name": "intertwined",
+      "artists": [
+        "vampireisthatyou",
+        "tiffny"
+      ],
+      "album": "intertwined",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfc27438328176f3ccf6bbbf",
+      "uri": "spotify:track:30XW6hMQbiTUGRyVNnWhZk",
+      "duration_ms": 181384
+    },
+    {
+      "played_at": "2026-08-22T17:26:38.997Z",
+      "name": "crawl",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "crawl",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d117fb1f18402fe241d5531a",
+      "uri": "spotify:track:1vz5nsrQThI3GLd0gN3pWB",
+      "duration_ms": 200526
+    },
+    {
+      "played_at": "2026-08-22T17:30:31.951Z",
+      "name": "anywhere is heaven with you",
+      "artists": [
+        "s.e. lane"
+      ],
+      "album": "anywhere is heaven with you",
+      "image": "https://i.scdn.co/image/ab67616d0000b273873fe63adfabf2dc99c832c9",
+      "uri": "spotify:track:0oBRmBJ1IzoiX1N3LxPcRG",
+      "duration_ms": 232500
+    },
+    {
+      "played_at": "2026-08-22T17:33:16.603Z",
+      "name": "Cigarette",
+      "artists": [
+        "bbdalena"
+      ],
+      "album": "Cigarette",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b1a749ca3c025c7d790da637",
+      "uri": "spotify:track:6UcR4UjIivRt0Ml675vKdM",
+      "duration_ms": 164203
+    },
+    {
+      "played_at": "2026-08-22T17:36:02.656Z",
+      "name": "Into Dark",
+      "artists": [
+        "Annie Baltic"
+      ],
+      "album": "Into Dark",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341cae60a2826d376da00fdeb",
+      "uri": "spotify:track:4IvuZUCcI6sq37pbHzf3FQ",
+      "duration_ms": 165597
+    },
+    {
+      "played_at": "2026-08-22T17:38:50.833Z",
+      "name": "i dream about you*",
+      "artists": [
+        "vampireisthatyou"
+      ],
+      "album": "NOSFERATU: VOL.2",
+      "image": "https://i.scdn.co/image/ab67616d0000b27339e9e6682b033840e0bad4e2",
+      "uri": "spotify:track:6r1tpXf6XAUXuegmgSVP8s",
+      "duration_ms": 142615
     }
   ]
 }
