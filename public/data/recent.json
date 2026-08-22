@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T18:21:48.848Z",
+  "updated_at": "2026-08-22T21:16:43.333Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17421,6 +17421,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27339e9e6682b033840e0bad4e2",
       "uri": "spotify:track:6r1tpXf6XAUXuegmgSVP8s",
       "duration_ms": 142615
+    },
+    {
+      "played_at": "2026-08-22T19:23:01.361Z",
+      "name": "till death do us part",
+      "artists": [
+        "Misery"
+      ],
+      "album": "till death do us part",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f022942d96a153915cc090e",
+      "uri": "spotify:track:19p4hyb5gm7kRHq8hnZGAc",
+      "duration_ms": 226509
+    },
+    {
+      "played_at": "2026-08-22T20:47:46.893Z",
+      "name": "till death do us part",
+      "artists": [
+        "Misery"
+      ],
+      "album": "till death do us part",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f022942d96a153915cc090e",
+      "uri": "spotify:track:19p4hyb5gm7kRHq8hnZGAc",
+      "duration_ms": 226509
+    },
+    {
+      "played_at": "2026-08-22T20:51:37.077Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
     }
   ]
 }
