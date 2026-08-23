@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T06:32:57.224Z",
+  "updated_at": "2026-08-23T09:22:50.162Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17630,6 +17630,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273d117fb1f18402fe241d5531a",
       "uri": "spotify:track:1vz5nsrQThI3GLd0gN3pWB",
       "duration_ms": 200526
+    },
+    {
+      "played_at": "2026-08-23T07:08:10.633Z",
+      "name": "day by day",
+      "artists": [
+        "gothcandy"
+      ],
+      "album": "goth girl summer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deecda0e6765be441cce7ef7",
+      "uri": "spotify:track:0TJYBZ2b9C3CYEX4hZ0fch",
+      "duration_ms": 200454
     }
   ]
 }
