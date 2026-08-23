@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T01:03:04.071Z",
+  "generated_at": "2026-08-23T03:45:57.525Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1820,6 +1820,14 @@
         },
         {
           "rank": 29,
+          "name": "Arctic Monkeys",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+          "genres": [],
+          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        },
+        {
+          "rank": 30,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
           "genres": [],
@@ -1827,7 +1835,7 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Doja Cat",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
           "genres": [],
@@ -1835,7 +1843,7 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Vansire",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
           "genres": [],
@@ -1843,7 +1851,7 @@
           "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5ebebf16e0b8ab49ecac25d0a3e",
           "genres": [],
@@ -1851,7 +1859,7 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "t.A.T.u.",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
           "genres": [],
@@ -1859,7 +1867,7 @@
           "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "flyingfish",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34",
           "genres": [],
@@ -1867,7 +1875,7 @@
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "d4vd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
           "genres": [],
@@ -1875,7 +1883,7 @@
           "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Alex G",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
           "genres": [],
@@ -1883,7 +1891,7 @@
           "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1891,7 +1899,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1899,7 +1907,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -1907,7 +1915,7 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "i don't like mirrors",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
           "genres": [],
@@ -1915,7 +1923,7 @@
           "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -1923,7 +1931,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -1931,20 +1939,12 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
           "uri": "spotify:artist:57vWImR43h4CaDao012Ofp",
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "rank": 44,
-          "name": "Arctic Monkeys",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
-          "genres": [],
-          "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         },
         {
           "rank": 45,
@@ -2727,6 +2727,14 @@
         },
         {
           "rank": 16,
+          "name": "Mazzy Star",
+          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
+          "genres": [],
+          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        },
+        {
+          "rank": 17,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -2734,20 +2742,12 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Massive Attack",
           "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
           "genres": [],
           "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
           "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "rank": 18,
-          "name": "Mazzy Star",
-          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
-          "genres": [],
-          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         },
         {
           "rank": 19,
