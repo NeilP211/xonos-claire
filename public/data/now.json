@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-24T18:33:12.266Z",
-  "is_playing": false,
+  "updated_at": "2026-08-24T21:23:52.339Z",
+  "is_playing": true,
   "track": {
-    "name": "Machine Gun",
+    "name": "How to Disappear Completely",
     "artists": [
-      "Slowdive"
+      "Radiohead"
     ],
-    "album": "Souvlaki",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
-    "uri": "spotify:track:1wXJjKJy5Pt38Bu3tUzTUL"
+    "album": "Kid A",
+    "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
+    "uri": "spotify:track:2rtGaCAeYtmcIvuZsvgTf6"
   },
-  "played_at": "2026-08-24T15:44:40.537Z"
+  "played_at": "2026-08-24T21:23:52.340Z"
 }
