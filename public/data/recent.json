@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T06:47:51.592Z",
+  "updated_at": "2026-08-24T09:41:20.449Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -17773,6 +17773,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
       "uri": "spotify:track:2fyDWKsx5904KnZMGllmAv",
       "duration_ms": 315880
+    },
+    {
+      "played_at": "2026-08-24T07:40:13.149Z",
+      "name": "into place",
+      "artists": [
+        "Midrift"
+      ],
+      "album": "into place",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d3196151ca43797d0577afd",
+      "uri": "spotify:track:5I51WDo5Lf0DOysE5UVRuD",
+      "duration_ms": 162679
+    },
+    {
+      "played_at": "2026-08-24T08:07:50.153Z",
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:4HpIh5wWfkq5sSuCLLSwYR",
+      "duration_ms": 124173
     }
   ]
 }
