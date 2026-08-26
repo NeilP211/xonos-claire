@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T12:42:06.612Z",
+  "updated_at": "2026-08-26T16:14:08.303Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -18543,6 +18543,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27357bcd0eb200ee781c11caa58",
       "uri": "spotify:track:7oTORTz06Wj7UHDPYFjAhl",
       "duration_ms": 151157
+    },
+    {
+      "played_at": "2026-08-26T14:06:35.109Z",
+      "name": "Leach",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
+      "duration_ms": 229515
+    },
+    {
+      "played_at": "2026-08-26T14:10:45.061Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-08-26T14:15:45.697Z",
+      "name": "Two-Way Mirror",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+      "duration_ms": 300186
+    },
+    {
+      "played_at": "2026-08-26T14:19:50.850Z",
+      "name": "I remember how your hands felt on mine",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "I remember how your hands felt on mine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfb6cabdf8e0bba84dc31ab",
+      "uri": "spotify:track:4rWWNbsiorGPfSb7B4c8sy",
+      "duration_ms": 195968
+    },
+    {
+      "played_at": "2026-08-26T14:22:02.786Z",
+      "name": "unrequited",
+      "artists": [
+        "Midrift"
+      ],
+      "album": "unrequited",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a4ce00760ca56e00dd51ac39",
+      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
+      "duration_ms": 130142
+    },
+    {
+      "played_at": "2026-08-26T14:24:17.876Z",
+      "name": "unknown feelings",
+      "artists": [
+        "Novulent"
+      ],
+      "album": "unknown feelings",
+      "image": "https://i.scdn.co/image/ab67616d0000b27388a96ef15faaa875a0a33859",
+      "uri": "spotify:track:4zyHmSSneytuFEdU2TbU7w",
+      "duration_ms": 134627
+    },
+    {
+      "played_at": "2026-08-26T14:26:50.322Z",
+      "name": "It Almost Worked",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "The Night in Question: French Exit Outtakes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-08-26T14:30:05.226Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-08-26T14:33:24.733Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-08-26T14:37:12.176Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
     }
   ]
 }
