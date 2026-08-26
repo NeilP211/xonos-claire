@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:14:08.087Z",
+  "generated_at": "2026-08-26T19:43:39.201Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -609,7 +609,10 @@
           "rank": 1,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "rock"
+          ],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -625,7 +628,10 @@
           "rank": 3,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
-          "genres": [],
+          "genres": [
+            "art rock",
+            "alternative rock"
+          ],
           "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
@@ -657,7 +663,10 @@
           "rank": 7,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
@@ -665,7 +674,11 @@
           "rank": 8,
           "name": "The Smiths",
           "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-          "genres": [],
+          "genres": [
+            "new wave",
+            "madchester",
+            "jangle pop"
+          ],
           "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
           "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         },
@@ -681,7 +694,11 @@
           "rank": 10,
           "name": "Mazzy Star",
           "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
-          "genres": [],
+          "genres": [
+            "dream pop",
+            "shoegaze",
+            "slowcore"
+          ],
           "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
         },
@@ -689,7 +706,13 @@
           "rank": 11,
           "name": "past self",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
           "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
           "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
         },
@@ -697,7 +720,13 @@
           "rank": 12,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
+          "genres": [
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "rock",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -721,7 +750,9 @@
           "rank": 15,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
@@ -729,7 +760,10 @@
           "rank": 16,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
-          "genres": [],
+          "genres": [
+            "alternative rock",
+            "rock"
+          ],
           "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
@@ -737,7 +771,9 @@
           "rank": 17,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -745,7 +781,11 @@
           "rank": 18,
           "name": "Slowdive",
           "image": "https://i.scdn.co/image/ab6761610000e5eb653481f50df3c11791d6132a",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "dream pop",
+            "slowcore"
+          ],
           "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF",
           "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         },
@@ -753,7 +793,9 @@
           "rank": 19,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
@@ -761,7 +803,10 @@
           "rank": 20,
           "name": "Arctic Monkeys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
-          "genres": [],
+          "genres": [
+            "indie",
+            "garage rock"
+          ],
           "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         },
@@ -769,7 +814,10 @@
           "rank": 21,
           "name": "salvia palth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
-          "genres": [],
+          "genres": [
+            "slowcore",
+            "lo-fi indie"
+          ],
           "uri": "spotify:artist:0pg0Zm8FsGAYy5kdHuBnSo",
           "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         },
@@ -777,7 +825,10 @@
           "rank": 22,
           "name": "Basement",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
-          "genres": [],
+          "genres": [
+            "midwest emo",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         },
@@ -785,7 +836,9 @@
           "rank": 23,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
-          "genres": [],
+          "genres": [
+            "alternative rock"
+          ],
           "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
@@ -793,7 +846,9 @@
           "rank": 24,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
@@ -801,7 +856,9 @@
           "rank": 25,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:2dXj6aC3DsxoTDyhk3u4gl",
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
@@ -817,7 +874,9 @@
           "rank": 27,
           "name": "Midrift",
           "image": "https://i.scdn.co/image/ab6761610000e5eb734a06826aa0fdea94a7f7e7",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
           "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
         },
@@ -825,7 +884,13 @@
           "rank": 28,
           "name": "Twin Tribes",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
           "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
           "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         },
@@ -833,7 +898,9 @@
           "rank": 29,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
@@ -841,7 +908,9 @@
           "rank": 30,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:2Q0rAyTIfdTUwDt8jpEpv0",
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
@@ -849,7 +918,10 @@
           "rank": 31,
           "name": "Cocteau Twins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
+          "genres": [
+            "dream pop",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
@@ -865,7 +937,9 @@
           "rank": 33,
           "name": "Rehash",
           "image": "https://i.scdn.co/image/ab6761610000e5eb45c2c498db800b38ff20471b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:10WfoBIKKTSqCvkeG1XW9T",
           "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
         },
@@ -881,7 +955,10 @@
           "rank": 35,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
-          "genres": [],
+          "genres": [
+            "trip hop",
+            "downtempo"
+          ],
           "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
@@ -905,7 +982,9 @@
           "rank": 38,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
@@ -913,7 +992,10 @@
           "rank": 39,
           "name": "Narrow Head",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe9c0358d8615d9ffcc799ba0",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:4g6ODwOQYRZLsP89kEoBIu",
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         },
@@ -921,7 +1003,11 @@
           "rank": 40,
           "name": "Lllyric?",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "cold wave",
+            "post-punk"
+          ],
           "uri": "spotify:artist:5ONOFdZCotEuYiZskOnEnj",
           "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
         },
@@ -937,7 +1023,10 @@
           "rank": 42,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "alternative metal"
+          ],
           "uri": "spotify:artist:6CwDvApcRshxhEVMP30Sq7",
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         },
@@ -953,7 +1042,9 @@
           "rank": 44,
           "name": "quannnic",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8f944da4ea67abd6143bb12",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6X9yxRiccMK40GHKfUFZEu",
           "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
         },
@@ -961,7 +1052,13 @@
           "rank": 45,
           "name": "French Police",
           "image": "https://i.scdn.co/image/ab6761610000e5eba8cae3b22c79dfbb1ab22621",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
           "uri": "spotify:artist:75vqTLIltGApfI0NxcsJaC",
           "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
         },
@@ -969,7 +1066,9 @@
           "rank": 46,
           "name": "dye",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1f34afcd429640ae6f942698",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:76YHUJWHU2wgGBZjIg3itT",
           "url": "https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT"
         },
@@ -977,7 +1076,12 @@
           "rank": 47,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -985,7 +1089,9 @@
           "rank": 48,
           "name": "Zeruel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
           "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
         }
@@ -1321,6 +1427,18 @@
         },
         {
           "rank": 28,
+          "name": "Cigarettes out the Window",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+          "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
+          "duration_ms": 198960
+        },
+        {
+          "rank": 29,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -1332,7 +1450,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "무당 / Mudang",
           "artists": [
             "past self"
@@ -1342,18 +1460,6 @@
           "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
           "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
           "duration_ms": 253977
-        },
-        {
-          "rank": 30,
-          "name": "Cigarettes out the Window",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-          "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
-          "duration_ms": 198960
         },
         {
           "rank": 31,
@@ -1731,6 +1837,14 @@
         },
         {
           "rank": 17,
+          "name": "gothcandy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
+          "genres": [],
+          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+        },
+        {
+          "rank": 18,
           "name": "Alexandre Desplat",
           "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
           "genres": [],
@@ -1738,7 +1852,7 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -1746,7 +1860,7 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cocteau Twins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
           "genres": [],
@@ -1754,7 +1868,7 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
@@ -1762,7 +1876,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -1770,7 +1884,7 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "past self",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
           "genres": [],
@@ -1778,20 +1892,12 @@
           "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Slowdive",
           "image": "https://i.scdn.co/image/ab6761610000e5eb653481f50df3c11791d6132a",
           "genres": [],
           "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF",
           "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        },
-        {
-          "rank": 24,
-          "name": "gothcandy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
-          "genres": [],
-          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
-          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
         },
         {
           "rank": 25,
@@ -1931,6 +2037,14 @@
         },
         {
           "rank": 42,
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
+          "genres": [],
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "rank": 43,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -1938,7 +2052,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1946,7 +2060,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -1954,7 +2068,7 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "i don't like mirrors",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
           "genres": [],
@@ -1962,20 +2076,12 @@
           "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
           "uri": "spotify:artist:2Q0rAyTIfdTUwDt8jpEpv0",
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
-        },
-        {
-          "rank": 47,
-          "name": "Wisp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
-          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 48,
@@ -3016,7 +3122,56 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "shoegaze",
+        "weight": 0.19692144373673037
+      },
+      {
+        "genre": "dream pop",
+        "weight": 0.0870488322717622
+      },
+      {
+        "genre": "rock",
+        "weight": 0.06581740976645435
+      },
+      {
+        "genre": "alternative rock",
+        "weight": 0.0589171974522293
+      },
+      {
+        "genre": "slowcore",
+        "weight": 0.055201698513800426
+      },
+      {
+        "genre": "darkwave",
+        "weight": 0.04246284501061571
+      },
+      {
+        "genre": "post-punk",
+        "weight": 0.04246284501061571
+      },
+      {
+        "genre": "cold wave",
+        "weight": 0.04246284501061571
+      },
+      {
+        "genre": "gothic rock",
+        "weight": 0.03662420382165605
+      },
+      {
+        "genre": "deathrock",
+        "weight": 0.03662420382165605
+      },
+      {
+        "genre": "post-grunge",
+        "weight": 0.029723991507430998
+      },
+      {
+        "genre": "bedroom pop",
+        "weight": 0.028662420382165606
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }
