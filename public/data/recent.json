@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T03:49:45.608Z",
+  "updated_at": "2026-08-26T06:39:36.754Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -18411,6 +18411,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27341cae60a2826d376da00fdeb",
       "uri": "spotify:track:4IvuZUCcI6sq37pbHzf3FQ",
       "duration_ms": 165597
+    },
+    {
+      "played_at": "2026-08-26T05:47:41.600Z",
+      "name": "Cigarette",
+      "artists": [
+        "bbdalena"
+      ],
+      "album": "Cigarette",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b1a749ca3c025c7d790da637",
+      "uri": "spotify:track:6UcR4UjIivRt0Ml675vKdM",
+      "duration_ms": 164203
+    },
+    {
+      "played_at": "2026-08-26T06:32:41.333Z",
+      "name": "About You",
+      "artists": [
+        "The 1975"
+      ],
+      "album": "Being Funny In A Foreign Language",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300702474f8e0e2b6155d48e3",
+      "uri": "spotify:track:3hEfpBHxgieRLz4t3kLNEg",
+      "duration_ms": 326490
     }
   ]
 }
