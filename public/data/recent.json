@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:39:36.754Z",
+  "updated_at": "2026-08-26T09:35:58.454Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -18433,6 +18433,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27300702474f8e0e2b6155d48e3",
       "uri": "spotify:track:3hEfpBHxgieRLz4t3kLNEg",
       "duration_ms": 326490
+    },
+    {
+      "played_at": "2026-08-26T06:39:57.622Z",
+      "name": "day by day",
+      "artists": [
+        "gothcandy"
+      ],
+      "album": "goth girl summer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273deecda0e6765be441cce7ef7",
+      "uri": "spotify:track:0TJYBZ2b9C3CYEX4hZ0fch",
+      "duration_ms": 200454
+    },
+    {
+      "played_at": "2026-08-26T06:41:49.982Z",
+      "name": "HE DRIVES ME FUCKING CRAZY",
+      "artists": [
+        "gothcandy"
+      ],
+      "album": "HE DRIVES ME FUCKING CRAZY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27300bb8ceaacfd189f82ae2f14",
+      "uri": "spotify:track:5dRGnomepa9MSocxju44Wu",
+      "duration_ms": 112000
+    },
+    {
+      "played_at": "2026-08-26T06:44:02.369Z",
+      "name": "i",
+      "artists": [
+        "dye"
+      ],
+      "album": "i",
+      "image": "https://i.scdn.co/image/ab67616d0000b273835ac62e4f85e475d0a90de9",
+      "uri": "spotify:track:6wIj3Cf2ASK19OZHaHjNtm",
+      "duration_ms": 131929
+    },
+    {
+      "played_at": "2026-08-26T06:46:05.460Z",
+      "name": "i don't belong here",
+      "artists": [
+        "graur"
+      ],
+      "album": "i don't belong here",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe00475c93396d6d22295d47",
+      "uri": "spotify:track:5DIFHhywdyNq93gHqaduVp",
+      "duration_ms": 122584
+    },
+    {
+      "played_at": "2026-08-26T06:49:34.908Z",
+      "name": "Always",
+      "artists": [
+        "Computer Kill"
+      ],
+      "album": "Always",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a93d7f020db1017eb25b56f5",
+      "uri": "spotify:track:2vnVcizVXgudJRqhIh2gKX",
+      "duration_ms": 208875
+    },
+    {
+      "played_at": "2026-08-26T06:51:49.266Z",
+      "name": "forgive me",
+      "artists": [
+        "emblem"
+      ],
+      "album": "forgive me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cf36f81d9e1436b6d7b7d656",
+      "uri": "spotify:track:7hyYPJVMF7DEw3OI9LGoXg",
+      "duration_ms": 133861
+    },
+    {
+      "played_at": "2026-08-26T06:54:15.048Z",
+      "name": "runaway",
+      "artists": [
+        "gothcandy"
+      ],
+      "album": "identity crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac0707745c44aac6aef00b3a",
+      "uri": "spotify:track:1Oo3fHQdocsqzbo4CxlrzB",
+      "duration_ms": 145343
+    },
+    {
+      "played_at": "2026-08-26T06:57:14.380Z",
+      "name": "Rose In A Glass",
+      "artists": [
+        "Provoker"
+      ],
+      "album": "Body Jumper",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b331dfbb74fab285585ac55",
+      "uri": "spotify:track:0oACcecqRIuP0vi2wvBq5o",
+      "duration_ms": 178937
+    },
+    {
+      "played_at": "2026-08-26T07:23:18.777Z",
+      "name": "dirt",
+      "artists": [
+        "dye"
+      ],
+      "album": "dirt",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313b47cc990832a66bd0d4f6c",
+      "uri": "spotify:track:5HOqSiB0u13Ikqmzowm1tq",
+      "duration_ms": 162583
+    },
+    {
+      "played_at": "2026-08-26T07:25:50.481Z",
+      "name": "stare at the sun",
+      "artists": [
+        "Max Fry"
+      ],
+      "album": "more than dead to me",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bcd0eb200ee781c11caa58",
+      "uri": "spotify:track:7oTORTz06Wj7UHDPYFjAhl",
+      "duration_ms": 151157
     }
   ]
 }
