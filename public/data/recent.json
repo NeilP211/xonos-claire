@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T21:22:52.631Z",
+  "updated_at": "2026-08-26T01:01:50.856Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -18312,6 +18312,105 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
       "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
       "duration_ms": 298680
+    },
+    {
+      "played_at": "2026-08-25T21:23:48.312Z",
+      "name": "Her",
+      "artists": [
+        "The American Dawn"
+      ],
+      "album": "Her",
+      "image": "https://i.scdn.co/image/ab67616d0000b273975493c69e395bf309144b81",
+      "uri": "spotify:track:2vlkTkPqdATznKHu9gD2c1",
+      "duration_ms": 214086
+    },
+    {
+      "played_at": "2026-08-25T21:26:59.613Z",
+      "name": "My Kind of Woman",
+      "artists": [
+        "Mac DeMarco"
+      ],
+      "album": "2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecfde7feaa212a1b60a197a1",
+      "uri": "spotify:track:38tfi9dtBQQ5Wyt7EL0G3z",
+      "duration_ms": 190845
+    },
+    {
+      "played_at": "2026-08-25T21:31:21.214Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-08-25T21:34:34.975Z",
+      "name": "Bigmouth Strikes Again - 2011 Remaster",
+      "artists": [
+        "The Smiths"
+      ],
+      "album": "The Queen Is Dead",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
+      "uri": "spotify:track:2OErSh4oVVAUll0vHxdr6p",
+      "duration_ms": 193320
+    },
+    {
+      "played_at": "2026-08-25T22:05:01.608Z",
+      "name": "40 Days",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:4qyJE4D584f7qJCRSy7HOE",
+      "duration_ms": 194120
+    },
+    {
+      "played_at": "2026-08-25T22:12:01.910Z",
+      "name": "40 Days",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:4qyJE4D584f7qJCRSy7HOE",
+      "duration_ms": 194120
+    },
+    {
+      "played_at": "2026-08-25T22:22:42.637Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-08-25T22:24:48.825Z",
+      "name": "dream girl",
+      "artists": [
+        "gothcandy"
+      ],
+      "album": "identity crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac0707745c44aac6aef00b3a",
+      "uri": "spotify:track:2cqMPFXlN2RvoTobnrImN7",
+      "duration_ms": 125725
+    },
+    {
+      "played_at": "2026-08-25T23:47:17.899Z",
+      "name": "Into Dark",
+      "artists": [
+        "Annie Baltic"
+      ],
+      "album": "Into Dark",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341cae60a2826d376da00fdeb",
+      "uri": "spotify:track:4IvuZUCcI6sq37pbHzf3FQ",
+      "duration_ms": 165597
     }
   ]
 }
