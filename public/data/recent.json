@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:43:39.342Z",
+  "updated_at": "2026-08-27T00:23:56.657Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -18653,6 +18653,95 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
       "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
       "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-08-26T21:50:04.627Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-08-26T21:53:57.844Z",
+      "name": "Leach",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
+      "duration_ms": 229515
+    },
+    {
+      "played_at": "2026-08-26T22:02:51.793Z",
+      "name": "Not Allowed",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+      "duration_ms": 167864
+    },
+    {
+      "played_at": "2026-08-26T22:06:15.506Z",
+      "name": "In On It",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
+      "duration_ms": 203253
+    },
+    {
+      "played_at": "2026-08-26T22:10:43.242Z",
+      "name": "Poor Aileen",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:6ysZGg7CqStzPV1ZALpNky",
+      "duration_ms": 267284
+    },
+    {
+      "played_at": "2026-08-26T22:13:44.600Z",
+      "name": "Are You The One",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Be Here Now / Are You The One",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+      "duration_ms": 180906
+    },
+    {
+      "played_at": "2026-08-26T22:16:58.770Z",
+      "name": "Go Away",
+      "artists": [
+        "Weezer",
+        "Best Coast"
+      ],
+      "album": "Everything Will Be Alright In The End",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
+      "duration_ms": 193733
+    },
+    {
+      "played_at": "2026-08-26T22:22:04.748Z",
+      "name": "Undone - The Sweater Song",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Weezer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
+      "duration_ms": 305533
     }
   ]
 }
