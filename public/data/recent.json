@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T14:50:10.869Z",
+  "updated_at": "2026-08-28T23:49:38.083Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -19605,6 +19605,84 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
       "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
       "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-08-28T21:47:03.952Z",
+      "name": "Little Bit (feat. Autoerotique) - Remix",
+      "artists": [
+        "Lykke Li",
+        "Autoerotique"
+      ],
+      "album": "Little Bit (feat. Autoerotique) [Remix]",
+      "image": "https://i.scdn.co/image/ab67616d0000b27382549d8da284640a79b87274",
+      "uri": "spotify:track:4dVejqq0Jn4pSyD7WcQ0nw",
+      "duration_ms": 234700
+    },
+    {
+      "played_at": "2026-08-28T21:51:42.622Z",
+      "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Covers",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
+      "uri": "spotify:track:4HpIh5wWfkq5sSuCLLSwYR",
+      "duration_ms": 124173
+    },
+    {
+      "played_at": "2026-08-28T21:57:43.867Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-08-28T22:03:54.422Z",
+      "name": "Luna",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:5ZKWXHh40U2QX1NHiWTnTk",
+      "duration_ms": 235894
+    },
+    {
+      "played_at": "2026-08-28T22:08:42.503Z",
+      "name": "Is It Really You?",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "I Let It in and It Took Everything",
+      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+      "uri": "spotify:track:4OmlsAT8r4q9vPFBvfYgyZ",
+      "duration_ms": 287627
+    },
+    {
+      "played_at": "2026-08-28T22:12:58.329Z",
+      "name": "Digital Bath",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "White Pony",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735c53799f473fa3e1a48c00ed",
+      "uri": "spotify:track:2jSJm3Gv6GLxduWLenmjKS",
+      "duration_ms": 255373
+    },
+    {
+      "played_at": "2026-08-28T22:15:35.254Z",
+      "name": "Blight",
+      "artists": [
+        "Zeruel"
+      ],
+      "album": "Awakening",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735a419e7c44d0e7acb36308c2",
+      "uri": "spotify:track:42LL50ddhylF2tM2fOfGcR",
+      "duration_ms": 156466
     }
   ]
 }
