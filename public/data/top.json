@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T00:12:30.442Z",
+  "generated_at": "2026-08-28T14:50:10.662Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -101,18 +101,6 @@
         },
         {
           "rank": 9,
-          "name": "불꽃으로 / Bulkkoch Eulo",
-          "artists": [
-            "past self"
-          ],
-          "album": "불꽃으로 / Bulkkoch Eulo",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
-          "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
-          "url": "https://open.spotify.com/track/4aSu60cZXfMbu6y7TcsPp1",
-          "duration_ms": 236000
-        },
-        {
-          "rank": 10,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -124,7 +112,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Fade Into You",
           "artists": [
             "Mazzy Star"
@@ -136,7 +124,7 @@
           "duration_ms": 295600
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -148,7 +136,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Pure",
           "artists": [
             "SIENNA SPIRO"
@@ -160,7 +148,7 @@
           "duration_ms": 219924
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -172,7 +160,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -184,7 +172,7 @@
           "duration_ms": 274720
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -196,7 +184,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "happier",
           "artists": [
             "Olivia Rodrigo"
@@ -208,7 +196,7 @@
           "duration_ms": 175933
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -220,7 +208,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -230,6 +218,18 @@
           "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
           "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
           "duration_ms": 249514
+        },
+        {
+          "rank": 19,
+          "name": "불꽃으로 / Bulkkoch Eulo",
+          "artists": [
+            "past self"
+          ],
+          "album": "불꽃으로 / Bulkkoch Eulo",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
+          "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
+          "url": "https://open.spotify.com/track/4aSu60cZXfMbu6y7TcsPp1",
+          "duration_ms": 236000
         },
         {
           "rank": 20,
@@ -245,6 +245,18 @@
         },
         {
           "rank": 21,
+          "name": "Facebook.com",
+          "artists": [
+            "Memo Boy"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
+          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
+          "duration_ms": 218443
+        },
+        {
+          "rank": 22,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -256,7 +268,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -268,7 +280,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -280,7 +292,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -292,7 +304,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -304,7 +316,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -316,7 +328,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -328,7 +340,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -338,18 +350,6 @@
           "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
           "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
           "duration_ms": 234973
-        },
-        {
-          "rank": 29,
-          "name": "Facebook.com",
-          "artists": [
-            "Memo Boy"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
-          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
-          "duration_ms": 218443
         },
         {
           "rank": 30,
@@ -609,7 +609,10 @@
           "rank": 1,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "rock"
+          ],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -625,7 +628,10 @@
           "rank": 3,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
-          "genres": [],
+          "genres": [
+            "art rock",
+            "alternative rock"
+          ],
           "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
@@ -633,7 +639,10 @@
           "rank": 4,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
@@ -663,19 +672,22 @@
         },
         {
           "rank": 8,
-          "name": "The Smiths",
-          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-          "genres": [],
-          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        },
-        {
-          "rank": 9,
           "name": "The Cranberries",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
           "genres": [],
           "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "rank": 9,
+          "name": "The Smiths",
+          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+          "genres": [
+            "new wave",
+            "jangle pop"
+          ],
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         },
         {
           "rank": 10,
@@ -687,22 +699,20 @@
         },
         {
           "rank": 11,
-          "name": "past self",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
-          "genres": [],
-          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
-          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
-        },
-        {
-          "rank": 12,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
+          "genres": [
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "rock",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Nessa Barrett",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1f4b6c0c5a69cc28880f833f",
           "genres": [],
@@ -710,15 +720,20 @@
           "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -726,119 +741,161 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 16,
-          "name": "Beach House",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
-          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+          "rank": 15,
+          "name": "past self",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
+          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
+          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
-          "genres": [],
+          "genres": [
+            "alternative rock",
+            "rock"
+          ],
           "uri": "spotify:artist:40Yq4vzPs9VNUrIBG5Jr2i",
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
-          "genres": [],
+          "genres": [
+            "alternative rock"
+          ],
           "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 20,
-          "name": "Mazzy Star",
-          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
-          "genres": [],
-          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
-          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
-        },
-        {
-          "rank": 21,
+          "rank": 19,
           "name": "Slowdive",
           "image": "https://i.scdn.co/image/ab6761610000e5eb653481f50df3c11791d6132a",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "dream pop",
+            "slowcore"
+          ],
           "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF",
           "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         },
         {
-          "rank": 22,
+          "rank": 20,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 23,
+          "rank": 21,
+          "name": "Mazzy Star",
+          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
+          "genres": [
+            "dream pop",
+            "shoegaze",
+            "slowcore"
+          ],
+          "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
+          "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
+        },
+        {
+          "rank": 22,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
-          "genres": [],
+          "genres": [
+            "electroclash",
+            "witch house",
+            "hyperpop"
+          ],
           "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Arctic Monkeys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
-          "genres": [],
+          "genres": [
+            "indie",
+            "garage rock"
+          ],
           "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Rehash",
           "image": "https://i.scdn.co/image/ab6761610000e5eb45c2c498db800b38ff20471b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:10WfoBIKKTSqCvkeG1XW9T",
           "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "salvia palth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
-          "genres": [],
+          "genres": [
+            "slowcore",
+            "lo-fi indie"
+          ],
           "uri": "spotify:artist:0pg0Zm8FsGAYy5kdHuBnSo",
           "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Basement",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
-          "genres": [],
+          "genres": [
+            "midwest emo",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:2dXj6aC3DsxoTDyhk3u4gl",
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Flawed Mangoes",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8492b22a6e5102ab571909e7",
           "genres": [],
@@ -846,52 +903,81 @@
           "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Midrift",
           "image": "https://i.scdn.co/image/ab6761610000e5eb734a06826aa0fdea94a7f7e7",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
           "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Twin Tribes",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
           "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
           "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         },
         {
-          "rank": 33,
-          "name": "Strawberry Guy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
-          "genres": [],
-          "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        },
-        {
-          "rank": 34,
+          "rank": 32,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:2Q0rAyTIfdTUwDt8jpEpv0",
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
+          "rank": 33,
+          "name": "Beach House",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+          "genres": [
+            "dream pop"
+          ],
+          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        {
+          "rank": 34,
+          "name": "Lllyric?",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
+          "genres": [
+            "darkwave",
+            "cold wave",
+            "post-punk"
+          ],
+          "uri": "spotify:artist:5ONOFdZCotEuYiZskOnEnj",
+          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
+        },
+        {
           "rank": 35,
-          "name": "Cocteau Twins",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
-          "genres": [],
-          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Zeruel",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
+          "genres": [
+            "shoegaze"
+          ],
+          "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
         },
         {
           "rank": 36,
-          "name": "Zeruel",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
-          "genres": [],
-          "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
-          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [
+            "witch house",
+            "darkwave"
+          ],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
           "rank": 37,
@@ -913,7 +999,10 @@
           "rank": 39,
           "name": "Air",
           "image": "https://i.scdn.co/image/ab6761610000e5ebbba853968b8873dd4f6ef3c1",
-          "genres": [],
+          "genres": [
+            "trip hop",
+            "downtempo"
+          ],
           "uri": "spotify:artist:1P6U1dCeHxPui5pIrGmndZ",
           "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
         },
@@ -937,7 +1026,9 @@
           "rank": 42,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
@@ -945,17 +1036,23 @@
           "rank": 43,
           "name": "Narrow Head",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe9c0358d8615d9ffcc799ba0",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:4g6ODwOQYRZLsP89kEoBIu",
           "url": "https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu"
         },
         {
           "rank": 44,
-          "name": "Lllyric?",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
-          "genres": [],
-          "uri": "spotify:artist:5ONOFdZCotEuYiZskOnEnj",
-          "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
+          "name": "Cocteau Twins",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
+          "genres": [
+            "dream pop",
+            "shoegaze"
+          ],
+          "uri": "spotify:artist:5Wabl1lPdNOeIn0SQ5A1mp",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
           "rank": 45,
@@ -969,7 +1066,10 @@
           "rank": 46,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "alternative metal"
+          ],
           "uri": "spotify:artist:6CwDvApcRshxhEVMP30Sq7",
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         },
@@ -985,7 +1085,9 @@
           "rank": 48,
           "name": "quannnic",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd8f944da4ea67abd6143bb12",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6X9yxRiccMK40GHKfUFZEu",
           "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
         },
@@ -993,7 +1095,13 @@
           "rank": 49,
           "name": "French Police",
           "image": "https://i.scdn.co/image/ab6761610000e5eba8cae3b22c79dfbb1ab22621",
-          "genres": [],
+          "genres": [
+            "darkwave",
+            "post-punk",
+            "cold wave",
+            "gothic rock",
+            "deathrock"
+          ],
           "uri": "spotify:artist:75vqTLIltGApfI0NxcsJaC",
           "url": "https://open.spotify.com/artist/75vqTLIltGApfI0NxcsJaC"
         },
@@ -1001,7 +1109,9 @@
           "rank": 50,
           "name": "dye",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1f34afcd429640ae6f942698",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:76YHUJWHU2wgGBZjIg3itT",
           "url": "https://open.spotify.com/artist/76YHUJWHU2wgGBZjIg3itT"
         }
@@ -1325,6 +1435,18 @@
         },
         {
           "rank": 27,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 28,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -1336,7 +1458,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -1348,7 +1470,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -1358,18 +1480,6 @@
           "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
           "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
           "duration_ms": 97960
-        },
-        {
-          "rank": 30,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
         },
         {
           "rank": 31,
@@ -2616,15 +2726,15 @@
         },
         {
           "rank": 50,
-          "name": "Supermassive Black Hole",
+          "name": "Smells Like Teen Spirit",
           "artists": [
-            "Muse"
+            "Nirvana"
           ],
-          "album": "Black Holes and Revelations",
-          "image": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
-          "uri": "spotify:track:3lPr8ghNDBLc2uZovNyLs9",
-          "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9",
-          "duration_ms": 212439
+          "album": "Nevermind (Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+          "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
+          "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T",
+          "duration_ms": 301920
         }
       ],
       "artists": [
@@ -3032,7 +3142,56 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "shoegaze",
+        "weight": 0.1754294638209266
+      },
+      {
+        "genre": "rock",
+        "weight": 0.0650702758979698
+      },
+      {
+        "genre": "dream pop",
+        "weight": 0.062467464862051014
+      },
+      {
+        "genre": "alternative rock",
+        "weight": 0.06090577824049974
+      },
+      {
+        "genre": "darkwave",
+        "weight": 0.04685059864653826
+      },
+      {
+        "genre": "slowcore",
+        "weight": 0.045809474232170744
+      },
+      {
+        "genre": "witch house",
+        "weight": 0.04268610098906819
+      },
+      {
+        "genre": "post-punk",
+        "weight": 0.039042165538781884
+      },
+      {
+        "genre": "cold wave",
+        "weight": 0.039042165538781884
+      },
+      {
+        "genre": "electroclash",
+        "weight": 0.034877667881311816
+      },
+      {
+        "genre": "gothic rock",
+        "weight": 0.03019260801665799
+      },
+      {
+        "genre": "deathrock",
+        "weight": 0.03019260801665799
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }
