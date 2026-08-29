@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T12:11:22.824Z",
+  "updated_at": "2026-08-29T18:08:37.745Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -19683,6 +19683,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735a419e7c44d0e7acb36308c2",
       "uri": "spotify:track:42LL50ddhylF2tM2fOfGcR",
       "duration_ms": 156466
+    },
+    {
+      "played_at": "2026-08-29T13:19:43.746Z",
+      "name": "Судно (Борис Рыжий)",
+      "artists": [
+        "Molchat Doma"
+      ],
+      "album": "Этажи",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
+      "uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
+      "duration_ms": 141394
     }
   ]
 }
