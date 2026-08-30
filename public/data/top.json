@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T22:57:54.296Z",
+  "generated_at": "2026-08-30T03:18:34.743Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1987,6 +1987,14 @@
         },
         {
           "rank": 47,
+          "name": "salvia palth",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
+          "genres": [],
+          "uri": "spotify:artist:0pg0Zm8FsGAYy5kdHuBnSo",
+          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
+        },
+        {
+          "rank": 48,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -1994,7 +2002,7 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
@@ -2002,20 +2010,12 @@
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "i don't like mirrors",
           "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
           "genres": [],
           "uri": "spotify:artist:7sZCJvKlrUa5wP3GDnW0ld",
           "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
-        },
-        {
-          "rank": 50,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         }
       ]
     },
