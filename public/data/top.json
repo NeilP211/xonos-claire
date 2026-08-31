@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T03:14:08.677Z",
+  "generated_at": "2026-08-31T12:32:22.346Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1723,19 +1723,19 @@
         },
         {
           "rank": 15,
-          "name": "Blood Nose",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7b672f596aec73eb0bdd3739",
-          "genres": [],
-          "uri": "spotify:artist:6fPWD6aplRohXMpRRAF6Wa",
-          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
-        },
-        {
-          "rank": 16,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        },
+        {
+          "rank": 16,
+          "name": "Blood Nose",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7b672f596aec73eb0bdd3739",
+          "genres": [],
+          "uri": "spotify:artist:6fPWD6aplRohXMpRRAF6Wa",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
         },
         {
           "rank": 17,
@@ -1971,6 +1971,14 @@
         },
         {
           "rank": 46,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 47,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1978,7 +1986,7 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "salvia palth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
           "genres": [],
@@ -1986,7 +1994,7 @@
           "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -1994,20 +2002,12 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
           "genres": [],
           "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        },
-        {
-          "rank": 50,
-          "name": "i don't like mirrors",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb94a2d1adb2e6e480de617542",
-          "genres": [],
-          "uri": "spotify:artist:7sZCJvKlrUa5wP3GDnW0ld",
-          "url": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld"
         }
       ]
     },
