@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T12:32:22.404Z",
+  "updated_at": "2026-08-31T20:36:36.250Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -20128,6 +20128,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
       "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
       "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-08-31T16:18:30.883Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-08-31T16:25:15.039Z",
+      "name": "Crimewave",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+      "duration_ms": 258453
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:32:22.346Z",
+  "generated_at": "2026-08-31T20:36:35.995Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,6 +41,18 @@
         },
         {
           "rank": 4,
+          "name": "Crimewave",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+          "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
+          "duration_ms": 258453
+        },
+        {
+          "rank": 5,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -52,7 +64,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "무당 / Mudang",
           "artists": [
             "past self"
@@ -64,7 +76,7 @@
           "duration_ms": 253977
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "day by day",
           "artists": [
             "gothcandy"
@@ -74,18 +86,6 @@
           "uri": "spotify:track:0TJYBZ2b9C3CYEX4hZ0fch",
           "url": "https://open.spotify.com/track/0TJYBZ2b9C3CYEX4hZ0fch",
           "duration_ms": 200454
-        },
-        {
-          "rank": 7,
-          "name": "Crimewave",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
-          "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
-          "duration_ms": 258453
         },
         {
           "rank": 8,
@@ -197,6 +197,18 @@
         },
         {
           "rank": 17,
+          "name": "Velvet Ring - 2023 Remaster",
+          "artists": [
+            "Big Thief"
+          ],
+          "album": "Masterpiece (2023 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
+          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
+          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
+          "duration_ms": 155938
+        },
+        {
+          "rank": 18,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -208,7 +220,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -220,7 +232,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -232,7 +244,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -244,7 +256,7 @@
           "duration_ms": 274720
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Facebook.com",
           "artists": [
             "Memo Boy"
@@ -256,7 +268,7 @@
           "duration_ms": 218443
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
           "artists": [
             "Deftones"
@@ -268,7 +280,7 @@
           "duration_ms": 124173
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -280,7 +292,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -292,7 +304,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -304,7 +316,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -316,7 +328,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -328,7 +340,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -340,7 +352,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -352,7 +364,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -364,7 +376,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -376,7 +388,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Brian is the Most Beautiful",
           "artists": [
             "Memo Boy"
@@ -388,7 +400,7 @@
           "duration_ms": 225000
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Two of Hearts",
           "artists": [
             "Stacey Q"
@@ -398,18 +410,6 @@
           "uri": "spotify:track:2dURQIBrw3XcHyVZlfdpC1",
           "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1",
           "duration_ms": 239693
-        },
-        {
-          "rank": 34,
-          "name": "Velvet Ring - 2023 Remaster",
-          "artists": [
-            "Big Thief"
-          ],
-          "album": "Masterpiece (2023 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
-          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
-          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
-          "duration_ms": 155938
         },
         {
           "rank": 35,
@@ -807,6 +807,14 @@
         },
         {
           "rank": 26,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 27,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -814,20 +822,12 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
-          "rank": 28,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
         },
         {
           "rank": 29,
@@ -1585,6 +1585,18 @@
         },
         {
           "rank": 49,
+          "name": "Velvet Ring - 2023 Remaster",
+          "artists": [
+            "Big Thief"
+          ],
+          "album": "Masterpiece (2023 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
+          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
+          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
+          "duration_ms": 155938
+        },
+        {
+          "rank": 50,
           "name": "Sienna",
           "artists": [
             "The Marías"
@@ -1594,18 +1606,6 @@
           "uri": "spotify:track:0InIeZW4P6VO7dUGRM4AKH",
           "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH",
           "duration_ms": 224840
-        },
-        {
-          "rank": 50,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
         }
       ],
       "artists": [
@@ -1883,6 +1883,14 @@
         },
         {
           "rank": 35,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
+          "rank": 36,
           "name": "Arctic Monkeys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
           "genres": [],
@@ -1890,7 +1898,7 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
           "genres": [],
@@ -1898,7 +1906,7 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Doja Cat",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a0644455ebfa7d3976f5101",
           "genres": [],
@@ -1906,7 +1914,7 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Vansire",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d",
           "genres": [],
@@ -1914,7 +1922,7 @@
           "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -1922,7 +1930,7 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -1930,7 +1938,7 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5ebebf16e0b8ab49ecac25d0a3e",
           "genres": [],
@@ -1938,7 +1946,7 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "t.A.T.u.",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
           "genres": [],
@@ -1946,7 +1954,7 @@
           "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "flyingfish",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34",
           "genres": [],
@@ -1954,7 +1962,7 @@
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "d4vd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
           "genres": [],
@@ -1962,20 +1970,12 @@
           "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Alex G",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
           "genres": [],
           "uri": "spotify:artist:6lcwlkAjBPSKnFBZjjZFJs",
           "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        },
-        {
-          "rank": 46,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
           "rank": 47,
