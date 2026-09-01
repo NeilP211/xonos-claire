@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:36:35.995Z",
+  "generated_at": "2026-09-01T00:20:12.083Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -29,18 +29,6 @@
         },
         {
           "rank": 3,
-          "name": "Self Aware",
-          "artists": [
-            "Temper City"
-          ],
-          "album": "Self Aware",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-          "duration_ms": 180740
-        },
-        {
-          "rank": 4,
           "name": "Crimewave",
           "artists": [
             "Crystal Castles"
@@ -50,6 +38,18 @@
           "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
           "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
           "duration_ms": 258453
+        },
+        {
+          "rank": 4,
+          "name": "Self Aware",
+          "artists": [
+            "Temper City"
+          ],
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
         },
         {
           "rank": 5,
@@ -161,6 +161,18 @@
         },
         {
           "rank": 14,
+          "name": "Facebook.com",
+          "artists": [
+            "Memo Boy"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
+          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
+          "duration_ms": 218443
+        },
+        {
+          "rank": 15,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -172,7 +184,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -184,7 +196,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "happier",
           "artists": [
             "Olivia Rodrigo"
@@ -196,7 +208,7 @@
           "duration_ms": 175933
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -208,7 +220,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -220,7 +232,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -232,7 +244,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Vanished",
           "artists": [
             "Crystal Castles"
@@ -244,7 +256,7 @@
           "duration_ms": 242960
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -254,18 +266,6 @@
           "uri": "spotify:track:1WYrTfvKjQYaYfVziGG1ET",
           "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
           "duration_ms": 274720
-        },
-        {
-          "rank": 22,
-          "name": "Facebook.com",
-          "artists": [
-            "Memo Boy"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
-          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
-          "duration_ms": 218443
         },
         {
           "rank": 23,
@@ -831,6 +831,14 @@
         },
         {
           "rank": 29,
+          "name": "Twin Tribes",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
+          "genres": [],
+          "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
+        },
+        {
+          "rank": 30,
           "name": "VIOLENT VIRA",
           "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
           "genres": [],
@@ -838,7 +846,7 @@
           "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -846,7 +854,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
           "genres": [],
@@ -854,7 +862,7 @@
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -862,7 +870,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -870,7 +878,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Lllyric?",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
           "genres": [],
@@ -878,7 +886,7 @@
           "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
           "genres": [],
@@ -886,20 +894,12 @@
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Zeruel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
           "genres": [],
           "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
           "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
-        },
-        {
-          "rank": 37,
-          "name": "Twin Tribes",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
-          "genres": [],
-          "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         },
         {
           "rank": 38,
