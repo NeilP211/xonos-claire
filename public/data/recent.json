@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T18:07:01.825Z",
+  "updated_at": "2026-09-01T22:57:15.739Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -20547,6 +20547,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
       "uri": "spotify:track:0lqHgjNrXmtFroWDqwV1iQ",
       "duration_ms": 218800
+    },
+    {
+      "played_at": "2026-09-01T20:25:56.706Z",
+      "name": "Gallowdance",
+      "artists": [
+        "Lebanon Hanover"
+      ],
+      "album": "Tomb for Two",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c2faefa93ed43f4cc1a079b",
+      "uri": "spotify:track:74SUn8w4lYSwgOGPvVZiEo",
+      "duration_ms": 231911
+    },
+    {
+      "played_at": "2026-09-01T20:36:03.316Z",
+      "name": "Cherry Waves",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+      "duration_ms": 317706
+    },
+    {
+      "played_at": "2026-09-01T20:41:03.463Z",
+      "name": "In Bloom",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
+      "duration_ms": 255080
+    },
+    {
+      "played_at": "2026-09-01T20:44:42.344Z",
+      "name": "Come As You Are",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
+      "duration_ms": 218920
+    },
+    {
+      "played_at": "2026-09-01T20:47:51.053Z",
+      "name": "Diamond Eyes",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+      "uri": "spotify:track:6nmDEbjMZru5j55HIkX2yZ",
+      "duration_ms": 188266
     }
   ]
 }
