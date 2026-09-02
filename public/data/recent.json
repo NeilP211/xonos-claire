@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T22:57:15.739Z",
+  "updated_at": "2026-09-02T02:35:39.636Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -20602,6 +20602,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
       "uri": "spotify:track:6nmDEbjMZru5j55HIkX2yZ",
       "duration_ms": 188266
+    },
+    {
+      "played_at": "2026-09-02T00:49:37.958Z",
+      "name": "Heart-Shaped Box",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+      "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
+      "duration_ms": 281160
+    },
+    {
+      "played_at": "2026-09-02T00:53:30.499Z",
+      "name": "Something In The Way",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
+      "duration_ms": 232146
     }
   ]
 }

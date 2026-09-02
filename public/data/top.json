@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:57:15.556Z",
+  "generated_at": "2026-09-02T02:35:39.504Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -437,6 +437,18 @@
         },
         {
           "rank": 37,
+          "name": "Heart-Shaped Box",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero (Deluxe Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
+          "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
+          "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa",
+          "duration_ms": 281160
+        },
+        {
+          "rank": 38,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -448,7 +460,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "WANT IT CRAVE IT",
           "artists": [
             "gothcandy"
@@ -460,7 +472,7 @@
           "duration_ms": 131419
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -472,7 +484,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Always Forever",
           "artists": [
             "Cults"
@@ -484,7 +496,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -496,7 +508,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "ilomilo",
           "artists": [
             "Billie Eilish"
@@ -508,7 +520,7 @@
           "duration_ms": 156370
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -520,7 +532,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -532,7 +544,7 @@
           "duration_ms": 274720
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Keep On Loving You",
           "artists": [
             "Cigarettes After Sex"
@@ -544,7 +556,7 @@
           "duration_ms": 233000
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -556,7 +568,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "I Can't",
           "artists": [
             "Radiohead"
@@ -568,7 +580,7 @@
           "duration_ms": 253093
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -580,7 +592,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -590,18 +602,6 @@
           "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
           "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
           "duration_ms": 264773
-        },
-        {
-          "rank": 50,
-          "name": "grave",
-          "artists": [
-            "kyszenn"
-          ],
-          "album": "grave",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b2fd5e3e779efd0bc44d9168",
-          "uri": "spotify:track:2SmF9INQrybbcScwMqSnEO",
-          "url": "https://open.spotify.com/track/2SmF9INQrybbcScwMqSnEO",
-          "duration_ms": 145123
         }
       ],
       "artists": [
@@ -1171,15 +1171,15 @@
         },
         {
           "rank": 15,
-          "name": "When the Sun Hits",
+          "name": "In Bloom - Remastered",
           "artists": [
-            "Slowdive"
+            "Nirvana"
           ],
-          "album": "Souvlaki",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
-          "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
-          "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
-          "duration_ms": 285906
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
+          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
+          "duration_ms": 254533
         },
         {
           "rank": 16,
@@ -1195,15 +1195,15 @@
         },
         {
           "rank": 17,
-          "name": "In Bloom - Remastered",
+          "name": "When the Sun Hits",
           "artists": [
-            "Nirvana"
+            "Slowdive"
           ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
-          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
-          "duration_ms": 254533
+          "album": "Souvlaki",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+          "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
+          "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
+          "duration_ms": 285906
         },
         {
           "rank": 18,
@@ -1244,18 +1244,6 @@
         },
         {
           "rank": 21,
-          "name": "Mrs Magic",
-          "artists": [
-            "Strawberry Guy"
-          ],
-          "album": "Mrs Magic",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c",
-          "uri": "spotify:track:0TZejo18HlJ86OrWNsXKnw",
-          "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw",
-          "duration_ms": 208500
-        },
-        {
-          "rank": 22,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -1265,6 +1253,18 @@
           "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
           "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
           "duration_ms": 317706
+        },
+        {
+          "rank": 22,
+          "name": "Mrs Magic",
+          "artists": [
+            "Strawberry Guy"
+          ],
+          "album": "Mrs Magic",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c",
+          "uri": "spotify:track:0TZejo18HlJ86OrWNsXKnw",
+          "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw",
+          "duration_ms": 208500
         },
         {
           "rank": 23,
@@ -1525,18 +1525,6 @@
         },
         {
           "rank": 44,
-          "name": "My Iron Lung",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "The Bends",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
-          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
-          "duration_ms": 276426
-        },
-        {
-          "rank": 45,
           "name": "Crimewave",
           "artists": [
             "Crystal Castles"
@@ -1546,6 +1534,18 @@
           "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
           "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
           "duration_ms": 258453
+        },
+        {
+          "rank": 45,
+          "name": "My Iron Lung",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "The Bends",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+          "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
+          "url": "https://open.spotify.com/track/0jyikFM0Umv0KlnrOEKtTG",
+          "duration_ms": 276426
         },
         {
           "rank": 46,
