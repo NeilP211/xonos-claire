@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-02T02:35:39.701Z",
-  "is_playing": false,
+  "updated_at": "2026-09-02T07:33:22.469Z",
+  "is_playing": true,
   "track": {
-    "name": "Something In The Way",
+    "name": "A Girl Is A Gun",
     "artists": [
-      "Nirvana"
+      "Lllyric?"
     ],
-    "album": "Nevermind (Remastered)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-    "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s"
+    "album": "A Girl Is A Gun",
+    "image": "https://i.scdn.co/image/ab67616d0000b27397cbca5861221114c814e209",
+    "uri": "spotify:track:7IZMgrH0eRMvvhaxmKkgbd"
   },
-  "played_at": "2026-09-02T00:53:30.499Z"
+  "played_at": "2026-09-02T07:33:22.469Z"
 }
