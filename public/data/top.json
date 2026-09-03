@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:41:46.054Z",
+  "generated_at": "2026-09-03T13:12:07.139Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1143,6 +1143,18 @@
         },
         {
           "rank": 12,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 13,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -1154,7 +1166,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "John Wayne",
           "artists": [
             "Cigarettes After Sex"
@@ -1166,7 +1178,7 @@
           "duration_ms": 258013
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -1178,7 +1190,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -1188,18 +1200,6 @@
           "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
           "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
           "duration_ms": 254533
-        },
-        {
-          "rank": 16,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
         },
         {
           "rank": 17,
@@ -1557,6 +1557,18 @@
         },
         {
           "rank": 46,
+          "name": "in your head",
+          "artists": [
+            "cloudyfield"
+          ],
+          "album": "in your head",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
+          "duration_ms": 170000
+        },
+        {
+          "rank": 47,
           "name": "Rape Me",
           "artists": [
             "Nirvana"
@@ -1568,7 +1580,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -1580,7 +1592,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -1592,7 +1604,7 @@
           "duration_ms": 274720
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -1602,18 +1614,6 @@
           "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
           "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
           "duration_ms": 252276
-        },
-        {
-          "rank": 50,
-          "name": "Velvet Ring - 2023 Remaster",
-          "artists": [
-            "Big Thief"
-          ],
-          "album": "Masterpiece (2023 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
-          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
-          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
-          "duration_ms": 155938
         }
       ],
       "artists": [
@@ -1755,6 +1755,14 @@
         },
         {
           "rank": 18,
+          "name": "past self",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
+          "genres": [],
+          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
+          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
+        },
+        {
+          "rank": 19,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -1762,7 +1770,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -1770,7 +1778,7 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Alexandre Desplat",
           "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
           "genres": [],
@@ -1778,7 +1786,7 @@
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Chappell Roan",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
           "genres": [],
@@ -1786,7 +1794,7 @@
           "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Cocteau Twins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb00f01cecce8a4475c3de0998",
           "genres": [],
@@ -1794,7 +1802,7 @@
           "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
@@ -1802,7 +1810,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Ramin Djawadi",
           "image": "https://i.scdn.co/image/ab6761610000e5eb91e7dd670bc7d3ec7d1cbc6f",
           "genres": [],
@@ -1810,20 +1818,12 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Slowdive",
           "image": "https://i.scdn.co/image/ab6761610000e5eb653481f50df3c11791d6132a",
           "genres": [],
           "uri": "spotify:artist:72X6FHxaShda0XeQw3vbeF",
           "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        },
-        {
-          "rank": 26,
-          "name": "past self",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
-          "genres": [],
-          "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
-          "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
         },
         {
           "rank": 27,
