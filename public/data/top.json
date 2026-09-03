@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T18:18:20.026Z",
+  "generated_at": "2026-09-03T22:57:13.602Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -317,6 +317,18 @@
         },
         {
           "rank": 27,
+          "name": "Love Buzz",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Bleach",
+          "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+          "uri": "spotify:track:5muVpPu8Fj9fXfDbbqDdrZ",
+          "url": "https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ",
+          "duration_ms": 215203
+        },
+        {
+          "rank": 28,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -328,7 +340,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -340,7 +352,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -352,7 +364,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "WANT IT CRAVE IT",
           "artists": [
             "gothcandy"
@@ -364,7 +376,7 @@
           "duration_ms": 131419
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -376,115 +388,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 32,
-          "name": "Zombie - 2025 Remastered",
-          "artists": [
-            "The Cranberries"
-          ],
-          "album": "No Need To Argue (2025 Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
-          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-          "duration_ms": 305626
-        },
-        {
           "rank": 33,
-          "name": "Velvet Ring - 2023 Remaster",
-          "artists": [
-            "Big Thief"
-          ],
-          "album": "Masterpiece (2023 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
-          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
-          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
-          "duration_ms": 155938
-        },
-        {
-          "rank": 34,
-          "name": "It Almost Worked",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "The Night in Question: French Exit Outtakes",
-          "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-          "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-          "url": "https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp",
-          "duration_ms": 152000
-        },
-        {
-          "rank": 35,
-          "name": "Where Is My Mind? - 2007 Remaster",
-          "artists": [
-            "Pixies"
-          ],
-          "album": "Surfer Rosa (2007 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
-          "duration_ms": 234973
-        },
-        {
-          "rank": 36,
-          "name": "All Apologies",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
-          "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe",
-          "duration_ms": 233173
-        },
-        {
-          "rank": 37,
-          "name": "Brian is the Most Beautiful",
-          "artists": [
-            "Memo Boy"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:3lhLML5eIwmPnw2xWKosZX",
-          "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX",
-          "duration_ms": 225000
-        },
-        {
-          "rank": 38,
-          "name": "In Bloom - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
-          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
-          "duration_ms": 254533
-        },
-        {
-          "rank": 39,
-          "name": "About A Girl",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Bleach",
-          "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
-          "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
-          "url": "https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok",
-          "duration_ms": 168428
-        },
-        {
-          "rank": 40,
-          "name": "Two of Hearts",
-          "artists": [
-            "Stacey Q"
-          ],
-          "album": "Better Than Heaven",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735f37d8244e2c030165831cf2",
-          "uri": "spotify:track:2dURQIBrw3XcHyVZlfdpC1",
-          "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1",
-          "duration_ms": 239693
-        },
-        {
-          "rank": 41,
           "name": "White Boy",
           "artists": [
             "Bikini Kill"
@@ -496,7 +400,115 @@
           "duration_ms": 146000
         },
         {
+          "rank": 34,
+          "name": "Zombie - 2025 Remastered",
+          "artists": [
+            "The Cranberries"
+          ],
+          "album": "No Need To Argue (2025 Remastered)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
+          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+          "duration_ms": 305626
+        },
+        {
+          "rank": 35,
+          "name": "Velvet Ring - 2023 Remaster",
+          "artists": [
+            "Big Thief"
+          ],
+          "album": "Masterpiece (2023 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
+          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
+          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
+          "duration_ms": 155938
+        },
+        {
+          "rank": 36,
+          "name": "It Almost Worked",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "The Night in Question: French Exit Outtakes",
+          "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+          "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
+          "url": "https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp",
+          "duration_ms": 152000
+        },
+        {
+          "rank": 37,
+          "name": "Where Is My Mind? - 2007 Remaster",
+          "artists": [
+            "Pixies"
+          ],
+          "album": "Surfer Rosa (2007 Remaster)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+          "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+          "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy",
+          "duration_ms": 234973
+        },
+        {
+          "rank": 38,
+          "name": "All Apologies",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "In Utero",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+          "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+          "url": "https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe",
+          "duration_ms": 233173
+        },
+        {
+          "rank": 39,
+          "name": "Brian is the Most Beautiful",
+          "artists": [
+            "Memo Boy"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:3lhLML5eIwmPnw2xWKosZX",
+          "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX",
+          "duration_ms": 225000
+        },
+        {
+          "rank": 40,
+          "name": "In Bloom - Remastered",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
+          "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
+          "duration_ms": 254533
+        },
+        {
+          "rank": 41,
+          "name": "About A Girl",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Bleach",
+          "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+          "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
+          "url": "https://open.spotify.com/track/2SHTKB8YYlawTGIuJ2b2ok",
+          "duration_ms": 168428
+        },
+        {
           "rank": 42,
+          "name": "Two of Hearts",
+          "artists": [
+            "Stacey Q"
+          ],
+          "album": "Better Than Heaven",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735f37d8244e2c030165831cf2",
+          "uri": "spotify:track:2dURQIBrw3XcHyVZlfdpC1",
+          "url": "https://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1",
+          "duration_ms": 239693
+        },
+        {
+          "rank": 43,
           "name": "Pretty Girls Make Graves - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -508,7 +520,7 @@
           "duration_ms": 223253
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "unknown feelings",
           "artists": [
             "Novulent"
@@ -520,7 +532,7 @@
           "duration_ms": 134627
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -532,7 +544,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -544,7 +556,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -556,7 +568,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -568,7 +580,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Always Forever",
           "artists": [
             "Cults"
@@ -580,7 +592,7 @@
           "duration_ms": 223750
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -590,18 +602,6 @@
           "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
           "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
           "duration_ms": 198960
-        },
-        {
-          "rank": 50,
-          "name": "ilomilo",
-          "artists": [
-            "Billie Eilish"
-          ],
-          "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-          "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
-          "uri": "spotify:track:7qEKqBCD2vE5vIBsrUitpD",
-          "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD",
-          "duration_ms": 156370
         }
       ],
       "artists": [
@@ -895,6 +895,14 @@
         },
         {
           "rank": 37,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 38,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -902,7 +910,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Glare",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5f00a281ce3ca88180c85a9e",
           "genres": [],
@@ -910,7 +918,7 @@
           "url": "https://open.spotify.com/artist/2dXj6aC3DsxoTDyhk3u4gl"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -918,7 +926,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -926,7 +934,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Lllyric?",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
           "genres": [],
@@ -934,7 +942,7 @@
           "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
           "genres": [],
@@ -942,7 +950,7 @@
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Destroy Boys",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
           "genres": [],
@@ -950,7 +958,7 @@
           "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Zeruel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
           "genres": [],
@@ -958,7 +966,7 @@
           "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Vacations",
           "image": "https://i.scdn.co/image/ab6761610000e5ebebf16e0b8ab49ecac25d0a3e",
           "genres": [],
@@ -966,20 +974,12 @@
           "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
           "uri": "spotify:artist:14pVkFUHDL207LzLHtSA18",
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        },
-        {
-          "rank": 47,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 48,
