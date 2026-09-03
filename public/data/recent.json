@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T02:42:25.495Z",
+  "updated_at": "2026-09-03T07:41:46.262Z",
   "plays": [
     {
       "played_at": "2026-06-07T20:37:54.284Z",
@@ -21109,6 +21109,227 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e698b41c758c1a49fecbc1cf",
       "uri": "spotify:track:1L2ZkXbRX00ZiaUDuMMgf7",
       "duration_ms": 419893
+    },
+    {
+      "played_at": "2026-09-03T02:54:20.900Z",
+      "name": "Careless Whisper",
+      "artists": [
+        "Ella Boh"
+      ],
+      "album": "Careless Whisper",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d71bba767dadbf343754052d",
+      "uri": "spotify:track:3aMbuBr6zFufta1Blybbvh",
+      "duration_ms": 245672
+    },
+    {
+      "played_at": "2026-09-03T02:57:11.360Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-09-03T03:01:06.141Z",
+      "name": "Pretty When You Cry",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+      "duration_ms": 234146
+    },
+    {
+      "played_at": "2026-09-03T03:06:05.054Z",
+      "name": "Sexy Boy",
+      "artists": [
+        "Air"
+      ],
+      "album": "Moon Safari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709",
+      "uri": "spotify:track:7Fx3o9QtK1vtpkEWkM6OJu",
+      "duration_ms": 298466
+    },
+    {
+      "played_at": "2026-09-03T03:10:16.048Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
+    },
+    {
+      "played_at": "2026-09-03T03:14:45.805Z",
+      "name": "The Pretender",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "Echoes, Silence, Patience & Grace",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d957247c6c610cb7c4da1c5",
+      "uri": "spotify:track:7x8dCjCr0x6x2lXKujYD34",
+      "duration_ms": 269306
+    },
+    {
+      "played_at": "2026-09-03T03:49:25.086Z",
+      "name": "All I Need (feat. Beth Hirsch)",
+      "artists": [
+        "Air",
+        "Beth Hirsch"
+      ],
+      "album": "Moon Safari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709",
+      "uri": "spotify:track:7jOM0KIKgIppqIEvEjixaj",
+      "duration_ms": 268306
+    },
+    {
+      "played_at": "2026-09-03T03:51:46.012Z",
+      "name": "Sexy Boy",
+      "artists": [
+        "Air"
+      ],
+      "album": "Moon Safari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709",
+      "uri": "spotify:track:7Fx3o9QtK1vtpkEWkM6OJu",
+      "duration_ms": 298466
+    },
+    {
+      "played_at": "2026-09-03T04:15:02.774Z",
+      "name": "Smalltown Boy",
+      "artists": [
+        "Bronski Beat"
+      ],
+      "album": "The Age of Consent",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732ec4aea38b44eba9756767fa",
+      "uri": "spotify:track:5vmRQ3zELMLUQPo2FLQ76x",
+      "duration_ms": 302413
+    },
+    {
+      "played_at": "2026-09-03T04:20:15.597Z",
+      "name": "Пачка сигарет",
+      "artists": [
+        "Kino"
+      ],
+      "album": "Звезда по имени Солнце",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c6cac46311272073b84529cf",
+      "uri": "spotify:track:7tjVRlo5QYUpPOocaJb387",
+      "duration_ms": 266017
+    },
+    {
+      "played_at": "2026-09-03T04:24:11.424Z",
+      "name": "Learn to Fly",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "There Is Nothing Left To Lose",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c52084ed1f1748f213783b3",
+      "uri": "spotify:track:5OQsiBsky2k2kDKy2bX2eT",
+      "duration_ms": 235293
+    },
+    {
+      "played_at": "2026-09-03T04:28:31.497Z",
+      "name": "Best of You",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "In Your Honor",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350d3fff0dc3d9b55f164d8d6",
+      "uri": "spotify:track:5FZxsHWIvUsmSK1IAvm2pp",
+      "duration_ms": 255261
+    },
+    {
+      "played_at": "2026-09-03T04:32:55.396Z",
+      "name": "All My Life",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "One By One (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bfff163b0602156a983fa079",
+      "uri": "spotify:track:6tsojOQ5wHaIjKqIryLZK6",
+      "duration_ms": 263440
+    },
+    {
+      "played_at": "2026-09-03T04:36:52.417Z",
+      "name": "Группа крови",
+      "artists": [
+        "Kino"
+      ],
+      "album": "Последний герой",
+      "image": "https://i.scdn.co/image/ab67616d0000b27381dd57adc240bd3ebe35d02c",
+      "uri": "spotify:track:5dyBwktTuzBHg1xJRHzRsW",
+      "duration_ms": 235107
+    },
+    {
+      "played_at": "2026-09-03T06:23:58.645Z",
+      "name": "무당 / Mudang",
+      "artists": [
+        "past self"
+      ],
+      "album": "무당 / Mudang",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+      "duration_ms": 253977
+    },
+    {
+      "played_at": "2026-09-03T06:31:02.160Z",
+      "name": "귀신 / Gwisin",
+      "artists": [
+        "past self"
+      ],
+      "album": "Premonitions EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b163290b9451f15d895a65d",
+      "uri": "spotify:track:1ssFbq7366yo6zUxmq0Tmn",
+      "duration_ms": 248500
+    },
+    {
+      "played_at": "2026-09-03T06:34:20.925Z",
+      "name": "제물 / Jemul",
+      "artists": [
+        "past self"
+      ],
+      "album": "제물 / Jemul",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a4899188d575c1c29da3a2e",
+      "uri": "spotify:track:4uwZTKlTqae3m89rBo2Twr",
+      "duration_ms": 198291
+    },
+    {
+      "played_at": "2026-09-03T06:52:28.860Z",
+      "name": "약속 / Yaksok",
+      "artists": [
+        "past self"
+      ],
+      "album": "약속 / Yaksok",
+      "image": "https://i.scdn.co/image/ab67616d0000b273964e80fdc5c7fa2fdc7f5285",
+      "uri": "spotify:track:7GClBd0LYcXqIhcVeeo7aG",
+      "duration_ms": 276442
+    },
+    {
+      "played_at": "2026-09-03T07:15:59.919Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-09-03T07:18:43.050Z",
+      "name": "next to nothing",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "next to nothing",
+      "image": "https://i.scdn.co/image/ab67616d0000b27370882086332558578f316026",
+      "uri": "spotify:track:0bz5FtzvklYN7YcZ4NurA6",
+      "duration_ms": 162666
     }
   ]
 }
