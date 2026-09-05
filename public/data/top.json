@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T02:40:33.930Z",
+  "generated_at": "2026-09-05T07:20:11.123Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -29,18 +29,6 @@
         },
         {
           "rank": 3,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 4,
           "name": "Crimewave",
           "artists": [
             "Crystal Castles"
@@ -50,6 +38,18 @@
           "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
           "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
           "duration_ms": 258453
+        },
+        {
+          "rank": 4,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         },
         {
           "rank": 5,
@@ -125,6 +125,18 @@
         },
         {
           "rank": 11,
+          "name": "Facebook.com",
+          "artists": [
+            "Memo Boy"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
+          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
+          "duration_ms": 218443
+        },
+        {
+          "rank": 12,
           "name": "Fade Into You",
           "artists": [
             "Mazzy Star"
@@ -136,7 +148,7 @@
           "duration_ms": 295600
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "The Man Who Sold The World - Live",
           "artists": [
             "Nirvana"
@@ -146,18 +158,6 @@
           "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
           "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
           "duration_ms": 261093
-        },
-        {
-          "rank": 13,
-          "name": "Facebook.com",
-          "artists": [
-            "Memo Boy"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:1d0Ol4OODB5ioYsds2TtJC",
-          "url": "https://open.spotify.com/track/1d0Ol4OODB5ioYsds2TtJC",
-          "duration_ms": 218443
         },
         {
           "rank": 14,
@@ -209,6 +209,18 @@
         },
         {
           "rank": 18,
+          "name": "maybe i'd be better off alone",
+          "artists": [
+            "gothcandy"
+          ],
+          "album": "maybe i'd be better off alone",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735633f554b94da6dc4150411e",
+          "uri": "spotify:track:3ZRd4YfV0ZGji3lMPi484K",
+          "url": "https://open.spotify.com/track/3ZRd4YfV0ZGji3lMPi484K",
+          "duration_ms": 141696
+        },
+        {
+          "rank": 19,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -220,7 +232,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lithium - Remastered",
           "artists": [
             "Nirvana"
@@ -232,7 +244,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -244,7 +256,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -256,7 +268,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "happier",
           "artists": [
             "Olivia Rodrigo"
@@ -268,7 +280,7 @@
           "duration_ms": 175933
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -280,7 +292,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -292,7 +304,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "crawl",
           "artists": [
             "cloudyfield"
@@ -304,7 +316,7 @@
           "duration_ms": 200526
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
           "artists": [
             "Deftones"
@@ -316,7 +328,7 @@
           "duration_ms": 124173
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Dreams - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -328,7 +340,7 @@
           "duration_ms": 273706
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Love Buzz",
           "artists": [
             "Nirvana"
@@ -340,7 +352,7 @@
           "duration_ms": 215203
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -352,7 +364,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -362,18 +374,6 @@
           "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
           "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
           "duration_ms": 97960
-        },
-        {
-          "rank": 31,
-          "name": "maybe i'd be better off alone",
-          "artists": [
-            "gothcandy"
-          ],
-          "album": "maybe i'd be better off alone",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735633f554b94da6dc4150411e",
-          "uri": "spotify:track:3ZRd4YfV0ZGji3lMPi484K",
-          "url": "https://open.spotify.com/track/3ZRd4YfV0ZGji3lMPi484K",
-          "duration_ms": 141696
         },
         {
           "rank": 32,
