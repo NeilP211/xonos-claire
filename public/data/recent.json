@@ -1,62 +1,6 @@
 {
-  "updated_at": "2026-09-05T12:18:41.811Z",
+  "updated_at": "2026-09-05T17:04:56.981Z",
   "plays": [
-    {
-      "played_at": "2026-06-10T06:10:39.504Z",
-      "name": "Money",
-      "artists": [
-        "The Drums"
-      ],
-      "album": "Portamento",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
-      "uri": "spotify:track:3VIJBrMpvimHEw5wtPh2wB",
-      "duration_ms": 233639
-    },
-    {
-      "played_at": "2026-06-10T06:16:04.323Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-06-10T06:25:46.164Z",
-      "name": "Notion",
-      "artists": [
-        "The Rare Occasions"
-      ],
-      "album": "Notion",
-      "image": "https://i.scdn.co/image/ab67616d0000b273598721fc8c9dde3f65a73a08",
-      "uri": "spotify:track:0sTlGEld0h8kIPZaKDYUf4",
-      "duration_ms": 195120
-    },
-    {
-      "played_at": "2026-06-10T19:09:26.978Z",
-      "name": "i like the way you kiss me",
-      "artists": [
-        "Artemas"
-      ],
-      "album": "yustyna",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9cd12dd361f5d40ca435868",
-      "uri": "spotify:track:3JG1uFc40wfyrqaWC7iv0e",
-      "duration_ms": 142514
-    },
-    {
-      "played_at": "2026-06-10T19:12:19.305Z",
-      "name": "snowfall",
-      "artists": [
-        "Øneheart",
-        "reidenshi"
-      ],
-      "album": "snowfall",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ed50c8fe9503fd8d73d82f9f",
-      "uri": "spotify:track:4xF4ZBGPZKxECeDFrqSAG4",
-      "duration_ms": 124065
-    },
     {
       "played_at": "2026-06-10T19:13:54.240Z",
       "name": "this feeling",
@@ -22152,6 +22096,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b3b13c00bb121b0b906be2ca",
       "uri": "spotify:track:74MuHnq8zktFZmqgKSqF8G",
       "duration_ms": 75324
+    },
+    {
+      "played_at": "2026-09-05T12:26:06.514Z",
+      "name": "in your head",
+      "artists": [
+        "cloudyfield"
+      ],
+      "album": "in your head",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+      "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+      "duration_ms": 170000
+    },
+    {
+      "played_at": "2026-09-05T12:32:52.606Z",
+      "name": "무당 / Mudang",
+      "artists": [
+        "past self"
+      ],
+      "album": "무당 / Mudang",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+      "duration_ms": 253977
+    },
+    {
+      "played_at": "2026-09-05T12:36:49.099Z",
+      "name": "불꽃으로 / Bulkkoch Eulo",
+      "artists": [
+        "past self"
+      ],
+      "album": "불꽃으로 / Bulkkoch Eulo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
+      "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
+      "duration_ms": 236000
+    },
+    {
+      "played_at": "2026-09-05T12:40:49.077Z",
+      "name": "Drowning In An Empty Sea",
+      "artists": [
+        "DECEITS"
+      ],
+      "album": "If There's No Heaven...",
+      "image": "https://i.scdn.co/image/ab67616d0000b273165cf5b3f12567d4c1443429",
+      "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
+      "duration_ms": 239481
+    },
+    {
+      "played_at": "2026-09-05T12:51:18.010Z",
+      "name": "DAYWALKER",
+      "artists": [
+        "The Masqs",
+        "past self"
+      ],
+      "album": "DAYWALKER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273122b9121b7f8b8d62ed6f7d9",
+      "uri": "spotify:track:3aMFxzC6qgrJcdsSCCGysS",
+      "duration_ms": 130937
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:18:41.681Z",
+  "generated_at": "2026-09-05T17:04:56.834Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,18 +41,6 @@
         },
         {
           "rank": 4,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 5,
           "name": "무당 / Mudang",
           "artists": [
             "past self"
@@ -62,6 +50,18 @@
           "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
           "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
           "duration_ms": 253977
+        },
+        {
+          "rank": 5,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         },
         {
           "rank": 6,
@@ -2580,6 +2580,18 @@
         },
         {
           "rank": 47,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 48,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -2591,7 +2603,7 @@
           "duration_ms": 285906
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -2603,7 +2615,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -2613,18 +2625,6 @@
           "uri": "spotify:track:5LrN7yUQAzvthd4QujgPFr",
           "url": "https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr",
           "duration_ms": 242484
-        },
-        {
-          "rank": 50,
-          "name": "Smells Like Teen Spirit",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-          "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
-          "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T",
-          "duration_ms": 301920
         }
       ],
       "artists": [
@@ -2838,6 +2838,14 @@
         },
         {
           "rank": 27,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 28,
           "name": "Drake",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9",
           "genres": [],
@@ -2845,20 +2853,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "past self",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
           "genres": [],
           "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
           "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
-        },
-        {
-          "rank": 29,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
           "rank": 30,
