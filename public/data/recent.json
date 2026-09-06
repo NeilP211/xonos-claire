@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-06T17:30:10.682Z",
+  "updated_at": "2026-09-06T19:54:52.011Z",
   "plays": [
-    {
-      "played_at": "2026-06-11T18:07:30.483Z",
-      "name": "outside",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "outside",
-      "image": "https://i.scdn.co/image/ab67616d0000b27377095deffc8e8ec1d769f2f4",
-      "uri": "spotify:track:5tyDOVfFJcgP6W6DRDN39q",
-      "duration_ms": 105600
-    },
     {
       "played_at": "2026-06-11T18:07:39.635Z",
       "name": "outside",
@@ -22153,6 +22142,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732a584e55807afb69b5b4a086",
       "uri": "spotify:track:0ipBds1EgkC6R8XcKdtFGR",
       "duration_ms": 113142
+    },
+    {
+      "played_at": "2026-09-06T19:15:29.953Z",
+      "name": "귀신 / Gwisin",
+      "artists": [
+        "past self"
+      ],
+      "album": "Premonitions EP",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b163290b9451f15d895a65d",
+      "uri": "spotify:track:1ssFbq7366yo6zUxmq0Tmn",
+      "duration_ms": 248500
     }
   ]
 }
