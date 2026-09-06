@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-09-06T12:33:53.070Z",
+  "updated_at": "2026-09-06T17:30:10.682Z",
   "plays": [
-    {
-      "played_at": "2026-06-10T19:15:52.144Z",
-      "name": "apathy",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "apathy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3ecc4ae0df54fce4742f2eb",
-      "uri": "spotify:track:6WUgqFZhbNRaeBuzG2ahfJ",
-      "duration_ms": 117073
-    },
-    {
-      "played_at": "2026-06-10T19:17:32.145Z",
-      "name": "watching the stars",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "watching the stars",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e0d746e5aa2b299cbc5ecdff",
-      "uri": "spotify:track:321PCApeQiLLrf03k83cCb",
-      "duration_ms": 99146
-    },
-    {
-      "played_at": "2026-06-10T19:18:58.777Z",
-      "name": "memories",
-      "artists": [
-        "leadwave"
-      ],
-      "album": "memories",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e914d44fbf643a8cda65b8ac",
-      "uri": "spotify:track:4VkRQSpG16JxrXaVlNyWdX",
-      "duration_ms": 86319
-    },
-    {
-      "played_at": "2026-06-10T19:22:08.923Z",
-      "name": "green to blue",
-      "artists": [
-        "daniel.mp3"
-      ],
-      "album": "Backroom",
-      "image": "https://i.scdn.co/image/ab67616d0000b27383ae32caa4aa4ae1e4dac7ed",
-      "uri": "spotify:track:4zzxSXdXK4gLEOyGpPpb9v",
-      "duration_ms": 189515
-    },
     {
       "played_at": "2026-06-11T18:07:30.483Z",
       "name": "outside",
@@ -22152,6 +22108,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
       "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
       "duration_ms": 264066
+    },
+    {
+      "played_at": "2026-09-06T15:49:03.535Z",
+      "name": "DAYWALKER",
+      "artists": [
+        "The Masqs",
+        "past self"
+      ],
+      "album": "DAYWALKER",
+      "image": "https://i.scdn.co/image/ab67616d0000b273122b9121b7f8b8d62ed6f7d9",
+      "uri": "spotify:track:3aMFxzC6qgrJcdsSCCGysS",
+      "duration_ms": 130937
+    },
+    {
+      "played_at": "2026-09-06T15:52:42.081Z",
+      "name": "All We Are (Are Memories)",
+      "artists": [
+        "DECEITS"
+      ],
+      "album": "All We Are (Are Memories)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345fbbb5923da012a4b391c51",
+      "uri": "spotify:track:0Ve5lDnmfrb9NWzyxFCdqP",
+      "duration_ms": 218073
+    },
+    {
+      "played_at": "2026-09-06T15:56:25.720Z",
+      "name": "Mirror Twin",
+      "artists": [
+        "Harsh Symmetry"
+      ],
+      "album": "Display Model",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1ede4cce67ce9df7295642a",
+      "uri": "spotify:track:6ZKf5iI8w7QW0GsmPr3Egp",
+      "duration_ms": 223109
+    },
+    {
+      "played_at": "2026-09-06T15:58:19.349Z",
+      "name": "VHS & CHILL",
+      "artists": [
+        "The Masqs"
+      ],
+      "album": "BLEED",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a584e55807afb69b5b4a086",
+      "uri": "spotify:track:0ipBds1EgkC6R8XcKdtFGR",
+      "duration_ms": 113142
     }
   ]
 }
