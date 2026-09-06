@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-09-06T19:54:52.011Z",
+  "updated_at": "2026-09-06T22:38:41.964Z",
   "plays": [
-    {
-      "played_at": "2026-06-11T18:07:39.635Z",
-      "name": "outside",
-      "artists": [
-        "Øneheart"
-      ],
-      "album": "outside",
-      "image": "https://i.scdn.co/image/ab67616d0000b27377095deffc8e8ec1d769f2f4",
-      "uri": "spotify:track:5tyDOVfFJcgP6W6DRDN39q",
-      "duration_ms": 105600
-    },
-    {
-      "played_at": "2026-06-12T01:19:55.663Z",
-      "name": "In Your Arms",
-      "artists": [
-        "Antent"
-      ],
-      "album": "In Your Arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730f6476275b81eb2d108e76af",
-      "uri": "spotify:track:3aD54SqCgTXcO03MXvOccj",
-      "duration_ms": 90169
-    },
-    {
-      "played_at": "2026-06-12T01:42:44.711Z",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740
-    },
-    {
-      "played_at": "2026-06-12T01:46:20.923Z",
-      "name": "Beanie",
-      "artists": [
-        "Chezile"
-      ],
-      "album": "Beanie",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
-      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
-      "duration_ms": 132160
-    },
-    {
-      "played_at": "2026-06-12T01:51:20.951Z",
-      "name": "Let Down",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
-      "duration_ms": 299560
-    },
     {
       "played_at": "2026-06-12T02:02:34.094Z",
       "name": "The Man Who Sold The World - Live",
@@ -22153,6 +22098,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730b163290b9451f15d895a65d",
       "uri": "spotify:track:1ssFbq7366yo6zUxmq0Tmn",
       "duration_ms": 248500
+    },
+    {
+      "played_at": "2026-09-06T20:26:19.226Z",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+      "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-09-06T20:29:54.205Z",
+      "name": "Room 907",
+      "artists": [
+        "BUBBLE TEA AND CIGARETTES"
+      ],
+      "album": "we should've killed each other",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cc3451175658fb2d5a3bf757",
+      "uri": "spotify:track:1Fib5F86hgXrIi8UV825hw",
+      "duration_ms": 214500
+    },
+    {
+      "played_at": "2026-09-06T22:12:08.055Z",
+      "name": "anything",
+      "artists": [
+        "Adrianne Lenker"
+      ],
+      "album": "songs",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ebe185fc4824bc6e568b511",
+      "uri": "spotify:track:4PwWESSlTwzvw9B7bmtTLS",
+      "duration_ms": 202047
+    },
+    {
+      "played_at": "2026-09-06T22:16:22.171Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-09-06T22:21:41.988Z",
+      "name": "Glue Song",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Glue Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+      "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf",
+      "duration_ms": 135066
     }
   ]
 }
