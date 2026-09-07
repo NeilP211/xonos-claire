@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-06T22:38:42.027Z",
+  "updated_at": "2026-09-07T02:35:47.014Z",
   "is_playing": false,
   "track": {
-    "name": "Glue Song",
+    "name": "All I Did Was Dream of You (feat. The Marías)",
     "artists": [
-      "beabadoobee"
+      "beabadoobee",
+      "The Marías"
     ],
-    "album": "Glue Song",
-    "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
-    "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf"
+    "album": "All I Did Was Dream of You (feat. The Marías)",
+    "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+    "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH"
   },
-  "played_at": "2026-09-06T22:21:41.988Z"
+  "played_at": "2026-09-07T02:02:08.482Z"
 }
