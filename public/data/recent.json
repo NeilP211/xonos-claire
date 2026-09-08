@@ -1,140 +1,6 @@
 {
-  "updated_at": "2026-09-08T13:15:20.163Z",
+  "updated_at": "2026-09-08T18:15:37.507Z",
   "plays": [
-    {
-      "played_at": "2026-06-14T07:29:20.262Z",
-      "name": "Bad Habit",
-      "artists": [
-        "Steve Lacy"
-      ],
-      "album": "Gemini Rights",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-      "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
-      "duration_ms": 232114
-    },
-    {
-      "played_at": "2026-06-14T07:32:08.656Z",
-      "name": "Not Allowed",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
-      "duration_ms": 167864
-    },
-    {
-      "played_at": "2026-06-14T16:31:54.490Z",
-      "name": "Always Forever",
-      "artists": [
-        "Cults"
-      ],
-      "album": "Static",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
-      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
-      "duration_ms": 223750
-    },
-    {
-      "played_at": "2026-06-14T16:36:02.075Z",
-      "name": "Always Forever",
-      "artists": [
-        "Cults"
-      ],
-      "album": "Static",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
-      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
-      "duration_ms": 223750
-    },
-    {
-      "played_at": "2026-06-14T16:40:20.541Z",
-      "name": "John Wayne",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-      "duration_ms": 258013
-    },
-    {
-      "played_at": "2026-06-14T16:43:00.651Z",
-      "name": "Run Away",
-      "artists": [
-        "Chezile"
-      ],
-      "album": "47",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e9387414fb13819654912c8e",
-      "uri": "spotify:track:6doY5sLPHdE4g7RUQdYSz6",
-      "duration_ms": 159650
-    },
-    {
-      "played_at": "2026-06-14T16:47:59.782Z",
-      "name": "Silver Soul",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Teen Dream",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
-      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
-      "duration_ms": 298680
-    },
-    {
-      "played_at": "2026-06-14T16:50:58.572Z",
-      "name": "Infrunami",
-      "artists": [
-        "Steve Lacy"
-      ],
-      "album": "The Lo-Fis",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
-      "uri": "spotify:track:0f8eRy9A0n6zXpKSHSCAEp",
-      "duration_ms": 178328
-    },
-    {
-      "played_at": "2026-06-14T16:59:28.083Z",
-      "name": "LIKE THAT",
-      "artists": [
-        "BABYMONSTER"
-      ],
-      "album": "BABYMONS7ER",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683",
-      "uri": "spotify:track:7GDgpad2BQVuDUzaxHFakc",
-      "duration_ms": 168358
-    },
-    {
-      "played_at": "2026-06-14T17:02:18.166Z",
-      "name": "Best Friend (feat. Doja Cat)",
-      "artists": [
-        "Saweetie",
-        "Doja Cat"
-      ],
-      "album": "Best Friend (feat. Doja Cat)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739586402ce4d850abacdad3da",
-      "uri": "spotify:track:2etHQJxIbV0soyPhelVs9Y",
-      "duration_ms": 155883
-    },
-    {
-      "played_at": "2026-06-14T17:06:09.478Z",
-      "name": "Insomniac",
-      "artists": [
-        "Memo Boy",
-        "Chakra Efendi"
-      ],
-      "album": "Songs & Demos 2015-2017",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-      "duration_ms": 212307
-    },
-    {
-      "played_at": "2026-06-14T17:10:51.106Z",
-      "name": "Heart-Shaped Box",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-      "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
-      "duration_ms": 281160
-    },
     {
       "played_at": "2026-06-14T17:15:15.679Z",
       "name": "Karma Police",
@@ -22157,6 +22023,139 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730194c6ae87ecd5e3bda9e27b",
       "uri": "spotify:track:2nXZih9RtDvbICsw2QfRGO",
       "duration_ms": 177941
+    },
+    {
+      "played_at": "2026-09-08T14:20:28.307Z",
+      "name": "Soren - Bedroom Session",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Loveworm (Bedroom Sessions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730194c6ae87ecd5e3bda9e27b",
+      "uri": "spotify:track:69kRf3P6QDiK0ZAFw70KUR",
+      "duration_ms": 193810
+    },
+    {
+      "played_at": "2026-09-08T14:23:33.960Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-09-08T14:26:48.734Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273068caa28105743b03ac6ee0f",
+      "uri": "spotify:track:2QjvcnTm5u1vWaIChGQVAY",
+      "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-09-08T14:29:51.153Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-09-08T14:32:13.452Z",
+      "name": "Sun Has Set",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Sun Has Set",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f3307b2ee6c3131410efdc7",
+      "uri": "spotify:track:3CnEw0mRAXVlLw36iL0mbe",
+      "duration_ms": 141804
+    },
+    {
+      "played_at": "2026-09-08T14:35:57.807Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-09-08T14:39:48.360Z",
+      "name": "Beaches",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
+      "duration_ms": 230053
+    },
+    {
+      "played_at": "2026-09-08T14:42:24.531Z",
+      "name": "Glue Song",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Glue Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+      "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf",
+      "duration_ms": 135066
+    },
+    {
+      "played_at": "2026-09-08T16:22:39.571Z",
+      "name": "She Plays Bass",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Space Cadet",
+      "image": "https://i.scdn.co/image/ab67616d0000b273169592719e46bcd4266f24ab",
+      "uri": "spotify:track:53vFEC7MHFKctetVsD19S4",
+      "duration_ms": 207106
+    },
+    {
+      "played_at": "2026-09-08T16:23:30.337Z",
+      "name": "She Plays Bass",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Space Cadet",
+      "image": "https://i.scdn.co/image/ab67616d0000b273169592719e46bcd4266f24ab",
+      "uri": "spotify:track:53vFEC7MHFKctetVsD19S4",
+      "duration_ms": 207106
+    },
+    {
+      "played_at": "2026-09-08T16:29:26.180Z",
+      "name": "Ripples",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:0SIrEgMzTSWzFoT272mk2X",
+      "duration_ms": 187813
+    },
+    {
+      "played_at": "2026-09-08T16:32:41.543Z",
+      "name": "Care",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Fake It Flowers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
+      "uri": "spotify:track:1aTf6n7MSd9z1LQYJEcmqF",
+      "duration_ms": 194994
     }
   ]
 }
