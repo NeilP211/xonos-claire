@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:48:37.288Z",
+  "generated_at": "2026-09-08T07:46:29.991Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -329,6 +329,18 @@
         },
         {
           "rank": 28,
+          "name": "Your face",
+          "artists": [
+            "Wisp"
+          ],
+          "album": "Pandora",
+          "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+          "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+          "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv",
+          "duration_ms": 229728
+        },
+        {
+          "rank": 29,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -340,7 +352,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -352,7 +364,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -364,7 +376,7 @@
           "duration_ms": 254533
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -376,7 +388,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Two of Hearts",
           "artists": [
             "Stacey Q"
@@ -388,7 +400,7 @@
           "duration_ms": 239693
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -400,7 +412,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -412,7 +424,19 @@
           "duration_ms": 132160
         },
         {
-          "rank": 35,
+          "rank": 36,
+          "name": "the way things go",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "the way things go",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402",
+          "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
+          "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv",
+          "duration_ms": 187800
+        },
+        {
+          "rank": 37,
           "name": "The Blonde",
           "artists": [
             "TV Girl"
@@ -424,7 +448,7 @@
           "duration_ms": 227760
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -436,7 +460,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -448,7 +472,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -460,7 +484,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -472,7 +496,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -484,7 +508,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -496,7 +520,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -508,7 +532,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -520,7 +544,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "ilomilo",
           "artists": [
             "Billie Eilish"
@@ -532,7 +556,7 @@
           "duration_ms": 156370
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -544,7 +568,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -556,7 +580,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "Keep On Loving You",
           "artists": [
             "Cigarettes After Sex"
@@ -568,7 +592,7 @@
           "duration_ms": 233000
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -578,48 +602,24 @@
           "uri": "spotify:track:4IvuZUCcI6sq37pbHzf3FQ",
           "url": "https://open.spotify.com/track/4IvuZUCcI6sq37pbHzf3FQ",
           "duration_ms": 165597
-        },
-        {
-          "rank": 49,
-          "name": "Real Man",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "This Is How Tomorrow Moves",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
-          "uri": "spotify:track:0OpC8hRrbsh24taKOsQBEX",
-          "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX",
-          "duration_ms": 160600
-        },
-        {
-          "rank": 50,
-          "name": "I Can't",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "Pablo Honey",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ec548c00d3ac2f10be73366d",
-          "uri": "spotify:track:13nQ70PnhDnTkYqCmdg3sy",
-          "url": "https://open.spotify.com/track/13nQ70PnhDnTkYqCmdg3sy",
-          "duration_ms": 253093
         }
       ],
       "artists": [
         {
           "rank": 1,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 2,
           "name": "beabadoobee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
           "genres": [],
           "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "rank": 2,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 3,
@@ -631,22 +631,14 @@
         },
         {
           "rank": 4,
-          "name": "gothcandy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
-          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
-          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 5,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 6,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
           "genres": [],
@@ -654,7 +646,23 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
+          "rank": 6,
+          "name": "gothcandy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
+          "genres": [],
+          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+        },
+        {
           "rank": 7,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 8,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -662,7 +670,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Billie Eilish",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da",
           "genres": [],
@@ -670,20 +678,12 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
           "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
-        },
-        {
-          "rank": 10,
-          "name": "Wisp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
-          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 11,
