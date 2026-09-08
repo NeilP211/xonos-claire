@@ -1,127 +1,6 @@
 {
-  "updated_at": "2026-09-08T18:15:37.507Z",
+  "updated_at": "2026-09-08T23:08:11.550Z",
   "plays": [
-    {
-      "played_at": "2026-06-14T17:15:15.679Z",
-      "name": "Karma Police",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-      "duration_ms": 264066
-    },
-    {
-      "played_at": "2026-06-14T17:17:58.220Z",
-      "name": "Highschool Lover",
-      "artists": [
-        "Air"
-      ],
-      "album": "The Virgin Suicides (Original Motion Picture Score)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-      "uri": "spotify:track:6JBDPZ0DOmc5mBJprphQc8",
-      "duration_ms": 162093
-    },
-    {
-      "played_at": "2026-06-14T17:20:03.851Z",
-      "name": "Stars Will Fall",
-      "artists": [
-        "Duster"
-      ],
-      "album": "Capsule Losing Contact",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f638da8e77e449875219d378",
-      "uri": "spotify:track:0PgT8DiJmpqTnf9SnFnHM0",
-      "duration_ms": 118160
-    },
-    {
-      "played_at": "2026-06-14T17:24:21.169Z",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799
-    },
-    {
-      "played_at": "2026-06-14T17:28:21.563Z",
-      "name": "Serpentskirt",
-      "artists": [
-        "Cocteau Twins"
-      ],
-      "album": "Milk & Kisses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
-      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
-      "duration_ms": 239920
-    },
-    {
-      "played_at": "2026-06-14T17:34:11.229Z",
-      "name": "I Know It's Over - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Queen Is Dead",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
-      "uri": "spotify:track:3M2bD9SMYnJIPdrTKUnBd3",
-      "duration_ms": 349186
-    },
-    {
-      "played_at": "2026-06-14T17:37:59.085Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-06-14T17:44:13.582Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
-    {
-      "played_at": "2026-06-14T17:46:26.343Z",
-      "name": "savior",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "VOL. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
-      "uri": "spotify:track:2AxxfzxsozTmBL2qUPQVRX",
-      "duration_ms": 132356
-    },
-    {
-      "played_at": "2026-06-14T17:51:37.960Z",
-      "name": "Heavenly",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
-      "duration_ms": 286773
-    },
-    {
-      "played_at": "2026-06-14T17:54:28.555Z",
-      "name": "Do Not Enter",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Void in Blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
-      "uri": "spotify:track:3Lkkb6JlusrtnZFNnRvfOm",
-      "duration_ms": 170163
-    },
     {
       "played_at": "2026-06-14T17:58:02.884Z",
       "name": "Lovers Rock",
@@ -22156,6 +22035,130 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
       "uri": "spotify:track:1aTf6n7MSd9z1LQYJEcmqF",
       "duration_ms": 194994
+    },
+    {
+      "played_at": "2026-09-08T21:08:34.666Z",
+      "name": "Leni (Crystal Castles vs GoodBooks)",
+      "artists": [
+        "GoodBooks",
+        "Crystal Castles"
+      ],
+      "album": "Control Freaks (The Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
+      "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH",
+      "duration_ms": 256398
+    },
+    {
+      "played_at": "2026-09-08T21:13:02.268Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-09-08T21:15:17.884Z",
+      "name": "Glue Song",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Glue Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+      "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf",
+      "duration_ms": 135066
+    },
+    {
+      "played_at": "2026-09-08T21:18:07.128Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273068caa28105743b03ac6ee0f",
+      "uri": "spotify:track:2QjvcnTm5u1vWaIChGQVAY",
+      "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-09-08T21:21:51.549Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-09-08T21:49:18.297Z",
+      "name": "Ache",
+      "artists": [
+        "Not For Radio"
+      ],
+      "album": "Bloom",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b32f5b37097d554afdc2c0b6",
+      "uri": "spotify:track:0PjgmRsexiNpf3lgFVzdOO",
+      "duration_ms": 265606
+    },
+    {
+      "played_at": "2026-09-08T21:59:47.370Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-09-08T22:03:23.037Z",
+      "name": "Show Me How (Album V)",
+      "artists": [
+        "Men I Trust"
+      ],
+      "album": "Oncle Jazz",
+      "image": "https://i.scdn.co/image/ab67616d0000b273080a103172ab636cd50df7f0",
+      "uri": "spotify:track:6A46jG17UumVQLqodsFxuV",
+      "duration_ms": 215110
+    },
+    {
+      "played_at": "2026-09-08T22:07:02.892Z",
+      "name": "Numb (Album V)",
+      "artists": [
+        "Men I Trust"
+      ],
+      "album": "Oncle Jazz",
+      "image": "https://i.scdn.co/image/ab67616d0000b273080a103172ab636cd50df7f0",
+      "uri": "spotify:track:3nb2awsoNpohW96canbmAr",
+      "duration_ms": 219340
+    },
+    {
+      "played_at": "2026-09-08T22:07:44.299Z",
+      "name": "Lauren",
+      "artists": [
+        "Men I Trust"
+      ],
+      "album": "Lauren",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c2b42ae9e6d13b5719a79ed",
+      "uri": "spotify:track:62zFcDLa1CjCY9yp6VO4ga",
+      "duration_ms": 222680
+    },
+    {
+      "played_at": "2026-09-08T22:10:48.550Z",
+      "name": "Lauren",
+      "artists": [
+        "Men I Trust"
+      ],
+      "album": "Lauren",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738c2b42ae9e6d13b5719a79ed",
+      "uri": "spotify:track:62zFcDLa1CjCY9yp6VO4ga",
+      "duration_ms": 222680
     }
   ]
 }

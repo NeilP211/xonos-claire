@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:15:37.356Z",
+  "generated_at": "2026-09-08T23:08:11.390Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -101,18 +101,6 @@
         },
         {
           "rank": 9,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 10,
           "name": "Pure",
           "artists": [
             "SIENNA SPIRO"
@@ -122,6 +110,18 @@
           "uri": "spotify:track:31IKMjvv6Oskp4hjGVeYsT",
           "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT",
           "duration_ms": 219924
+        },
+        {
+          "rank": 10,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         },
         {
           "rank": 11,
@@ -521,18 +521,6 @@
         },
         {
           "rank": 44,
-          "name": "Louise",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-          "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
-          "duration_ms": 194453
-        },
-        {
-          "rank": 45,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -544,7 +532,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -556,7 +544,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -568,7 +556,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "ilomilo",
           "artists": [
             "Billie Eilish"
@@ -580,7 +568,7 @@
           "duration_ms": 156370
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -592,7 +580,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -602,6 +590,18 @@
           "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
           "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
           "duration_ms": 198960
+        },
+        {
+          "rank": 50,
+          "name": "Keep On Loving You",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Affection",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fe8d8631cbee4deb2179e684",
+          "uri": "spotify:track:2hnOq45qQhuPEzAJqINh4z",
+          "url": "https://open.spotify.com/track/2hnOq45qQhuPEzAJqINh4z",
+          "duration_ms": 233000
         }
       ],
       "artists": [
