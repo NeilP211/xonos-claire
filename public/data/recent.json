@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-09-08T07:46:30.159Z",
+  "updated_at": "2026-09-08T13:15:20.163Z",
   "plays": [
-    {
-      "played_at": "2026-06-14T07:21:17.338Z",
-      "name": "Let Down",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
-      "duration_ms": 299560
-    },
-    {
-      "played_at": "2026-06-14T07:25:27.732Z",
-      "name": "Where Is My Mind? - 2007 Remaster",
-      "artists": [
-        "Pixies"
-      ],
-      "album": "Surfer Rosa (2007 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-      "duration_ms": 234973
-    },
     {
       "played_at": "2026-06-14T07:29:20.262Z",
       "name": "Bad Habit",
@@ -22157,6 +22135,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730194c6ae87ecd5e3bda9e27b",
       "uri": "spotify:track:7jcRfsWl7QufOm7XgCubAI",
       "duration_ms": 220040
+    },
+    {
+      "played_at": "2026-09-08T07:49:24.959Z",
+      "name": "Angel - Bedroom Session",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Loveworm (Bedroom Sessions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730194c6ae87ecd5e3bda9e27b",
+      "uri": "spotify:track:39dDS2qiRmEkUY1tmCQF6m",
+      "duration_ms": 199306
+    },
+    {
+      "played_at": "2026-09-08T07:52:22.916Z",
+      "name": "You Lie All The Time - Bedroom Session",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Loveworm (Bedroom Sessions)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730194c6ae87ecd5e3bda9e27b",
+      "uri": "spotify:track:2nXZih9RtDvbICsw2QfRGO",
+      "duration_ms": 177941
     }
   ]
 }
