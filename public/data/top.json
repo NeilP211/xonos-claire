@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:48:21.349Z",
+  "generated_at": "2026-09-09T07:48:40.655Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -101,6 +101,18 @@
         },
         {
           "rank": 9,
+          "name": "the perfect pair",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Beatopia",
+          "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+          "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+          "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
+          "duration_ms": 177533
+        },
+        {
+          "rank": 10,
           "name": "Pure",
           "artists": [
             "SIENNA SPIRO"
@@ -112,7 +124,7 @@
           "duration_ms": 219924
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -124,7 +136,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "White Boy",
           "artists": [
             "Bikini Kill"
@@ -136,7 +148,7 @@
           "duration_ms": 146000
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -148,7 +160,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -158,18 +170,6 @@
           "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
           "url": "https://open.spotify.com/track/6G8CPgiHTKlB094svbH6Fu",
           "duration_ms": 229515
-        },
-        {
-          "rank": 14,
-          "name": "the perfect pair",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Beatopia",
-          "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-          "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
-          "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
-          "duration_ms": 177533
         },
         {
           "rank": 15,
@@ -233,6 +233,18 @@
         },
         {
           "rank": 20,
+          "name": "Pretty When You Cry",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+          "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
+          "duration_ms": 234146
+        },
+        {
+          "rank": 21,
           "name": "crawl",
           "artists": [
             "cloudyfield"
@@ -244,7 +256,7 @@
           "duration_ms": 200526
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -256,7 +268,19 @@
           "duration_ms": 230053
         },
         {
-          "rank": 22,
+          "rank": 23,
+          "name": "Switchblade",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Switchblade",
+          "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+          "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+          "url": "https://open.spotify.com/track/551ynJcmHdcUt4u28iE2sy",
+          "duration_ms": 181926
+        },
+        {
+          "rank": 24,
           "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
           "artists": [
             "Deftones"
@@ -268,7 +292,7 @@
           "duration_ms": 124173
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -280,7 +304,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Love Buzz",
           "artists": [
             "Nirvana"
@@ -292,7 +316,7 @@
           "duration_ms": 215203
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "WANT IT CRAVE IT",
           "artists": [
             "gothcandy"
@@ -304,7 +328,7 @@
           "duration_ms": 131419
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "tower of memories",
           "artists": [
             "ivri"
@@ -316,7 +340,7 @@
           "duration_ms": 208510
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -328,7 +352,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -340,7 +364,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -352,7 +376,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -364,7 +388,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -376,7 +400,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -388,7 +412,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -400,7 +424,19 @@
           "duration_ms": 254533
         },
         {
-          "rank": 34,
+          "rank": 36,
+          "name": "Real Man",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "This Is How Tomorrow Moves",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+          "uri": "spotify:track:0OpC8hRrbsh24taKOsQBEX",
+          "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX",
+          "duration_ms": 160600
+        },
+        {
+          "rank": 37,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -412,7 +448,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 35,
+          "rank": 38,
           "name": "Two of Hearts",
           "artists": [
             "Stacey Q"
@@ -424,7 +460,7 @@
           "duration_ms": 239693
         },
         {
-          "rank": 36,
+          "rank": 39,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -436,7 +472,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 37,
+          "rank": 40,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -448,7 +484,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 38,
+          "rank": 41,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -460,7 +496,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 39,
+          "rank": 42,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -472,7 +508,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 40,
+          "rank": 43,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -484,7 +520,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 41,
+          "rank": 44,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -496,7 +532,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 42,
+          "rank": 45,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -508,7 +544,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 43,
+          "rank": 46,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -520,7 +556,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -532,7 +568,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -544,7 +580,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -556,7 +592,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "ilomilo",
           "artists": [
             "Billie Eilish"
@@ -566,42 +602,6 @@
           "uri": "spotify:track:7qEKqBCD2vE5vIBsrUitpD",
           "url": "https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD",
           "duration_ms": 156370
-        },
-        {
-          "rank": 48,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
-        },
-        {
-          "rank": 49,
-          "name": "Cigarettes out the Window",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Who Really Cares",
-          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-          "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
-          "duration_ms": 198960
-        },
-        {
-          "rank": 50,
-          "name": "Keep On Loving You",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Affection",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fe8d8631cbee4deb2179e684",
-          "uri": "spotify:track:2hnOq45qQhuPEzAJqINh4z",
-          "url": "https://open.spotify.com/track/2hnOq45qQhuPEzAJqINh4z",
-          "duration_ms": 233000
         }
       ],
       "artists": [
