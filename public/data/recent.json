@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-09T07:48:40.761Z",
+  "updated_at": "2026-09-09T13:20:36.401Z",
   "plays": [
-    {
-      "played_at": "2026-06-15T07:06:02.498Z",
-      "name": "this was everything for me",
-      "artists": [
-        "i don't like mirrors"
-      ],
-      "album": "this was everything for me",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cdce21fc9505334bea75615e",
-      "uri": "spotify:track:7IDQL8PXMYoE7OGZOisk4N",
-      "duration_ms": 184761
-    },
     {
       "played_at": "2026-06-15T07:08:52.189Z",
       "name": "Idea 22",
@@ -22159,6 +22148,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b9925e772a2375903df0bd43",
       "uri": "spotify:track:6Sb49DdwbBrVEEtG8OGpGT",
       "duration_ms": 246777
+    },
+    {
+      "played_at": "2026-09-09T09:50:39.646Z",
+      "name": "D>E>A>T>H>M>E>T>A>L",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "D>E>A>T>H>M>E>T>A>L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e045aa197ada995407bf92fc",
+      "uri": "spotify:track:4sIFi8LpJWPvI5xviWFyA6",
+      "duration_ms": 261849
     }
   ]
 }
