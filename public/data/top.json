@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:54:27.635Z",
+  "generated_at": "2026-09-11T02:43:45.918Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -426,18 +426,6 @@
         },
         {
           "rank": 36,
-          "name": "Born To Die",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:36RLpWj2hzT7SFUMQSZfst",
-          "url": "https://open.spotify.com/track/36RLpWj2hzT7SFUMQSZfst",
-          "duration_ms": 286253
-        },
-        {
-          "rank": 37,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -449,7 +437,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -461,7 +449,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -473,7 +461,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -485,7 +473,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -497,7 +485,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -509,7 +497,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -521,7 +509,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -533,7 +521,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -545,7 +533,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -557,7 +545,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -569,7 +557,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Keep On Loving You",
           "artists": [
             "Cigarettes After Sex"
@@ -581,7 +569,7 @@
           "duration_ms": 233000
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -593,7 +581,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Let The Light In (feat. Father John Misty)",
           "artists": [
             "Lana Del Rey",
@@ -604,6 +592,18 @@
           "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
           "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z",
           "duration_ms": 278126
+        },
+        {
+          "rank": 50,
+          "name": "Apple Cider",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Loveworm",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394",
+          "uri": "spotify:track:5xA5MggKc3aQxuOzNzPUWB",
+          "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB",
+          "duration_ms": 178918
         }
       ],
       "artists": [
@@ -945,6 +945,14 @@
         },
         {
           "rank": 43,
+          "name": "Eyedress",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
+          "genres": [],
+          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "rank": 44,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -952,7 +960,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -960,7 +968,7 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Lllyric?",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
           "genres": [],
@@ -968,7 +976,7 @@
           "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
           "genres": [],
@@ -976,7 +984,7 @@
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Amira Elfeky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
           "genres": [],
@@ -984,7 +992,7 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Destroy Boys",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
           "genres": [],
@@ -992,20 +1000,12 @@
           "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Zeruel",
           "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
           "genres": [],
           "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
           "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
-        },
-        {
-          "rank": 50,
-          "name": "Twin Tribes",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
-          "genres": [],
-          "uri": "spotify:artist:7wxXs62y8Gjf6c6pxrnWIl",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         }
       ]
     },
@@ -1594,6 +1594,18 @@
         },
         {
           "rank": 49,
+          "name": "Pretty When You Cry",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+          "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
+          "duration_ms": 234146
+        },
+        {
+          "rank": 50,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -1603,18 +1615,6 @@
           "uri": "spotify:track:2SsY5k7UWFqgye3PUMG3Oq",
           "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
           "duration_ms": 252276
-        },
-        {
-          "rank": 50,
-          "name": "Velvet Ring - 2023 Remaster",
-          "artists": [
-            "Big Thief"
-          ],
-          "album": "Masterpiece (2023 Remaster)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27319c446121fcfc0dc1f62b2d6",
-          "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
-          "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP",
-          "duration_ms": 155938
         }
       ],
       "artists": [
