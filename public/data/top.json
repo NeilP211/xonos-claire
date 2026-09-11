@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:43:45.918Z",
+  "generated_at": "2026-09-11T07:42:46.549Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -125,6 +125,18 @@
         },
         {
           "rank": 11,
+          "name": "Beaches",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "This Is How Tomorrow Moves",
+          "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+          "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
+          "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU",
+          "duration_ms": 230053
+        },
+        {
+          "rank": 12,
           "name": "White Boy",
           "artists": [
             "Bikini Kill"
@@ -136,7 +148,7 @@
           "duration_ms": 146000
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -148,7 +160,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -160,7 +172,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -170,18 +182,6 @@
           "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
           "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
           "duration_ms": 180740
-        },
-        {
-          "rank": 15,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         },
         {
           "rank": 16,
@@ -209,15 +209,15 @@
         },
         {
           "rank": 18,
-          "name": "Beaches",
+          "name": "Real Man",
           "artists": [
             "beabadoobee"
           ],
           "album": "This Is How Tomorrow Moves",
           "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
-          "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
-          "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU",
-          "duration_ms": 230053
+          "uri": "spotify:track:0OpC8hRrbsh24taKOsQBEX",
+          "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX",
+          "duration_ms": 160600
         },
         {
           "rank": 19,
@@ -293,18 +293,6 @@
         },
         {
           "rank": 25,
-          "name": "Young And Beautiful",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Young And Beautiful",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-          "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-          "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
-          "duration_ms": 236053
-        },
-        {
-          "rank": 26,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -316,7 +304,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -328,7 +316,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -338,6 +326,18 @@
           "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
           "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv",
           "duration_ms": 187800
+        },
+        {
+          "rank": 28,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         },
         {
           "rank": 29,
@@ -365,18 +365,6 @@
         },
         {
           "rank": 31,
-          "name": "Real Man",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "This Is How Tomorrow Moves",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
-          "uri": "spotify:track:0OpC8hRrbsh24taKOsQBEX",
-          "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX",
-          "duration_ms": 160600
-        },
-        {
-          "rank": 32,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -388,7 +376,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -398,6 +386,18 @@
           "uri": "spotify:track:47596JGo5zmiOBTmaclsPt",
           "url": "https://open.spotify.com/track/47596JGo5zmiOBTmaclsPt",
           "duration_ms": 254533
+        },
+        {
+          "rank": 33,
+          "name": "Apple Cider",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Loveworm",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394",
+          "uri": "spotify:track:5xA5MggKc3aQxuOzNzPUWB",
+          "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB",
+          "duration_ms": 178918
         },
         {
           "rank": 34,
@@ -595,15 +595,15 @@
         },
         {
           "rank": 50,
-          "name": "Apple Cider",
+          "name": "Cigarettes out the Window",
           "artists": [
-            "beabadoobee"
+            "TV Girl"
           ],
-          "album": "Loveworm",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394",
-          "uri": "spotify:track:5xA5MggKc3aQxuOzNzPUWB",
-          "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB",
-          "duration_ms": 178918
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+          "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
+          "duration_ms": 198960
         }
       ],
       "artists": [
@@ -617,19 +617,19 @@
         },
         {
           "rank": 2,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "rank": 3,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 3,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 4,
@@ -793,19 +793,19 @@
         },
         {
           "rank": 24,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 25,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 25,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 26,
@@ -945,6 +945,14 @@
         },
         {
           "rank": 43,
+          "name": "julie",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdf6f45705db6110633b0c2c7",
+          "genres": [],
+          "uri": "spotify:artist:3VNzWLePg9jTvQ2ximYOzW",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        },
+        {
+          "rank": 44,
           "name": "Eyedress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
           "genres": [],
@@ -952,7 +960,7 @@
           "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb5b60fbfec4f6a0cc75f0e1cd",
           "genres": [],
@@ -960,7 +968,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Loathe",
           "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
           "genres": [],
@@ -968,7 +976,23 @@
           "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
         },
         {
-          "rank": 46,
+          "rank": 47,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 48,
+          "name": "ivri",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1ef7a4746bb42a5951ea17fd",
+          "genres": [],
+          "uri": "spotify:artist:5EjK7aUvQ9LMNqc2zXiWLS",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        },
+        {
+          "rank": 49,
           "name": "Lllyric?",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4aa87014fd24c545ea3359a3",
           "genres": [],
@@ -976,36 +1000,12 @@
           "url": "https://open.spotify.com/artist/5ONOFdZCotEuYiZskOnEnj"
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "Team Sleep",
           "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
           "genres": [],
           "uri": "spotify:artist:6CwDvApcRshxhEVMP30Sq7",
           "url": "https://open.spotify.com/artist/6CwDvApcRshxhEVMP30Sq7"
-        },
-        {
-          "rank": 48,
-          "name": "Amira Elfeky",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
-          "genres": [],
-          "uri": "spotify:artist:6Z4kwq0LOaYQW2CqudoOIk",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        },
-        {
-          "rank": 49,
-          "name": "Destroy Boys",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
-          "genres": [],
-          "uri": "spotify:artist:7KeN0XX71T4fGysIYLB5J5",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        },
-        {
-          "rank": 50,
-          "name": "Zeruel",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb036c4f35e9b9dd0e0b2b1d7b",
-          "genres": [],
-          "uri": "spotify:artist:7tO6Y3qnEQUM3kaVNlpXbu",
-          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
         }
       ]
     },
@@ -2663,19 +2663,19 @@
         },
         {
           "rank": 5,
-          "name": "TV Girl",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "genres": [],
-          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "rank": 6,
           "name": "beabadoobee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
           "genres": [],
           "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "rank": 6,
+          "name": "TV Girl",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
+          "genres": [],
+          "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
         },
         {
           "rank": 7,

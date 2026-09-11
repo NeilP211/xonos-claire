@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-09-11T02:43:46.015Z",
+  "updated_at": "2026-09-11T07:42:46.626Z",
   "plays": [
-    {
-      "played_at": "2026-06-20T23:19:16.242Z",
-      "name": "Selfless",
-      "artists": [
-        "The Strokes"
-      ],
-      "album": "The New Abnormal",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-      "uri": "spotify:track:2t0wwvR15fc3K1ey8OiOaN",
-      "duration_ms": 222093
-    },
-    {
-      "played_at": "2026-06-20T23:23:08.846Z",
-      "name": "Something In The Way",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
-      "duration_ms": 232146
-    },
-    {
-      "played_at": "2026-06-20T23:39:21.878Z",
-      "name": "Karma Police",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-      "duration_ms": 264066
-    },
-    {
-      "played_at": "2026-06-21T17:16:56.957Z",
-      "name": "Back to the Old House - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "Louder Than Bombs",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574",
-      "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
-      "duration_ms": 186626
-    },
     {
       "played_at": "2026-06-22T01:48:32.032Z",
       "name": "hate that i made you love me",
@@ -22153,6 +22109,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
       "uri": "spotify:track:68SSN8C0cJmUEXJkGyNYqe",
       "duration_ms": 198600
+    },
+    {
+      "played_at": "2026-09-11T03:07:33.915Z",
+      "name": "bad decision!",
+      "artists": [
+        "Esha Tewari"
+      ],
+      "album": "better off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27388a5610053c3f92267ce7849",
+      "uri": "spotify:track:3gUzM1yM4V8EA3qgYN35SU",
+      "duration_ms": 221767
+    },
+    {
+      "played_at": "2026-09-11T03:48:25.211Z",
+      "name": "Beaches",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
+      "duration_ms": 230053
+    },
+    {
+      "played_at": "2026-09-11T03:51:24.610Z",
+      "name": "Apple Cider",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Loveworm",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394",
+      "uri": "spotify:track:5xA5MggKc3aQxuOzNzPUWB",
+      "duration_ms": 178918
+    },
+    {
+      "played_at": "2026-09-11T03:54:05.705Z",
+      "name": "Real Man",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:0OpC8hRrbsh24taKOsQBEX",
+      "duration_ms": 160600
     }
   ]
 }
