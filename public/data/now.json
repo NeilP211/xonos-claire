@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-12T17:39:35.994Z",
+  "updated_at": "2026-09-12T20:05:59.392Z",
   "is_playing": false,
   "track": {
-    "name": "Room",
+    "name": "Let The Light In (feat. Father John Misty)",
     "artists": [
-      "Superheaven"
+      "Lana Del Rey",
+      "Father John Misty"
     ],
-    "album": "Ours Is Chrome",
-    "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-    "uri": "spotify:track:0B41ml5CjuFuCzx3CCWbRk"
+    "album": "Did you know that there's a tunnel under Ocean Blvd",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+    "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z"
   },
-  "played_at": "2026-09-12T02:26:18.975Z"
+  "played_at": "2026-09-12T17:58:03.655Z"
 }

@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-12T17:39:35.926Z",
+  "updated_at": "2026-09-12T20:05:59.319Z",
   "plays": [
-    {
-      "played_at": "2026-06-24T19:46:52.925Z",
-      "name": "Dead Before the Dawn",
-      "artists": [
-        "Ramin Djawadi"
-      ],
-      "album": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d069c3ca4d032711d706d5df",
-      "uri": "spotify:track:3EJAfRcQckPXQXTN3vahUk",
-      "duration_ms": 254698
-    },
     {
       "played_at": "2026-06-25T20:07:47.360Z",
       "name": "Here With Me",
@@ -22150,6 +22139,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
       "uri": "spotify:track:0B41ml5CjuFuCzx3CCWbRk",
       "duration_ms": 216633
+    },
+    {
+      "played_at": "2026-09-12T17:58:03.655Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }
