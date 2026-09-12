@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:05:59.158Z",
+  "generated_at": "2026-09-12T22:47:39.656Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -41,6 +41,19 @@
         },
         {
           "rank": 4,
+          "name": "Let The Light In (feat. Father John Misty)",
+          "artists": [
+            "Lana Del Rey",
+            "Father John Misty"
+          ],
+          "album": "Did you know that there's a tunnel under Ocean Blvd",
+          "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+          "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+          "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z",
+          "duration_ms": 278126
+        },
+        {
+          "rank": 5,
           "name": "Heart-Shaped Box",
           "artists": [
             "Nirvana"
@@ -52,7 +65,7 @@
           "duration_ms": 281160
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Pretty When You Cry",
           "artists": [
             "Lana Del Rey"
@@ -64,7 +77,7 @@
           "duration_ms": 234146
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -76,7 +89,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "day by day",
           "artists": [
             "gothcandy"
@@ -88,7 +101,7 @@
           "duration_ms": 200454
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Судно (Борис Рыжий)",
           "artists": [
             "Molchat Doma"
@@ -100,7 +113,7 @@
           "duration_ms": 141394
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Facebook.com",
           "artists": [
             "Memo Boy"
@@ -112,7 +125,7 @@
           "duration_ms": 218443
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -124,7 +137,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "the perfect pair",
           "artists": [
             "beabadoobee"
@@ -134,19 +147,6 @@
           "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
           "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
           "duration_ms": 177533
-        },
-        {
-          "rank": 12,
-          "name": "Let The Light In (feat. Father John Misty)",
-          "artists": [
-            "Lana Del Rey",
-            "Father John Misty"
-          ],
-          "album": "Did you know that there's a tunnel under Ocean Blvd",
-          "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
-          "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
-          "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z",
-          "duration_ms": 278126
         },
         {
           "rank": 13,
@@ -210,18 +210,6 @@
         },
         {
           "rank": 18,
-          "name": "Brooklyn Baby",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-          "duration_ms": 351640
-        },
-        {
-          "rank": 19,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -233,7 +221,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Real Man",
           "artists": [
             "beabadoobee"
@@ -245,7 +233,7 @@
           "duration_ms": 160600
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "crawl",
           "artists": [
             "cloudyfield"
@@ -257,7 +245,7 @@
           "duration_ms": 200526
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
           "artists": [
             "Deftones"
@@ -269,19 +257,7 @@
           "duration_ms": 124173
         },
         {
-          "rank": 23,
-          "name": "Self Aware",
-          "artists": [
-            "Temper City"
-          ],
-          "album": "Self Aware",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-          "duration_ms": 180740
-        },
-        {
-          "rank": 24,
+          "rank": 22,
           "name": "WANT IT CRAVE IT",
           "artists": [
             "gothcandy"
@@ -293,7 +269,7 @@
           "duration_ms": 131419
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "tower of memories",
           "artists": [
             "ivri"
@@ -305,7 +281,7 @@
           "duration_ms": 208510
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -317,7 +293,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -329,7 +305,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -341,7 +317,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -353,7 +329,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Dumb",
           "artists": [
             "Nirvana"
@@ -365,7 +341,7 @@
           "duration_ms": 151893
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -377,7 +353,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -389,7 +365,7 @@
           "duration_ms": 254533
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -401,7 +377,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -414,7 +390,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -426,7 +402,19 @@
           "duration_ms": 261293
         },
         {
-          "rank": 36,
+          "rank": 34,
+          "name": "Self Aware",
+          "artists": [
+            "Temper City"
+          ],
+          "album": "Self Aware",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+          "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+          "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+          "duration_ms": 180740
+        },
+        {
+          "rank": 35,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -438,7 +426,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -450,7 +438,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -462,7 +450,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Body Dysmorphia",
           "artists": [
             "Eyedress"
@@ -474,7 +462,7 @@
           "duration_ms": 125085
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -486,7 +474,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -498,7 +486,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -508,6 +496,18 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
+        },
+        {
+          "rank": 42,
+          "name": "Brooklyn Baby",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+          "duration_ms": 351640
         },
         {
           "rank": 43,
@@ -535,18 +535,6 @@
         },
         {
           "rank": 45,
-          "name": "Silver Soul",
-          "artists": [
-            "Beach House"
-          ],
-          "album": "Teen Dream",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a9a2f4dbb6ce31157d2e4783",
-          "uri": "spotify:track:56eSclzdXaWU5jOJ7DX7Vp",
-          "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
-          "duration_ms": 298680
-        },
-        {
-          "rank": 46,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -558,7 +546,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -570,7 +558,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -582,7 +570,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "I Can't",
           "artists": [
             "Radiohead"
@@ -594,7 +582,7 @@
           "duration_ms": 253093
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "The Man Who Sold The World - Live",
           "artists": [
             "Nirvana"
@@ -604,6 +592,18 @@
           "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
           "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
           "duration_ms": 261093
+        },
+        {
+          "rank": 50,
+          "name": "Always Forever",
+          "artists": [
+            "Cults"
+          ],
+          "album": "Static",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
+          "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
+          "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
+          "duration_ms": 223750
         }
       ],
       "artists": [
@@ -617,19 +617,19 @@
         },
         {
           "rank": 2,
-          "name": "Lana Del Rey",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "genres": [],
-          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "rank": 3,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 3,
+          "name": "Lana Del Rey",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "genres": [],
+          "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         },
         {
           "rank": 4,
@@ -689,19 +689,19 @@
         },
         {
           "rank": 11,
-          "name": "Crystal Castles",
-          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
-          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 12,
           "name": "past self",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
           "genres": [],
           "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
           "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
+        },
+        {
+          "rank": 12,
+          "name": "Crystal Castles",
+          "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
+          "genres": [],
+          "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
           "rank": 13,
@@ -761,14 +761,6 @@
         },
         {
           "rank": 20,
-          "name": "The Cranberries",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
-          "genres": [],
-          "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        },
-        {
-          "rank": 21,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -776,7 +768,7 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Bikini Kill",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfc226caae7dd29541e337a18",
           "genres": [],
@@ -784,12 +776,20 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Eyedress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
           "genres": [],
           "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
           "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "rank": 23,
+          "name": "The Cranberries",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
+          "genres": [],
+          "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         },
         {
           "rank": 24,

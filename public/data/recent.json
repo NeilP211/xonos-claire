@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-09-12T20:05:59.319Z",
+  "updated_at": "2026-09-12T22:47:39.817Z",
   "plays": [
-    {
-      "played_at": "2026-06-25T20:07:47.360Z",
-      "name": "Here With Me",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Petals to Thorns",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b",
-      "uri": "spotify:track:0NLm9bQG7ikL5k9x9TtYT7",
-      "duration_ms": 242484
-    },
-    {
-      "played_at": "2026-06-25T22:55:58.637Z",
-      "name": "back to friends",
-      "artists": [
-        "sombr"
-      ],
-      "album": "I Barely Know Her",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
-      "uri": "spotify:track:7qjZnBKE73H4Oxkopwulqe",
-      "duration_ms": 199032
-    },
-    {
-      "played_at": "2026-06-25T23:05:29.668Z",
-      "name": "LIKE THAT",
-      "artists": [
-        "BABYMONSTER"
-      ],
-      "album": "BABYMONS7ER",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f6afc385052250c766a5683",
-      "uri": "spotify:track:7GDgpad2BQVuDUzaxHFakc",
-      "duration_ms": 168358
-    },
-    {
-      "played_at": "2026-06-25T23:09:17.583Z",
-      "name": "Kiss Me More (feat. SZA)",
-      "artists": [
-        "Doja Cat",
-        "SZA"
-      ],
-      "album": "Planet Her",
-      "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49",
-      "uri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
-      "duration_ms": 208666
-    },
-    {
-      "played_at": "2026-06-25T23:12:38.047Z",
-      "name": "Super Bass",
-      "artists": [
-        "Nicki Minaj"
-      ],
-      "album": "Pink Friday (Complete Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa7d2641af0fa4c1f76fafbf",
-      "uri": "spotify:track:3hlksXnvbKogFdPbpO9vel",
-      "duration_ms": 200013
-    },
-    {
-      "played_at": "2026-06-25T23:43:31.779Z",
-      "name": "Best Friend (feat. Doja Cat)",
-      "artists": [
-        "Saweetie",
-        "Doja Cat"
-      ],
-      "album": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c547aeca467bfa366aef1bce",
-      "uri": "spotify:track:20BOju91NaEFK5Py4VJ2pp",
-      "duration_ms": 155883
-    },
     {
       "played_at": "2026-06-26T18:38:54.436Z",
       "name": "Come As You Are",
@@ -22151,6 +22083,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
       "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
       "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-12T21:24:14.664Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-12T21:25:48.571Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-12T21:29:36.793Z",
+      "name": "Downswing",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:1V7XV0nFnqmCCWXgFjXTvi",
+      "duration_ms": 220557
+    },
+    {
+      "played_at": "2026-09-12T21:32:10.963Z",
+      "name": "Crawl",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3PlcWlICyKAkDxqeNZnYNx",
+      "duration_ms": 153664
+    },
+    {
+      "played_at": "2026-09-12T21:35:34.601Z",
+      "name": "I've Been Bored",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:5mQ1FMJvCHj0FGa4qrPqte",
+      "duration_ms": 203133
+    },
+    {
+      "played_at": "2026-09-12T21:37:47.721Z",
+      "name": "Romantic Homicide",
+      "artists": [
+        "d4vd"
+      ],
+      "album": "Romantic Homicide",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
+      "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
+      "duration_ms": 132630
     }
   ]
 }
