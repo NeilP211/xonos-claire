@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-09-13T02:51:30.125Z",
+  "updated_at": "2026-09-13T07:56:47.250Z",
   "plays": [
-    {
-      "played_at": "2026-06-27T04:45:38.305Z",
-      "name": "Sleep Well",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Petals to Thorns",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b",
-      "uri": "spotify:track:61MhXxcy6MUhrDeHCDE7AP",
-      "duration_ms": 175875
-    },
-    {
-      "played_at": "2026-06-27T04:48:11.366Z",
-      "name": "You and I",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Petals to Thorns",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b",
-      "uri": "spotify:track:3Z7u704DxOBzbOihSnf1fK",
-      "duration_ms": 152551
-    },
-    {
-      "played_at": "2026-06-27T04:51:30.291Z",
-      "name": "Always Love featuring Hyunjin (Stray Kids)",
-      "artists": [
-        "d4vd",
-        "Hyunjin"
-      ],
-      "album": "Always Love featuring Hyunjin (Stray Kids)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730a622d619b7d429e350e3003",
-      "uri": "spotify:track:1WKafez8TM4dVYlSsxi6dS",
-      "duration_ms": 198472
-    },
-    {
-      "played_at": "2026-06-27T20:24:13.363Z",
-      "name": "My House Is Not A Home",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "My House Is Not A Home",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734960e5c1a43252d2b5dbca9b",
-      "uri": "spotify:track:0ssxoYXlw70MY4lh3JsI9q",
-      "duration_ms": 239181
-    },
     {
       "played_at": "2026-06-27T20:27:17.122Z",
       "name": "Best Friend (feat. Doja Cat)",
@@ -22152,6 +22107,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273441242b353fc7449f60599c6",
       "uri": "spotify:track:67Tp0vRSc3yJU0z1UQMD7B",
       "duration_ms": 234927
+    },
+    {
+      "played_at": "2026-09-13T02:54:16.265Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-13T03:00:08.396Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-09-13T03:03:10.056Z",
+      "name": "Symphonia IX",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "uri": "spotify:track:1rluwEqsWp5tz0lgyOT9rE",
+      "duration_ms": 181166
+    },
+    {
+      "played_at": "2026-09-13T03:05:58.489Z",
+      "name": "Not Allowed",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+      "duration_ms": 167864
     }
   ]
 }
