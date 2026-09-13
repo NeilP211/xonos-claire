@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-09-13T07:56:47.250Z",
+  "updated_at": "2026-09-13T13:36:27.403Z",
   "plays": [
-    {
-      "played_at": "2026-06-27T20:27:17.122Z",
-      "name": "Best Friend (feat. Doja Cat)",
-      "artists": [
-        "Saweetie",
-        "Doja Cat"
-      ],
-      "album": "Best Friend (feat. Doja Cat) [Remix EP] [Extended Edition]",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c547aeca467bfa366aef1bce",
-      "uri": "spotify:track:20BOju91NaEFK5Py4VJ2pp",
-      "duration_ms": 155883
-    },
     {
       "played_at": "2026-06-27T20:29:24.009Z",
       "name": "My Type",
@@ -22152,6 +22140,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
       "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
       "duration_ms": 167864
+    },
+    {
+      "played_at": "2026-09-13T07:59:12.178Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }

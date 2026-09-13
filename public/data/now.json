@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-13T07:56:47.327Z",
+  "updated_at": "2026-09-13T13:36:27.479Z",
   "is_playing": false,
   "track": {
-    "name": "Not Allowed",
+    "name": "Let The Light In (feat. Father John Misty)",
     "artists": [
-      "TV Girl"
+      "Lana Del Rey",
+      "Father John Misty"
     ],
-    "album": "Who Really Cares",
-    "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-    "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB"
+    "album": "Did you know that there's a tunnel under Ocean Blvd",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+    "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z"
   },
-  "played_at": "2026-09-13T03:05:58.489Z"
+  "played_at": "2026-09-13T07:59:12.178Z"
 }
