@@ -1,261 +1,6 @@
 {
-  "updated_at": "2026-09-12T22:47:39.817Z",
+  "updated_at": "2026-09-13T02:51:30.125Z",
   "plays": [
-    {
-      "played_at": "2026-06-26T18:38:54.436Z",
-      "name": "Come As You Are",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
-      "duration_ms": 218920
-    },
-    {
-      "played_at": "2026-06-26T18:47:45.272Z",
-      "name": "No Surprises",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
-      "duration_ms": 229120
-    },
-    {
-      "played_at": "2026-06-26T18:50:17.673Z",
-      "name": "Dumb",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-      "duration_ms": 151893
-    },
-    {
-      "played_at": "2026-06-26T18:53:50.881Z",
-      "name": "Playground Love (with Gordon Tracks)",
-      "artists": [
-        "Air",
-        "Gordon Tracks"
-      ],
-      "album": "The Virgin Suicides (Original Motion Picture Score)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
-      "duration_ms": 212693
-    },
-    {
-      "played_at": "2026-06-26T19:02:18.584Z",
-      "name": "Show Me How",
-      "artists": [
-        "Men I Trust"
-      ],
-      "album": "Show Me How",
-      "image": "https://i.scdn.co/image/ab67616d0000b273deeb617204bc14f4ee87b057",
-      "uri": "spotify:track:75IQVo8hqI1iwVZyvkN2VT",
-      "duration_ms": 215110
-    },
-    {
-      "played_at": "2026-06-26T19:05:30.456Z",
-      "name": "Letting Go",
-      "artists": [
-        "Rehash"
-      ],
-      "album": "Rehash",
-      "image": "https://i.scdn.co/image/ab67616d0000b273478caac085cbc2607f6ab1d1",
-      "uri": "spotify:track:62zj6l5dQuzO7FrePuxP2D",
-      "duration_ms": 191360
-    },
-    {
-      "played_at": "2026-06-26T19:09:03.405Z",
-      "name": "Telephones",
-      "artists": [
-        "Vacations"
-      ],
-      "album": "Changes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732eb4d117b70ea7ac2c24e316",
-      "uri": "spotify:track:0JIMT9gzLIIz0esKLyjbKf",
-      "duration_ms": 212432
-    },
-    {
-      "played_at": "2026-06-26T19:12:39.119Z",
-      "name": "Nobody New",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Nobody New",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-      "duration_ms": 215200
-    },
-    {
-      "played_at": "2026-06-26T19:14:54.194Z",
-      "name": "wonder if you care",
-      "artists": [
-        "flyingfish"
-      ],
-      "album": "wonder if you care",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
-      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
-      "duration_ms": 134556
-    },
-    {
-      "played_at": "2026-06-26T19:18:43.458Z",
-      "name": "All I Need",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "In Rainbows",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
-      "uri": "spotify:track:5Qv2Nby1xTr9pQyjkrc94J",
-      "duration_ms": 228746
-    },
-    {
-      "played_at": "2026-06-26T19:24:01.674Z",
-      "name": "Cherry Waves",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-      "duration_ms": 317706
-    },
-    {
-      "played_at": "2026-06-26T20:27:21.042Z",
-      "name": "Twilight",
-      "artists": [
-        "bôa"
-      ],
-      "album": "Twilight",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
-      "uri": "spotify:track:6d67Xv8ms2noA8wWFLiPDN",
-      "duration_ms": 228800
-    },
-    {
-      "played_at": "2026-06-26T20:37:05.494Z",
-      "name": "The Man Who Sold The World - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-      "duration_ms": 261093
-    },
-    {
-      "played_at": "2026-06-27T01:45:35.014Z",
-      "name": "Smells Like Teen Spirit",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
-      "duration_ms": 301920
-    },
-    {
-      "played_at": "2026-06-27T02:57:05.251Z",
-      "name": "Salvatore",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-      "duration_ms": 281093
-    },
-    {
-      "played_at": "2026-06-27T03:51:22.965Z",
-      "name": "misery.",
-      "artists": [
-        "pupsies"
-      ],
-      "album": "misery.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273316b7fde50dfbf4be72735c2",
-      "uri": "spotify:track:6De8sirPzVyAoBDlQpcutY",
-      "duration_ms": 166401
-    },
-    {
-      "played_at": "2026-06-27T04:19:53.399Z",
-      "name": "where we ended",
-      "artists": [
-        "rutherford"
-      ],
-      "album": "carpool etiquette",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a00e57d2231d08890d2517af",
-      "uri": "spotify:track:0B1mFZRbhCrKiHJEJse429",
-      "duration_ms": 145028
-    },
-    {
-      "played_at": "2026-06-27T04:23:21.762Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-06-27T04:26:35.943Z",
-      "name": "Go Away",
-      "artists": [
-        "Weezer",
-        "Best Coast"
-      ],
-      "album": "Everything Will Be Alright In The End",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
-      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
-      "duration_ms": 193733
-    },
-    {
-      "played_at": "2026-06-27T04:30:09.137Z",
-      "name": "YKWIM?",
-      "artists": [
-        "Yot Club"
-      ],
-      "album": "Bipolar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
-      "uri": "spotify:track:2vWBUC9djv6BtiGlmKiQaH",
-      "duration_ms": 212750
-    },
-    {
-      "played_at": "2026-06-27T04:31:47.772Z",
-      "name": "Babydoll",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-      "duration_ms": 97960
-    },
-    {
-      "played_at": "2026-06-27T04:35:28.749Z",
-      "name": "Naked In Manhattan",
-      "artists": [
-        "Chappell Roan"
-      ],
-      "album": "The Rise and Fall of a Midwest Princess",
-      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
-      "uri": "spotify:track:4LKYOetuIF5c9XjeLBL9av",
-      "duration_ms": 211057
-    },
-    {
-      "played_at": "2026-06-27T04:38:31.556Z",
-      "name": "Romantic Homicide",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Romantic Homicide",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
-      "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
-      "duration_ms": 132630
-    },
     {
       "played_at": "2026-06-27T04:45:38.305Z",
       "name": "Sleep Well",
@@ -22151,6 +21896,262 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
       "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
       "duration_ms": 132630
+    },
+    {
+      "played_at": "2026-09-12T23:27:32.969Z",
+      "name": "Sad Girl",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
+      "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-09-12T23:29:45.977Z",
+      "name": "Sad Girl",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
+      "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-09-12T23:34:51.977Z",
+      "name": "Undone - The Sweater Song",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Weezer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
+      "duration_ms": 305533
+    },
+    {
+      "played_at": "2026-09-12T23:38:06.235Z",
+      "name": "Go Away",
+      "artists": [
+        "Weezer",
+        "Best Coast"
+      ],
+      "album": "Everything Will Be Alright In The End",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
+      "duration_ms": 193733
+    },
+    {
+      "played_at": "2026-09-12T23:43:33.036Z",
+      "name": "Tragic Girl",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Pinkerton - Deluxe Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b34530ac4a80275e3ff2faab",
+      "uri": "spotify:track:2J4Q2WIx3572uZuTTNkCby",
+      "duration_ms": 326293
+    },
+    {
+      "played_at": "2026-09-12T23:46:23.085Z",
+      "name": "Lonely Girl",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Everything Will Be Alright In The End",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
+      "uri": "spotify:track:6oEiISbRGHUyItBkESQoQ7",
+      "duration_ms": 169560
+    },
+    {
+      "played_at": "2026-09-12T23:49:57.476Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-09-12T23:52:29.947Z",
+      "name": "It Almost Worked",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "The Night in Question: French Exit Outtakes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-09-12T23:54:00.478Z",
+      "name": "Nope your too late i already died",
+      "artists": [
+        "wifiskeleton",
+        "i wanna be a jack-o-lantern"
+      ],
+      "album": "suburban daredevil",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730713102d7bb855a4796f7cdc",
+      "uri": "spotify:track:0hta2Lb2zKJ7kEnAEZEE3G",
+      "duration_ms": 90067
+    },
+    {
+      "played_at": "2026-09-12T23:58:51.087Z",
+      "name": "Each Time You Fall in Love",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4cV9zzKtPtW4i0FhnEwazU",
+      "duration_ms": 290160
+    },
+    {
+      "played_at": "2026-09-13T00:01:37.589Z",
+      "name": "Falling Apart",
+      "artists": [
+        "Slow Pulp"
+      ],
+      "album": "Moveys",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352a17efb55a62f0a7e7f7713",
+      "uri": "spotify:track:2b7zdV4i5vEaRlZAkiIAR5",
+      "duration_ms": 166033
+    },
+    {
+      "played_at": "2026-09-13T00:05:26.278Z",
+      "name": "Without You",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Without You",
+      "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
+      "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
+      "duration_ms": 228080
+    },
+    {
+      "played_at": "2026-09-13T00:09:03.662Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-13T00:14:11.708Z",
+      "name": "Tomorrow Never Came (feat. Sean Ono Lennon)",
+      "artists": [
+        "Lana Del Rey",
+        "Sean Ono Lennon"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:6VZwnDUMkAZs36g6v9MVQX",
+      "duration_ms": 307540
+    },
+    {
+      "played_at": "2026-09-13T00:17:24.485Z",
+      "name": "Blondie",
+      "artists": [
+        "Current Joys"
+      ],
+      "album": "Wild Heart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
+      "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
+      "duration_ms": 192318
+    },
+    {
+      "played_at": "2026-09-13T00:20:57.885Z",
+      "name": "Call Me",
+      "artists": [
+        "Blondie"
+      ],
+      "album": "Best Of Blondie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738cf86a9be38868f1d73cdb58",
+      "uri": "spotify:track:0vLwL4xuJ3s7SeaCdvMqkY",
+      "duration_ms": 212893
+    },
+    {
+      "played_at": "2026-09-13T00:24:35.717Z",
+      "name": "One Way Or Another",
+      "artists": [
+        "Blondie"
+      ],
+      "album": "Parallel Lines",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f",
+      "uri": "spotify:track:59CLe8stbcx4XYBWdsfbwK",
+      "duration_ms": 217364
+    },
+    {
+      "played_at": "2026-09-13T01:24:39.843Z",
+      "name": "You're Not The Only One I Know",
+      "artists": [
+        "The Sundays"
+      ],
+      "album": "Reading, Writing And Arithmetic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273441242b353fc7449f60599c6",
+      "uri": "spotify:track:7BaxYnTazocAOK3istsW1z",
+      "duration_ms": 230167
+    },
+    {
+      "played_at": "2026-09-13T01:26:43.747Z",
+      "name": "You're Not The Only One I Know",
+      "artists": [
+        "The Sundays"
+      ],
+      "album": "Reading, Writing And Arithmetic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273441242b353fc7449f60599c6",
+      "uri": "spotify:track:7BaxYnTazocAOK3istsW1z",
+      "duration_ms": 230167
+    },
+    {
+      "played_at": "2026-09-13T01:28:56.553Z",
+      "name": "Beanie",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "Beanie",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
+      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
+      "duration_ms": 132160
+    },
+    {
+      "played_at": "2026-09-13T01:31:36.707Z",
+      "name": "Run Away",
+      "artists": [
+        "Chezile"
+      ],
+      "album": "47",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e9387414fb13819654912c8e",
+      "uri": "spotify:track:6doY5sLPHdE4g7RUQdYSz6",
+      "duration_ms": 159650
+    },
+    {
+      "played_at": "2026-09-13T01:55:43.243Z",
+      "name": "Glue Song",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Glue Song",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e3862aeefcb2f0860ef017e4",
+      "uri": "spotify:track:3iBgrkexCzVuPy4O9vx7Mf",
+      "duration_ms": 135066
+    },
+    {
+      "played_at": "2026-09-13T02:49:27.064Z",
+      "name": "Here's Where The Story Ends",
+      "artists": [
+        "The Sundays"
+      ],
+      "album": "Reading, Writing And Arithmetic",
+      "image": "https://i.scdn.co/image/ab67616d0000b273441242b353fc7449f60599c6",
+      "uri": "spotify:track:67Tp0vRSc3yJU0z1UQMD7B",
+      "duration_ms": 234927
     }
   ]
 }

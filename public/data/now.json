@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-12T22:47:39.885Z",
-  "is_playing": false,
+  "updated_at": "2026-09-13T02:51:30.233Z",
+  "is_playing": true,
   "track": {
-    "name": "Romantic Homicide",
+    "name": "Let The Light In (feat. Father John Misty)",
     "artists": [
-      "d4vd"
+      "Lana Del Rey",
+      "Father John Misty"
     ],
-    "album": "Romantic Homicide",
-    "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
-    "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL"
+    "album": "Did you know that there's a tunnel under Ocean Blvd",
+    "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+    "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z"
   },
-  "played_at": "2026-09-12T21:37:47.721Z"
+  "played_at": "2026-09-13T02:51:30.233Z"
 }
