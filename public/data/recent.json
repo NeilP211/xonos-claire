@@ -1,63 +1,6 @@
 {
-  "updated_at": "2026-09-13T20:12:56.090Z",
+  "updated_at": "2026-09-13T22:49:05.365Z",
   "plays": [
-    {
-      "played_at": "2026-06-27T20:29:24.009Z",
-      "name": "My Type",
-      "artists": [
-        "Saweetie"
-      ],
-      "album": "ICY",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373259b2cee51400355957fa6",
-      "uri": "spotify:track:5KBARWIxeMGkvUax9VtVC9",
-      "duration_ms": 126446
-    },
-    {
-      "played_at": "2026-06-27T20:31:03.735Z",
-      "name": "BILLIE EILISH.",
-      "artists": [
-        "Armani White"
-      ],
-      "album": "Road to CASABLANCO.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b91b4ade012ef3a2448e3a96",
-      "uri": "spotify:track:2tDOCMuKSX9IEo9TJ4pBBk",
-      "duration_ms": 99280
-    },
-    {
-      "played_at": "2026-06-27T20:35:27.939Z",
-      "name": "No Hands (feat. Roscoe Dash & Wale)",
-      "artists": [
-        "Waka Flocka Flame",
-        "Roscoe Dash",
-        "Wale"
-      ],
-      "album": "Flockaveli",
-      "image": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
-      "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
-      "duration_ms": 263773
-    },
-    {
-      "played_at": "2026-06-27T20:39:26.107Z",
-      "name": "Nobody New",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Nobody New",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-      "duration_ms": 215200
-    },
-    {
-      "played_at": "2026-06-27T20:44:11.116Z",
-      "name": "No One Noticed (Extended English)",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "No One Noticed (Extended)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358c0f15c5247c0b719d7ffb0",
-      "uri": "spotify:track:4Q9qkdqu0qKKjaftRrAK9C",
-      "duration_ms": 284466
-    },
     {
       "played_at": "2026-06-27T21:11:21.303Z",
       "name": "hold me in your arms",
@@ -22152,6 +22095,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
       "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
       "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-13T21:27:23.894Z",
+      "name": "Teenage Blue",
+      "artists": [
+        "Dreamgirl"
+      ],
+      "album": "Illuminaughty",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b25c40c873df70e28499c495",
+      "uri": "spotify:track:6oWXWkwHKREYlBNuBCitFP",
+      "duration_ms": 234968
+    },
+    {
+      "played_at": "2026-09-13T22:06:03.249Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-13T22:09:40.767Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-13T22:44:23.606Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-09-13T22:47:12.822Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273068caa28105743b03ac6ee0f",
+      "uri": "spotify:track:2QjvcnTm5u1vWaIChGQVAY",
+      "duration_ms": 168733
     }
   ]
 }
