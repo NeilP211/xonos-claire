@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-09-14T17:32:21.262Z",
+  "updated_at": "2026-09-14T21:21:58.943Z",
   "plays": [
-    {
-      "played_at": "2026-06-28T18:26:48.964Z",
-      "name": "Blondie",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "Wild Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
-      "uri": "spotify:track:6l8T96kpkx6RY9kFac7eMU",
-      "duration_ms": 192318
-    },
-    {
-      "played_at": "2026-06-28T20:51:07.699Z",
-      "name": "Suffocation",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles (II)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af54621b48da9687dc86011b",
-      "uri": "spotify:track:5ngTZfaLbdMgN8WoCOh0d4",
-      "duration_ms": 240626
-    },
-    {
-      "played_at": "2026-06-28T20:53:06.342Z",
-      "name": "Headlock",
-      "artists": [
-        "Imogen Heap"
-      ],
-      "album": "Speak for Yourself (Deluxe Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730cabafb8b01b956fae313c57",
-      "uri": "spotify:track:63Pi2NAx5yCgeLhCTOrEou",
-      "duration_ms": 215338
-    },
-    {
-      "played_at": "2026-06-28T20:57:09.767Z",
-      "name": "Vanished",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-      "duration_ms": 242960
-    },
-    {
-      "played_at": "2026-06-28T21:01:40.010Z",
-      "name": "Everything In Its Right Place",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "Kid A",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c7112082b63beefffe40151",
-      "uri": "spotify:track:2kRFrWaLWiKq48YYVdGcm8",
-      "duration_ms": 251426
-    },
-    {
-      "played_at": "2026-06-28T21:05:55.770Z",
-      "name": "Genesis",
-      "artists": [
-        "Grimes"
-      ],
-      "album": "Visions",
-      "image": "https://i.scdn.co/image/ab67616d0000b273550133f6d334ed152d75aa56",
-      "uri": "spotify:track:3cjvqsvvU80g7WJPMVh8iq",
-      "duration_ms": 255320
-    },
-    {
-      "played_at": "2026-06-28T21:09:43.235Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
     {
       "played_at": "2026-06-28T21:14:29.498Z",
       "name": "When the Sun Hits",
@@ -22155,6 +22078,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
       "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
       "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-14T19:34:24.260Z",
+      "name": "The Other Woman",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1KuVEZR4xuQVNr1KkanAV4",
+      "duration_ms": 181960
+    },
+    {
+      "played_at": "2026-09-14T19:45:32.578Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-09-14T19:48:37.392Z",
+      "name": "High",
+      "artists": [
+        "Slow Pulp"
+      ],
+      "album": "Big Day",
+      "image": "https://i.scdn.co/image/ab67616d0000b27390650066f81cecbc2d7926f3",
+      "uri": "spotify:track:3GaamyFHQYbQi1ykc4nV4o",
+      "duration_ms": 152571
+    },
+    {
+      "played_at": "2026-09-14T19:51:40.464Z",
+      "name": "Body Dysmorphia",
+      "artists": [
+        "Eyedress"
+      ],
+      "album": "Mulholland Drive",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
+      "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
+      "duration_ms": 125085
+    },
+    {
+      "played_at": "2026-09-14T19:53:38.248Z",
+      "name": "Dove - Demo Ver",
+      "artists": [
+        "antihoney"
+      ],
+      "album": "antihoney (Demo Compilation)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d06ce8595325ab68fa28ae5a",
+      "uri": "spotify:track:5djlQk0utbAQMbmB7MSWiz",
+      "duration_ms": 113484
+    },
+    {
+      "played_at": "2026-09-14T19:55:10.656Z",
+      "name": "Fever - Solo",
+      "artists": [
+        "fakemink archive"
+      ],
+      "album": "Fever (Solo)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739706e8c0055ddf91637c1f3e",
+      "uri": "spotify:track:0FdLKxYR85N2BBxnuxaVbd",
+      "duration_ms": 91826
+    },
+    {
+      "played_at": "2026-09-14T19:58:05.101Z",
+      "name": "It Fit When I Was a Kid - Slowed",
+      "artists": [
+        "void angel"
+      ],
+      "album": "It Fit When I Was a Kid (Slowed)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ac35fec3f179e01bdba086d",
+      "uri": "spotify:track:5zW5pAPymJkozRF7AEAskA",
+      "duration_ms": 174023
     }
   ]
 }
