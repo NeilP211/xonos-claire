@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-14T03:05:27.294Z",
+  "updated_at": "2026-09-14T11:37:09.470Z",
   "plays": [
-    {
-      "played_at": "2026-06-28T04:52:08.541Z",
-      "name": "Romantic Homicide",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Romantic Homicide",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
-      "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
-      "duration_ms": 132630
-    },
     {
       "played_at": "2026-06-28T18:26:48.964Z",
       "name": "Blondie",
@@ -22145,6 +22134,18 @@
     },
     {
       "played_at": "2026-09-14T02:53:09.961Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-14T06:33:07.509Z",
       "name": "Let The Light In (feat. Father John Misty)",
       "artists": [
         "Lana Del Rey",
