@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:21:58.808Z",
+  "generated_at": "2026-09-15T03:07:52.761Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -306,18 +306,6 @@
         },
         {
           "rank": 26,
-          "name": "Dumb",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "In Utero",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-          "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-          "url": "https://open.spotify.com/track/5gRcv46AMTrosmTOqrOV3Q",
-          "duration_ms": 151893
-        },
-        {
-          "rank": 27,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -329,7 +317,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -341,7 +329,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -353,7 +341,7 @@
           "duration_ms": 254533
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -365,7 +353,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -378,7 +366,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -390,7 +378,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -402,7 +390,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Self Aware",
           "artists": [
             "Temper City"
@@ -414,7 +402,7 @@
           "duration_ms": 180740
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -426,7 +414,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "About A Girl",
           "artists": [
             "Nirvana"
@@ -438,7 +426,7 @@
           "duration_ms": 168428
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -450,7 +438,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -462,7 +450,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -474,7 +462,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -486,7 +474,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -498,7 +486,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -510,7 +498,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -522,7 +510,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -534,7 +522,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "High",
           "artists": [
             "Slow Pulp"
@@ -546,7 +534,7 @@
           "duration_ms": 152571
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -558,7 +546,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -570,7 +558,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "I Can't",
           "artists": [
             "Radiohead"
@@ -582,7 +570,7 @@
           "duration_ms": 253093
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Pretty Girls Make Graves - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -594,7 +582,7 @@
           "duration_ms": 223253
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -604,6 +592,18 @@
           "uri": "spotify:track:56eSclzdXaWU5jOJ7DX7Vp",
           "url": "https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp",
           "duration_ms": 298680
+        },
+        {
+          "rank": 50,
+          "name": "Under Your Spell",
+          "artists": [
+            "Snow Strippers"
+          ],
+          "album": "April Mixtape 3",
+          "image": "https://i.scdn.co/image/ab67616d0000b27317dbd78819c31da3641cb8ca",
+          "uri": "spotify:track:5q0N5SaFhROG9UQiPukv9p",
+          "url": "https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p",
+          "duration_ms": 218500
         }
       ],
       "artists": [
