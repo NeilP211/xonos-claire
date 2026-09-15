@@ -1,74 +1,6 @@
 {
-  "updated_at": "2026-09-15T16:07:33.985Z",
+  "updated_at": "2026-09-15T20:48:08.824Z",
   "plays": [
-    {
-      "played_at": "2026-06-28T22:24:42.298Z",
-      "name": "Let Go",
-      "artists": [
-        "Ark Patrol",
-        "Veronika Redd"
-      ],
-      "album": "Let Go",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bfcdd8cdb07d7efc0c9097e6",
-      "uri": "spotify:track:47ZktHjhbCcs7VNPsJTib5",
-      "duration_ms": 248056
-    },
-    {
-      "played_at": "2026-06-28T22:28:30.478Z",
-      "name": "The Blonde",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
-      "duration_ms": 227760
-    },
-    {
-      "played_at": "2026-06-28T22:31:37.399Z",
-      "name": "Untrust Us",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
-      "duration_ms": 186373
-    },
-    {
-      "played_at": "2026-06-28T22:34:32.052Z",
-      "name": "SPIT IN MY FACE!",
-      "artists": [
-        "ThxSoMch"
-      ],
-      "album": "SPIT IN MY FACE!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
-      "uri": "spotify:track:1N8TTK1Uoy7UvQNUazfUt5",
-      "duration_ms": 147874
-    },
-    {
-      "played_at": "2026-06-28T22:42:00.261Z",
-      "name": "Money",
-      "artists": [
-        "The Drums"
-      ],
-      "album": "Portamento",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734c27d14a19e67dac23661031",
-      "uri": "spotify:track:3VIJBrMpvimHEw5wtPh2wB",
-      "duration_ms": 233639
-    },
-    {
-      "played_at": "2026-06-28T22:44:53.205Z",
-      "name": "Warmpop",
-      "artists": [
-        "ESPRIT 空想",
-        "George Clanton"
-      ],
-      "album": "200% Electronica",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739bf7d13db51dfd26eb1e49b0",
-      "uri": "spotify:track:0Ubp7kMZ6MWZIL8qkloYub",
-      "duration_ms": 172374
-    },
     {
       "played_at": "2026-06-28T22:47:42.427Z",
       "name": "New Flesh",
@@ -22152,6 +22084,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
       "uri": "spotify:track:1v7ptGUBS2DbbRmfIG0hU2",
       "duration_ms": 292853
+    },
+    {
+      "played_at": "2026-09-15T19:54:47.440Z",
+      "name": "Sun Has Set",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Sun Has Set",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f3307b2ee6c3131410efdc7",
+      "uri": "spotify:track:3CnEw0mRAXVlLw36iL0mbe",
+      "duration_ms": 141804
+    },
+    {
+      "played_at": "2026-09-15T19:58:31.740Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-09-15T20:03:21.978Z",
+      "name": "Jilt",
+      "artists": [
+        "Clarion"
+      ],
+      "album": "Jilt",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6c6933da453980fb973100e",
+      "uri": "spotify:track:5uPk6VJ4VdkYnaFJwJf6cr",
+      "duration_ms": 283164
+    },
+    {
+      "played_at": "2026-09-15T20:05:55.391Z",
+      "name": "Charlie Brown",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Fake It Flowers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
+      "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
+      "duration_ms": 152649
+    },
+    {
+      "played_at": "2026-09-15T20:08:28.600Z",
+      "name": "Charlie Brown",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Fake It Flowers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
+      "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
+      "duration_ms": 152649
+    },
+    {
+      "played_at": "2026-09-15T20:11:16.874Z",
+      "name": "WHOEVER YOU WANT ME TO BE (NOTHING MORE)",
+      "artists": [
+        "ivri"
+      ],
+      "album": "WHOEVER YOU WANT ME TO BE (NOTHING MORE)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27326a1e7ecfc3ef90e43b5076c",
+      "uri": "spotify:track:61TkbQlySi619YQgnaxUQT",
+      "duration_ms": 167786
     }
   ]
 }
