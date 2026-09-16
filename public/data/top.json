@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:22:29.132Z",
+  "generated_at": "2026-09-16T03:04:19.061Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -961,14 +961,6 @@
         },
         {
           "rank": 45,
-          "name": "Chappell Roan",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebd258ecb0d66244e6300bcf64",
-          "genres": [],
-          "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        },
-        {
-          "rank": 46,
           "name": "Destroy Boys",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
           "genres": [],
@@ -976,7 +968,7 @@
           "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Twin Tribes",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd60c383e79d87ac7d55b9967",
           "genres": [],
@@ -984,7 +976,7 @@
           "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Phantogram",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0fcb5946f9fea8be6ae5e858",
           "genres": [],
@@ -992,7 +984,7 @@
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Ally Nicholas",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf6863c2434d27b6299226a0",
           "genres": [],
@@ -1000,12 +992,20 @@
           "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Tyler, The Creator",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf2728294ff77dd11eeb18fb",
           "genres": [],
           "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF",
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "rank": 50,
+          "name": "The Sundays",
+          "image": "https://i.scdn.co/image/d11ee55598e458475cf9b34ce3bc7ffde96aceb4",
+          "genres": [],
+          "uri": "spotify:artist:4nlqDmbzFzbNITaqjJv7D7",
+          "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         }
       ]
     },
