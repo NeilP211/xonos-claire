@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-16T23:29:58.716Z",
+  "updated_at": "2026-09-17T03:08:02.548Z",
   "plays": [
-    {
-      "played_at": "2026-06-28T22:47:42.427Z",
-      "name": "New Flesh",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "Wild Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
-      "uri": "spotify:track:786f01L1AbBOGr0WmAs54w",
-      "duration_ms": 168764
-    },
     {
       "played_at": "2026-06-28T22:51:54.047Z",
       "name": "Empathy",
@@ -22151,6 +22140,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27326a1e7ecfc3ef90e43b5076c",
       "uri": "spotify:track:61TkbQlySi619YQgnaxUQT",
       "duration_ms": 167786
+    },
+    {
+      "played_at": "2026-09-17T02:55:15.813Z",
+      "name": "Drowning In An Empty Sea",
+      "artists": [
+        "DECEITS"
+      ],
+      "album": "If There's No Heaven...",
+      "image": "https://i.scdn.co/image/ab67616d0000b273165cf5b3f12567d4c1443429",
+      "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
+      "duration_ms": 239481
     }
   ]
 }
