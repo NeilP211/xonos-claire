@@ -1,228 +1,6 @@
 {
-  "updated_at": "2026-09-18T02:55:35.381Z",
+  "updated_at": "2026-09-18T07:56:48.507Z",
   "plays": [
-    {
-      "played_at": "2026-06-28T22:51:54.047Z",
-      "name": "Empathy",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles (II)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732acf8c820a360269715b2d6e",
-      "uri": "spotify:track:2R3heksil8zmzSFUwYQIPC",
-      "duration_ms": 251106
-    },
-    {
-      "played_at": "2026-06-28T22:55:13.507Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-06-28T22:59:15.027Z",
-      "name": "The Lost Soul Down - Slowed & Reverb",
-      "artists": [
-        "NBSPLV"
-      ],
-      "album": "The Lost Soul Down (Slowed & Reverb)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d4a4d1d3df825f282f48c59",
-      "uri": "spotify:track:5XtsfMFmpM401S6dbVaOQw",
-      "duration_ms": 241111
-    },
-    {
-      "played_at": "2026-06-28T23:00:50.605Z",
-      "name": "scars",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "VOL. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
-      "uri": "spotify:track:0ENO8Pu1riZdUdYEErLA8z",
-      "duration_ms": 95002
-    },
-    {
-      "played_at": "2026-06-28T23:05:28.756Z",
-      "name": "I'm God",
-      "artists": [
-        "Clams Casino",
-        "Imogen Heap"
-      ],
-      "album": "Instrumental Relics",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d57e3b601a8171f7e122b2ea",
-      "uri": "spotify:track:0FVuyC9RP5MACjp4lgU3qZ",
-      "duration_ms": 277710
-    },
-    {
-      "played_at": "2026-06-28T23:08:33.914Z",
-      "name": "Transgender",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "(III)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27339140b04426a6ae1c7842e38",
-      "uri": "spotify:track:26ZzSLUJMmYp5u1hDELEWH",
-      "duration_ms": 184760
-    },
-    {
-      "played_at": "2026-06-28T23:12:12.847Z",
-      "name": "Under Your Spell",
-      "artists": [
-        "Snow Strippers"
-      ],
-      "album": "April Mixtape 3",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317dbd78819c31da3641cb8ca",
-      "uri": "spotify:track:5q0N5SaFhROG9UQiPukv9p",
-      "duration_ms": 218500
-    },
-    {
-      "played_at": "2026-06-28T23:15:01.104Z",
-      "name": "Not Allowed",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
-      "duration_ms": 167864
-    },
-    {
-      "played_at": "2026-06-28T23:19:56.624Z",
-      "name": "Art Deco",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
-      "duration_ms": 295066
-    },
-    {
-      "played_at": "2026-06-28T23:23:29.990Z",
-      "name": "Resonance",
-      "artists": [
-        "Home"
-      ],
-      "album": "Odyssey",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3434e8f47ec47a90b4b4784",
-      "uri": "spotify:track:2NHkwSwm6C6eAX3z6xm7Uy",
-      "duration_ms": 212938
-    },
-    {
-      "played_at": "2026-06-28T23:26:44.141Z",
-      "name": "Knights",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:2Q4hl7psP5tVG6rOYZk0m0",
-      "duration_ms": 193706
-    },
-    {
-      "played_at": "2026-06-28T23:29:07.175Z",
-      "name": "SimpsonWave1995",
-      "artists": [
-        "FrankJavCee"
-      ],
-      "album": "FrankJavCee Collection, Vol. 1, Pt. II",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739eb3c3b18536522601ca8731",
-      "uri": "spotify:track:0qqRNnwh86N1XBV94GVgQN",
-      "duration_ms": 142602
-    },
-    {
-      "played_at": "2026-06-28T23:36:55.279Z",
-      "name": "Let It Happen",
-      "artists": [
-        "Tame Impala"
-      ],
-      "album": "Currents",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-      "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed",
-      "duration_ms": 467586
-    },
-    {
-      "played_at": "2026-06-28T23:40:45.430Z",
-      "name": "Your face",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-      "duration_ms": 229728
-    },
-    {
-      "played_at": "2026-06-28T23:44:51.268Z",
-      "name": "Runaway Runaway",
-      "artists": [
-        "ceZk"
-      ],
-      "album": "Runaway Runaway",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa26f50c240498a941d3b7a4",
-      "uri": "spotify:track:36sj44xxsQn1msaU4bOmc5",
-      "duration_ms": 245331
-    },
-    {
-      "played_at": "2026-06-28T23:47:59.970Z",
-      "name": "Char",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Amnesty (I)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a51ae277980fbf5b2bd2c7e8",
-      "uri": "spotify:track:2mHngbc9wHeVuJr59VCV2h",
-      "duration_ms": 188333
-    },
-    {
-      "played_at": "2026-06-28T23:51:10.481Z",
-      "name": "Missing Textures - Slowed Down",
-      "artists": [
-        "NIVEK FFORHS"
-      ],
-      "album": "Missing Textures",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732c904e7c27c0e16a9b60b2d7",
-      "uri": "spotify:track:5u7Ow7JQjTFnrQoA0myBqI",
-      "duration_ms": 189991
-    },
-    {
-      "played_at": "2026-06-29T02:40:47.667Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-06-29T02:43:19.849Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-06-29T02:47:13.789Z",
-      "name": "Hey Kids",
-      "artists": [
-        "Molina",
-        "Late Verlane"
-      ],
-      "album": "Hey Kids",
-      "image": "https://i.scdn.co/image/ab67616d0000b273df5db69cd87b0c00a2c80bfc",
-      "uri": "spotify:track:1MTLuqp279PQSb0wBnYFdo",
-      "duration_ms": 233374
-    },
     {
       "played_at": "2026-06-29T02:51:27.800Z",
       "name": "Leave",
@@ -22151,6 +21929,230 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273165cf5b3f12567d4c1443429",
       "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
       "duration_ms": 239481
+    },
+    {
+      "played_at": "2026-09-18T05:13:54.284Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-09-18T05:17:39.125Z",
+      "name": "Pylon",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+      "duration_ms": 215256
+    },
+    {
+      "played_at": "2026-09-18T05:20:00.923Z",
+      "name": "Sun Has Set",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+      "duration_ms": 141804
+    },
+    {
+      "played_at": "2026-09-18T05:22:59.223Z",
+      "name": "Estranged",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
+      "duration_ms": 178281
+    },
+    {
+      "played_at": "2026-09-18T05:26:01.122Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-09-18T05:32:29.286Z",
+      "name": "Write Me A Letter",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
+      "duration_ms": 194103
+    },
+    {
+      "played_at": "2026-09-18T05:35:20.570Z",
+      "name": "It's Alright",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
+      "duration_ms": 171308
+    },
+    {
+      "played_at": "2026-09-18T05:38:28.566Z",
+      "name": "In Motion",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:0N6xvbX8lsB8u9Q9B6rJgt",
+      "duration_ms": 187992
+    },
+    {
+      "played_at": "2026-09-18T05:41:17.348Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+      "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-09-18T05:43:41.609Z",
+      "name": "Nothing To Prove",
+      "artists": [
+        "beabadoobee",
+        "Hayley Williams"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
+      "duration_ms": 144316
+    },
+    {
+      "played_at": "2026-09-18T05:46:21.858Z",
+      "name": "Radio",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+      "duration_ms": 160230
+    },
+    {
+      "played_at": "2026-09-18T05:49:20.255Z",
+      "name": "Powerlines",
+      "artists": [
+        "beabadoobee",
+        "Brendan Yates"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:7uvsxYvJwAGTdxMNJrgtbQ",
+      "duration_ms": 178391
+    },
+    {
+      "played_at": "2026-09-18T05:52:08.051Z",
+      "name": "Spark",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
+      "duration_ms": 167799
+    },
+    {
+      "played_at": "2026-09-18T05:53:37.709Z",
+      "name": "Despite That",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
+      "duration_ms": 89678
+    },
+    {
+      "played_at": "2026-09-18T05:58:23.145Z",
+      "name": "Satellite",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
+      "duration_ms": 285425
+    },
+    {
+      "played_at": "2026-09-18T06:02:27.889Z",
+      "name": "Are You Sure",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Space Cadet",
+      "image": "https://i.scdn.co/image/ab67616d0000b273169592719e46bcd4266f24ab",
+      "uri": "spotify:track:1d4EO17bQjTyG910D2y8bN",
+      "duration_ms": 244214
+    },
+    {
+      "played_at": "2026-09-18T06:26:17.990Z",
+      "name": "In My Room",
+      "artists": [
+        "Julia Wolf"
+      ],
+      "album": "PRESSURE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
+      "uri": "spotify:track:2Ui2JtVjnbHZuExldryCOA",
+      "duration_ms": 163874
+    },
+    {
+      "played_at": "2026-09-18T06:26:30.086Z",
+      "name": "Bags",
+      "artists": [
+        "Clairo"
+      ],
+      "album": "Immunity",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e4fc846c2b52b9cb6ff2e1f",
+      "uri": "spotify:track:1wicceeNVtcnym2YjiOmyj",
+      "duration_ms": 260519
+    },
+    {
+      "played_at": "2026-09-18T06:31:07.323Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-18T06:56:17.643Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }
