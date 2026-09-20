@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:06:03.442Z",
+  "generated_at": "2026-09-20T10:31:24.933Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -150,18 +150,6 @@
         },
         {
           "rank": 13,
-          "name": "day by day",
-          "artists": [
-            "gothcandy"
-          ],
-          "album": "goth girl summer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273deecda0e6765be441cce7ef7",
-          "uri": "spotify:track:0TJYBZ2b9C3CYEX4hZ0fch",
-          "url": "https://open.spotify.com/track/0TJYBZ2b9C3CYEX4hZ0fch",
-          "duration_ms": 200454
-        },
-        {
-          "rank": 14,
           "name": "Leach",
           "artists": [
             "Superheaven"
@@ -173,7 +161,7 @@
           "duration_ms": 229515
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "White Boy",
           "artists": [
             "Bikini Kill"
@@ -185,7 +173,7 @@
           "duration_ms": 146000
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Sun Has Set",
           "artists": [
             "beabadoobee"
@@ -197,7 +185,7 @@
           "duration_ms": 141804
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Love Buzz",
           "artists": [
             "Nirvana"
@@ -209,7 +197,7 @@
           "duration_ms": 215203
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Real Man",
           "artists": [
             "beabadoobee"
@@ -221,19 +209,19 @@
           "duration_ms": 160600
         },
         {
-          "rank": 19,
-          "name": "crawl",
+          "rank": 18,
+          "name": "day by day",
           "artists": [
-            "cloudyfield"
+            "gothcandy"
           ],
-          "album": "crawl",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d117fb1f18402fe241d5531a",
-          "uri": "spotify:track:1vz5nsrQThI3GLd0gN3pWB",
-          "url": "https://open.spotify.com/track/1vz5nsrQThI3GLd0gN3pWB",
-          "duration_ms": 200526
+          "album": "goth girl summer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273deecda0e6765be441cce7ef7",
+          "uri": "spotify:track:0TJYBZ2b9C3CYEX4hZ0fch",
+          "url": "https://open.spotify.com/track/0TJYBZ2b9C3CYEX4hZ0fch",
+          "duration_ms": 200454
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
           "artists": [
             "Deftones"
@@ -245,7 +233,7 @@
           "duration_ms": 124173
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Body Dysmorphia",
           "artists": [
             "Eyedress"
@@ -257,7 +245,7 @@
           "duration_ms": 125085
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Memories",
           "artists": [
             "beabadoobee"
@@ -269,19 +257,7 @@
           "duration_ms": 168733
         },
         {
-          "rank": 23,
-          "name": "WANT IT CRAVE IT",
-          "artists": [
-            "gothcandy"
-          ],
-          "album": "WANT IT CRAVE IT",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732c80513afc05994c2aee9dba",
-          "uri": "spotify:track:3g8ENWXJH4jB3C1dDT0Wt7",
-          "url": "https://open.spotify.com/track/3g8ENWXJH4jB3C1dDT0Wt7",
-          "duration_ms": 131419
-        },
-        {
-          "rank": 24,
+          "rank": 22,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -293,7 +269,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "In Bloom - Remastered",
           "artists": [
             "Nirvana"
@@ -305,7 +281,7 @@
           "duration_ms": 254533
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "It Almost Worked",
           "artists": [
             "TV Girl"
@@ -317,7 +293,7 @@
           "duration_ms": 152000
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -329,7 +305,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -342,7 +318,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 29,
+          "rank": 27,
           "name": "All Apologies",
           "artists": [
             "Nirvana"
@@ -354,7 +330,7 @@
           "duration_ms": 233173
         },
         {
-          "rank": 30,
+          "rank": 28,
           "name": "Pylon",
           "artists": [
             "beabadoobee"
@@ -366,7 +342,7 @@
           "duration_ms": 215256
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -378,7 +354,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -390,7 +366,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -402,7 +378,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 34,
+          "rank": 32,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -414,7 +390,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Тоска",
           "artists": [
             "Molchat Doma"
@@ -426,7 +402,7 @@
           "duration_ms": 189003
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Pretend",
           "artists": [
             "alex_g_offline"
@@ -438,7 +414,7 @@
           "duration_ms": 359769
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -450,7 +426,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "dream girl",
           "artists": [
             "gothcandy"
@@ -462,7 +438,7 @@
           "duration_ms": 125725
         },
         {
-          "rank": 39,
+          "rank": 37,
           "name": "Take It From The Top",
           "artists": [
             "The Velveteers"
@@ -474,7 +450,7 @@
           "duration_ms": 232041
         },
         {
-          "rank": 40,
+          "rank": 38,
           "name": "The Subway",
           "artists": [
             "Chappell Roan"
@@ -486,7 +462,7 @@
           "duration_ms": 252276
         },
         {
-          "rank": 41,
+          "rank": 39,
           "name": "High",
           "artists": [
             "Slow Pulp"
@@ -498,7 +474,7 @@
           "duration_ms": 152571
         },
         {
-          "rank": 42,
+          "rank": 40,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -510,7 +486,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Beanie",
           "artists": [
             "Chezile"
@@ -522,7 +498,7 @@
           "duration_ms": 132160
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "I Can't",
           "artists": [
             "Radiohead"
@@ -534,7 +510,19 @@
           "duration_ms": 253093
         },
         {
-          "rank": 45,
+          "rank": 43,
+          "name": "crawl",
+          "artists": [
+            "cloudyfield"
+          ],
+          "album": "crawl",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d117fb1f18402fe241d5531a",
+          "uri": "spotify:track:1vz5nsrQThI3GLd0gN3pWB",
+          "url": "https://open.spotify.com/track/1vz5nsrQThI3GLd0gN3pWB",
+          "duration_ms": 200526
+        },
+        {
+          "rank": 44,
           "name": "Pretty Girls Make Graves - 2011 Remaster",
           "artists": [
             "The Smiths"
@@ -546,7 +534,7 @@
           "duration_ms": 223253
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -558,7 +546,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -570,7 +558,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -582,7 +570,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "cannibal",
           "artists": [
             "bleood"
@@ -594,7 +582,7 @@
           "duration_ms": 132456
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "High By The Beach",
           "artists": [
             "Lana Del Rey"
@@ -604,6 +592,19 @@
           "uri": "spotify:track:7g3htkaLz4ETFn0cifwM3y",
           "url": "https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y",
           "duration_ms": 257573
+        },
+        {
+          "rank": 50,
+          "name": "A Night To Remember",
+          "artists": [
+            "beabadoobee",
+            "Laufey"
+          ],
+          "album": "A Night To Remember",
+          "image": "https://i.scdn.co/image/ab67616d0000b27303ea1900840b8804f779f7b3",
+          "uri": "spotify:track:180AbZduI6bYQIzwCHRwu9",
+          "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9",
+          "duration_ms": 233388
         }
       ],
       "artists": [
@@ -633,14 +634,6 @@
         },
         {
           "rank": 4,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 5,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -648,15 +641,15 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 6,
-          "name": "gothcandy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
+          "rank": 5,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
-          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
-          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Memo Boy",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
           "genres": [],
@@ -664,12 +657,20 @@
           "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
           "genres": [],
           "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        },
+        {
+          "rank": 8,
+          "name": "gothcandy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc9b516c208f31ef0f83a0ed9",
+          "genres": [],
+          "uri": "spotify:artist:56MVdvfH0k4FvVBUMFxuyl",
+          "url": "https://open.spotify.com/artist/56MVdvfH0k4FvVBUMFxuyl"
         },
         {
           "rank": 9,
