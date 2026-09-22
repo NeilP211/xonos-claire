@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-21T21:37:59.853Z",
+  "updated_at": "2026-09-22T03:02:22.626Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T16:37:53.337Z",
-      "name": "Dark Beach",
-      "artists": [
-        "Pastel Ghost"
-      ],
-      "album": "Abyss",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
-      "uri": "spotify:track:7fqjWHXf330QwnfaAWB2Dr",
-      "duration_ms": 222000
-    },
     {
       "played_at": "2026-06-29T16:43:44.978Z",
       "name": "dead fish",
@@ -22155,6 +22144,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
       "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
       "duration_ms": 167799
+    },
+    {
+      "played_at": "2026-09-22T02:32:32.419Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Memories",
+      "image": "https://i.scdn.co/image/ab67616d0000b273068caa28105743b03ac6ee0f",
+      "uri": "spotify:track:2QjvcnTm5u1vWaIChGQVAY",
+      "duration_ms": 168733
     }
   ]
 }
