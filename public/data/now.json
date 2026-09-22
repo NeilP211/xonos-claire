@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-22T20:48:26.857Z",
-  "is_playing": false,
+  "updated_at": "2026-09-22T23:26:31.761Z",
+  "is_playing": true,
   "track": {
-    "name": "Rooster (2022 Remaster)",
+    "name": "Idea 1",
     "artists": [
-      "Alice In Chains"
+      "Gibran Alcocer"
     ],
-    "album": "Dirt (2022 Remaster)",
-    "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
-    "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2"
+    "album": "Idea 1",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f55e4844869257e24d9eb2f0",
+    "uri": "spotify:track:3kJACFlgn1rg0I0l4XmzLI"
   },
-  "played_at": "2026-09-22T05:01:29.654Z"
+  "played_at": "2026-09-22T23:26:31.761Z"
 }

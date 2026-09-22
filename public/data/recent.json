@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-22T20:48:26.802Z",
+  "updated_at": "2026-09-22T23:26:31.619Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T19:15:56.572Z",
-      "name": "YKWIM?",
-      "artists": [
-        "Yot Club"
-      ],
-      "album": "Bipolar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
-      "uri": "spotify:track:2vWBUC9djv6BtiGlmKiQaH",
-      "duration_ms": 212750
-    },
     {
       "played_at": "2026-06-29T19:19:06.656Z",
       "name": "Sea, Swallow Me - 2024 Remaster",
@@ -22155,6 +22144,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
       "uri": "spotify:track:0wvIGFIgbyz4JNwQhZgTv2",
       "duration_ms": 374333
+    },
+    {
+      "played_at": "2026-09-22T23:23:35.892Z",
+      "name": "Down In A Hole (2022 Remaster)",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Dirt (2022 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
+      "uri": "spotify:track:7FRfYOql61DGDp9VPPe2qA",
+      "duration_ms": 338226
     }
   ]
 }
