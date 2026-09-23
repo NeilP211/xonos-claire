@@ -1,117 +1,6 @@
 {
-  "updated_at": "2026-09-22T23:26:31.619Z",
+  "updated_at": "2026-09-23T03:02:24.372Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T19:19:06.656Z",
-      "name": "Sea, Swallow Me - 2024 Remaster",
-      "artists": [
-        "Cocteau Twins",
-        "Harold Budd"
-      ],
-      "album": "The Moon and the Melodies (2024 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
-      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
-      "duration_ms": 189632
-    },
-    {
-      "played_at": "2026-06-29T19:23:07.016Z",
-      "name": "Serpentskirt",
-      "artists": [
-        "Cocteau Twins"
-      ],
-      "album": "Milk & Kisses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
-      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
-      "duration_ms": 239920
-    },
-    {
-      "played_at": "2026-06-29T19:26:43.997Z",
-      "name": "Fear",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "A Different Age",
-      "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
-      "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
-      "duration_ms": 216539
-    },
-    {
-      "played_at": "2026-06-29T19:30:47.387Z",
-      "name": "Vanished",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-      "duration_ms": 242960
-    },
-    {
-      "played_at": "2026-06-29T19:34:06.811Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-06-29T19:41:27.110Z",
-      "name": "Sadeness",
-      "artists": [
-        "Enigma"
-      ],
-      "album": "Love Sensuality Devotion: The Greatest Hits",
-      "image": "https://i.scdn.co/image/ab67616d0000b273251898236cf85ac01d71793a",
-      "uri": "spotify:track:57h06SZNL6LJ3YKZ1UGCeu",
-      "duration_ms": 255533
-    },
-    {
-      "played_at": "2026-06-29T19:47:25.842Z",
-      "name": "Your face",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-      "duration_ms": 229728
-    },
-    {
-      "played_at": "2026-06-29T19:50:39.921Z",
-      "name": "Sarah",
-      "artists": [
-        "Alex G"
-      ],
-      "album": "Trick",
-      "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
-      "uri": "spotify:track:4HuiEuJ7ZW8jewUuZBg6sk",
-      "duration_ms": 176146
-    },
-    {
-      "played_at": "2026-06-29T19:53:12.275Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-06-29T19:56:27.172Z",
-      "name": "Louise",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-      "duration_ms": 194453
-    },
     {
       "played_at": "2026-06-29T20:00:21.695Z",
       "name": "What Would I Do?",
@@ -22155,6 +22044,116 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732d1447994ec24301429681cb",
       "uri": "spotify:track:7FRfYOql61DGDp9VPPe2qA",
       "duration_ms": 338226
+    },
+    {
+      "played_at": "2026-09-22T23:26:39.913Z",
+      "name": "Idea 1",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f55e4844869257e24d9eb2f0",
+      "uri": "spotify:track:3kJACFlgn1rg0I0l4XmzLI",
+      "duration_ms": 154500
+    },
+    {
+      "played_at": "2026-09-22T23:28:27.619Z",
+      "name": "Idea 5",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 5",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac5f2a4d7b963b26a6ab55c8",
+      "uri": "spotify:track:18x3MCjaft6XBVrLBI0DUo",
+      "duration_ms": 107250
+    },
+    {
+      "played_at": "2026-09-22T23:30:58.164Z",
+      "name": "Idea 7",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 7",
+      "image": "https://i.scdn.co/image/ab67616d0000b27318d08b9dba1ed6feeaf42f61",
+      "uri": "spotify:track:2n1U0UuPUHISJhvrFyHxy1",
+      "duration_ms": 150078
+    },
+    {
+      "played_at": "2026-09-22T23:33:16.176Z",
+      "name": "Idea 9",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 9",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734e8fc9f903790a9ed0c60b4f",
+      "uri": "spotify:track:3TdROUy5JZz1OcBKMZjeux",
+      "duration_ms": 137547
+    },
+    {
+      "played_at": "2026-09-22T23:35:24.753Z",
+      "name": "Idea 10",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d2cc3146f7e4bdcd2fb7ac8f",
+      "uri": "spotify:track:1lb3H41lbvAN28N7yqRNL9",
+      "duration_ms": 128000
+    },
+    {
+      "played_at": "2026-09-22T23:37:19.231Z",
+      "name": "Idea 15",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 15",
+      "image": "https://i.scdn.co/image/ab67616d0000b27340657df4ac026379cb47588e",
+      "uri": "spotify:track:7MJ8g0egEkhvGu44IamrDE",
+      "duration_ms": 114000
+    },
+    {
+      "played_at": "2026-09-22T23:42:35.236Z",
+      "name": "Idea 22",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 22",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
+      "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-09-22T23:45:30.447Z",
+      "name": "Idea 1 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 1 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c3c7cb463c32dac1a89acaf",
+      "uri": "spotify:track:7GKkUFTRRuCITzFwC16Np9",
+      "duration_ms": 174700
+    },
+    {
+      "played_at": "2026-09-22T23:48:34.565Z",
+      "name": "Idea 7 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 7 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304aea8ec014ac026bc58c74e",
+      "uri": "spotify:track:1TMjYr0cOiVgiDsatvsQPI",
+      "duration_ms": 183642
+    },
+    {
+      "played_at": "2026-09-22T23:51:34.029Z",
+      "name": "Idea 9 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 9 (Slowed + Reverb)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316a14f9533cf012a24aa627a",
+      "uri": "spotify:track:36jBYYzvil0WpRGVz0Q1L7",
+      "duration_ms": 178977
     }
   ]
 }
