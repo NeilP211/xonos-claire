@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-09-24T02:53:53.101Z",
+  "updated_at": "2026-09-24T08:05:09.658Z",
   "plays": [
-    {
-      "played_at": "2026-06-29T20:00:21.695Z",
-      "name": "What Would I Do?",
-      "artists": [
-        "Strawberry Guy"
-      ],
-      "album": "What Would I Do?",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ba5c5d0971159a6e3299d78b",
-      "uri": "spotify:track:5EJA7Rwkeuvm98CZg0XXNO",
-      "duration_ms": 234000
-    },
-    {
-      "played_at": "2026-06-29T20:34:34.959Z",
-      "name": "The Blonde",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
-      "duration_ms": 227760
-    },
-    {
-      "played_at": "2026-06-30T03:31:38.967Z",
-      "name": "Look at My Life",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "album": "Look at My Life",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732a6c9aa7070279c1c3193338",
-      "uri": "spotify:track:65aS53swxB9LUGbHDKdvvB",
-      "duration_ms": 190533
-    },
     {
       "played_at": "2026-06-30T03:33:17.461Z",
       "name": "kickin da ball",
@@ -22154,6 +22121,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27316a14f9533cf012a24aa627a",
       "uri": "spotify:track:36jBYYzvil0WpRGVz0Q1L7",
       "duration_ms": 178977
+    },
+    {
+      "played_at": "2026-09-24T04:00:13.818Z",
+      "name": "Idea 10 (Slowed & Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354942e85b9b227cc68c4e71b",
+      "uri": "spotify:track:0Wzv6Y5yj6vVMeN2x2BBdg",
+      "duration_ms": 158571
+    },
+    {
+      "played_at": "2026-09-24T04:02:49.822Z",
+      "name": "Idea 10 (Slowed & Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 10 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27354942e85b9b227cc68c4e71b",
+      "uri": "spotify:track:0Wzv6Y5yj6vVMeN2x2BBdg",
+      "duration_ms": 158571
+    },
+    {
+      "played_at": "2026-09-24T04:04:57.175Z",
+      "name": "Idea 15 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 15 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b2ebbca6f0778125a1822cd0",
+      "uri": "spotify:track:7AJmqTmFbpGtXJc0kScmfv",
+      "duration_ms": 126857
     }
   ]
 }
