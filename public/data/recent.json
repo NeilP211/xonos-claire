@@ -1,157 +1,6 @@
 {
-  "updated_at": "2026-09-25T03:10:06.375Z",
+  "updated_at": "2026-09-25T11:00:46.339Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T03:42:43.055Z",
-      "name": "Definition",
-      "artists": [
-        "2wo2imes",
-        "Glokk40Spaz"
-      ],
-      "album": "Glokk Files",
-      "image": "https://i.scdn.co/image/ab67616d0000b273efd63eb1ebcac50669974463",
-      "uri": "spotify:track:08GNAA4fM4BEZ8yG9opdFy",
-      "duration_ms": 162560
-    },
-    {
-      "played_at": "2026-06-30T03:44:39.298Z",
-      "name": "Successful",
-      "artists": [
-        "PCF Jaey",
-        "Lil Tony Offical"
-      ],
-      "album": "4th Quarter",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ffbdbeb139d3d1dd11f91998",
-      "uri": "spotify:track:5OvBTTEZdYhtr7azhZzGhT",
-      "duration_ms": 115680
-    },
-    {
-      "played_at": "2026-06-30T03:47:09.635Z",
-      "name": "Egyptian Codes",
-      "artists": [
-        "DotComNirvan",
-        "Glokk40Spaz"
-      ],
-      "album": "Egyptian Codes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cea501567a97fe4c317dcc0b",
-      "uri": "spotify:track:5hAlK7tHdxTzMBPtgjVFbi",
-      "duration_ms": 150000
-    },
-    {
-      "played_at": "2026-06-30T03:49:10.123Z",
-      "name": "Everybody Killers",
-      "artists": [
-        "Benji Blue Bills"
-      ],
-      "album": "Campaign Blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b27359435ad1265fefdfaf8e96f9",
-      "uri": "spotify:track:1mYfM71jXVxEb3gss2uY4P",
-      "duration_ms": 120058
-    },
-    {
-      "played_at": "2026-06-30T03:52:28.579Z",
-      "name": "Tweak Shit, Pt. 2",
-      "artists": [
-        "Jdot Breezy"
-      ],
-      "album": "Almost There",
-      "image": "https://i.scdn.co/image/ab67616d0000b273565a5469224b077a2f6218d1",
-      "uri": "spotify:track:4IRRKzHhwF3ANqjOQtHYg0",
-      "duration_ms": 142106
-    },
-    {
-      "played_at": "2026-06-30T03:54:37.078Z",
-      "name": "Shoot It Out",
-      "artists": [
-        "Jdot Breezy"
-      ],
-      "album": "Almost There",
-      "image": "https://i.scdn.co/image/ab67616d0000b273565a5469224b077a2f6218d1",
-      "uri": "spotify:track:5hKzUzm3LjtWNnkrKbIw77",
-      "duration_ms": 128146
-    },
-    {
-      "played_at": "2026-06-30T03:56:52.981Z",
-      "name": "Yung Nigga Shit",
-      "artists": [
-        "Glokk40Spaz",
-        "2wo2imes"
-      ],
-      "album": "2wo Glokks",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
-      "uri": "spotify:track:3VgJCsJK7hJr8YJOwI6GeO",
-      "duration_ms": 135510
-    },
-    {
-      "played_at": "2026-06-30T03:59:53.433Z",
-      "name": "One Take Freestyle",
-      "artists": [
-        "1900Rugrat"
-      ],
-      "album": "Porch 2 The Pent",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a583d1c3eb1be796564a288c",
-      "uri": "spotify:track:25T5W200EXT5y8sacYVOYu",
-      "duration_ms": 179906
-    },
-    {
-      "played_at": "2026-06-30T04:02:45.140Z",
-      "name": "BookBag 2.0 (feat. Polo G)",
-      "artists": [
-        "BigKayBeezy",
-        "Polo G"
-      ],
-      "album": "Bad Intentions",
-      "image": "https://i.scdn.co/image/ab67616d0000b27317f1cdb25c230a0b968fb27c",
-      "uri": "spotify:track:0vwOWwl785S9EU1wtbeLLJ",
-      "duration_ms": 171245
-    },
-    {
-      "played_at": "2026-06-30T04:09:42.102Z",
-      "name": "Hell Night",
-      "artists": [
-        "Pooh Shiesty",
-        "BIG30"
-      ],
-      "album": "Hell Night",
-      "image": "https://i.scdn.co/image/ab67616d0000b27367d1de5bf43b1efca6382805",
-      "uri": "spotify:track:1BeZDWwsxqxOUvTJzH2M4T",
-      "duration_ms": 193384
-    },
-    {
-      "played_at": "2026-06-30T04:12:40.798Z",
-      "name": "First Week Out",
-      "artists": [
-        "Jdot Breezy"
-      ],
-      "album": "Life After Ralo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c171fcd76bafad40aaf58a19",
-      "uri": "spotify:track:7yhovVoWForbbinUjiu5WH",
-      "duration_ms": 178181
-    },
-    {
-      "played_at": "2026-06-30T04:16:07.894Z",
-      "name": "Faneto",
-      "artists": [
-        "Chief Keef"
-      ],
-      "album": "Back from the Dead 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b273589138eb4f42c9abcf848ba0",
-      "uri": "spotify:track:6fL8iaSdwmSTQiUv9K6L4h",
-      "duration_ms": 206654
-    },
-    {
-      "played_at": "2026-06-30T04:17:55.931Z",
-      "name": "Don’t Blink Or Stare (feat. Bloodhound Lil Jeff & CEO Trayle)",
-      "artists": [
-        "BloodHound Q50",
-        "Bloodhound Lil Jeff",
-        "CEO Trayle"
-      ],
-      "album": "Long Live My Brudda He Prolly Kilt Yo Brudda",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d498d683cfc7b6207cde7206",
-      "uri": "spotify:track:1AqbuGVPrXCw6AyKMwcQ4m",
-      "duration_ms": 101893
-    },
     {
       "played_at": "2026-06-30T04:19:38.537Z",
       "name": "Reap",
@@ -22155,6 +22004,151 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
       "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
       "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-09-25T03:44:02.678Z",
+      "name": "Don't Stop The Music",
+      "artists": [
+        "Rihanna"
+      ],
+      "album": "Good Girl Gone Bad: Reloaded",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98",
+      "uri": "spotify:track:0ByMNEPAPpOR5H69DVrTNy",
+      "duration_ms": 267080
+    },
+    {
+      "played_at": "2026-09-25T03:47:47.928Z",
+      "name": "Pylon",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+      "duration_ms": 215256
+    },
+    {
+      "played_at": "2026-09-25T03:50:09.748Z",
+      "name": "Sun Has Set",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+      "duration_ms": 141804
+    },
+    {
+      "played_at": "2026-09-25T03:53:08.070Z",
+      "name": "Estranged",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
+      "duration_ms": 178281
+    },
+    {
+      "played_at": "2026-09-25T03:56:09.939Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-09-25T03:59:24.067Z",
+      "name": "Write Me A Letter",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
+      "duration_ms": 194103
+    },
+    {
+      "played_at": "2026-09-25T05:25:33.503Z",
+      "name": "It's Alright",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
+      "duration_ms": 171308
+    },
+    {
+      "played_at": "2026-09-25T05:28:41.485Z",
+      "name": "In Motion",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:0N6xvbX8lsB8u9Q9B6rJgt",
+      "duration_ms": 187992
+    },
+    {
+      "played_at": "2026-09-25T05:31:30.199Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+      "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-09-25T05:33:54.495Z",
+      "name": "Nothing To Prove",
+      "artists": [
+        "beabadoobee",
+        "Hayley Williams"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
+      "duration_ms": 144316
+    },
+    {
+      "played_at": "2026-09-25T05:36:34.725Z",
+      "name": "Radio",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+      "duration_ms": 160230
+    },
+    {
+      "played_at": "2026-09-25T05:39:33.198Z",
+      "name": "Powerlines",
+      "artists": [
+        "beabadoobee",
+        "Brendan Yates"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:7uvsxYvJwAGTdxMNJrgtbQ",
+      "duration_ms": 178391
+    },
+    {
+      "played_at": "2026-09-25T05:42:20.991Z",
+      "name": "Spark",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
+      "duration_ms": 167799
     }
   ]
 }
