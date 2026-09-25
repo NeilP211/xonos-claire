@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-09-24T23:43:49.545Z",
+  "updated_at": "2026-09-25T03:10:06.375Z",
   "plays": [
-    {
-      "played_at": "2026-06-30T03:33:17.461Z",
-      "name": "kickin da ball",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "kickin da ball",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
-      "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
-      "duration_ms": 66846
-    },
-    {
-      "played_at": "2026-06-30T03:34:04.873Z",
-      "name": "real music made me cry",
-      "artists": [
-        "Robin Gan"
-      ],
-      "album": "real music",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738a8e85321f12a386254de542",
-      "uri": "spotify:track:5CGGJpnw8bEf2nInuIqn31",
-      "duration_ms": 46923
-    },
-    {
-      "played_at": "2026-06-30T03:36:55.557Z",
-      "name": "Paranoid",
-      "artists": [
-        "DJ Iraq"
-      ],
-      "album": "Paranoid",
-      "image": "https://i.scdn.co/image/ab67616d0000b273df4ed69ece75f28189797fd9",
-      "uri": "spotify:track:2EOCpsjJ6dpYuSllwa81hb",
-      "duration_ms": 158966
-    },
-    {
-      "played_at": "2026-06-30T03:39:59.974Z",
-      "name": "Home Alone",
-      "artists": [
-        "Glokk40Spaz"
-      ],
-      "album": "Dont Get Took Off",
-      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
-      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
-      "duration_ms": 183954
-    },
     {
       "played_at": "2026-06-30T03:42:43.055Z",
       "name": "Definition",
@@ -22154,6 +22110,51 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b2ebbca6f0778125a1822cd0",
       "uri": "spotify:track:7AJmqTmFbpGtXJc0kScmfv",
       "duration_ms": 126857
+    },
+    {
+      "played_at": "2026-09-25T02:31:36.012Z",
+      "name": "Idea 20 (Orchestral Version)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 20",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735348516974243f0f69270360",
+      "uri": "spotify:track:7GxC5aMFVoniv9lJMEgsAr",
+      "duration_ms": 172000
+    },
+    {
+      "played_at": "2026-09-25T02:36:09.717Z",
+      "name": "Summertime Sadness",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:2dBwB667LHQkLhdYlwLUZK",
+      "duration_ms": 265427
+    },
+    {
+      "played_at": "2026-09-25T02:40:06.272Z",
+      "name": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Young And Beautiful",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "duration_ms": 236053
+    },
+    {
+      "played_at": "2026-09-25T02:44:44.897Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }
