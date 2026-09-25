@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:00:46.236Z",
+  "generated_at": "2026-09-25T16:23:53.874Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -246,19 +246,6 @@
         },
         {
           "rank": 21,
-          "name": "Leni (Crystal Castles vs GoodBooks)",
-          "artists": [
-            "GoodBooks",
-            "Crystal Castles"
-          ],
-          "album": "Control Freaks (The Remixes)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
-          "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH",
-          "url": "https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH",
-          "duration_ms": 256398
-        },
-        {
-          "rank": 22,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -270,7 +257,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -282,7 +269,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -294,7 +281,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -304,6 +291,19 @@
           "uri": "spotify:track:6INLpBxo9F5QMer04VXEnd",
           "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd",
           "duration_ms": 298466
+        },
+        {
+          "rank": 25,
+          "name": "Leni (Crystal Castles vs GoodBooks)",
+          "artists": [
+            "GoodBooks",
+            "Crystal Castles"
+          ],
+          "album": "Control Freaks (The Remixes)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
+          "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH",
+          "url": "https://open.spotify.com/track/6slWUMiyoNNWcQGu6tkTlH",
+          "duration_ms": 256398
         },
         {
           "rank": 26,
@@ -772,6 +772,14 @@
         },
         {
           "rank": 21,
+          "name": "ivri",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb51c7d7e3809607338a93e1a7",
+          "genres": [],
+          "uri": "spotify:artist:5EjK7aUvQ9LMNqc2zXiWLS",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        },
+        {
+          "rank": 22,
           "name": "Hole",
           "image": "https://i.scdn.co/image/3f070ac89152fcd23f90c1351295d8cc64d54cb2",
           "genres": [],
@@ -779,20 +787,12 @@
           "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 23,
-          "name": "Pastel Ghost",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
-          "genres": [],
-          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
-          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
           "rank": 24,
@@ -836,14 +836,6 @@
         },
         {
           "rank": 29,
-          "name": "ivri",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb51c7d7e3809607338a93e1a7",
-          "genres": [],
-          "uri": "spotify:artist:5EjK7aUvQ9LMNqc2zXiWLS",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        },
-        {
-          "rank": 30,
           "name": "Amira Elfeky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
           "genres": [],
@@ -851,7 +843,7 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Destroy Boys",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
           "genres": [],
@@ -859,23 +851,15 @@
           "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         },
         {
+          "rank": 31,
+          "name": "Pastel Ghost",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
+          "genres": [],
+          "uri": "spotify:artist:06O23tLg0or676h8EEzH7W",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        },
+        {
           "rank": 32,
-          "name": "Mareux",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
-          "genres": [],
-          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "rank": 33,
-          "name": "Vestron Vulture",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe4691c3cb1dfe3c576329e21",
-          "genres": [],
-          "uri": "spotify:artist:0TdyFEXGty3cRKFCI1CJPr",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        },
-        {
-          "rank": 34,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -883,7 +867,7 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 35,
+          "rank": 33,
           "name": "Phantogram",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0fcb5946f9fea8be6ae5e858",
           "genres": [],
@@ -891,7 +875,7 @@
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         },
         {
-          "rank": 36,
+          "rank": 34,
           "name": "Ally Nicholas",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf6863c2434d27b6299226a0",
           "genres": [],
@@ -899,7 +883,7 @@
           "url": "https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX"
         },
         {
-          "rank": 37,
+          "rank": 35,
           "name": "Tyler, The Creator",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf2728294ff77dd11eeb18fb",
           "genres": [],
@@ -907,7 +891,7 @@
           "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "The Sundays",
           "image": "https://i.scdn.co/image/d11ee55598e458475cf9b34ce3bc7ffde96aceb4",
           "genres": [],
@@ -915,7 +899,15 @@
           "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         },
         {
-          "rank": 39,
+          "rank": 37,
+          "name": "Mareux",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb6803274ebc9fa6a1db7c3fb5",
+          "genres": [],
+          "uri": "spotify:artist:7riQPkkGZBnTh9ve5qIhYo",
+          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
+        },
+        {
+          "rank": 38,
           "name": "The Cranberries",
           "image": "https://i.scdn.co/image/ab6761610000e5eb9d7ed10720669900a0649c98",
           "genres": [],
@@ -923,7 +915,7 @@
           "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
           "genres": [],
@@ -931,7 +923,7 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Men I Trust",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0",
           "genres": [],
@@ -1040,18 +1032,6 @@
         },
         {
           "rank": 9,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 10,
           "name": "Let The Light In (feat. Father John Misty)",
           "artists": [
             "Lana Del Rey",
@@ -1062,6 +1042,18 @@
           "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
           "url": "https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z",
           "duration_ms": 278126
+        },
+        {
+          "rank": 10,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
         },
         {
           "rank": 11,
