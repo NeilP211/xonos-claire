@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:01:52.084Z",
+  "generated_at": "2026-09-26T03:14:21.122Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -78,18 +78,6 @@
         },
         {
           "rank": 7,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
-        },
-        {
-          "rank": 8,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -101,7 +89,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "the perfect pair",
           "artists": [
             "beabadoobee"
@@ -111,6 +99,18 @@
           "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
           "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a",
           "duration_ms": 177533
+        },
+        {
+          "rank": 9,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
         },
         {
           "rank": 10,
@@ -732,6 +732,14 @@
         },
         {
           "rank": 16,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 17,
           "name": "Eyedress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
           "genres": [],
@@ -739,20 +747,12 @@
           "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 18,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 19,
@@ -804,14 +804,6 @@
         },
         {
           "rank": 25,
-          "name": "VIOLENT VIRA",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
-          "genres": [],
-          "uri": "spotify:artist:298H8XdYsBHii98wfAZT1S",
-          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
-        },
-        {
-          "rank": 26,
           "name": "Veruca Salt",
           "image": "https://i.scdn.co/image/7947f9c222f4f941306b27cf4c7a6b2033f80453",
           "genres": [],
@@ -819,7 +811,7 @@
           "url": "https://open.spotify.com/artist/2QwJQuBekTA4qF7N7uLHDP"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Le Tigre",
           "image": "https://i.scdn.co/image/3bc85fea3c1ed9320f63e50bf7c6e0b1c9ced6c5",
           "genres": [],
@@ -827,7 +819,7 @@
           "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "bleood",
           "image": "https://i.scdn.co/image/ab6761610000e5eb35e3833be479b9091a60a207",
           "genres": [],
@@ -835,7 +827,7 @@
           "url": "https://open.spotify.com/artist/41GfvEtCZu3KXaThpF01c1"
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Amira Elfeky",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd4b3b97e88ac4dd7ea77e886",
           "genres": [],
@@ -843,7 +835,7 @@
           "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Destroy Boys",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfee2666fb55c6975e96f3e4f",
           "genres": [],
@@ -851,7 +843,7 @@
           "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -859,7 +851,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Pantera",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe21999c0102c240bdf094d9b",
           "genres": [],
@@ -867,12 +859,20 @@
           "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Phantogram",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0fcb5946f9fea8be6ae5e858",
           "genres": [],
           "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH",
           "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        },
+        {
+          "rank": 33,
+          "name": "VIOLENT VIRA",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb14c07bcb4da9499543d1031d",
+          "genres": [],
+          "uri": "spotify:artist:298H8XdYsBHii98wfAZT1S",
+          "url": "https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S"
         },
         {
           "rank": 34,
@@ -1198,18 +1198,6 @@
         },
         {
           "rank": 22,
-          "name": "Cherry Waves",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Saturday Night Wrist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-          "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-          "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
-          "duration_ms": 317706
-        },
-        {
-          "rank": 23,
           "name": "When the Sun Hits",
           "artists": [
             "Slowdive"
@@ -1219,6 +1207,18 @@
           "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
           "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
           "duration_ms": 285906
+        },
+        {
+          "rank": 23,
+          "name": "Cherry Waves",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Saturday Night Wrist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+          "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
+          "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
+          "duration_ms": 317706
         },
         {
           "rank": 24,
@@ -1378,6 +1378,18 @@
         },
         {
           "rank": 37,
+          "name": "Heavenly",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cry",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd275af89cec73d6287f9cbf",
+          "uri": "spotify:track:70YTBH8vOGJNMhy6186yFm",
+          "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm",
+          "duration_ms": 286773
+        },
+        {
+          "rank": 38,
           "name": "No Hands (feat. Roscoe Dash & Wale)",
           "artists": [
             "Waka Flocka Flame",
@@ -1391,7 +1403,7 @@
           "duration_ms": 263773
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Playground Love (with Gordon Tracks)",
           "artists": [
             "Air",
@@ -1402,18 +1414,6 @@
           "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
           "url": "https://open.spotify.com/track/6L5RI9isQPvFyl1yCxnFFb",
           "duration_ms": 212693
-        },
-        {
-          "rank": 39,
-          "name": "Heavenly",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Cry",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd275af89cec73d6287f9cbf",
-          "uri": "spotify:track:70YTBH8vOGJNMhy6186yFm",
-          "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm",
-          "duration_ms": 286773
         },
         {
           "rank": 40,
@@ -1441,6 +1441,18 @@
         },
         {
           "rank": 42,
+          "name": "Youngest Daughter",
+          "artists": [
+            "Superheaven"
+          ],
+          "album": "Jar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
+          "duration_ms": 249514
+        },
+        {
+          "rank": 43,
           "name": "Silver Soul",
           "artists": [
             "Beach House"
@@ -1452,7 +1464,7 @@
           "duration_ms": 298680
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "wonder if you care",
           "artists": [
             "flyingfish"
@@ -1464,7 +1476,7 @@
           "duration_ms": 134556
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Pretty When You Cry",
           "artists": [
             "Lana Del Rey"
@@ -1476,7 +1488,7 @@
           "duration_ms": 234146
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Rape Me",
           "artists": [
             "Nirvana"
@@ -1488,7 +1500,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Mrs Magic",
           "artists": [
             "Strawberry Guy"
@@ -1500,7 +1512,7 @@
           "duration_ms": 208500
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Dark Red",
           "artists": [
             "Steve Lacy"
@@ -1512,7 +1524,7 @@
           "duration_ms": 173104
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Zombie - 2025 Remastered",
           "artists": [
             "The Cranberries"
@@ -1524,7 +1536,7 @@
           "duration_ms": 305626
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Linger - Remastered 2026",
           "artists": [
             "The Cranberries"
@@ -1534,18 +1546,6 @@
           "uri": "spotify:track:1WYrTfvKjQYaYfVziGG1ET",
           "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
           "duration_ms": 274720
-        },
-        {
-          "rank": 50,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
         }
       ],
       "artists": [
