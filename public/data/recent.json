@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-26T15:38:35.093Z",
+  "updated_at": "2026-09-26T20:35:08.293Z",
   "plays": [
-    {
-      "played_at": "2026-07-03T04:44:17.508Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
     {
       "played_at": "2026-07-03T07:07:03.419Z",
       "name": "Playground Love (with Gordon Tracks)",
@@ -22149,6 +22138,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27327b470ee2ad6b70fa4c73c34",
       "uri": "spotify:track:3PjrucNPcGVFewn81YJ0EW",
       "duration_ms": 282540
+    },
+    {
+      "played_at": "2026-09-26T16:36:25.049Z",
+      "name": "My Moon My Man",
+      "artists": [
+        "Feist"
+      ],
+      "album": "The Reminder",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b17d3cdd360973516ade9e6d",
+      "uri": "spotify:track:5FFQbvn7055P1DvgJDdCBP",
+      "duration_ms": 228360
     }
   ]
 }
