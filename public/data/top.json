@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:20:53.807Z",
+  "generated_at": "2026-09-27T03:21:43.635Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -652,6 +652,14 @@
         },
         {
           "rank": 6,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        },
+        {
+          "rank": 7,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -659,20 +667,12 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "past self",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8abee008a4cc67a2337b2d8f",
           "genres": [],
           "uri": "spotify:artist:1jYSsKGQrc1XEV4lIWp3dw",
           "url": "https://open.spotify.com/artist/1jYSsKGQrc1XEV4lIWp3dw"
-        },
-        {
-          "rank": 8,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
           "rank": 9,
