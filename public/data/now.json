@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-27T20:46:47.755Z",
-  "is_playing": false,
+  "updated_at": "2026-09-27T23:34:29.314Z",
+  "is_playing": true,
   "track": {
-    "name": "Idea 22",
+    "name": "Jump the Turnstile",
     "artists": [
-      "Gibran Alcocer"
+      "Jordana",
+      "TV Girl"
     ],
-    "album": "Idea 22",
-    "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
-    "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT"
+    "album": "Summer's Over",
+    "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+    "uri": "spotify:track:1YNcvRZoNJUjR4opG7Qr9o"
   },
-  "played_at": "2026-09-27T00:33:22.823Z"
+  "played_at": "2026-09-27T23:34:29.314Z"
 }

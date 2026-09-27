@@ -1,73 +1,6 @@
 {
-  "updated_at": "2026-09-27T20:46:47.690Z",
+  "updated_at": "2026-09-27T23:34:29.211Z",
   "plays": [
-    {
-      "played_at": "2026-07-05T20:28:23.222Z",
-      "name": "resonance - midwest emo version",
-      "artists": [
-        "jacal"
-      ],
-      "album": "resonance (midwest emo version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1",
-      "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
-      "duration_ms": 219024
-    },
-    {
-      "played_at": "2026-07-06T00:43:51.706Z",
-      "name": "Good Looking",
-      "artists": [
-        "Suki Waterhouse"
-      ],
-      "album": "Good Looking",
-      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
-      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
-      "duration_ms": 214800
-    },
-    {
-      "played_at": "2026-07-06T00:46:36.777Z",
-      "name": "blissful lights",
-      "artists": [
-        "voi"
-      ],
-      "album": "blissful lights",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732cfaab9f98c6edcf8752b232",
-      "uri": "spotify:track:5XATagtnWgdR6bF23g5sWm",
-      "duration_ms": 151456
-    },
-    {
-      "played_at": "2026-07-06T00:50:09.487Z",
-      "name": "Insomniac",
-      "artists": [
-        "Memo Boy",
-        "Chakra Efendi"
-      ],
-      "album": "Songs & Demos 2015-2017",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-      "duration_ms": 212307
-    },
-    {
-      "played_at": "2026-07-06T00:54:10.109Z",
-      "name": "Serpentskirt",
-      "artists": [
-        "Cocteau Twins"
-      ],
-      "album": "Milk & Kisses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
-      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
-      "duration_ms": 239920
-    },
-    {
-      "played_at": "2026-07-06T00:55:30.676Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
     {
       "played_at": "2026-07-06T00:57:43.902Z",
       "name": "pondering",
@@ -22143,6 +22076,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739882ae6f9fdc10b5ec438647",
       "uri": "spotify:track:18OvVTXtC3lx1Iym9E0RyT",
       "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-09-27T23:14:55.044Z",
+      "name": "Idea 1 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 1 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734c3c7cb463c32dac1a89acaf",
+      "uri": "spotify:track:7GKkUFTRRuCITzFwC16Np9",
+      "duration_ms": 174700
+    },
+    {
+      "played_at": "2026-09-27T23:18:14.178Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-09-27T23:21:07.631Z",
+      "name": "Summer's Over",
+      "artists": [
+        "Jordana",
+        "TV Girl"
+      ],
+      "album": "Summer's Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+      "uri": "spotify:track:4E5N0mYyYFf0QZs3XDeSIj",
+      "duration_ms": 173000
+    },
+    {
+      "played_at": "2026-09-27T23:25:16.318Z",
+      "name": "My Girlfriend",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Lonely Women",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
+      "uri": "spotify:track:36RNOJkIDAoyfEOHdLhmD3",
+      "duration_ms": 248222
+    },
+    {
+      "played_at": "2026-09-27T23:28:02.788Z",
+      "name": "Pretty Boy",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:2vVXZKnEIU5j0yVDGQX46l",
+      "duration_ms": 166000
+    },
+    {
+      "played_at": "2026-09-27T23:31:36.970Z",
+      "name": "Hate Yourself",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:7ijyGfG4NxMBobHgvu4lIM",
+      "duration_ms": 213760
     }
   ]
 }
