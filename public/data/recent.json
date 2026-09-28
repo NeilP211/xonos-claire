@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-09-28T03:19:09.894Z",
+  "updated_at": "2026-09-28T12:45:24.105Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T04:08:03.997Z",
-      "name": "Youngest Daughter",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-      "duration_ms": 249514
-    },
     {
       "played_at": "2026-07-09T04:13:22.146Z",
       "name": "Cherry Waves",
@@ -22145,6 +22134,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734c3c7cb463c32dac1a89acaf",
       "uri": "spotify:track:7GKkUFTRRuCITzFwC16Np9",
       "duration_ms": 174700
+    },
+    {
+      "played_at": "2026-09-28T08:18:00.366Z",
+      "name": "Idea 7 (Slowed + Reverb)",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 7 (Remixes)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27304aea8ec014ac026bc58c74e",
+      "uri": "spotify:track:1TMjYr0cOiVgiDsatvsQPI",
+      "duration_ms": 183642
     }
   ]
 }
