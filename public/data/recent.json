@@ -1,160 +1,6 @@
 {
-  "updated_at": "2026-09-28T21:01:52.386Z",
+  "updated_at": "2026-09-29T03:56:19.166Z",
   "plays": [
-    {
-      "played_at": "2026-07-09T04:13:22.146Z",
-      "name": "Cherry Waves",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-      "duration_ms": 317706
-    },
-    {
-      "played_at": "2026-07-09T04:17:12.145Z",
-      "name": "Leach",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
-      "duration_ms": 229515
-    },
-    {
-      "played_at": "2026-07-09T04:22:03.279Z",
-      "name": "Safe In Your Skin",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Shed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-      "duration_ms": 154800
-    },
-    {
-      "played_at": "2026-07-09T04:25:45.506Z",
-      "name": "Xerces",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
-      "duration_ms": 221800
-    },
-    {
-      "played_at": "2026-07-09T04:28:17.476Z",
-      "name": "blissful lights",
-      "artists": [
-        "voi"
-      ],
-      "album": "blissful lights",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732cfaab9f98c6edcf8752b232",
-      "uri": "spotify:track:5XATagtnWgdR6bF23g5sWm",
-      "duration_ms": 151456
-    },
-    {
-      "played_at": "2026-07-09T04:32:42.131Z",
-      "name": "Murder Your Memory",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Hyperview",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db279bcf1be989809b7f576b",
-      "uri": "spotify:track:1SRKTHfXZFp1ybmbWpIfEZ",
-      "duration_ms": 156720
-    },
-    {
-      "played_at": "2026-07-09T04:55:15.631Z",
-      "name": "Murder Your Memory",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Hyperview",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db279bcf1be989809b7f576b",
-      "uri": "spotify:track:1SRKTHfXZFp1ybmbWpIfEZ",
-      "duration_ms": 156720
-    },
-    {
-      "played_at": "2026-07-09T04:57:20.708Z",
-      "name": "This Feeling Will Pass",
-      "artists": [
-        "Take Care"
-      ],
-      "album": "Reject",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a4567f1211c32f89bec60345",
-      "uri": "spotify:track:6pLGnO6JyJdtp4WlX5ixkI",
-      "duration_ms": 124687
-    },
-    {
-      "played_at": "2026-07-09T05:01:40.442Z",
-      "name": "Reunion",
-      "artists": [
-        "Korea Girl"
-      ],
-      "album": "Korea Girl",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b953eb43601d2c4f90f2786",
-      "uri": "spotify:track:2ZJDukZQ1yf837c6MvjbKu",
-      "duration_ms": 259266
-    },
-    {
-      "played_at": "2026-07-09T05:05:42.413Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-09T05:07:17.819Z",
-      "name": "scars",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "VOL. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
-      "uri": "spotify:track:0ENO8Pu1riZdUdYEErLA8z",
-      "duration_ms": 95002
-    },
-    {
-      "played_at": "2026-07-09T05:11:17.830Z",
-      "name": "Head in the Ceiling Fan",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Floral Green",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f",
-      "uri": "spotify:track:3aOPE6CMuxsBSbl88mQUmM",
-      "duration_ms": 239546
-    },
-    {
-      "played_at": "2026-07-09T05:13:38.886Z",
-      "name": "Left",
-      "artists": [
-        "sign crushes motorist"
-      ],
-      "album": "i'll be okay",
-      "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
-      "uri": "spotify:track:5orN4HYGUJS3AqewwwFixi",
-      "duration_ms": 140624
-    },
-    {
-      "played_at": "2026-07-09T05:18:01.672Z",
-      "name": "Just",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "The Bends",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
-      "duration_ms": 234800
-    },
     {
       "played_at": "2026-07-09T05:21:51.243Z",
       "name": "No Surprises",
@@ -22145,6 +21991,162 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27304aea8ec014ac026bc58c74e",
       "uri": "spotify:track:1TMjYr0cOiVgiDsatvsQPI",
       "duration_ms": 183642
+    },
+    {
+      "played_at": "2026-09-29T00:09:19.827Z",
+      "name": "MOTION (feat. Juicy J)",
+      "artists": [
+        "CORTIS",
+        "Juicy J"
+      ],
+      "album": "MOTION (feat. Juicy J)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eca615c30cc2bba6191d1544",
+      "uri": "spotify:track:15EbINtnOI4c2jPXXskywy",
+      "duration_ms": 157306
+    },
+    {
+      "played_at": "2026-09-29T00:15:41.510Z",
+      "name": "MOTION (feat. Juicy J)",
+      "artists": [
+        "CORTIS",
+        "Juicy J"
+      ],
+      "album": "MOTION (feat. Juicy J)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eca615c30cc2bba6191d1544",
+      "uri": "spotify:track:15EbINtnOI4c2jPXXskywy",
+      "duration_ms": 157306
+    },
+    {
+      "played_at": "2026-09-29T00:18:32.916Z",
+      "name": "GO!",
+      "artists": [
+        "CORTIS"
+      ],
+      "album": "COLOR OUTSIDE THE LINES",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b56a34b0c2b3798fd46f855",
+      "uri": "spotify:track:6OWWZtNQORY1McaZmOrwhc",
+      "duration_ms": 170880
+    },
+    {
+      "played_at": "2026-09-29T00:20:22.400Z",
+      "name": "New Jeans",
+      "artists": [
+        "NewJeans"
+      ],
+      "album": "NewJeans 'Super Shy'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af",
+      "uri": "spotify:track:6rdkCkjk6D12xRpdMXy0I2",
+      "duration_ms": 108986
+    },
+    {
+      "played_at": "2026-09-29T00:23:59.917Z",
+      "name": "Tell Me",
+      "artists": [
+        "Wonder Girls"
+      ],
+      "album": "The Wonder Years",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba5baf00d793695d029648ec",
+      "uri": "spotify:track:2UuKZDzjZ7cVMOvpmuAMYj",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-29T00:27:18.396Z",
+      "name": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "petal",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738baf677ee2d8dda6cc9fcbd7",
+      "uri": "spotify:track:3iy2QuCtCzpWnR6tia39AB",
+      "duration_ms": 197949
+    },
+    {
+      "played_at": "2026-09-29T00:29:30.900Z",
+      "name": "NOT CUTE ANYMORE",
+      "artists": [
+        "ILLIT"
+      ],
+      "album": "NOT CUTE ANYMORE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d09075f6c7fabe9a7234cb3",
+      "uri": "spotify:track:1k0JAiH11gHL9dc5dfQjQr",
+      "duration_ms": 131997
+    },
+    {
+      "played_at": "2026-09-29T00:32:24.431Z",
+      "name": "Saucin'",
+      "artists": [
+        "LNGSHOT"
+      ],
+      "album": "Saucin'",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737baff0c35deb8a1ce093158e",
+      "uri": "spotify:track:7jVr1ZipYJJR4qHxZcQjqa",
+      "duration_ms": 173041
+    },
+    {
+      "played_at": "2026-09-29T00:53:46.748Z",
+      "name": "XO (Only If You Say Yes)",
+      "artists": [
+        "ENHYPEN"
+      ],
+      "album": "ROMANCE : UNTOLD",
+      "image": "https://i.scdn.co/image/ab67616d0000b273653887a83332de0350151f10",
+      "uri": "spotify:track:3RkSwrsIadAvqVtMp5yhaB",
+      "duration_ms": 188332
+    },
+    {
+      "played_at": "2026-09-29T00:58:21.065Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-09-29T01:01:40.587Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-09-29T01:47:07.389Z",
+      "name": "Blue Hair",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Death of a Party Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
+      "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
+      "duration_ms": 217000
+    },
+    {
+      "played_at": "2026-09-29T01:50:53.534Z",
+      "name": "Pylon",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+      "duration_ms": 215256
+    },
+    {
+      "played_at": "2026-09-29T01:53:15.347Z",
+      "name": "Sun Has Set",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+      "duration_ms": 141804
     }
   ]
 }
