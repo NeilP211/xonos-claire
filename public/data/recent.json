@@ -1,194 +1,6 @@
 {
-  "updated_at": "2026-10-01T20:04:18.472Z",
+  "updated_at": "2026-10-02T00:28:37.727Z",
   "plays": [
-    {
-      "played_at": "2026-07-18T18:07:12.078Z",
-      "name": "Heart-Shaped Box",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-      "uri": "spotify:track:11LmqTE2naFULdEP94AUBa",
-      "duration_ms": 281160
-    },
-    {
-      "played_at": "2026-07-18T18:09:47.387Z",
-      "name": "Safe In Your Skin",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Shed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-      "duration_ms": 154800
-    },
-    {
-      "played_at": "2026-07-18T21:34:57.302Z",
-      "name": "Cherry Waves",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-      "duration_ms": 317706
-    },
-    {
-      "played_at": "2026-07-18T21:38:06.553Z",
-      "name": "Cherry Waves",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-      "duration_ms": 317706
-    },
-    {
-      "played_at": "2026-07-18T23:03:23.043Z",
-      "name": "Two-Way Mirror",
-      "artists": [
-        "Loathe"
-      ],
-      "album": "I Let It in and It Took Everything",
-      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
-      "duration_ms": 300186
-    },
-    {
-      "played_at": "2026-07-18T23:06:28.575Z",
-      "name": "Two-Way Mirror",
-      "artists": [
-        "Loathe"
-      ],
-      "album": "I Let It in and It Took Everything",
-      "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
-      "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
-      "duration_ms": 300186
-    },
-    {
-      "played_at": "2026-07-18T23:10:32.350Z",
-      "name": "Lavender",
-      "artists": [
-        "Druidess"
-      ],
-      "album": "The Product Of My Love",
-      "image": "https://i.scdn.co/image/ab67616d0000b273306dc0ec784f762b74197a02",
-      "uri": "spotify:track:73JlnwZjafppQRnzU2jRyd",
-      "duration_ms": 243486
-    },
-    {
-      "played_at": "2026-07-19T05:14:17.109Z",
-      "name": "Black Hole Sun",
-      "artists": [
-        "Soundgarden"
-      ],
-      "album": "Superunknown (20th Anniversary)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735124ed45a94033830b320500",
-      "uri": "spotify:track:4xdHI4eFNst0vTZuuKrWjr",
-      "duration_ms": 318586
-    },
-    {
-      "played_at": "2026-07-19T05:18:37.680Z",
-      "name": "vampire",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "GUTS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
-      "duration_ms": 219724
-    },
-    {
-      "played_at": "2026-07-19T05:23:02.970Z",
-      "name": "Summertime Sadness",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die – Paradise Edition (Special Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-      "uri": "spotify:track:1Ist6PR2BZR3n2z2Y5R6S1",
-      "duration_ms": 264773
-    },
-    {
-      "played_at": "2026-07-19T05:26:10.564Z",
-      "name": "Picture You",
-      "artists": [
-        "Chappell Roan"
-      ],
-      "album": "The Rise and Fall of a Midwest Princess",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a21d22ecf823e1c90aa22d1f",
-      "uri": "spotify:track:2Pspo5BWPcTnMHMstLFRHV",
-      "duration_ms": 187130
-    },
-    {
-      "played_at": "2026-07-19T05:30:27.832Z",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799
-    },
-    {
-      "played_at": "2026-07-19T05:34:41.893Z",
-      "name": "505",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "Favourite Worst Nightmare (Standard Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
-      "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
-      "duration_ms": 253586
-    },
-    {
-      "played_at": "2026-07-19T05:38:39.214Z",
-      "name": "No One Noticed",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Submarine",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831",
-      "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
-      "duration_ms": 236906
-    },
-    {
-      "played_at": "2026-07-19T05:42:40.125Z",
-      "name": "Back To Black",
-      "artists": [
-        "Amy Winehouse"
-      ],
-      "album": "Back To Black",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dc65d5638a3de4a0bdf3c05f",
-      "uri": "spotify:track:30FURVTCpbKyykjSEQzGkH",
-      "duration_ms": 240440
-    },
-    {
-      "played_at": "2026-07-19T21:58:36.020Z",
-      "name": "resonance - midwest emo version",
-      "artists": [
-        "jacal"
-      ],
-      "album": "resonance (midwest emo version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1",
-      "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
-      "duration_ms": 219024
-    },
-    {
-      "played_at": "2026-07-19T22:03:51.174Z",
-      "name": "Insomniac",
-      "artists": [
-        "Memo Boy",
-        "Chakra Efendi"
-      ],
-      "album": "Songs & Demos 2015-2017",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-      "duration_ms": 212307
-    },
     {
       "played_at": "2026-07-19T22:05:57.011Z",
       "name": "it hurts, now that you're gone",
@@ -22156,6 +21968,198 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
       "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
       "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-10-01T20:27:19.901Z",
+      "name": "Only Girl (In The World)",
+      "artists": [
+        "Rihanna"
+      ],
+      "album": "Loud",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331548865f7c729290b96c794",
+      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+      "duration_ms": 235493
+    },
+    {
+      "played_at": "2026-10-01T20:30:35.500Z",
+      "name": "Stateside + Zara Larsson",
+      "artists": [
+        "PinkPantheress",
+        "Zara Larsson"
+      ],
+      "album": "Fancy Some More?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+      "uri": "spotify:track:1DwscornXpj8fmOmYVlqZt",
+      "duration_ms": 184761
+    },
+    {
+      "played_at": "2026-10-01T20:33:11.916Z",
+      "name": "Best Friend (feat. Doja Cat)",
+      "artists": [
+        "Saweetie",
+        "Doja Cat"
+      ],
+      "album": "Best Friend (feat. Doja Cat)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739586402ce4d850abacdad3da",
+      "uri": "spotify:track:2etHQJxIbV0soyPhelVs9Y",
+      "duration_ms": 155883
+    },
+    {
+      "played_at": "2026-10-01T20:35:53.195Z",
+      "name": "ball hard",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "ball hard",
+      "image": "https://i.scdn.co/image/ab67616d0000b27384910684fa0ae8c0ccaf81a7",
+      "uri": "spotify:track:5ESbmwh8jzSNVukQhd58Qt",
+      "duration_ms": 160731
+    },
+    {
+      "played_at": "2026-10-01T20:40:56.241Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
+    },
+    {
+      "played_at": "2026-10-01T20:43:26.904Z",
+      "name": "I Dare U",
+      "artists": [
+        "Baby Smoove"
+      ],
+      "album": "Im Still Serious 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fad8df8227f6fb5e9dfba744",
+      "uri": "spotify:track:4rXCupv1AQ24ZltH4UWJTd",
+      "duration_ms": 150168
+    },
+    {
+      "played_at": "2026-10-01T22:43:09.455Z",
+      "name": "how u seen me??",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "#sameone2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ed6167ad00a7cb69adfbccb",
+      "uri": "spotify:track:1ZYtRFw3ZSbhx38KPKz9xT",
+      "duration_ms": 168228
+    },
+    {
+      "played_at": "2026-10-01T22:45:10.208Z",
+      "name": "how u seen me??",
+      "artists": [
+        "ksuuvi"
+      ],
+      "album": "#sameone2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ed6167ad00a7cb69adfbccb",
+      "uri": "spotify:track:1ZYtRFw3ZSbhx38KPKz9xT",
+      "duration_ms": 168228
+    },
+    {
+      "played_at": "2026-10-01T22:48:14.659Z",
+      "name": "Home Alone",
+      "artists": [
+        "Glokk40Spaz"
+      ],
+      "album": "Dont Get Took Off",
+      "image": "https://i.scdn.co/image/ab67616d0000b27378147e7064a7bccb0fa1b4c5",
+      "uri": "spotify:track:5cQU9P6Ak8rJ9Cwy3gHd1k",
+      "duration_ms": 183954
+    },
+    {
+      "played_at": "2026-10-01T22:50:49.082Z",
+      "name": "Vampire Life",
+      "artists": [
+        "Glokk40Spaz",
+        "2wo2imes"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734f75a222ba786250f11a77cf",
+      "uri": "spotify:track:2FoYMPhFrYXRotUfjg1jp4",
+      "duration_ms": 153913
+    },
+    {
+      "played_at": "2026-10-01T22:52:52.398Z",
+      "name": "Prada Tune",
+      "artists": [
+        "LUCKI"
+      ],
+      "album": "Almost There",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d403bb2f183dfd8f2bf32e82",
+      "uri": "spotify:track:23slkWAmlcxi3XcSwC9RLZ",
+      "duration_ms": 122813
+    },
+    {
+      "played_at": "2026-10-01T22:56:21.066Z",
+      "name": "Gas Pedal",
+      "artists": [
+        "Sage The Gemini",
+        "Iamsu!"
+      ],
+      "album": "Remember Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e86422731c4379b0a28ab2c5",
+      "uri": "spotify:track:1UMKquW1olreYO1LlLmTqi",
+      "duration_ms": 208160
+    },
+    {
+      "played_at": "2026-10-01T22:58:59.015Z",
+      "name": "MOTION (feat. Juicy J)",
+      "artists": [
+        "CORTIS",
+        "Juicy J"
+      ],
+      "album": "MOTION (feat. Juicy J)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eca615c30cc2bba6191d1544",
+      "uri": "spotify:track:15EbINtnOI4c2jPXXskywy",
+      "duration_ms": 157306
+    },
+    {
+      "played_at": "2026-10-01T23:04:27.271Z",
+      "name": "I sneeze on the beat achoo",
+      "artists": [
+        "Doozy."
+      ],
+      "album": "I sneeze on the beat achoo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730a6a53fba27d0df299861518",
+      "uri": "spotify:track:44Lvt80h6GPdlFoVxraosB",
+      "duration_ms": 61951
+    },
+    {
+      "played_at": "2026-10-01T23:22:45.554Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-10-01T23:26:42.114Z",
+      "name": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Young And Beautiful",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "duration_ms": 236053
+    },
+    {
+      "played_at": "2026-10-01T23:27:49.454Z",
+      "name": "kickin da ball",
+      "artists": [
+        "Robin Gan"
+      ],
+      "album": "kickin da ball",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
+      "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
+      "duration_ms": 66846
     }
   ]
 }
