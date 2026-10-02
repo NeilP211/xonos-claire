@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-02T00:28:37.727Z",
+  "updated_at": "2026-10-02T09:17:12.907Z",
   "plays": [
-    {
-      "played_at": "2026-07-19T22:05:57.011Z",
-      "name": "it hurts, now that you're gone",
-      "artists": [
-        "i don't like mirrors"
-      ],
-      "album": "it hurts, now that you're gone",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbce93679d0dd58d7b7c46ec",
-      "uri": "spotify:track:5ZNrtDCYDwzIBKmZAclBOu",
-      "duration_ms": 125538
-    },
-    {
-      "played_at": "2026-07-19T22:09:57.371Z",
-      "name": "Serpentskirt",
-      "artists": [
-        "Cocteau Twins"
-      ],
-      "album": "Milk & Kisses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
-      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
-      "duration_ms": 239920
-    },
-    {
-      "played_at": "2026-07-19T22:12:28.486Z",
-      "name": "Sleep Walk",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Covers",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358df6181041c38412db1b253",
-      "uri": "spotify:track:2HrgY8IeC2nE5Hrr17jIii",
-      "duration_ms": 150680
-    },
-    {
-      "played_at": "2026-07-19T22:15:49.849Z",
-      "name": "100",
-      "artists": [
-        "Dean Blunt"
-      ],
-      "album": "BLACK METAL",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391b903d2bce7feb9cc1f35bc",
-      "uri": "spotify:track:784VjdNkpXhFV0RHquzsi2",
-      "duration_ms": 200906
-    },
-    {
-      "played_at": "2026-07-19T22:16:50.666Z",
-      "name": "dead fish",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "dead fish",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bb96054356cae2ebb19dd225",
-      "uri": "spotify:track:6qruVLSB5yVGYBmDpJycsp",
-      "duration_ms": 60379
-    },
     {
       "played_at": "2026-07-19T22:19:44.251Z",
       "name": "doesn't matter now",
@@ -22160,6 +22105,63 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2735bcb8d42f9f6403d2a220cde",
       "uri": "spotify:track:1qZ29A3lILEHToEThiJEBz",
       "duration_ms": 66846
+    },
+    {
+      "played_at": "2026-10-02T04:18:39.437Z",
+      "name": "No Hands (feat. Roscoe Dash & Wale)",
+      "artists": [
+        "Waka Flocka Flame",
+        "Roscoe Dash",
+        "Wale"
+      ],
+      "album": "Flockaveli",
+      "image": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
+      "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
+      "duration_ms": 263773
+    },
+    {
+      "played_at": "2026-10-02T04:23:29.865Z",
+      "name": "The fate of ophelia x Midnight city",
+      "artists": [
+        "studiojenna"
+      ],
+      "album": "The fate of ophelia x Midnight city",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d9839fa55e18caffb2d71419",
+      "uri": "spotify:track:6yVhJyfP4205BETprBkkkZ",
+      "duration_ms": 96790
+    },
+    {
+      "played_at": "2026-10-02T04:27:30.465Z",
+      "name": "I Follow Rivers x Meet Me Halfway - Medley Version",
+      "artists": [
+        "smashup"
+      ],
+      "album": "I Follow Rivers x Meet Me Halfway (Medley Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273495ee3199d938b6581f5b5e2",
+      "uri": "spotify:track:35CXS5il66nJkKjAiSzyQl",
+      "duration_ms": 240027
+    },
+    {
+      "played_at": "2026-10-02T04:29:31.059Z",
+      "name": "ilomilo X I Wanna Be Yours",
+      "artists": [
+        "Nokaru"
+      ],
+      "album": "ilomilo X I Wanna Be Yours",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e6740d38a6424d31c12f8c73",
+      "uri": "spotify:track:4y42lkOSgGaRPfwzHV2NGX",
+      "duration_ms": 120053
+    },
+    {
+      "played_at": "2026-10-02T04:46:24.750Z",
+      "name": "Everything Is Romantic x Where Have You Been - Orchestra - Slowed",
+      "artists": [
+        "Orchestral"
+      ],
+      "album": "Everything Is Romantic x Where Have You Been (Orchestra)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27320d899ea243a9d6333227877",
+      "uri": "spotify:track:556klEQ7iNzYYdfvofYA3s",
+      "duration_ms": 159437
     }
   ]
 }
