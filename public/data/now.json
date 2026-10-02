@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-02T17:20:31.658Z",
-  "is_playing": false,
+  "updated_at": "2026-10-02T21:45:17.746Z",
+  "is_playing": true,
   "track": {
-    "name": "Everything Is Romantic x Where Have You Been - Orchestra - Slowed",
+    "name": "Sweater Weather",
     "artists": [
-      "Orchestral"
+      "The Neighbourhood"
     ],
-    "album": "Everything Is Romantic x Where Have You Been (Orchestra)",
-    "image": "https://i.scdn.co/image/ab67616d0000b27320d899ea243a9d6333227877",
-    "uri": "spotify:track:556klEQ7iNzYYdfvofYA3s"
+    "album": "I Love You.",
+    "image": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+    "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6"
   },
-  "played_at": "2026-10-02T04:46:24.750Z"
+  "played_at": "2026-10-02T21:45:17.746Z"
 }
