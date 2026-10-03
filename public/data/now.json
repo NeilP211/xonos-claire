@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-03T03:32:46.455Z",
-  "is_playing": true,
+  "updated_at": "2026-10-03T11:00:58.134Z",
+  "is_playing": false,
   "track": {
-    "name": "Video Games",
+    "name": "Everything Blue",
     "artists": [
-      "Lana Del Rey"
+      "TV Girl",
+      "George Clanton"
     ],
-    "album": "Born To Die – Paradise Edition (Special Version)",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-    "uri": "spotify:track:3WD91HQDBIavSapet3ZpjG"
+    "album": "Fauxllennium",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f922300411db724163aa8eda",
+    "uri": "spotify:track:1AaS0TTkUM9kJemKoPcAbE"
   },
-  "played_at": "2026-10-03T03:32:46.455Z"
+  "played_at": "2026-10-03T03:45:11.284Z"
 }

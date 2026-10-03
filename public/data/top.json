@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:32:46.203Z",
+  "generated_at": "2026-10-03T11:00:57.956Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -138,6 +138,18 @@
         },
         {
           "rank": 12,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 13,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -149,7 +161,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Spark",
           "artists": [
             "beabadoobee"
@@ -161,7 +173,7 @@
           "duration_ms": 167799
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Despite That",
           "artists": [
             "beabadoobee"
@@ -173,7 +185,7 @@
           "duration_ms": 89678
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Radio",
           "artists": [
             "beabadoobee"
@@ -185,7 +197,7 @@
           "duration_ms": 160230
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Powerlines",
           "artists": [
             "beabadoobee",
@@ -196,18 +208,6 @@
           "uri": "spotify:track:7uvsxYvJwAGTdxMNJrgtbQ",
           "url": "https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ",
           "duration_ms": 178391
-        },
-        {
-          "rank": 17,
-          "name": "in your head",
-          "artists": [
-            "cloudyfield"
-          ],
-          "album": "in your head",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
-          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
-          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
-          "duration_ms": 170000
         },
         {
           "rank": 18,
@@ -283,18 +283,6 @@
         },
         {
           "rank": 24,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
-        },
-        {
-          "rank": 25,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -306,7 +294,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Satellite",
           "artists": [
             "beabadoobee"
@@ -318,7 +306,7 @@
           "duration_ms": 285425
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -330,7 +318,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -343,7 +331,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -356,7 +344,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -368,7 +356,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -380,7 +368,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -393,7 +381,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Charlie Brown",
           "artists": [
             "beabadoobee"
@@ -403,6 +391,18 @@
           "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
           "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV",
           "duration_ms": 152649
+        },
+        {
+          "rank": 33,
+          "name": "in your head",
+          "artists": [
+            "cloudyfield"
+          ],
+          "album": "in your head",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
+          "duration_ms": 170000
         },
         {
           "rank": 34,
@@ -669,19 +669,19 @@
         },
         {
           "rank": 8,
-          "name": "Radiohead",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
-          "genres": [],
-          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        },
-        {
-          "rank": 9,
           "name": "Jordana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856b7f7308eff9c24c17cb88",
           "genres": [],
           "uri": "spotify:artist:5Bw9kFNhy019e4IBCJZlzw",
           "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "rank": 9,
+          "name": "Radiohead",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
+          "genres": [],
+          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
           "rank": 10,
@@ -701,14 +701,6 @@
         },
         {
           "rank": 12,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 13,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -716,7 +708,7 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
@@ -724,7 +716,7 @@
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "she's green",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
           "genres": [],
@@ -732,7 +724,7 @@
           "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Esha Tewari",
           "image": "https://i.scdn.co/image/ab6761610000e5eb07955e7a2002d42b98bb4cc8",
           "genres": [],
@@ -740,12 +732,20 @@
           "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
           "genres": [],
           "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 17,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 18,
@@ -881,18 +881,6 @@
         },
         {
           "rank": 5,
-          "name": "DNA.",
-          "artists": [
-            "Kendrick Lamar"
-          ],
-          "album": "DAMN.",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-          "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
-          "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
-          "duration_ms": 185946
-        },
-        {
-          "rank": 6,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -902,6 +890,18 @@
           "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
           "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
           "duration_ms": 213920
+        },
+        {
+          "rank": 6,
+          "name": "DNA.",
+          "artists": [
+            "Kendrick Lamar"
+          ],
+          "album": "DAMN.",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+          "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
+          "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj",
+          "duration_ms": 185946
         },
         {
           "rank": 7,
@@ -1426,15 +1426,15 @@
         },
         {
           "rank": 50,
-          "name": "Rape Me",
+          "name": "Loving Machine",
           "artists": [
-            "Nirvana"
+            "TV Girl"
           ],
-          "album": "In Utero (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-          "uri": "spotify:track:5Rizj5FLb2AyNKu9esjYY6",
-          "url": "https://open.spotify.com/track/5Rizj5FLb2AyNKu9esjYY6",
-          "duration_ms": 170000
+          "album": "Who Really Cares",
+          "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+          "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
+          "duration_ms": 227000
         }
       ],
       "artists": [
@@ -1480,19 +1480,19 @@
         },
         {
           "rank": 6,
-          "name": "Deftones",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
-          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        },
-        {
-          "rank": 7,
           "name": "TV Girl",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
           "genres": [],
           "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W",
           "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "rank": 7,
+          "name": "Deftones",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
+          "genres": [],
+          "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
           "rank": 8,

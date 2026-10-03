@@ -1,51 +1,6 @@
 {
-  "updated_at": "2026-10-03T03:32:46.337Z",
+  "updated_at": "2026-10-03T11:00:58.068Z",
   "plays": [
-    {
-      "played_at": "2026-07-19T22:42:37.140Z",
-      "name": "YKWIM?",
-      "artists": [
-        "Yot Club"
-      ],
-      "album": "Bipolar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68",
-      "uri": "spotify:track:2vWBUC9djv6BtiGlmKiQaH",
-      "duration_ms": 212750
-    },
-    {
-      "played_at": "2026-07-19T22:47:06.600Z",
-      "name": "9",
-      "artists": [
-        "Dean Blunt",
-        "Panda Bear"
-      ],
-      "album": "ZUSHI",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732d45d7d3434c1f8e6b240589",
-      "uri": "spotify:track:5JXtkWtuqS8Dm8sKbtPGWa",
-      "duration_ms": 87115
-    },
-    {
-      "played_at": "2026-07-19T22:48:27.151Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
-    {
-      "played_at": "2026-07-19T22:50:42.143Z",
-      "name": "wonder if you care",
-      "artists": [
-        "flyingfish"
-      ],
-      "album": "wonder if you care",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
-      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
-      "duration_ms": 134556
-    },
     {
       "played_at": "2026-07-19T22:53:02.261Z",
       "name": "Bloom",
@@ -22162,6 +22117,52 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
       "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
       "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-10-03T03:33:47.068Z",
+      "name": "Video Games",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:3WD91HQDBIavSapet3ZpjG",
+      "duration_ms": 281946
+    },
+    {
+      "played_at": "2026-10-03T03:36:42.657Z",
+      "name": "Sweet to Dream",
+      "artists": [
+        "Jordana",
+        "TV Girl"
+      ],
+      "album": "Summer's Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+      "uri": "spotify:track:6kDyRP48g1KWahq8irqZF9",
+      "duration_ms": 175000
+    },
+    {
+      "played_at": "2026-10-03T03:41:28.224Z",
+      "name": "Loving Machine",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
+      "duration_ms": 227000
+    },
+    {
+      "played_at": "2026-10-03T03:45:11.284Z",
+      "name": "Everything Blue",
+      "artists": [
+        "TV Girl",
+        "George Clanton"
+      ],
+      "album": "Fauxllennium",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f922300411db724163aa8eda",
+      "uri": "spotify:track:1AaS0TTkUM9kJemKoPcAbE",
+      "duration_ms": 222520
     }
   ]
 }
