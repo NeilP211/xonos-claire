@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-04T11:42:44.839Z",
+  "updated_at": "2026-10-04T16:22:05.317Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T00:28:06.588Z",
-      "name": "Xerces",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
-      "duration_ms": 221800
-    },
     {
       "played_at": "2026-07-21T16:48:07.553Z",
       "name": "hold me in your arms",
@@ -22164,6 +22153,17 @@
       "image": "https://i.scdn.co/image/ab6742d3000053b7d6f6e5632d99e9dd17abbec2",
       "uri": "spotify:track:34Xvz2vhxVeHqqfjERBMgv",
       "duration_ms": 215640
+    },
+    {
+      "played_at": "2026-10-04T13:02:25.786Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
     }
   ]
 }
