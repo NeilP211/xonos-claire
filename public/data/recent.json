@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-04T04:02:15.045Z",
+  "updated_at": "2026-10-04T11:42:44.839Z",
   "plays": [
-    {
-      "played_at": "2026-07-20T00:24:24.366Z",
-      "name": "Be Quiet and Drive (Far Away)",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-      "uri": "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
-      "duration_ms": 299866
-    },
     {
       "played_at": "2026-07-20T00:28:06.588Z",
       "name": "Xerces",
@@ -22164,6 +22153,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
       "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
       "duration_ms": 219724
+    },
+    {
+      "played_at": "2026-10-04T05:58:35.591Z",
+      "name": "vampire - live piano performance",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "vampire (live piano performance)",
+      "image": "https://i.scdn.co/image/ab6742d3000053b7d6f6e5632d99e9dd17abbec2",
+      "uri": "spotify:track:34Xvz2vhxVeHqqfjERBMgv",
+      "duration_ms": 215640
     }
   ]
 }
