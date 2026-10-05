@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-04T23:47:24.623Z",
+  "updated_at": "2026-10-05T03:46:41.513Z",
   "plays": [
-    {
-      "played_at": "2026-07-21T16:48:07.553Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
-    {
-      "played_at": "2026-07-21T16:49:32.078Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
-    {
-      "played_at": "2026-07-21T16:53:00.287Z",
-      "name": "unknown feelings",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "unknown feelings",
-      "image": "https://i.scdn.co/image/ab67616d0000b27388a96ef15faaa875a0a33859",
-      "uri": "spotify:track:4zyHmSSneytuFEdU2TbU7w",
-      "duration_ms": 134627
-    },
     {
       "played_at": "2026-07-21T16:56:35.556Z",
       "name": "Good Looking",
@@ -22164,6 +22131,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
       "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
       "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-10-05T02:24:06.365Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-10-05T02:27:50.662Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-05T02:31:20.863Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
+      "duration_ms": 209680
     }
   ]
 }
