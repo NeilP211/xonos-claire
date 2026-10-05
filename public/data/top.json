@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:46:41.402Z",
+  "generated_at": "2026-10-05T13:26:44.065Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -211,18 +211,6 @@
         },
         {
           "rank": 18,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
-        },
-        {
-          "rank": 19,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -234,7 +222,7 @@
           "duration_ms": 174023
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -244,6 +232,18 @@
           "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
           "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU",
           "duration_ms": 230053
+        },
+        {
+          "rank": 20,
+          "name": "Youngest Daughter",
+          "artists": [
+            "Superheaven"
+          ],
+          "album": "Jar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
+          "duration_ms": 249514
         },
         {
           "rank": 21,
@@ -284,6 +284,18 @@
         },
         {
           "rank": 24,
+          "name": "Summertime Sadness",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
+          "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
+          "duration_ms": 264773
+        },
+        {
+          "rank": 25,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -296,7 +308,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -308,7 +320,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Charlie Brown",
           "artists": [
             "beabadoobee"
@@ -320,7 +332,7 @@
           "duration_ms": 152649
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -332,7 +344,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Dove - Demo Ver",
           "artists": [
             "antihoney"
@@ -344,7 +356,7 @@
           "duration_ms": 113484
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Возвращайся",
           "artists": [
             "angel vox"
@@ -356,7 +368,7 @@
           "duration_ms": 226909
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "High",
           "artists": [
             "Slow Pulp"
@@ -368,7 +380,7 @@
           "duration_ms": 152571
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Help I'm Alive",
           "artists": [
             "Metric"
@@ -380,7 +392,19 @@
           "duration_ms": 286013
         },
         {
-          "rank": 32,
+          "rank": 33,
+          "name": "American",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die - The Paradise Edition",
+          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+          "uri": "spotify:track:1Yfgbr2kZrb3u0NP8ioyuk",
+          "url": "https://open.spotify.com/track/1Yfgbr2kZrb3u0NP8ioyuk",
+          "duration_ms": 248907
+        },
+        {
+          "rank": 34,
           "name": "Forsythia",
           "artists": [
             "Veruca Salt"
@@ -392,7 +416,7 @@
           "duration_ms": 284866
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "Missing Posters",
           "artists": [
             "VIOLENT VIRA"
@@ -404,7 +428,7 @@
           "duration_ms": 172970
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Pandora",
           "artists": [
             "Wisp"
@@ -416,7 +440,7 @@
           "duration_ms": 261293
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -428,7 +452,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Home Alone",
           "artists": [
             "Glokk40Spaz"
@@ -440,7 +464,7 @@
           "duration_ms": 183954
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -452,7 +476,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -464,7 +488,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -476,7 +500,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -489,7 +513,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -501,7 +525,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Real Man",
           "artists": [
             "beabadoobee"
@@ -513,7 +537,7 @@
           "duration_ms": 160600
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -525,7 +549,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -537,7 +561,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -549,7 +573,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -561,7 +585,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "You're Not The Only One I Know",
           "artists": [
             "The Sundays"
@@ -573,7 +597,7 @@
           "duration_ms": 230167
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -583,30 +607,6 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
-        },
-        {
-          "rank": 49,
-          "name": "Drowning In An Empty Sea",
-          "artists": [
-            "DECEITS"
-          ],
-          "album": "If There's No Heaven...",
-          "image": "https://i.scdn.co/image/ab67616d0000b273165cf5b3f12567d4c1443429",
-          "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
-          "url": "https://open.spotify.com/track/0tT08mbOiy0pHkpTlwJQ3s",
-          "duration_ms": 239481
-        },
-        {
-          "rank": 50,
-          "name": "Summertime Sadness",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
-          "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
-          "duration_ms": 264773
         }
       ],
       "artists": [
@@ -636,14 +636,6 @@
         },
         {
           "rank": 4,
-          "name": "Wisp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
-          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
-          "rank": 5,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -651,7 +643,7 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -659,7 +651,7 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
@@ -667,12 +659,20 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        },
+        {
+          "rank": 8,
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
+          "genres": [],
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
           "rank": 9,
@@ -716,14 +716,6 @@
         },
         {
           "rank": 14,
-          "name": "she's green",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
-          "genres": [],
-          "uri": "spotify:artist:42IX4MHpnREqy3N7HugkLY",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        },
-        {
-          "rank": 15,
           "name": "Esha Tewari",
           "image": "https://i.scdn.co/image/ab6761610000e5eb07955e7a2002d42b98bb4cc8",
           "genres": [],
@@ -731,7 +723,7 @@
           "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
           "genres": [],
@@ -739,7 +731,7 @@
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Not For Radio",
           "image": "https://i.scdn.co/image/ab6761610000e5eb59a30bdb69e6a990c22a5d32",
           "genres": [],
@@ -747,7 +739,7 @@
           "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Shye",
           "image": "https://i.scdn.co/image/ab6761610000e5eba78ed55fad15f96707600147",
           "genres": [],
@@ -755,7 +747,7 @@
           "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
@@ -763,12 +755,20 @@
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Slow Pulp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb411bbfefbd9f052bf9914d6e",
           "genres": [],
           "uri": "spotify:artist:2JFTRDi5v7JtqoouVe1z5D",
           "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        },
+        {
+          "rank": 20,
+          "name": "she's green",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
+          "genres": [],
+          "uri": "spotify:artist:42IX4MHpnREqy3N7HugkLY",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         },
         {
           "rank": 21,
