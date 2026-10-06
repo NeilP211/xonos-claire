@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:47:09.799Z",
+  "generated_at": "2026-10-06T04:34:45.623Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -18,18 +18,6 @@
         },
         {
           "rank": 2,
-          "name": "Switchblade",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
-          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
-          "duration_ms": 181926
-        },
-        {
-          "rank": 3,
           "name": "Pylon",
           "artists": [
             "beabadoobee"
@@ -39,6 +27,18 @@
           "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
           "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
           "duration_ms": 215256
+        },
+        {
+          "rank": 3,
+          "name": "Switchblade",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
+          "duration_ms": 181926
         },
         {
           "rank": 4,
@@ -54,18 +54,6 @@
         },
         {
           "rank": 5,
-          "name": "Sun Has Set",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
-          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
-          "duration_ms": 141804
-        },
-        {
-          "rank": 6,
           "name": "Body Dysmorphia",
           "artists": [
             "Eyedress"
@@ -75,6 +63,18 @@
           "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
           "url": "https://open.spotify.com/track/4VZIqvbRWlxhHtSD30wSZL",
           "duration_ms": 125085
+        },
+        {
+          "rank": 6,
+          "name": "Sun Has Set",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
+          "duration_ms": 141804
         },
         {
           "rank": 7,
@@ -199,6 +199,18 @@
         },
         {
           "rank": 17,
+          "name": "Brooklyn Baby",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+          "duration_ms": 351640
+        },
+        {
+          "rank": 18,
           "name": "It's Alright",
           "artists": [
             "beabadoobee"
@@ -210,7 +222,7 @@
           "duration_ms": 171308
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -222,7 +234,7 @@
           "duration_ms": 174023
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -234,7 +246,7 @@
           "duration_ms": 230053
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -246,7 +258,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Satellite",
           "artists": [
             "beabadoobee"
@@ -258,7 +270,7 @@
           "duration_ms": 285425
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -270,7 +282,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -283,7 +295,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -295,7 +307,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -308,7 +320,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -320,7 +332,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Charlie Brown",
           "artists": [
             "beabadoobee"
@@ -330,18 +342,6 @@
           "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
           "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV",
           "duration_ms": 152649
-        },
-        {
-          "rank": 28,
-          "name": "Brooklyn Baby",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-          "duration_ms": 351640
         },
         {
           "rank": 29,
@@ -429,18 +429,6 @@
         },
         {
           "rank": 36,
-          "name": "Pandora",
-          "artists": [
-            "Wisp"
-          ],
-          "album": "Pandora",
-          "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-          "uri": "spotify:track:3SBhQh5X7tO8ejCMUdjSRu",
-          "url": "https://open.spotify.com/track/3SBhQh5X7tO8ejCMUdjSRu",
-          "duration_ms": 261293
-        },
-        {
-          "rank": 37,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -452,7 +440,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Home Alone",
           "artists": [
             "Glokk40Spaz"
@@ -464,7 +452,7 @@
           "duration_ms": 183954
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -476,7 +464,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -488,19 +476,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 41,
-          "name": "the way things go",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "the way things go",
-          "image": "https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402",
-          "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
-          "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv",
-          "duration_ms": 187800
-        },
-        {
-          "rank": 42,
+          "rank": 40,
           "name": "Leni (Crystal Castles vs GoodBooks)",
           "artists": [
             "GoodBooks",
@@ -513,7 +489,7 @@
           "duration_ms": 256398
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -525,7 +501,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 44,
+          "rank": 42,
           "name": "Real Man",
           "artists": [
             "beabadoobee"
@@ -537,19 +513,7 @@
           "duration_ms": 160600
         },
         {
-          "rank": 45,
-          "name": "Your face",
-          "artists": [
-            "Wisp"
-          ],
-          "album": "Pandora",
-          "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-          "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-          "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv",
-          "duration_ms": 229728
-        },
-        {
-          "rank": 46,
+          "rank": 43,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -561,7 +525,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 47,
+          "rank": 44,
           "name": "Apple Cider",
           "artists": [
             "beabadoobee"
@@ -573,7 +537,7 @@
           "duration_ms": 178918
         },
         {
-          "rank": 48,
+          "rank": 45,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -585,7 +549,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 49,
+          "rank": 46,
           "name": "You're Not The Only One I Know",
           "artists": [
             "The Sundays"
@@ -597,7 +561,7 @@
           "duration_ms": 230167
         },
         {
-          "rank": 50,
+          "rank": 47,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -607,6 +571,42 @@
           "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
           "url": "https://open.spotify.com/track/7JEzAlwHhCD2M1cYE6BeqJ",
           "duration_ms": 227000
+        },
+        {
+          "rank": 48,
+          "name": "Drowning In An Empty Sea",
+          "artists": [
+            "DECEITS"
+          ],
+          "album": "If There's No Heaven...",
+          "image": "https://i.scdn.co/image/ab67616d0000b273165cf5b3f12567d4c1443429",
+          "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
+          "url": "https://open.spotify.com/track/0tT08mbOiy0pHkpTlwJQ3s",
+          "duration_ms": 239481
+        },
+        {
+          "rank": 49,
+          "name": "Fine",
+          "artists": [
+            "Lemon Demon"
+          ],
+          "album": "Dinosaurchestra",
+          "image": "https://i.scdn.co/image/ab67616d0000b27327d86c30d5761c21dd898c78",
+          "uri": "spotify:track:1CnaEVXvLU7pOl9yvDpukF",
+          "url": "https://open.spotify.com/track/1CnaEVXvLU7pOl9yvDpukF",
+          "duration_ms": 279939
+        },
+        {
+          "rank": 50,
+          "name": "This Is What Makes Us Girls",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b850da1e1301dba85b08681",
+          "uri": "spotify:track:1HQTBTQdjR9XZ5ZUA9E9yW",
+          "url": "https://open.spotify.com/track/1HQTBTQdjR9XZ5ZUA9E9yW",
+          "duration_ms": 240293
         }
       ],
       "artists": [
@@ -668,19 +668,19 @@
         },
         {
           "rank": 8,
-          "name": "Wisp",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
-          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
-          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
-          "rank": 9,
           "name": "Jordana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856b7f7308eff9c24c17cb88",
           "genres": [],
           "uri": "spotify:artist:5Bw9kFNhy019e4IBCJZlzw",
           "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        },
+        {
+          "rank": 9,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 10,
@@ -732,14 +732,6 @@
         },
         {
           "rank": 16,
-          "name": "Not For Radio",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb59a30bdb69e6a990c22a5d32",
-          "genres": [],
-          "uri": "spotify:artist:0oXhGlRUQ8aVTx8eO4MoMT",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        },
-        {
-          "rank": 17,
           "name": "Shye",
           "image": "https://i.scdn.co/image/ab6761610000e5eba78ed55fad15f96707600147",
           "genres": [],
@@ -747,7 +739,7 @@
           "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
@@ -755,7 +747,7 @@
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Slow Pulp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb411bbfefbd9f052bf9914d6e",
           "genres": [],
@@ -763,20 +755,28 @@
           "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         },
         {
+          "rank": 19,
+          "name": "Wisp",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
+          "genres": [],
+          "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
           "rank": 20,
+          "name": "Weezer",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
+          "genres": [],
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "rank": 21,
           "name": "she's green",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
           "genres": [],
           "uri": "spotify:artist:42IX4MHpnREqy3N7HugkLY",
           "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
-        },
-        {
-          "rank": 21,
-          "name": "Radiohead",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
-          "genres": [],
-          "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
           "rank": 22,
@@ -804,14 +804,6 @@
         },
         {
           "rank": 25,
-          "name": "Weezer",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
-          "genres": [],
-          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "rank": 26,
           "name": "Men I Trust",
           "image": "https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0",
           "genres": [],
@@ -2651,19 +2643,19 @@
         },
         {
           "rank": 27,
-          "name": "ENHYPEN",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebf28334d02274b673b8201299",
-          "genres": [],
-          "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        },
-        {
-          "rank": 28,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 28,
+          "name": "ENHYPEN",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebf28334d02274b673b8201299",
+          "genres": [],
+          "uri": "spotify:artist:5t5FqBwTcgKTaWmfEbwQY9",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         },
         {
           "rank": 29,
