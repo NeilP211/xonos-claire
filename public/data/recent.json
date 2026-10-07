@@ -1,208 +1,6 @@
 {
-  "updated_at": "2026-10-07T00:19:15.152Z",
+  "updated_at": "2026-10-07T09:42:02.024Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T02:30:27.917Z",
-      "name": "After Dark",
-      "artists": [
-        "Mr.Kitty"
-      ],
-      "album": "Time",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b492477206075438e0751176",
-      "uri": "spotify:track:2LKOHdMsL0K9KwcPRlJK2v",
-      "duration_ms": 259146
-    },
-    {
-      "played_at": "2026-07-23T02:32:59.702Z",
-      "name": "The Lost Soul Down X Lost Soul",
-      "artists": [
-        "NBSPLV"
-      ],
-      "album": "The Lost Soul Down X Lost Soul",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e150c941941594a25bec73f",
-      "uri": "spotify:track:0kbBU3ey5IkKwPvDHXJOry",
-      "duration_ms": 151348
-    },
-    {
-      "played_at": "2026-07-23T02:35:21.558Z",
-      "name": "Судно (Борис Рыжий)",
-      "artists": [
-        "Molchat Doma"
-      ],
-      "album": "Этажи",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d4549c0e601fbe7e8622a2f5",
-      "uri": "spotify:track:1SHB1hp6267UK9bJQUxYvO",
-      "duration_ms": 141394
-    },
-    {
-      "played_at": "2026-07-23T02:41:55.081Z",
-      "name": "Aleph - Gesaffelstein - slowed",
-      "artists": [
-        "speed up france"
-      ],
-      "album": "Aleph (Gesaffelstein - slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273193492a06a9035c621d53e71",
-      "uri": "spotify:track:3uoiMYnFl3aVMUp1AYBNBM",
-      "duration_ms": 392913
-    },
-    {
-      "played_at": "2026-07-23T02:44:38.707Z",
-      "name": "Return to Zero Beztebya - Super Slowed Reverb Instr.",
-      "artists": [
-        "Marc Acardipane",
-        "Dayerteq"
-      ],
-      "album": "Return to Zero Beztebya (Mixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b5fb5e2c271ea627c962a8b4",
-      "uri": "spotify:track:1XmrkcwlWxEHR0g7rHNtEG",
-      "duration_ms": 163200
-    },
-    {
-      "played_at": "2026-07-23T02:48:21.539Z",
-      "name": "Solitude - Felsmann + Tiley Reinterpretation",
-      "artists": [
-        "M83",
-        "Felsmann + Tiley"
-      ],
-      "album": "Solitude (Felsmann + Tiley Reinterpretation)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e399d960a253b2740b549151",
-      "uri": "spotify:track:5SOA0gaKMMp9cgwn3nuwk7",
-      "duration_ms": 222354
-    },
-    {
-      "played_at": "2026-07-23T02:54:26.214Z",
-      "name": "In This Shirt",
-      "artists": [
-        "The Irrepressibles"
-      ],
-      "album": "Mirror Mirror",
-      "image": "https://i.scdn.co/image/ab67616d0000b273da004e530a74febd9d3ad1e2",
-      "uri": "spotify:track:14QX1ckbDIhqetvu5VZ3cP",
-      "duration_ms": 335146
-    },
-    {
-      "played_at": "2026-07-23T02:57:46.009Z",
-      "name": "Lovers From The Past",
-      "artists": [
-        "Mareux"
-      ],
-      "album": "Lovers From The Past",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c1b8e646892ca5dc7d3ceb4",
-      "uri": "spotify:track:29P3bJSzsI5fUvwxSItkvr",
-      "duration_ms": 199280
-    },
-    {
-      "played_at": "2026-07-23T03:00:27.023Z",
-      "name": "Call Me - Slowed",
-      "artists": [
-        "plenka"
-      ],
-      "album": "Call Me (Slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273af279eb21d4842eae7066f36",
-      "uri": "spotify:track:0TvHrcLqLrQxAmT8ILd21V",
-      "duration_ms": 160500
-    },
-    {
-      "played_at": "2026-07-23T03:03:05.523Z",
-      "name": "I'm so fucked up please help me (I know I know you know you know) - slowed",
-      "artists": [
-        "velours"
-      ],
-      "album": "I'm so fucked up please help me (I know I know you know you know)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27306784c8652f4ae186453343c",
-      "uri": "spotify:track:1PZTX2790OQVGn0BelUK5X",
-      "duration_ms": 158165
-    },
-    {
-      "played_at": "2026-07-23T03:05:26.170Z",
-      "name": "Moosy - viral",
-      "artists": [
-        "ilyhiryu"
-      ],
-      "album": "Moosy (viral)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273596ac00c6e2bd28824aaca0c",
-      "uri": "spotify:track:4aNdRMaUnZmLp7Hzf6xUhB",
-      "duration_ms": 140197
-    },
-    {
-      "played_at": "2026-07-23T03:08:50.751Z",
-      "name": "Embrace",
-      "artists": [
-        "Pastel Ghost"
-      ],
-      "album": "Abyss",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736bbea59f1d07d69f8ca5350b",
-      "uri": "spotify:track:1wszdDUhlil6EH3SRkmTZL",
-      "duration_ms": 204124
-    },
-    {
-      "played_at": "2026-07-23T03:34:28.485Z",
-      "name": "Goth",
-      "artists": [
-        "Sidewalks and Skeletons"
-      ],
-      "album": "White Light",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938",
-      "uri": "spotify:track:0uMZbmAAgOhdMrv25iPEH6",
-      "duration_ms": 207120
-    },
-    {
-      "played_at": "2026-07-23T03:50:18.280Z",
-      "name": "Goth",
-      "artists": [
-        "Sidewalks and Skeletons"
-      ],
-      "album": "White Light",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbaf9de6c418a0aa6cb7b938",
-      "uri": "spotify:track:0uMZbmAAgOhdMrv25iPEH6",
-      "duration_ms": 207120
-    },
-    {
-      "played_at": "2026-07-23T03:54:36.736Z",
-      "name": "Sleepwalker - Slowed",
-      "artists": [
-        "akiaura",
-        "LONOWN",
-        "STM"
-      ],
-      "album": "Sleepwalker (Slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731d93ddc540c76c8ff34a6498",
-      "uri": "spotify:track:5cjRF0yXxYvqzmJfUbq9AW",
-      "duration_ms": 258008
-    },
-    {
-      "played_at": "2026-07-23T03:58:11.253Z",
-      "name": "Society",
-      "artists": [
-        "pathetic240px"
-      ],
-      "album": "Society",
-      "image": "https://i.scdn.co/image/ab67616d0000b273441470228cefd3bcb2b1a7c0",
-      "uri": "spotify:track:5NLdlIggmKj4G7RB6l8Tm1",
-      "duration_ms": 214062
-    },
-    {
-      "played_at": "2026-07-23T04:00:34.523Z",
-      "name": "METAMORPHOSIS",
-      "artists": [
-        "INTERWORLD"
-      ],
-      "album": "METAMORPHOSIS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b852a616ae3a49a1f6b0f16e",
-      "uri": "spotify:track:2ksyzVfU0WJoBpu8otr4pz",
-      "duration_ms": 142839
-    },
-    {
-      "played_at": "2026-07-23T04:02:07.559Z",
-      "name": "Roi - Instrumental Slowed",
-      "artists": [
-        "Mckyyy"
-      ],
-      "album": "Roi",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f178ef6a0e6c23f6330bd982",
-      "uri": "spotify:track:5vCREmODQpdzOmcNOVsN6B",
-      "duration_ms": 92589
-    },
     {
       "played_at": "2026-07-23T04:05:37.418Z",
       "name": "Memory Reboot",
@@ -22165,6 +21963,211 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
       "uri": "spotify:track:7zwn1eykZtZ5LODrf7c0tS",
       "duration_ms": 153000
+    },
+    {
+      "played_at": "2026-10-07T06:38:04.746Z",
+      "name": "MANNEQUIN",
+      "artists": [
+        "Che",
+        "xaviersobased"
+      ],
+      "album": "REST IN BASS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737930341e245fc8d02b54dab0",
+      "uri": "spotify:track:4BOZwlrJLGTPmePx9mM9pu",
+      "duration_ms": 123102
+    },
+    {
+      "played_at": "2026-10-07T06:41:28.073Z",
+      "name": "Trevon O'Ryan Echols",
+      "artists": [
+        "Nine Vicious"
+      ],
+      "album": "EMOTIONS",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739382b279fa552e0fae460a85",
+      "uri": "spotify:track:7wkqBIb3TzcrRNJEetu8rM",
+      "duration_ms": 202816
+    },
+    {
+      "played_at": "2026-10-07T06:43:19.977Z",
+      "name": "STFU",
+      "artists": [
+        "diamond*"
+      ],
+      "album": "BLING SLIME VØL 1: HØSTED BY DJ HØLIDAY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ebe97b37ea3b5617e2b2279",
+      "uri": "spotify:track:3kfCtMJsMnSYuLIm8tyVWR",
+      "duration_ms": 111384
+    },
+    {
+      "played_at": "2026-10-07T06:46:44.188Z",
+      "name": "Cap To Me",
+      "artists": [
+        "UnoTheActivist",
+        "Yeat"
+      ],
+      "album": "Unoverse 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e193d3b553cbe6bada38bf9d",
+      "uri": "spotify:track:32uUFN0dxSKbMMZyiO0gfk",
+      "duration_ms": 203700
+    },
+    {
+      "played_at": "2026-10-07T06:48:51.857Z",
+      "name": "Made Sum Plans",
+      "artists": [
+        "OsamaSon"
+      ],
+      "album": "Jump Out",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af7d595ff17270e4895f5d3",
+      "uri": "spotify:track:5sE9XpE2ukIwC2sYhIvUrs",
+      "duration_ms": 127152
+    },
+    {
+      "played_at": "2026-10-07T06:51:23.952Z",
+      "name": "Slave",
+      "artists": [
+        "UnoTheActivist"
+      ],
+      "album": "Limbus 3",
+      "image": "https://i.scdn.co/image/ab67616d0000b27353ef34fffa88aa089c737d1e",
+      "uri": "spotify:track:2ZzZ85G7SARcDgISNNCDp2",
+      "duration_ms": 151578
+    },
+    {
+      "played_at": "2026-10-07T06:54:14.259Z",
+      "name": "pain talk (with OsamaSon)",
+      "artists": [
+        "Nettspend",
+        "OsamaSon"
+      ],
+      "album": "early life crisis",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c43db80bd5f5f090c02a2a41",
+      "uri": "spotify:track:2zeooypNRRxcFEz5IwXPkG",
+      "duration_ms": 169795
+    },
+    {
+      "played_at": "2026-10-07T06:56:16.722Z",
+      "name": "Over You",
+      "artists": [
+        "Brentrambo",
+        "LUCKI"
+      ],
+      "album": "Extra Lucky 2",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734153fe52410821d8b1ab0fff",
+      "uri": "spotify:track:4PjHcyFKoeIC1kdJNW4fDa",
+      "duration_ms": 121939
+    },
+    {
+      "played_at": "2026-10-07T06:58:32.094Z",
+      "name": "bada bing, bada bØØm",
+      "artists": [
+        "diamond*",
+        "Tezzus"
+      ],
+      "album": "nØ idØls",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b52f085f2072caf63207e15a",
+      "uri": "spotify:track:0UWHB6M62TXlNBxXDnMvBH",
+      "duration_ms": 134855
+    },
+    {
+      "played_at": "2026-10-07T07:01:20.864Z",
+      "name": "5 2 Üh 60 (feat. Yeat)",
+      "artists": [
+        "SeptembersRich",
+        "Yeat"
+      ],
+      "album": "5 2 Üh 60 (feat. Yeat)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f82cb0723403b0d3a855727f",
+      "uri": "spotify:track:28JEFSyc3hjkHN4LpolsXt",
+      "duration_ms": 168250
+    },
+    {
+      "played_at": "2026-10-07T07:02:53.446Z",
+      "name": "worth it",
+      "artists": [
+        "xaviersobased"
+      ],
+      "album": "once more",
+      "image": "https://i.scdn.co/image/ab67616d0000b27307879fe0a5a9cb15d405fde9",
+      "uri": "spotify:track:5VIxdjYPJVHfSARcoRXHrl",
+      "duration_ms": 92058
+    },
+    {
+      "played_at": "2026-10-07T07:05:36.868Z",
+      "name": "ØWAY",
+      "artists": [
+        "Tezzus"
+      ],
+      "album": "THE RESURRECTIØN",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349ed75e3363b6236a544a1bf",
+      "uri": "spotify:track:3gaH1lcvaoTibA4dZ1CyzK",
+      "duration_ms": 162910
+    },
+    {
+      "played_at": "2026-10-07T07:07:37.451Z",
+      "name": "DGAF",
+      "artists": [
+        "Your Stepdad"
+      ],
+      "album": "Your Stepdad",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730d5a631e3f60c0816673b5e3",
+      "uri": "spotify:track:2v8oX6r2gAzBGf5giDIZaZ",
+      "duration_ms": 120068
+    },
+    {
+      "played_at": "2026-10-07T07:09:53.554Z",
+      "name": "Havana",
+      "artists": [
+        "Pz'"
+      ],
+      "album": "Havana",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357bbd7d01640d557ebfce6e5",
+      "uri": "spotify:track:3WVJfN1JmGewlDXGkQf0I4",
+      "duration_ms": 135586
+    },
+    {
+      "played_at": "2026-10-07T07:11:57.604Z",
+      "name": "Mad",
+      "artists": [
+        "Duwap Kaine"
+      ],
+      "album": "Underdog",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d4d6a96f814c31ea6c45239b",
+      "uri": "spotify:track:1zWb0YeEBlvCzsc2QV8yZ1",
+      "duration_ms": 123533
+    },
+    {
+      "played_at": "2026-10-07T07:13:56.893Z",
+      "name": "shadeson (with 2hollis)",
+      "artists": [
+        "Ken Carson",
+        "2hollis"
+      ],
+      "album": "xperiment",
+      "image": "https://i.scdn.co/image/ab67616d0000b27343e3d686c813bd4d020dd1ef",
+      "uri": "spotify:track:7155NVwKKJjtQtssuaqgJ9",
+      "duration_ms": 118739
+    },
+    {
+      "played_at": "2026-10-07T07:15:50.441Z",
+      "name": "hoeless romantic",
+      "artists": [
+        "Your Stepdad"
+      ],
+      "album": "sloppy secondaries",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ca55f47523963486579d607b",
+      "uri": "spotify:track:4GpTp81ky8Pg0WaNPMW2kD",
+      "duration_ms": 113010
+    },
+    {
+      "played_at": "2026-10-07T07:17:37.639Z",
+      "name": "rich rapport",
+      "artists": [
+        "sosocamo"
+      ],
+      "album": "big country",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c94b1e15bb99fc17be33b562",
+      "uri": "spotify:track:34V5n3lw3N6cpobx2CAhfN",
+      "duration_ms": 106676
     }
   ]
 }
