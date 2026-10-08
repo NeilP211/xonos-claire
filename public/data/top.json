@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:21:08.510Z",
+  "generated_at": "2026-10-08T00:40:51.105Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -187,18 +187,6 @@
         },
         {
           "rank": 16,
-          "name": "Pretty When You Cry",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
-          "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
-          "duration_ms": 234146
-        },
-        {
-          "rank": 17,
           "name": "It's Alright",
           "artists": [
             "beabadoobee"
@@ -210,7 +198,7 @@
           "duration_ms": 171308
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -222,7 +210,7 @@
           "duration_ms": 174023
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -234,7 +222,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Satellite",
           "artists": [
             "beabadoobee"
@@ -246,7 +234,7 @@
           "duration_ms": 285425
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -258,7 +246,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -271,7 +259,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -283,7 +271,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -296,7 +284,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -308,7 +296,7 @@
           "duration_ms": 141696
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Charlie Brown",
           "artists": [
             "beabadoobee"
@@ -320,7 +308,7 @@
           "duration_ms": 152649
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Dove - Demo Ver",
           "artists": [
             "antihoney"
@@ -330,6 +318,18 @@
           "uri": "spotify:track:5djlQk0utbAQMbmB7MSWiz",
           "url": "https://open.spotify.com/track/5djlQk0utbAQMbmB7MSWiz",
           "duration_ms": 113484
+        },
+        {
+          "rank": 27,
+          "name": "Pretty When You Cry",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+          "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
+          "duration_ms": 234146
         },
         {
           "rank": 28,
@@ -477,6 +477,18 @@
         },
         {
           "rank": 40,
+          "name": "Reunion",
+          "artists": [
+            "Korea Girl"
+          ],
+          "album": "Korea Girl",
+          "image": "https://i.scdn.co/image/ab67616d0000b2735b12b99ff908389cd09ed297",
+          "uri": "spotify:track:2fehVgZ1rciAcl0lYh1Mpq",
+          "url": "https://open.spotify.com/track/2fehVgZ1rciAcl0lYh1Mpq",
+          "duration_ms": 259266
+        },
+        {
+          "rank": 41,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -488,7 +500,20 @@
           "duration_ms": 217000
         },
         {
-          "rank": 41,
+          "rank": 42,
+          "name": "Something About You",
+          "artists": [
+            "Eyedress",
+            "Dent May"
+          ],
+          "album": "Mulholland Drive",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
+          "uri": "spotify:track:3oNQ6NkihVzQkV5qhk2Pbe",
+          "url": "https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe",
+          "duration_ms": 153312
+        },
+        {
+          "rank": 43,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -500,7 +525,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "You're Not The Only One I Know",
           "artists": [
             "The Sundays"
@@ -512,7 +537,7 @@
           "duration_ms": 230167
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "Loving Machine",
           "artists": [
             "TV Girl"
@@ -524,7 +549,7 @@
           "duration_ms": 227000
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Drowning In An Empty Sea",
           "artists": [
             "DECEITS"
@@ -536,7 +561,7 @@
           "duration_ms": 239481
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "Fine",
           "artists": [
             "Lemon Demon"
@@ -548,7 +573,7 @@
           "duration_ms": 279939
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "This Is What Makes Us Girls",
           "artists": [
             "Lana Del Rey"
@@ -560,7 +585,7 @@
           "duration_ms": 240293
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "how u seen me??",
           "artists": [
             "ksuuvi"
@@ -572,7 +597,7 @@
           "duration_ms": 168228
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Dove - Doll Ver",
           "artists": [
             "antihoney"
@@ -582,30 +607,6 @@
           "uri": "spotify:track:1gq3Zua0XUcFbkITg6MpZo",
           "url": "https://open.spotify.com/track/1gq3Zua0XUcFbkITg6MpZo",
           "duration_ms": 135999
-        },
-        {
-          "rank": 49,
-          "name": "vampire",
-          "artists": [
-            "Olivia Rodrigo"
-          ],
-          "album": "GUTS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-          "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
-          "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
-          "duration_ms": 219724
-        },
-        {
-          "rank": 50,
-          "name": "Jealousy",
-          "artists": [
-            "Lllyric?"
-          ],
-          "album": "Jealousy",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3c9bc7c2edcf071a973f18b",
-          "uri": "spotify:track:2NSsYoMGBt491hItrlkNDZ",
-          "url": "https://open.spotify.com/track/2NSsYoMGBt491hItrlkNDZ",
-          "duration_ms": 157849
         }
       ],
       "artists": [
@@ -683,19 +684,19 @@
         },
         {
           "rank": 10,
-          "name": "The Neighbourhood",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-          "genres": [],
-          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        },
-        {
-          "rank": 11,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 11,
+          "name": "The Neighbourhood",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "genres": [],
+          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         },
         {
           "rank": 12,
@@ -715,14 +716,6 @@
         },
         {
           "rank": 14,
-          "name": "Panchiko",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
-          "genres": [],
-          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "rank": 15,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -730,7 +723,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "ivri",
           "image": "https://i.scdn.co/image/ab6761610000e5eb51c7d7e3809607338a93e1a7",
           "genres": [],
@@ -738,12 +731,20 @@
           "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        },
+        {
+          "rank": 17,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
           "rank": 18,
