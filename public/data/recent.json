@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-08T00:40:51.268Z",
+  "updated_at": "2026-10-08T09:52:27.066Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T04:37:03.932Z",
-      "name": "wutiwant - SLOWD",
-      "artists": [
-        "saraunh0ly"
-      ],
-      "album": "wutuwant",
-      "image": "https://i.scdn.co/image/ab67616d0000b27398f96551e4c468d48f48f3e3",
-      "uri": "spotify:track:6bxukxNnfPyph0sqhnGhpW",
-      "duration_ms": 106173
-    },
     {
       "played_at": "2026-07-23T04:48:18.776Z",
       "name": "Ultraviolence",
@@ -22165,6 +22154,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
       "uri": "spotify:track:2qV5Ce0sMlFsrseRO5CTMU",
       "duration_ms": 291040
+    },
+    {
+      "played_at": "2026-10-08T03:17:38.063Z",
+      "name": "Silver Soul",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Teen Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
+      "duration_ms": 298680
     }
   ]
 }
