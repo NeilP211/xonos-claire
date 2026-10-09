@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-09T17:53:58.783Z",
+  "updated_at": "2026-10-09T22:10:11.988Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T19:45:16.415Z",
-      "name": "Radio",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:4PMdq7Q7xOFrY424ZelZEb",
-      "duration_ms": 214573
-    },
     {
       "played_at": "2026-07-23T19:49:25.928Z",
       "name": "Carmen",
@@ -22165,6 +22154,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
       "uri": "spotify:track:4bJygwUKrRgq1stlNXcgMg",
       "duration_ms": 214440
+    },
+    {
+      "played_at": "2026-10-09T22:08:13.963Z",
+      "name": "Alison",
+      "artists": [
+        "Slowdive"
+      ],
+      "album": "Souvlaki",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
+      "uri": "spotify:track:33HRECrmuelZxOpid6XTNX",
+      "duration_ms": 230986
     }
   ]
 }
