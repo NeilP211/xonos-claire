@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:20:33.646Z",
+  "generated_at": "2026-10-09T00:56:16.789Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -223,6 +223,18 @@
         },
         {
           "rank": 19,
+          "name": "Salvatore",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
+          "duration_ms": 281093
+        },
+        {
+          "rank": 20,
           "name": "Satellite",
           "artists": [
             "beabadoobee"
@@ -234,7 +246,7 @@
           "duration_ms": 285425
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -246,7 +258,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -259,7 +271,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -271,7 +283,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -284,7 +296,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "maybe i'd be better off alone",
           "artists": [
             "gothcandy"
@@ -294,18 +306,6 @@
           "uri": "spotify:track:3ZRd4YfV0ZGji3lMPi484K",
           "url": "https://open.spotify.com/track/3ZRd4YfV0ZGji3lMPi484K",
           "duration_ms": 141696
-        },
-        {
-          "rank": 25,
-          "name": "Dove - Demo Ver",
-          "artists": [
-            "antihoney"
-          ],
-          "album": "antihoney (Demo Compilation)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d06ce8595325ab68fa28ae5a",
-          "uri": "spotify:track:5djlQk0utbAQMbmB7MSWiz",
-          "url": "https://open.spotify.com/track/5djlQk0utbAQMbmB7MSWiz",
-          "duration_ms": 113484
         },
         {
           "rank": 26,
@@ -321,15 +321,15 @@
         },
         {
           "rank": 27,
-          "name": "Pretty When You Cry",
+          "name": "Dove - Demo Ver",
           "artists": [
-            "Lana Del Rey"
+            "antihoney"
           ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
-          "url": "https://open.spotify.com/track/6PnluwP0fjGnpIBsqTdUTq",
-          "duration_ms": 234146
+          "album": "antihoney (Demo Compilation)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273d06ce8595325ab68fa28ae5a",
+          "uri": "spotify:track:5djlQk0utbAQMbmB7MSWiz",
+          "url": "https://open.spotify.com/track/5djlQk0utbAQMbmB7MSWiz",
+          "duration_ms": 113484
         },
         {
           "rank": 28,
@@ -369,6 +369,18 @@
         },
         {
           "rank": 31,
+          "name": "Fine",
+          "artists": [
+            "Lemon Demon"
+          ],
+          "album": "Dinosaurchestra",
+          "image": "https://i.scdn.co/image/ab67616d0000b27327d86c30d5761c21dd898c78",
+          "uri": "spotify:track:1CnaEVXvLU7pOl9yvDpukF",
+          "url": "https://open.spotify.com/track/1CnaEVXvLU7pOl9yvDpukF",
+          "duration_ms": 279939
+        },
+        {
+          "rank": 32,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -380,7 +392,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Forsythia",
           "artists": [
             "Veruca Salt"
@@ -392,7 +404,7 @@
           "duration_ms": 284866
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Missing Posters",
           "artists": [
             "VIOLENT VIRA"
@@ -404,7 +416,7 @@
           "duration_ms": 172970
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -416,7 +428,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Home Alone",
           "artists": [
             "Glokk40Spaz"
@@ -428,7 +440,7 @@
           "duration_ms": 183954
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Sexy Boy",
           "artists": [
             "Air"
@@ -440,7 +452,7 @@
           "duration_ms": 298466
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -452,7 +464,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -462,18 +474,6 @@
           "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
           "url": "https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU",
           "duration_ms": 230053
-        },
-        {
-          "rank": 39,
-          "name": "Salvatore",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
-          "duration_ms": 281093
         },
         {
           "rank": 40,
@@ -550,6 +550,18 @@
         },
         {
           "rank": 46,
+          "name": "Darla",
+          "artists": [
+            "Vundabar"
+          ],
+          "album": "Gawk",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da",
+          "uri": "spotify:track:0SRaDY4S9Xv5aO3iUkk7Xe",
+          "url": "https://open.spotify.com/track/0SRaDY4S9Xv5aO3iUkk7Xe",
+          "duration_ms": 231026
+        },
+        {
+          "rank": 47,
           "name": "Drowning In An Empty Sea",
           "artists": [
             "DECEITS"
@@ -559,18 +571,6 @@
           "uri": "spotify:track:0tT08mbOiy0pHkpTlwJQ3s",
           "url": "https://open.spotify.com/track/0tT08mbOiy0pHkpTlwJQ3s",
           "duration_ms": 239481
-        },
-        {
-          "rank": 47,
-          "name": "Fine",
-          "artists": [
-            "Lemon Demon"
-          ],
-          "album": "Dinosaurchestra",
-          "image": "https://i.scdn.co/image/ab67616d0000b27327d86c30d5761c21dd898c78",
-          "uri": "spotify:track:1CnaEVXvLU7pOl9yvDpukF",
-          "url": "https://open.spotify.com/track/1CnaEVXvLU7pOl9yvDpukF",
-          "duration_ms": 279939
         },
         {
           "rank": 48,
@@ -1528,7 +1528,7 @@
         {
           "rank": 10,
           "name": "Mazzy Star",
-          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0d2c80ce808454e642e849e6",
           "genres": [],
           "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
@@ -2620,7 +2620,7 @@
         {
           "rank": 20,
           "name": "Mazzy Star",
-          "image": "https://i.scdn.co/image/ab6772690000c46c93b4c6192035c98af64d4da3",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb0d2c80ce808454e642e849e6",
           "genres": [],
           "uri": "spotify:artist:37w38cCSGgKLdayTRjna4W",
           "url": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W"
