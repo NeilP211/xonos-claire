@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-10-09T00:56:16.941Z",
+  "updated_at": "2026-10-09T09:56:25.514Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T19:11:45.879Z",
-      "name": "Sad Girl",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
-      "duration_ms": 317760
-    },
-    {
-      "played_at": "2026-07-23T19:16:31.743Z",
-      "name": "Born To Die",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
-      "duration_ms": 285400
-    },
-    {
-      "played_at": "2026-07-23T19:22:23.957Z",
-      "name": "Off To The Races",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:5IyblF777jLZj1vGHG2UD3",
-      "duration_ms": 299933
-    },
-    {
-      "played_at": "2026-07-23T19:25:55.411Z",
-      "name": "Blue Jeans",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2lFTzUnuGaWlWHJQokjRyb",
-      "duration_ms": 209440
-    },
-    {
-      "played_at": "2026-07-23T19:33:40.231Z",
-      "name": "Video Games",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:24jvD83UgLmrdGjhWTFslY",
-      "duration_ms": 281960
-    },
-    {
-      "played_at": "2026-07-23T19:37:23.118Z",
-      "name": "Diet Mountain Dew",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:4O9dZs2B0ilk4PEfX2bPEv",
-      "duration_ms": 222920
-    },
-    {
-      "played_at": "2026-07-23T19:41:41.869Z",
-      "name": "Dark Paradise",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2Y115i0IhELJhyyftvoSFt",
-      "duration_ms": 243187
-    },
     {
       "played_at": "2026-07-23T19:45:16.415Z",
       "name": "Radio",
@@ -22165,6 +22088,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273217ee98fee9f81b160931439",
       "uri": "spotify:track:1BPrb82sw4NISXgRfdBFRS",
       "duration_ms": 224453
+    },
+    {
+      "played_at": "2026-10-09T03:54:23.657Z",
+      "name": "Gravetown",
+      "artists": [
+        "past self"
+      ],
+      "album": "Gravetown",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cabf53cd4cce32b8936c5834",
+      "uri": "spotify:track:0Toq58ILcNdZvzfFcwEtzq",
+      "duration_ms": 185385
+    },
+    {
+      "played_at": "2026-10-09T03:59:33.675Z",
+      "name": "The Man Who Sold The World - Live",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "MTV Unplugged In New York",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+      "duration_ms": 261093
+    },
+    {
+      "played_at": "2026-10-09T04:01:12.128Z",
+      "name": "Babydoll",
+      "artists": [
+        "Dominic Fike"
+      ],
+      "album": "Don't Forget About Me, Demos",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
+      "duration_ms": 97960
+    },
+    {
+      "played_at": "2026-10-09T04:04:13.358Z",
+      "name": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "album": "Self Aware",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
+      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
+      "duration_ms": 180740
+    },
+    {
+      "played_at": "2026-10-09T04:08:07.872Z",
+      "name": "What Would I Do?",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "What Would I Do?",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ba5c5d0971159a6e3299d78b",
+      "uri": "spotify:track:5EJA7Rwkeuvm98CZg0XXNO",
+      "duration_ms": 234000
+    },
+    {
+      "played_at": "2026-10-09T04:12:03.351Z",
+      "name": "Where Is My Mind? - 2007 Remaster",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Surfer Rosa (2007 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
+      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
+      "duration_ms": 234973
+    },
+    {
+      "played_at": "2026-10-09T04:17:14.218Z",
+      "name": "All The Things She Said",
+      "artists": [
+        "t.A.T.u."
+      ],
+      "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
+      "uri": "spotify:track:4bJygwUKrRgq1stlNXcgMg",
+      "duration_ms": 214440
     }
   ]
 }
