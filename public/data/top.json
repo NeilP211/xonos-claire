@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:51:46.882Z",
+  "generated_at": "2026-10-10T21:03:58.856Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -199,18 +199,6 @@
         },
         {
           "rank": 17,
-          "name": "Youngest Daughter",
-          "artists": [
-            "Superheaven"
-          ],
-          "album": "Jar",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
-          "duration_ms": 249514
-        },
-        {
-          "rank": 18,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -222,7 +210,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -232,6 +220,18 @@
           "uri": "spotify:track:5zW5pAPymJkozRF7AEAskA",
           "url": "https://open.spotify.com/track/5zW5pAPymJkozRF7AEAskA",
           "duration_ms": 174023
+        },
+        {
+          "rank": 19,
+          "name": "stupid song",
+          "artists": [
+            "Olivia Rodrigo"
+          ],
+          "album": "you seem pretty sad for a girl so in love",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+          "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
+          "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+          "duration_ms": 209680
         },
         {
           "rank": 20,
@@ -247,18 +247,6 @@
         },
         {
           "rank": 21,
-          "name": "stupid song",
-          "artists": [
-            "Olivia Rodrigo"
-          ],
-          "album": "you seem pretty sad for a girl so in love",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-          "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
-          "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
-          "duration_ms": 209680
-        },
-        {
-          "rank": 22,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -271,7 +259,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -283,7 +271,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -295,7 +283,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -308,7 +296,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Charlie Brown",
           "artists": [
             "beabadoobee"
@@ -318,6 +306,18 @@
           "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
           "url": "https://open.spotify.com/track/1NBQUtKSQdu7Nlw2isLxAV",
           "duration_ms": 152649
+        },
+        {
+          "rank": 26,
+          "name": "Youngest Daughter",
+          "artists": [
+            "Superheaven"
+          ],
+          "album": "Jar",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+          "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+          "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ",
+          "duration_ms": 249514
         },
         {
           "rank": 27,
@@ -652,14 +652,6 @@
         },
         {
           "rank": 6,
-          "name": "Superheaven",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
-          "genres": [],
-          "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        },
-        {
-          "rank": 7,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -667,7 +659,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Jordana",
           "image": "https://i.scdn.co/image/ab6761610000e5eb856b7f7308eff9c24c17cb88",
           "genres": [],
@@ -675,7 +667,7 @@
           "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -683,7 +675,7 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
           "genres": [],
@@ -691,7 +683,7 @@
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -699,7 +691,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "The Neighbourhood",
           "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
           "genres": [],
@@ -707,15 +699,7 @@
           "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         },
         {
-          "rank": 13,
-          "name": "Eyedress",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
-          "genres": [],
-          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "rank": 14,
+          "rank": 12,
           "name": "Esha Tewari",
           "image": "https://i.scdn.co/image/ab6761610000e5eb07955e7a2002d42b98bb4cc8",
           "genres": [],
@@ -723,7 +707,7 @@
           "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
         },
         {
-          "rank": 15,
+          "rank": 13,
           "name": "ivri",
           "image": "https://i.scdn.co/image/ab6761610000e5eb51c7d7e3809607338a93e1a7",
           "genres": [],
@@ -731,7 +715,7 @@
           "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
         },
         {
-          "rank": 16,
+          "rank": 14,
           "name": "Not For Radio",
           "image": "https://i.scdn.co/image/ab6761610000e5eb59a30bdb69e6a990c22a5d32",
           "genres": [],
@@ -739,7 +723,7 @@
           "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Clairo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4804c4a44c85afea1a72d1bd",
           "genres": [],
@@ -747,15 +731,7 @@
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         },
         {
-          "rank": 18,
-          "name": "Panchiko",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
-          "genres": [],
-          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "rank": 19,
+          "rank": 16,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
           "genres": [],
@@ -763,7 +739,7 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
         {
-          "rank": 20,
+          "rank": 17,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
@@ -771,7 +747,7 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 21,
+          "rank": 18,
           "name": "Shye",
           "image": "https://i.scdn.co/image/ab6761610000e5eba78ed55fad15f96707600147",
           "genres": [],
@@ -779,7 +755,7 @@
           "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
         },
         {
-          "rank": 22,
+          "rank": 19,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
           "genres": [],
@@ -787,7 +763,7 @@
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
         {
-          "rank": 23,
+          "rank": 20,
           "name": "Slow Pulp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb411bbfefbd9f052bf9914d6e",
           "genres": [],
@@ -795,7 +771,15 @@
           "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         },
         {
-          "rank": 24,
+          "rank": 21,
+          "name": "Eyedress",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
+          "genres": [],
+          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "rank": 22,
           "name": "Weezer",
           "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
           "genres": [],
@@ -803,7 +787,7 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "she's green",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
           "genres": [],
@@ -811,7 +795,15 @@
           "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         },
         {
-          "rank": 26,
+          "rank": 24,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 25,
           "name": "The Sundays",
           "image": "https://i.scdn.co/image/d11ee55598e458475cf9b34ce3bc7ffde96aceb4",
           "genres": [],
@@ -819,7 +811,7 @@
           "url": "https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7"
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Suki Waterhouse",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1696da72cfcb968be92b84d4",
           "genres": [],
@@ -827,12 +819,20 @@
           "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Porch Light",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a8f0f5f7bd574f4dc1f60c5",
           "genres": [],
           "uri": "spotify:artist:71gxkPYviG8kwEzEZGM1FH",
           "url": "https://open.spotify.com/artist/71gxkPYviG8kwEzEZGM1FH"
+        },
+        {
+          "rank": 28,
+          "name": "Superheaven",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
+          "genres": [],
+          "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         }
       ]
     },

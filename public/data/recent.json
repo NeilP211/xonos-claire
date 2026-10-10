@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-10T16:51:46.967Z",
+  "updated_at": "2026-10-10T21:03:58.941Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T20:13:02.733Z",
-      "name": "Blue Velvet",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:0B4AIlB1jjT9l6QjKCdSLG",
-      "duration_ms": 158653
-    },
-    {
-      "played_at": "2026-07-23T20:17:00.809Z",
-      "name": "Bel Air",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:1OI3ZMcABE1U7hnhf9BENL",
-      "duration_ms": 237640
-    },
-    {
-      "played_at": "2026-07-23T20:21:42.136Z",
-      "name": "Young And Beautiful",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Young And Beautiful",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-      "duration_ms": 236053
-    },
-    {
-      "played_at": "2026-07-23T20:27:06.169Z",
-      "name": "Swan Song",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
-      "duration_ms": 323475
-    },
     {
       "played_at": "2026-07-23T20:29:53.188Z",
       "name": "Take Me Home, Country Roads",
@@ -22165,6 +22121,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273641e85f800362068cb31731a",
       "uri": "spotify:track:42ft9mAcIe4HYTKnNahsY9",
       "duration_ms": 243648
+    },
+    {
+      "played_at": "2026-10-10T17:23:48.924Z",
+      "name": "routine I Love You",
+      "artists": [
+        "Ayleen Valentine"
+      ],
+      "album": "routine I Love You",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce58bdac81b57133fc04dcb8",
+      "uri": "spotify:track:6TvqU7YmH6uX2HC4094HC9",
+      "duration_ms": 231192
+    },
+    {
+      "played_at": "2026-10-10T17:26:17.298Z",
+      "name": "brutal",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "SOUR",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+      "uri": "spotify:track:6SRsiMl7w1USE4mFqrOhHC",
+      "duration_ms": 143746
+    },
+    {
+      "played_at": "2026-10-10T17:31:17.180Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-10-10T19:04:14.136Z",
+      "name": "National Anthem",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:2nvXyajLAAV9Iwy8K9EbUd",
+      "duration_ms": 230533
     }
   ]
 }
