@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-10-09T22:10:11.988Z",
+  "updated_at": "2026-10-10T04:03:50.682Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T19:49:25.928Z",
-      "name": "Carmen",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2wiXEarKt55K8aW8elRqDW",
-      "duration_ms": 248720
-    },
-    {
-      "played_at": "2026-07-23T19:53:51.800Z",
-      "name": "Summertime Sadness",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:2dBwB667LHQkLhdYlwLUZK",
-      "duration_ms": 265427
-    },
-    {
-      "played_at": "2026-07-23T19:57:50.230Z",
-      "name": "This Is What Makes Us Girls",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:6QOU3FhUkPeA2RtaXcvgi7",
-      "duration_ms": 238427
-    },
-    {
-      "played_at": "2026-07-23T20:01:59.595Z",
-      "name": "American",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:0Tem3UhyVIYeKDUcSN0E3j",
-      "duration_ms": 248907
-    },
-    {
-      "played_at": "2026-07-23T20:06:20.377Z",
-      "name": "Cola",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:7lw75abPmYJYU6OOVcERmW",
-      "duration_ms": 260893
-    },
-    {
-      "played_at": "2026-07-23T20:10:13.889Z",
-      "name": "Body Electric",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Paradise",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734123029b8c0648e8f1fad18a",
-      "uri": "spotify:track:60O1EephBu97s1fIbqUpfn",
-      "duration_ms": 233440
-    },
     {
       "played_at": "2026-07-23T20:13:02.733Z",
       "name": "Blue Velvet",
@@ -22165,6 +22099,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
       "uri": "spotify:track:33HRECrmuelZxOpid6XTNX",
       "duration_ms": 230986
+    },
+    {
+      "played_at": "2026-10-09T22:11:20.580Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-10-09T22:15:11.124Z",
+      "name": "Beaches",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
+      "duration_ms": 230053
+    },
+    {
+      "played_at": "2026-10-09T22:20:40.123Z",
+      "name": "Puddles",
+      "artists": [
+        "Not For Radio"
+      ],
+      "album": "Melt",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b031f864e75e48cf3ee1c949",
+      "uri": "spotify:track:0cqrg8N4D0260NkHGUoS0z",
+      "duration_ms": 324864
+    },
+    {
+      "played_at": "2026-10-09T22:26:25.833Z",
+      "name": "Roar Of The Heliac Goat",
+      "artists": [
+        "mercury"
+      ],
+      "album": "Roar Of The Heliac Goat",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dd6c84e411cfc74e6f109642",
+      "uri": "spotify:track:4hjBehyyL8JPQJ0LiYOHnl",
+      "duration_ms": 276213
+    },
+    {
+      "played_at": "2026-10-09T22:30:20.930Z",
+      "name": "Only Gets Better",
+      "artists": [
+        "Strawberry Guy"
+      ],
+      "album": "Only Gets Better",
+      "image": "https://i.scdn.co/image/ab67616d0000b273100ad9f955c923bdc15ea236",
+      "uri": "spotify:track:7ndD9CZzLSAyVWHGH1LytA",
+      "duration_ms": 234582
+    },
+    {
+      "played_at": "2026-10-09T22:34:25.076Z",
+      "name": "let you",
+      "artists": [
+        "Dev Lemons"
+      ],
+      "album": "hunting what we already killed",
+      "image": "https://i.scdn.co/image/ab67616d0000b273641e85f800362068cb31731a",
+      "uri": "spotify:track:42ft9mAcIe4HYTKnNahsY9",
+      "duration_ms": 243648
     }
   ]
 }
