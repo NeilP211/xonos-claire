@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T21:03:58.856Z",
+  "generated_at": "2026-10-11T03:39:37.357Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2619,19 +2619,19 @@
         },
         {
           "rank": 21,
-          "name": "Massive Attack",
-          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
-          "genres": [],
-          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "rank": 22,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
+        },
+        {
+          "rank": 22,
+          "name": "Massive Attack",
+          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
+          "genres": [],
+          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
         },
         {
           "rank": 23,

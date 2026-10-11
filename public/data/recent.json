@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-10T21:03:58.941Z",
+  "updated_at": "2026-10-11T03:39:37.470Z",
   "plays": [
-    {
-      "played_at": "2026-07-23T20:29:53.188Z",
-      "name": "Take Me Home, Country Roads",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Take Me Home, Country Roads",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c6c1ca8d317e97873de0cbeb",
-      "uri": "spotify:track:7qF0FfuzBFwMe1lNHkEDxW",
-      "duration_ms": 166676
-    },
-    {
-      "played_at": "2026-07-23T20:33:41.712Z",
-      "name": "How to disappear",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Norman Fucking Rockwell!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-      "uri": "spotify:track:4qUtC2BwFC154Ha8YQRrkk",
-      "duration_ms": 228071
-    },
-    {
-      "played_at": "2026-07-23T20:37:51.057Z",
-      "name": "Norman fucking Rockwell",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Norman Fucking Rockwell!",
-      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
-      "uri": "spotify:track:3RIgHHpnFKj5Rni1shokDj",
-      "duration_ms": 248934
-    },
-    {
-      "played_at": "2026-07-23T20:45:19.813Z",
-      "name": "Say Yes To Heaven",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Say Yes To Heaven",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae",
-      "uri": "spotify:track:6GGtHZgBycCgGBUhZo81xe",
-      "duration_ms": 209156
-    },
     {
       "played_at": "2026-07-24T00:20:10.315Z",
       "name": "Tulsa Jesus Freak",
@@ -22165,6 +22121,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
       "uri": "spotify:track:2nvXyajLAAV9Iwy8K9EbUd",
       "duration_ms": 230533
+    },
+    {
+      "played_at": "2026-10-11T02:47:35.148Z",
+      "name": "Smells Like Teen Spirit",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Nevermind (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+      "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
+      "duration_ms": 301920
+    },
+    {
+      "played_at": "2026-10-11T02:50:07.528Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
+    },
+    {
+      "played_at": "2026-10-11T02:55:07.865Z",
+      "name": "Be Quiet and Drive (Far Away)",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
+      "duration_ms": 299866
+    },
+    {
+      "played_at": "2026-10-11T02:59:33.038Z",
+      "name": "It's Been Awhile",
+      "artists": [
+        "Staind"
+      ],
+      "album": "Break the Cycle",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
+      "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
+      "duration_ms": 264706
     }
   ]
 }
