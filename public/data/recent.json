@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-10-11T03:39:37.470Z",
+  "updated_at": "2026-10-11T12:00:39.256Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T00:20:10.315Z",
-      "name": "Tulsa Jesus Freak",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Chemtrails Over The Country Club",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d",
-      "uri": "spotify:track:0hyImI8JaWONOrzKH7kJsC",
-      "duration_ms": 215673
-    },
-    {
-      "played_at": "2026-07-24T00:22:08.228Z",
-      "name": "Babydoll",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-      "duration_ms": 97960
-    },
-    {
-      "played_at": "2026-07-24T00:27:07.930Z",
-      "name": "Eyes Without A Face",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "uri": "spotify:track:0pUVeEgZuNyFzIMKp67RbS",
-      "duration_ms": 299240
-    },
-    {
-      "played_at": "2026-07-24T00:31:29.482Z",
-      "name": "The Man Who Sold The World - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-      "duration_ms": 261093
-    },
     {
       "played_at": "2026-07-24T00:36:20.117Z",
       "name": "Apocalypse",
@@ -22165,6 +22121,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738d148a015881b0f52cb9f99b",
       "uri": "spotify:track:25CMmGsl22APKhfuj4Tp7j",
       "duration_ms": 264706
+    },
+    {
+      "played_at": "2026-10-11T06:07:31.590Z",
+      "name": "Creep - 2017 Remaster",
+      "artists": [
+        "Stone Temple Pilots"
+      ],
+      "album": "Core (Super Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8bc0f023ff7a1c6663f28ec",
+      "uri": "spotify:track:6dmueYtoihUhlQZlImBCmm",
+      "duration_ms": 334386
+    },
+    {
+      "played_at": "2026-10-11T07:00:35.679Z",
+      "name": "Creep - 2017 Remaster",
+      "artists": [
+        "Stone Temple Pilots"
+      ],
+      "album": "Core (Super Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8bc0f023ff7a1c6663f28ec",
+      "uri": "spotify:track:6dmueYtoihUhlQZlImBCmm",
+      "duration_ms": 334386
+    },
+    {
+      "played_at": "2026-10-11T07:04:29.350Z",
+      "name": "All Apologies",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
+      "duration_ms": 233173
+    },
+    {
+      "played_at": "2026-10-11T07:08:39.349Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
     }
   ]
 }
