@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-14T23:37:02.627Z",
+  "updated_at": "2026-10-15T02:56:49.060Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T21:57:53.702Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
     {
       "played_at": "2026-07-24T22:02:11.939Z",
       "name": "John Wayne",
@@ -22165,6 +22154,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
       "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
       "duration_ms": 230053
+    },
+    {
+      "played_at": "2026-10-15T01:23:00.002Z",
+      "name": "Ya Soshla S Uma",
+      "artists": [
+        "t.A.T.u."
+      ],
+      "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
+      "uri": "spotify:track:34v2sh3ilJ1Qqn1Ep40cgg",
+      "duration_ms": 214253
     }
   ]
 }
