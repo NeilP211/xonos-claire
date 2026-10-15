@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T13:52:17.495Z",
+  "generated_at": "2026-10-15T18:50:49.910Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -90,6 +90,18 @@
         },
         {
           "rank": 8,
+          "name": "Satellite",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
+          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
+          "duration_ms": 285425
+        },
+        {
+          "rank": 9,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -101,7 +113,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Spark",
           "artists": [
             "beabadoobee"
@@ -113,7 +125,7 @@
           "duration_ms": 167799
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Despite That",
           "artists": [
             "beabadoobee"
@@ -125,7 +137,7 @@
           "duration_ms": 89678
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Radio",
           "artists": [
             "beabadoobee"
@@ -137,7 +149,7 @@
           "duration_ms": 160230
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -149,7 +161,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Powerlines",
           "artists": [
             "beabadoobee",
@@ -160,18 +172,6 @@
           "uri": "spotify:track:7uvsxYvJwAGTdxMNJrgtbQ",
           "url": "https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ",
           "duration_ms": 178391
-        },
-        {
-          "rank": 14,
-          "name": "Satellite",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
-          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
-          "duration_ms": 285425
         },
         {
           "rank": 15,
@@ -614,9 +614,7 @@
           "rank": 1,
           "name": "beabadoobee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
-          "genres": [
-            "bedroom pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         },
@@ -640,10 +638,7 @@
           "rank": 4,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [
-            "grunge",
-            "rock"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -659,10 +654,7 @@
           "rank": 6,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [
-            "grunge",
-            "post-grunge"
-          ],
+          "genres": [],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
@@ -686,9 +678,7 @@
           "rank": 9,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [
-            "dream pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
@@ -704,13 +694,7 @@
           "rank": 11,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [
-            "nu metal",
-            "alternative metal",
-            "rap metal",
-            "rock",
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -734,10 +718,7 @@
           "rank": 14,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
-          "genres": [
-            "shoegaze",
-            "post-grunge"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
@@ -745,9 +726,7 @@
           "rank": 15,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [
-            "dream pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -755,9 +734,7 @@
           "rank": 16,
           "name": "Clairo",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4804c4a44c85afea1a72d1bd",
-          "genres": [
-            "bedroom pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag",
           "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         },
@@ -773,9 +750,7 @@
           "rank": 18,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
-          "genres": [
-            "bedroom pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1AbJ2cmwK400LSvdvBL5Jc",
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
@@ -791,9 +766,7 @@
           "rank": 20,
           "name": "CORTIS",
           "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
-          "genres": [
-            "k-pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:1ebt9HnXdyYA6KgLXr1n4P",
           "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         },
@@ -809,10 +782,7 @@
           "rank": 22,
           "name": "she's green",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
-          "genres": [
-            "shoegaze",
-            "dream pop"
-          ],
+          "genres": [],
           "uri": "spotify:artist:42IX4MHpnREqy3N7HugkLY",
           "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         },
@@ -820,9 +790,7 @@
           "rank": 23,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
-          "genres": [
-            "shoegaze"
-          ],
+          "genres": [],
           "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
@@ -2860,48 +2828,7 @@
     }
   },
   "genres": {
-    "short_term": [
-      {
-        "genre": "shoegaze",
-        "weight": 0.17380025940337224
-      },
-      {
-        "genre": "bedroom pop",
-        "weight": 0.15304798962386512
-      },
-      {
-        "genre": "dream pop",
-        "weight": 0.13878080415045396
-      },
-      {
-        "genre": "grunge",
-        "weight": 0.11932555123216602
-      },
-      {
-        "genre": "rock",
-        "weight": 0.11284046692607004
-      },
-      {
-        "genre": "post-grunge",
-        "weight": 0.10635538261997406
-      },
-      {
-        "genre": "nu metal",
-        "weight": 0.05188067444876784
-      },
-      {
-        "genre": "alternative metal",
-        "weight": 0.05188067444876784
-      },
-      {
-        "genre": "rap metal",
-        "weight": 0.05188067444876784
-      },
-      {
-        "genre": "k-pop",
-        "weight": 0.040207522697795074
-      }
-    ],
+    "short_term": [],
     "medium_term": [],
     "long_term": []
   }
