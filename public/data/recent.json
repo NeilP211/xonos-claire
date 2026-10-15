@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-15T02:56:49.060Z",
+  "updated_at": "2026-10-15T08:00:56.148Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T22:02:11.939Z",
-      "name": "John Wayne",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-      "duration_ms": 258013
-    },
     {
       "played_at": "2026-07-24T22:06:48.777Z",
       "name": "My Iron Lung",
@@ -22165,6 +22154,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
       "uri": "spotify:track:34v2sh3ilJ1Qqn1Ep40cgg",
       "duration_ms": 214253
+    },
+    {
+      "played_at": "2026-10-15T07:14:41.061Z",
+      "name": "i think about you all the time",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:0M5NH22uVXHSXjSi5SXTXM",
+      "duration_ms": 248957
     }
   ]
 }
