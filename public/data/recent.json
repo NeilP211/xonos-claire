@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-16T18:35:04.185Z",
+  "updated_at": "2026-10-16T23:13:20.476Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T22:30:01.857Z",
-      "name": "Just",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "The Bends",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
-      "duration_ms": 234800
-    },
-    {
-      "played_at": "2026-07-24T22:38:15.449Z",
-      "name": "Petals",
-      "artists": [
-        "Hole"
-      ],
-      "album": "Celebrity Skin",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671",
-      "uri": "spotify:track:4VedfquAzkjR15ntcWmNfL",
-      "duration_ms": 329240
-    },
-    {
-      "played_at": "2026-07-24T22:42:17.444Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-24T23:13:36.771Z",
-      "name": "All I Wanted",
-      "artists": [
-        "Paramore"
-      ],
-      "album": "Brand New Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
-      "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
-      "duration_ms": 225786
-    },
-    {
-      "played_at": "2026-07-24T23:43:36.905Z",
-      "name": "Semi-Charmed Life",
-      "artists": [
-        "Third Eye Blind"
-      ],
-      "album": "Third Eye Blind",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c12ef918102b8d303dc9e9b",
-      "uri": "spotify:track:42et6fnHCw1HIPSrdPprMl",
-      "duration_ms": 268360
-    },
     {
       "played_at": "2026-07-24T23:46:34.271Z",
       "name": "American Idiot",
@@ -22164,6 +22109,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
       "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
       "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-10-16T21:45:54.689Z",
+      "name": "Lover, You Should've Come Over",
+      "artists": [
+        "Jeff Buckley"
+      ],
+      "album": "Grace",
+      "image": "https://i.scdn.co/image/ab67616d0000b273afc2d1d2c8703a10aeded0af",
+      "uri": "spotify:track:6Jv7kjGkhY2fT4yuBF3aTz",
+      "duration_ms": 404213
+    },
+    {
+      "played_at": "2026-10-16T21:51:23.929Z",
+      "name": "Stargazing",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "Chip Chrome & The Mono-Tones (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27336a7b44e8382e6165c235dac",
+      "uri": "spotify:track:0VF7YLIxSQKyNiFL3X6MmN",
+      "duration_ms": 217026
+    },
+    {
+      "played_at": "2026-10-16T21:57:59.908Z",
+      "name": "No Pole",
+      "artists": [
+        "Don Toliver"
+      ],
+      "album": "Love Sick (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+      "uri": "spotify:track:0eaVIYo2zeOaGJeqZ5TwYz",
+      "duration_ms": 187613
+    },
+    {
+      "played_at": "2026-10-16T22:02:17.999Z",
+      "name": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "hate that i made you love me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b622d42c30697e1e1414343c",
+      "uri": "spotify:track:20jbSiX29FDX4oQxBXyUEi",
+      "duration_ms": 197949
+    },
+    {
+      "played_at": "2026-10-16T22:04:49.985Z",
+      "name": "Earrings",
+      "artists": [
+        "Malcolm Todd"
+      ],
+      "album": "Sweet Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
+      "uri": "spotify:track:0eAuGrXyGFYwur9ARUe7LJ",
+      "duration_ms": 151500
     }
   ]
 }

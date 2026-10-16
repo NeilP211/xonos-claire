@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:35:03.900Z",
+  "generated_at": "2026-10-16T23:13:20.285Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -65,6 +65,30 @@
         },
         {
           "rank": 6,
+          "name": "Sun Has Set",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
+          "duration_ms": 141804
+        },
+        {
+          "rank": 7,
+          "name": "Satellite",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
+          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
+          "duration_ms": 285425
+        },
+        {
+          "rank": 8,
           "name": "Let The Light In (feat. Father John Misty)",
           "artists": [
             "Lana Del Rey",
@@ -77,79 +101,7 @@
           "duration_ms": 278126
         },
         {
-          "rank": 7,
-          "name": "Sun Has Set",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
-          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
-          "duration_ms": 141804
-        },
-        {
-          "rank": 8,
-          "name": "Satellite",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
-          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
-          "duration_ms": 285425
-        },
-        {
           "rank": 9,
-          "name": "In Motion",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:0N6xvbX8lsB8u9Q9B6rJgt",
-          "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt",
-          "duration_ms": 187992
-        },
-        {
-          "rank": 10,
-          "name": "Spark",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
-          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
-          "duration_ms": 167799
-        },
-        {
-          "rank": 11,
-          "name": "Despite That",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
-          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
-          "duration_ms": 89678
-        },
-        {
-          "rank": 12,
-          "name": "Radio",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
-          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
-          "duration_ms": 160230
-        },
-        {
-          "rank": 13,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -161,7 +113,79 @@
           "duration_ms": 213920
         },
         {
+          "rank": 10,
+          "name": "Brooklyn Baby",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
+          "duration_ms": 351640
+        },
+        {
+          "rank": 11,
+          "name": "In Motion",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:0N6xvbX8lsB8u9Q9B6rJgt",
+          "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt",
+          "duration_ms": 187992
+        },
+        {
+          "rank": 12,
+          "name": "Spark",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
+          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
+          "duration_ms": 167799
+        },
+        {
+          "rank": 13,
+          "name": "Despite That",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
+          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
+          "duration_ms": 89678
+        },
+        {
           "rank": 14,
+          "name": "Body Dysmorphia",
+          "artists": [
+            "Eyedress"
+          ],
+          "album": "Mulholland Drive",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
+          "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
+          "url": "https://open.spotify.com/track/4VZIqvbRWlxhHtSD30wSZL",
+          "duration_ms": 125085
+        },
+        {
+          "rank": 15,
+          "name": "Radio",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
+          "duration_ms": 160230
+        },
+        {
+          "rank": 16,
           "name": "Powerlines",
           "artists": [
             "beabadoobee",
@@ -174,43 +198,7 @@
           "duration_ms": 178391
         },
         {
-          "rank": 15,
-          "name": "Brooklyn Baby",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-          "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-          "duration_ms": 351640
-        },
-        {
-          "rank": 16,
-          "name": "Body Dysmorphia",
-          "artists": [
-            "Eyedress"
-          ],
-          "album": "Mulholland Drive",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
-          "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
-          "url": "https://open.spotify.com/track/4VZIqvbRWlxhHtSD30wSZL",
-          "duration_ms": 125085
-        },
-        {
           "rank": 17,
-          "name": "It's Alright",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
-          "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN",
-          "duration_ms": 171308
-        },
-        {
-          "rank": 18,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -222,7 +210,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -235,7 +223,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -247,7 +235,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -259,20 +247,19 @@
           "duration_ms": 264773
         },
         {
-          "rank": 22,
-          "name": "Nothing To Prove",
+          "rank": 21,
+          "name": "It's Alright",
           "artists": [
-            "beabadoobee",
-            "Hayley Williams"
+            "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
-          "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK",
-          "duration_ms": 144316
+          "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
+          "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN",
+          "duration_ms": 171308
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -284,7 +271,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Возвращайся",
           "artists": [
             "angel vox"
@@ -296,7 +283,7 @@
           "duration_ms": 226909
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -308,7 +295,7 @@
           "duration_ms": 174023
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Help I'm Alive",
           "artists": [
             "Metric"
@@ -320,7 +307,7 @@
           "duration_ms": 286013
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Smells Like Teen Spirit - Remastered",
           "artists": [
             "Nirvana"
@@ -332,7 +319,7 @@
           "duration_ms": 300893
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "Fine",
           "artists": [
             "Lemon Demon"
@@ -344,7 +331,7 @@
           "duration_ms": 279939
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -354,6 +341,19 @@
           "uri": "spotify:track:1Yfgbr2kZrb3u0NP8ioyuk",
           "url": "https://open.spotify.com/track/1Yfgbr2kZrb3u0NP8ioyuk",
           "duration_ms": 248907
+        },
+        {
+          "rank": 29,
+          "name": "Nothing To Prove",
+          "artists": [
+            "beabadoobee",
+            "Hayley Williams"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
+          "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK",
+          "duration_ms": 144316
         },
         {
           "rank": 30,
