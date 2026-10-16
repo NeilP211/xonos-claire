@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-15T23:31:03.883Z",
+  "updated_at": "2026-10-16T02:54:15.809Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T22:26:06.631Z",
-      "name": "Heavenly",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
-      "duration_ms": 286773
-    },
     {
       "played_at": "2026-07-24T22:30:01.857Z",
       "name": "Just",
@@ -22164,6 +22153,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
       "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
       "duration_ms": 178281
+    },
+    {
+      "played_at": "2026-10-15T23:29:35.183Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+      "duration_ms": 168733
     }
   ]
 }

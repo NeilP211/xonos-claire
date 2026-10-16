@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T23:31:03.808Z",
+  "generated_at": "2026-10-16T02:54:15.715Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1098,6 +1098,18 @@
         },
         {
           "rank": 25,
+          "name": "Switchblade",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
+          "duration_ms": 181926
+        },
+        {
+          "rank": 26,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -1109,7 +1121,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -1121,7 +1133,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -1133,7 +1145,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "No Hands (feat. Roscoe Dash & Wale)",
           "artists": [
             "Waka Flocka Flame",
@@ -1147,7 +1159,7 @@
           "duration_ms": 263773
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Crimewave",
           "artists": [
             "Crystal Castles"
@@ -1157,18 +1169,6 @@
           "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
           "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
           "duration_ms": 258453
-        },
-        {
-          "rank": 30,
-          "name": "Switchblade",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
-          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
-          "duration_ms": 181926
         },
         {
           "rank": 31,
@@ -1376,6 +1376,18 @@
         },
         {
           "rank": 48,
+          "name": "Sun Has Set",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
+          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
+          "duration_ms": 141804
+        },
+        {
+          "rank": 49,
           "name": "Rape Me",
           "artists": [
             "Nirvana"
@@ -1387,7 +1399,7 @@
           "duration_ms": 170000
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Dark Red",
           "artists": [
             "Steve Lacy"
@@ -1397,18 +1409,6 @@
           "uri": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
           "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
           "duration_ms": 173104
-        },
-        {
-          "rank": 50,
-          "name": "Zombie - 2025 Remastered",
-          "artists": [
-            "The Cranberries"
-          ],
-          "album": "No Need To Argue (2025 Remastered)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27320a28883cdd0fc7d5f85a9a9",
-          "uri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
-          "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-          "duration_ms": 305626
         }
       ],
       "artists": [
