@@ -1,73 +1,6 @@
 {
-  "updated_at": "2026-10-16T23:13:20.476Z",
+  "updated_at": "2026-10-17T02:45:33.434Z",
   "plays": [
-    {
-      "played_at": "2026-07-24T23:46:34.271Z",
-      "name": "American Idiot",
-      "artists": [
-        "Green Day"
-      ],
-      "album": "American Idiot",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b",
-      "uri": "spotify:track:6nTiIhLmQ3FWhvrGafw2zj",
-      "duration_ms": 176346
-    },
-    {
-      "played_at": "2026-07-24T23:50:26.890Z",
-      "name": "Seven Nation Army",
-      "artists": [
-        "The White Stripes"
-      ],
-      "album": "Elephant",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737028981d09d2e5833c9c78ad",
-      "uri": "spotify:track:3dPQuX8Gs42Y7b454ybpMR",
-      "duration_ms": 232106
-    },
-    {
-      "played_at": "2026-07-24T23:52:56.844Z",
-      "name": "Call me Cruella",
-      "artists": [
-        "Florence + The Machine"
-      ],
-      "album": "Cruella (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b71fd49eb20d0275387779f",
-      "uri": "spotify:track:7lGfhlbpUkI1DOE51Vb2Mt",
-      "duration_ms": 127413
-    },
-    {
-      "played_at": "2026-07-25T02:05:04.943Z",
-      "name": "She Will Destroy You",
-      "artists": [
-        "Cocteau Twins",
-        "Harold Budd"
-      ],
-      "album": "The Moon and the Melodies",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732bace4cf1388fa974fcdc14c",
-      "uri": "spotify:track:2cWc4NJ2WYAZllS4VWFcHs",
-      "duration_ms": 257866
-    },
-    {
-      "played_at": "2026-07-25T15:28:49.832Z",
-      "name": "Zombie - Live At The Astoria, London, 1994",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Zombie (Live At The Astoria, London, 1994)",
-      "image": "https://i.scdn.co/image/ab6742d3000053b766dcc484a085a0764459ca42",
-      "uri": "spotify:track:0XrPXpv0noue1T08cfcqv6",
-      "duration_ms": 318370
-    },
-    {
-      "played_at": "2026-07-25T15:29:02.553Z",
-      "name": "I Wanna Be Your Dog",
-      "artists": [
-        "John McCrea"
-      ],
-      "album": "Cruella (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b71fd49eb20d0275387779f",
-      "uri": "spotify:track:2SE9ICRvVuTkb3flvGQtqe",
-      "duration_ms": 235706
-    },
     {
       "played_at": "2026-07-25T15:31:38.172Z",
       "name": "Velvet Ring",
@@ -22164,6 +22097,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
       "uri": "spotify:track:0eAuGrXyGFYwur9ARUe7LJ",
       "duration_ms": 151500
+    },
+    {
+      "played_at": "2026-10-17T02:23:41.844Z",
+      "name": "EVIL J0RDAN",
+      "artists": [
+        "Playboi Carti"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:6iycYUk3oB0NPMdaDUrN1w",
+      "duration_ms": 183928
+    },
+    {
+      "played_at": "2026-10-17T02:26:15.304Z",
+      "name": "GIRLS",
+      "artists": [
+        "The Kid LAROI"
+      ],
+      "album": "GIRLS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8af7237bb25ad59488944c1",
+      "uri": "spotify:track:7z3PblAN3dH1JMewiRydkZ",
+      "duration_ms": 152979
+    },
+    {
+      "played_at": "2026-10-17T02:29:27.861Z",
+      "name": "Fever",
+      "artists": [
+        "Buckshot",
+        "fakemink"
+      ],
+      "album": "Fever",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732d38f415aab015135c802947",
+      "uri": "spotify:track:09xhawlPUifhftf8zuie7w",
+      "duration_ms": 144521
+    },
+    {
+      "played_at": "2026-10-17T02:31:36.992Z",
+      "name": "Sayso",
+      "artists": [
+        "Che"
+      ],
+      "album": "Crueger",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a7283f4f91404cac058b98b9",
+      "uri": "spotify:track:3nYt3CBPjYTC7Zgn57i8G3",
+      "duration_ms": 128641
+    },
+    {
+      "played_at": "2026-10-17T02:33:48.166Z",
+      "name": "munni & drugs",
+      "artists": [
+        "bleood"
+      ],
+      "album": "how bleood stole Xmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db09dce84a2aec6ab295cd97",
+      "uri": "spotify:track:2etzOehzQTsA75wwQ79AYD",
+      "duration_ms": 130677
+    },
+    {
+      "played_at": "2026-10-17T02:36:04.176Z",
+      "name": "Yung Nigga Shit",
+      "artists": [
+        "2wo2imes",
+        "Glokk40Spaz"
+      ],
+      "album": "2wo Glokks",
+      "image": "https://i.scdn.co/image/ab67616d0000b273286e90b01152f1a04d596318",
+      "uri": "spotify:track:1UsARqNRpvwChZb4ZOrF35",
+      "duration_ms": 135510
     }
   ]
 }
