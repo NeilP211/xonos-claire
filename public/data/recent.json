@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-18T20:00:03.798Z",
+  "updated_at": "2026-10-18T22:42:51.776Z",
   "plays": [
-    {
-      "played_at": "2026-07-25T15:39:56.020Z",
-      "name": "I Know You",
-      "artists": [
-        "Faye Webster"
-      ],
-      "album": "Faye Webster",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fc37e2e19b33d5705c251644",
-      "uri": "spotify:track:71BWZa1liIRyUiuJ3MB66o",
-      "duration_ms": 251666
-    },
     {
       "played_at": "2026-07-25T15:42:37.881Z",
       "name": "i was all over her",
@@ -22165,6 +22154,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273b176fc721e1faba78b1ef35b",
       "uri": "spotify:track:02HyFYmpzt02VJ8k0CqxKj",
       "duration_ms": 184927
+    },
+    {
+      "played_at": "2026-10-18T21:01:13.172Z",
+      "name": "Towns",
+      "artists": [
+        "Sandbox Interactive",
+        "Jonne Valtonen"
+      ],
+      "album": "Albion Online (Original Game Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+      "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
+      "duration_ms": 174547
     }
   ]
 }
