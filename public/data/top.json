@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:42:51.539Z",
+  "generated_at": "2026-10-19T11:57:14.193Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -223,6 +223,18 @@
         },
         {
           "rank": 19,
+          "name": "Ya Soshla S Uma",
+          "artists": [
+            "t.A.T.u."
+          ],
+          "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
+          "uri": "spotify:track:34v2sh3ilJ1Qqn1Ep40cgg",
+          "url": "https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg",
+          "duration_ms": 214253
+        },
+        {
+          "rank": 20,
           "name": "Radio",
           "artists": [
             "beabadoobee"
@@ -234,7 +246,7 @@
           "duration_ms": 160230
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Powerlines",
           "artists": [
             "beabadoobee",
@@ -247,7 +259,7 @@
           "duration_ms": 178391
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -259,7 +271,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Возвращайся",
           "artists": [
             "angel vox"
@@ -271,7 +283,7 @@
           "duration_ms": 226909
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "It Fit When I Was a Kid - Slowed",
           "artists": [
             "void angel"
@@ -283,7 +295,19 @@
           "duration_ms": 174023
         },
         {
-          "rank": 24,
+          "rank": 25,
+          "name": "Abbi",
+          "artists": [
+            "Vincemp3"
+          ],
+          "album": "Abbi",
+          "image": "https://i.scdn.co/image/ab67616d0000b27308bd664a1d2f1433876f5d68",
+          "uri": "spotify:track:7iIQkOIwWJoZeTMJgBwuq8",
+          "url": "https://open.spotify.com/track/7iIQkOIwWJoZeTMJgBwuq8",
+          "duration_ms": 160867
+        },
+        {
+          "rank": 26,
           "name": "Help I'm Alive",
           "artists": [
             "Metric"
@@ -295,7 +319,7 @@
           "duration_ms": 286013
         },
         {
-          "rank": 25,
+          "rank": 27,
           "name": "Smells Like Teen Spirit - Remastered",
           "artists": [
             "Nirvana"
@@ -307,7 +331,7 @@
           "duration_ms": 300893
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Fine",
           "artists": [
             "Lemon Demon"
@@ -319,7 +343,7 @@
           "duration_ms": 279939
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -331,7 +355,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Forsythia",
           "artists": [
             "Veruca Salt"
@@ -343,7 +367,7 @@
           "duration_ms": 284866
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Missing Posters",
           "artists": [
             "VIOLENT VIRA"
@@ -355,7 +379,7 @@
           "duration_ms": 172970
         },
         {
-          "rank": 30,
+          "rank": 32,
           "name": "It's Alright",
           "artists": [
             "beabadoobee"
@@ -367,7 +391,7 @@
           "duration_ms": 171308
         },
         {
-          "rank": 31,
+          "rank": 33,
           "name": "Home Alone",
           "artists": [
             "Glokk40Spaz"
@@ -379,7 +403,19 @@
           "duration_ms": 183954
         },
         {
-          "rank": 32,
+          "rank": 34,
+          "name": "Dance For Me Wallis",
+          "artists": [
+            "Abel Korzeniowski"
+          ],
+          "album": "W.E. - Music From The Motion Picture",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b96aa371fa634f635ab2a2d4",
+          "uri": "spotify:track:1vWtTis3VRkkUp8qST4jY5",
+          "url": "https://open.spotify.com/track/1vWtTis3VRkkUp8qST4jY5",
+          "duration_ms": 188346
+        },
+        {
+          "rank": 35,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -391,7 +427,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 33,
+          "rank": 36,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -403,7 +439,7 @@
           "duration_ms": 230053
         },
         {
-          "rank": 34,
+          "rank": 37,
           "name": "Creep",
           "artists": [
             "Stone Temple Pilots"
@@ -415,7 +451,7 @@
           "duration_ms": 333346
         },
         {
-          "rank": 35,
+          "rank": 38,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -427,7 +463,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 36,
+          "rank": 39,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -439,7 +475,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 37,
+          "rank": 40,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -451,7 +487,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 38,
+          "rank": 41,
           "name": "Darla",
           "artists": [
             "Vundabar"
@@ -463,7 +499,19 @@
           "duration_ms": 231026
         },
         {
-          "rank": 39,
+          "rank": 42,
+          "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
+          "artists": [
+            "Craig Armstrong"
+          ],
+          "album": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1f9f26b46c05fa55eab5d0a",
+          "uri": "spotify:track:0x1rnXl24iJl8xZFMkoyNv",
+          "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv",
+          "duration_ms": 279546
+        },
+        {
+          "rank": 43,
           "name": "Burn The Bones",
           "artists": [
             "Kodain"
@@ -475,7 +523,7 @@
           "duration_ms": 174456
         },
         {
-          "rank": 40,
+          "rank": 44,
           "name": "The Man Who Sold The World - Live",
           "artists": [
             "Nirvana"
@@ -487,7 +535,7 @@
           "duration_ms": 261093
         },
         {
-          "rank": 41,
+          "rank": 45,
           "name": "This Is What Makes Us Girls",
           "artists": [
             "Lana Del Rey"
@@ -499,7 +547,7 @@
           "duration_ms": 240293
         },
         {
-          "rank": 42,
+          "rank": 46,
           "name": "how u seen me??",
           "artists": [
             "ksuuvi"
@@ -511,7 +559,7 @@
           "duration_ms": 168228
         },
         {
-          "rank": 43,
+          "rank": 47,
           "name": "vampire",
           "artists": [
             "Olivia Rodrigo"
@@ -523,7 +571,7 @@
           "duration_ms": 219724
         },
         {
-          "rank": 44,
+          "rank": 48,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -536,7 +584,19 @@
           "duration_ms": 144316
         },
         {
-          "rank": 45,
+          "rank": 49,
+          "name": "Dawn of Faith",
+          "artists": [
+            "Eternal Eclipse"
+          ],
+          "album": "Forgotten Odes",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c2bd7abf07b25df4dae63d5d",
+          "uri": "spotify:track:2N8pjeNjFT8Fw58e5z2LDf",
+          "url": "https://open.spotify.com/track/2N8pjeNjFT8Fw58e5z2LDf",
+          "duration_ms": 193239
+        },
+        {
+          "rank": 50,
           "name": "Jealousy",
           "artists": [
             "Lllyric?"
@@ -546,67 +606,6 @@
           "uri": "spotify:track:2NSsYoMGBt491hItrlkNDZ",
           "url": "https://open.spotify.com/track/2NSsYoMGBt491hItrlkNDZ",
           "duration_ms": 157849
-        },
-        {
-          "rank": 46,
-          "name": "Young And Beautiful",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Young And Beautiful",
-          "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-          "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-          "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
-          "duration_ms": 236053
-        },
-        {
-          "rank": 47,
-          "name": "Ya Soshla S Uma",
-          "artists": [
-            "t.A.T.u."
-          ],
-          "album": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2",
-          "uri": "spotify:track:34v2sh3ilJ1Qqn1Ep40cgg",
-          "url": "https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg",
-          "duration_ms": 214253
-        },
-        {
-          "rank": 48,
-          "name": "Blue Hair",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "Death of a Party Girl",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-          "uri": "spotify:track:39sDitIeCMrVX2QyXHY46t",
-          "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t",
-          "duration_ms": 217000
-        },
-        {
-          "rank": 49,
-          "name": "maybe i'd be better off alone",
-          "artists": [
-            "gothcandy"
-          ],
-          "album": "maybe i'd be better off alone",
-          "image": "https://i.scdn.co/image/ab67616d0000b2735633f554b94da6dc4150411e",
-          "uri": "spotify:track:3ZRd4YfV0ZGji3lMPi484K",
-          "url": "https://open.spotify.com/track/3ZRd4YfV0ZGji3lMPi484K",
-          "duration_ms": 141696
-        },
-        {
-          "rank": 50,
-          "name": "Something About You",
-          "artists": [
-            "Eyedress",
-            "Dent May"
-          ],
-          "album": "Mulholland Drive",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
-          "uri": "spotify:track:3oNQ6NkihVzQkV5qhk2Pbe",
-          "url": "https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe",
-          "duration_ms": 153312
         }
       ],
       "artists": [
@@ -772,6 +771,22 @@
         },
         {
           "rank": 21,
+          "name": "t.A.T.u.",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
+          "genres": [],
+          "uri": "spotify:artist:2Q3eZMfDQgT8MhPowKFXYO",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        },
+        {
+          "rank": 22,
+          "name": "Max Richter",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb4abcdadf341d4234eb0ef88c",
+          "genres": [],
+          "uri": "spotify:artist:2VZNmg4vCnew4Pavo8zDdW",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "rank": 23,
           "name": "Eyedress",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
           "genres": [],
@@ -779,7 +794,7 @@
           "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         },
         {
-          "rank": 22,
+          "rank": 24,
           "name": "she's green",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3ed3e6c0f44ce4f969224fd0",
           "genres": [],
@@ -787,7 +802,7 @@
           "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
         },
         {
-          "rank": 23,
+          "rank": 25,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5eb714fa6e5682f730d0c82609c",
           "genres": [],
@@ -795,7 +810,7 @@
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Porch Light",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a8f0f5f7bd574f4dc1f60c5",
           "genres": [],
@@ -1694,6 +1709,14 @@
         },
         {
           "rank": 36,
+          "name": "t.A.T.u.",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
+          "genres": [],
+          "uri": "spotify:artist:2Q3eZMfDQgT8MhPowKFXYO",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        },
+        {
+          "rank": 37,
           "name": "Steve Lacy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
           "genres": [],
@@ -1701,7 +1724,7 @@
           "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -1709,20 +1732,12 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "Kendrick Lamar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
           "genres": [],
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "rank": 39,
-          "name": "t.A.T.u.",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebc8bb15d091287d6ce663d430",
-          "genres": [],
-          "uri": "spotify:artist:2Q3eZMfDQgT8MhPowKFXYO",
-          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
         },
         {
           "rank": 40,
