@@ -1,195 +1,6 @@
 {
-  "updated_at": "2026-10-19T18:25:56.876Z",
+  "updated_at": "2026-10-20T00:04:37.077Z",
   "plays": [
-    {
-      "played_at": "2026-07-25T16:32:44.755Z",
-      "name": "Blue Light",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:3BdHMOIA9B0bN53jbE5nWe",
-      "duration_ms": 310733
-    },
-    {
-      "played_at": "2026-07-25T16:36:33.983Z",
-      "name": "All I Need",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "In Rainbows",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
-      "uri": "spotify:track:5Qv2Nby1xTr9pQyjkrc94J",
-      "duration_ms": 228746
-    },
-    {
-      "played_at": "2026-07-25T16:39:35.588Z",
-      "name": "Symphonia IX",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "Wild Heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e341c520c154f89b77bd2aaf",
-      "uri": "spotify:track:1rluwEqsWp5tz0lgyOT9rE",
-      "duration_ms": 181166
-    },
-    {
-      "played_at": "2026-07-25T16:44:14.221Z",
-      "name": "Let The Light In (feat. Father John Misty)",
-      "artists": [
-        "Lana Del Rey",
-        "Father John Misty"
-      ],
-      "album": "Did you know that there's a tunnel under Ocean Blvd",
-      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
-      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
-      "duration_ms": 278126
-    },
-    {
-      "played_at": "2026-07-25T16:46:50.170Z",
-      "name": "Better in the Dark",
-      "artists": [
-        "Jordana",
-        "TV Girl"
-      ],
-      "album": "Summer's Over",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
-      "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
-      "duration_ms": 155500
-    },
-    {
-      "played_at": "2026-07-25T16:50:37.626Z",
-      "name": "Loving Machine",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:7JEzAlwHhCD2M1cYE6BeqJ",
-      "duration_ms": 227000
-    },
-    {
-      "played_at": "2026-07-25T16:57:01.602Z",
-      "name": "The Other Woman",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:1KuVEZR4xuQVNr1KkanAV4",
-      "duration_ms": 181960
-    },
-    {
-      "played_at": "2026-07-25T17:01:33.533Z",
-      "name": "Old Money",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:6IfPyMb0Sxptpx6jBUATOS",
-      "duration_ms": 271480
-    },
-    {
-      "played_at": "2026-07-25T17:04:41.119Z",
-      "name": "Picture You",
-      "artists": [
-        "Chappell Roan"
-      ],
-      "album": "The Rise and Fall of a Midwest Princess",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a21d22ecf823e1c90aa22d1f",
-      "uri": "spotify:track:2Pspo5BWPcTnMHMstLFRHV",
-      "duration_ms": 187130
-    },
-    {
-      "played_at": "2026-07-25T17:14:56.980Z",
-      "name": "Breed",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:5mJGLBNJM0GULqAoL5mb9C",
-      "duration_ms": 184040
-    },
-    {
-      "played_at": "2026-07-25T17:17:31.147Z",
-      "name": "Territorial Pissings",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2jmVGWe4MYY1zAAzpFHHcC",
-      "duration_ms": 142946
-    },
-    {
-      "played_at": "2026-07-25T17:21:13.766Z",
-      "name": "I Hate Myself And Want To Die - 2013 Mix",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-      "uri": "spotify:track:1kwsUMjFuePZBNB56gQYoA",
-      "duration_ms": 179680
-    },
-    {
-      "played_at": "2026-07-25T19:49:02.372Z",
-      "name": "Tourette's",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273aca059cebc1841277db22d1c",
-      "uri": "spotify:track:6REVvevOeVVq3vou7xAsJu",
-      "duration_ms": 95386
-    },
-    {
-      "played_at": "2026-07-26T00:17:53.484Z",
-      "name": "Born To Die",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
-      "duration_ms": 285400
-    },
-    {
-      "played_at": "2026-07-26T00:26:43.054Z",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799
-    },
-    {
-      "played_at": "2026-07-26T04:03:38.848Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-07-26T04:06:26.874Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
     {
       "played_at": "2026-07-26T04:11:32.610Z",
       "name": "vampire",
@@ -22171,6 +21982,194 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273caa29ac6dc15a5d94bf0df11",
       "uri": "spotify:track:5k1k233ab4KvgsjCjLhu5O",
       "duration_ms": 276000
+    },
+    {
+      "played_at": "2026-10-19T19:13:54.552Z",
+      "name": "Rain, in Your Black Eyes",
+      "artists": [
+        "Ezio Bosso"
+      ],
+      "album": "And the Things that Remain",
+      "image": "https://i.scdn.co/image/ab67616d0000b273665ca59546dc652b010c5319",
+      "uri": "spotify:track:5Xf8gE5CdRnWfkFpm5RUgR",
+      "duration_ms": 664560
+    },
+    {
+      "played_at": "2026-10-19T19:15:50.655Z",
+      "name": "Dismantle",
+      "artists": [
+        "Peter Sandberg"
+      ],
+      "album": "Dismantle",
+      "image": "https://i.scdn.co/image/ab67616d0000b27306791a277cdc08e11f91a2ce",
+      "uri": "spotify:track:7gbSDq9luQx6yVl7HyJGIW",
+      "duration_ms": 115578
+    },
+    {
+      "played_at": "2026-10-19T19:19:25.321Z",
+      "name": "Evgeni's Waltz",
+      "artists": [
+        "Abel Korzeniowski"
+      ],
+      "album": "W.E. - Music From The Motion Picture",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b96aa371fa634f635ab2a2d4",
+      "uri": "spotify:track:1CaHy70AociiyDplTOEfaO",
+      "duration_ms": 214146
+    },
+    {
+      "played_at": "2026-10-19T19:22:18.288Z",
+      "name": "A Model of the Universe",
+      "artists": [
+        "Jóhann Jóhannsson"
+      ],
+      "album": "The Theory of Everything (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27335f29c49f7e47f24df12eeb9",
+      "uri": "spotify:track:5ay0cvjtVAbMLOe8gTadFh",
+      "duration_ms": 172444
+    },
+    {
+      "played_at": "2026-10-19T19:24:53.299Z",
+      "name": "Idea 1",
+      "artists": [
+        "Gibran Alcocer"
+      ],
+      "album": "Idea 1",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f55e4844869257e24d9eb2f0",
+      "uri": "spotify:track:3kJACFlgn1rg0I0l4XmzLI",
+      "duration_ms": 154500
+    },
+    {
+      "played_at": "2026-10-19T19:29:52.140Z",
+      "name": "Starry Night",
+      "artists": [
+        "Jordan Critz"
+      ],
+      "album": "Novella",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5a82bd50e56c980bb8ace4d",
+      "uri": "spotify:track:2CHU4jx0WDXqgid08iZOB6",
+      "duration_ms": 298320
+    },
+    {
+      "played_at": "2026-10-19T19:31:29.282Z",
+      "name": "Ode to Vivian - Rework",
+      "artists": [
+        "Patrick Watson"
+      ],
+      "album": "Ode to Vivian (Rework)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739193f0bfb5e9d140bbe14c60",
+      "uri": "spotify:track:6EnRGxqDEEZEL8zwLDzFcW",
+      "duration_ms": 96624
+    },
+    {
+      "played_at": "2026-10-19T19:34:34.798Z",
+      "name": "It's Foggy Today",
+      "artists": [
+        "Evgeny Grinko"
+      ],
+      "album": "Orange Marmalade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f21ea58ec8a0bec7cb792ede",
+      "uri": "spotify:track:4Uo0rrBWtQx7brH49gBui7",
+      "duration_ms": 185000
+    },
+    {
+      "played_at": "2026-10-19T19:37:59.202Z",
+      "name": "I Wanted to Leave",
+      "artists": [
+        "SYML"
+      ],
+      "album": "I Wanted to Leave",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcf0c16b6f6ef829249c9aa9",
+      "uri": "spotify:track:61iGwqhbDwkXanVo5LwJyF",
+      "duration_ms": 203911
+    },
+    {
+      "played_at": "2026-10-19T19:41:18.373Z",
+      "name": "Wind Song",
+      "artists": [
+        "Ludovico Einaudi"
+      ],
+      "album": "Underwater",
+      "image": "https://i.scdn.co/image/ab67616d0000b273408d7d006c76db07d50a7459",
+      "uri": "spotify:track:48i1p3R9l9f7zjcHPJysZZ",
+      "duration_ms": 198649
+    },
+    {
+      "played_at": "2026-10-19T19:44:51.308Z",
+      "name": "Van Gogh",
+      "artists": [
+        "Virginio Aiello",
+        "Vesislava"
+      ],
+      "album": "Works for Piano & Cello",
+      "image": "https://i.scdn.co/image/ab67616d0000b273507a29df01cb317d75531af7",
+      "uri": "spotify:track:3eTF3Olg2mB0Tqn08x9GdC",
+      "duration_ms": 212415
+    },
+    {
+      "played_at": "2026-10-19T19:48:04.418Z",
+      "name": "Solas",
+      "artists": [
+        "Jamie Duffy"
+      ],
+      "album": "Jamie Duffy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273104f5846b7d971601bd8df8e",
+      "uri": "spotify:track:2d3nhobsfg3DrP2TiOgzHK",
+      "duration_ms": 192593
+    },
+    {
+      "played_at": "2026-10-19T19:50:43.359Z",
+      "name": "Vers L'avant",
+      "artists": [
+        "J.T. Peterson"
+      ],
+      "album": "Petrichor",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa4fde0b47b6161bdbc859bd",
+      "uri": "spotify:track:2alNqiSpR64SmISPzP8oh1",
+      "duration_ms": 158406
+    },
+    {
+      "played_at": "2026-10-19T19:54:29.746Z",
+      "name": "The Gift",
+      "artists": [
+        "Joep Beving"
+      ],
+      "album": "Prehension",
+      "image": "https://i.scdn.co/image/ab67616d0000b27386bd5454129594692714f74c",
+      "uri": "spotify:track:0PCduL4v5QEEKqeRUv7TEC",
+      "duration_ms": 225866
+    },
+    {
+      "played_at": "2026-10-19T19:57:25.977Z",
+      "name": "Wayward Sisters",
+      "artists": [
+        "Abel Korzeniowski"
+      ],
+      "album": "Nocturnal Animals (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c2decdb0e3ad934ad512abdd",
+      "uri": "spotify:track:0d0oCKpagxERDFdn0jxrcj",
+      "duration_ms": 175706
+    },
+    {
+      "played_at": "2026-10-19T20:04:41.718Z",
+      "name": "Nocturne in Paris",
+      "artists": [
+        "Tony Anderson"
+      ],
+      "album": "Chasm",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef13b84f5ba2689f86b8877e",
+      "uri": "spotify:track:5Cc2v7fm2cCm5ux4fgCQpM",
+      "duration_ms": 435124
+    },
+    {
+      "played_at": "2026-10-19T20:08:32.243Z",
+      "name": "Imbre",
+      "artists": [
+        "Jordan Critz"
+      ],
+      "album": "Novella",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b5a82bd50e56c980bb8ace4d",
+      "uri": "spotify:track:7Hg78pZZGdlI41pst7Fu8g",
+      "duration_ms": 230000
     }
   ]
 }
