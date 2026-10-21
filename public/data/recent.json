@@ -1,75 +1,6 @@
 {
-  "updated_at": "2026-10-21T11:03:37.094Z",
+  "updated_at": "2026-10-21T16:30:41.327Z",
   "plays": [
-    {
-      "played_at": "2026-07-27T17:06:19.288Z",
-      "name": "tower of memories",
-      "artists": [
-        "ivri"
-      ],
-      "album": "the theory of you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
-      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
-      "duration_ms": 208510
-    },
-    {
-      "played_at": "2026-07-27T17:07:02.979Z",
-      "name": "tower of memories",
-      "artists": [
-        "ivri"
-      ],
-      "album": "the theory of you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
-      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
-      "duration_ms": 208510
-    },
-    {
-      "played_at": "2026-07-27T17:09:18.620Z",
-      "name": "strangers",
-      "artists": [
-        "proderics",
-        "melodybloom"
-      ],
-      "album": "strangers",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f753fa08e3115b19bd62ca10",
-      "uri": "spotify:track:20tqXTp7TJRtLA8s2vpgEB",
-      "duration_ms": 135192
-    },
-    {
-      "played_at": "2026-07-27T17:10:49.144Z",
-      "name": "Nope your too late i already died",
-      "artists": [
-        "wifiskeleton",
-        "i wanna be a jack-o-lantern"
-      ],
-      "album": "suburban daredevil",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730713102d7bb855a4796f7cdc",
-      "uri": "spotify:track:0hta2Lb2zKJ7kEnAEZEE3G",
-      "duration_ms": 90067
-    },
-    {
-      "played_at": "2026-07-27T17:14:03.310Z",
-      "name": "Go Away",
-      "artists": [
-        "Weezer",
-        "Best Coast"
-      ],
-      "album": "Everything Will Be Alright In The End",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e7d13eb0e3c1032e4f8dfc93",
-      "uri": "spotify:track:1O9D7P7Z1wMJXW19zTXrXi",
-      "duration_ms": 193733
-    },
-    {
-      "played_at": "2026-07-27T17:36:30.143Z",
-      "name": "i love u. (ultra slowed)",
-      "artists": [
-        "wiv"
-      ],
-      "album": "quiet disappearance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
-      "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
-      "duration_ms": 170008
-    },
     {
       "played_at": "2026-07-27T17:39:39.157Z",
       "name": "U Weren't Here I Really Miss You - slowed",
@@ -22172,6 +22103,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
       "uri": "spotify:track:0N6xvbX8lsB8u9Q9B6rJgt",
       "duration_ms": 187992
+    },
+    {
+      "played_at": "2026-10-21T16:07:18.768Z",
+      "name": "the way things go",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "the way things go",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402",
+      "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
+      "duration_ms": 187800
+    },
+    {
+      "played_at": "2026-10-21T16:10:47.547Z",
+      "name": "Save me now",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:59ledUSDBtJ0f4YEAf8Fxi",
+      "duration_ms": 182186
+    },
+    {
+      "played_at": "2026-10-21T16:13:53.939Z",
+      "name": "Enough for you",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:1z8nQqjNwNtuj0aoALh7gf",
+      "duration_ms": 185875
+    },
+    {
+      "played_at": "2026-10-21T16:17:42.538Z",
+      "name": "Guide light",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:4zULX2Zfq7ucz8cHlg6AhQ",
+      "duration_ms": 228146
+    },
+    {
+      "played_at": "2026-10-21T16:20:47.040Z",
+      "name": "Serpentine",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "If Not Winter",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b32380575d518f0639a123",
+      "uri": "spotify:track:2YSfa9vWfcKyz8VTexRThM",
+      "duration_ms": 183986
+    },
+    {
+      "played_at": "2026-10-21T16:24:11.433Z",
+      "name": "Once then we'll be free",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Once then we'll be free",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331334c3404c3cc987c18c95f",
+      "uri": "spotify:track:654f3RV4IZdpvH189db8mQ",
+      "duration_ms": 203893
     }
   ]
 }
