@@ -1,18 +1,6 @@
 {
-  "updated_at": "2026-10-21T21:11:50.467Z",
+  "updated_at": "2026-10-22T03:03:14.645Z",
   "plays": [
-    {
-      "played_at": "2026-07-27T17:39:39.157Z",
-      "name": "U Weren't Here I Really Miss You - slowed",
-      "artists": [
-        "Cult Member",
-        "Mia Martina"
-      ],
-      "album": "U Weren't Here I Really Miss You (slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734e85d09d7a1cbf8fb5aa5cf0",
-      "uri": "spotify:track:0gCkIC8Zo808SZ1BzYIGwV",
-      "duration_ms": 188464
-    },
     {
       "played_at": "2026-07-27T17:48:49.654Z",
       "name": "Disappear - Pastel Ghost Remix",
@@ -22169,6 +22157,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27331334c3404c3cc987c18c95f",
       "uri": "spotify:track:654f3RV4IZdpvH189db8mQ",
       "duration_ms": 203893
+    },
+    {
+      "played_at": "2026-10-21T22:06:53.293Z",
+      "name": "Mimi",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:7J6Kw5l4RZVTYhcvwp6ftM",
+      "duration_ms": 283875
     }
   ]
 }
