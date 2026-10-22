@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:31:33.975Z",
+  "generated_at": "2026-10-22T21:08:24.620Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,6 +17,18 @@
         },
         {
           "rank": 2,
+          "name": "Memories",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
+          "duration_ms": 168733
+        },
+        {
+          "rank": 3,
           "name": "Switchblade",
           "artists": [
             "beabadoobee"
@@ -28,7 +40,7 @@
           "duration_ms": 181926
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Estranged",
           "artists": [
             "beabadoobee"
@@ -38,18 +50,6 @@
           "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
           "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ",
           "duration_ms": 178281
-        },
-        {
-          "rank": 4,
-          "name": "Memories",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
-          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
-          "duration_ms": 168733
         },
         {
           "rank": 5,
@@ -77,6 +77,18 @@
         },
         {
           "rank": 7,
+          "name": "Despite That",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
+          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
+          "duration_ms": 89678
+        },
+        {
+          "rank": 8,
           "name": "Let The Light In (feat. Father John Misty)",
           "artists": [
             "Lana Del Rey",
@@ -89,7 +101,7 @@
           "duration_ms": 278126
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Sun Has Set",
           "artists": [
             "beabadoobee"
@@ -101,7 +113,7 @@
           "duration_ms": 141804
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -113,7 +125,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -125,19 +137,19 @@
           "duration_ms": 351640
         },
         {
-          "rank": 11,
-          "name": "Despite That",
+          "rank": 12,
+          "name": "Spark",
           "artists": [
             "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
-          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
-          "duration_ms": 89678
+          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
+          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
+          "duration_ms": 167799
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Body Dysmorphia",
           "artists": [
             "Eyedress"
@@ -149,7 +161,7 @@
           "duration_ms": 125085
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -161,7 +173,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "MOTION (feat. Juicy J)",
           "artists": [
             "CORTIS",
@@ -174,7 +186,7 @@
           "duration_ms": 157306
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -184,18 +196,6 @@
           "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
           "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
           "duration_ms": 281093
-        },
-        {
-          "rank": 16,
-          "name": "Radio",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
-          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
-          "duration_ms": 160230
         },
         {
           "rank": 17,
@@ -212,18 +212,6 @@
         },
         {
           "rank": 18,
-          "name": "Spark",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
-          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
-          "duration_ms": 167799
-        },
-        {
-          "rank": 19,
           "name": "Summertime Sadness",
           "artists": [
             "Lana Del Rey"
@@ -235,7 +223,7 @@
           "duration_ms": 264773
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Ya Soshla S Uma",
           "artists": [
             "t.A.T.u."
@@ -245,6 +233,18 @@
           "uri": "spotify:track:34v2sh3ilJ1Qqn1Ep40cgg",
           "url": "https://open.spotify.com/track/34v2sh3ilJ1Qqn1Ep40cgg",
           "duration_ms": 214253
+        },
+        {
+          "rank": 20,
+          "name": "Radio",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
+          "duration_ms": 160230
         },
         {
           "rank": 21,
@@ -272,15 +272,16 @@
         },
         {
           "rank": 23,
-          "name": "It's Alright",
+          "name": "Nothing To Prove",
           "artists": [
-            "beabadoobee"
+            "beabadoobee",
+            "Hayley Williams"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
-          "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN",
-          "duration_ms": 171308
+          "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
+          "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK",
+          "duration_ms": 144316
         },
         {
           "rank": 24,
@@ -356,6 +357,18 @@
         },
         {
           "rank": 30,
+          "name": "It's Alright",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4iCZIqJRspJ2N3N9c6ZuLN",
+          "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN",
+          "duration_ms": 171308
+        },
+        {
+          "rank": 31,
           "name": "Dance For Me Wallis",
           "artists": [
             "Abel Korzeniowski"
@@ -367,7 +380,7 @@
           "duration_ms": 188346
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Louise",
           "artists": [
             "TV Girl"
@@ -379,7 +392,7 @@
           "duration_ms": 194453
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -391,7 +404,7 @@
           "duration_ms": 230053
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Creep",
           "artists": [
             "Stone Temple Pilots"
@@ -403,7 +416,7 @@
           "duration_ms": 333346
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -415,7 +428,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Cigarettes out the Window",
           "artists": [
             "TV Girl"
@@ -427,7 +440,7 @@
           "duration_ms": 198960
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -437,19 +450,6 @@
           "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
           "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
           "duration_ms": 180906
-        },
-        {
-          "rank": 37,
-          "name": "Nothing To Prove",
-          "artists": [
-            "beabadoobee",
-            "Hayley Williams"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
-          "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK",
-          "duration_ms": 144316
         },
         {
           "rank": 38,
@@ -537,6 +537,18 @@
         },
         {
           "rank": 45,
+          "name": "Crimewave",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+          "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
+          "duration_ms": 258453
+        },
+        {
+          "rank": 46,
           "name": "Dawn of Faith",
           "artists": [
             "Eternal Eclipse"
@@ -548,7 +560,7 @@
           "duration_ms": 193239
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Young And Beautiful",
           "artists": [
             "Lana Del Rey"
@@ -560,7 +572,7 @@
           "duration_ms": 236053
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Blue Hair",
           "artists": [
             "TV Girl"
@@ -572,7 +584,7 @@
           "duration_ms": 217000
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Something About You",
           "artists": [
             "Eyedress",
@@ -585,7 +597,7 @@
           "duration_ms": 153312
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Baby Came Home 2 / Valentines",
           "artists": [
             "The Neighbourhood"
@@ -595,18 +607,6 @@
           "uri": "spotify:track:40gvh6jP5qxMJuMmF9lG9A",
           "url": "https://open.spotify.com/track/40gvh6jP5qxMJuMmF9lG9A",
           "duration_ms": 390502
-        },
-        {
-          "rank": 50,
-          "name": "Truman Sleeps",
-          "artists": [
-            "Philip Glass"
-          ],
-          "album": "The Truman Show (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3a0b6cbfd0bf57d5e430a56",
-          "uri": "spotify:track:4N7h4IHWRaJCOo1VFdTMHV",
-          "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV",
-          "duration_ms": 111831
         }
       ],
       "artists": [
