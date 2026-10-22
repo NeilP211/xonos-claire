@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T03:03:14.551Z",
+  "generated_at": "2026-10-22T11:02:50.305Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -2626,19 +2626,19 @@
         },
         {
           "rank": 23,
-          "name": "Gibran Alcocer",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
-          "genres": [],
-          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
-          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
-        },
-        {
-          "rank": 24,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "rank": 24,
+          "name": "Gibran Alcocer",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
+          "genres": [],
+          "uri": "spotify:artist:5nWYvcpaqKtp08cYxjOfFr",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
           "rank": 25,
