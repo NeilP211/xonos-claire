@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-23T20:54:54.564Z",
+  "updated_at": "2026-10-23T23:43:39.411Z",
   "plays": [
-    {
-      "played_at": "2026-07-27T19:22:22.455Z",
-      "name": "Sarah",
-      "artists": [
-        "Alex G"
-      ],
-      "album": "Trick",
-      "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
-      "uri": "spotify:track:4HuiEuJ7ZW8jewUuZBg6sk",
-      "duration_ms": 176146
-    },
-    {
-      "played_at": "2026-07-27T19:24:57.651Z",
-      "name": "Safe In Your Skin",
-      "artists": [
-        "Title Fight"
-      ],
-      "album": "Shed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
-      "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
-      "duration_ms": 154800
-    },
-    {
-      "played_at": "2026-07-27T19:28:46.288Z",
-      "name": "Without You",
-      "artists": [
-        "Strawberry Guy"
-      ],
-      "album": "Without You",
-      "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a",
-      "uri": "spotify:track:2hIrHUgeI2cKYwM18MkGPK",
-      "duration_ms": 228080
-    },
     {
       "played_at": "2026-07-27T19:33:20.951Z",
       "name": "Dealer",
@@ -22168,6 +22135,40 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
       "uri": "spotify:track:1z8nQqjNwNtuj0aoALh7gf",
       "duration_ms": 185875
+    },
+    {
+      "played_at": "2026-10-23T22:55:38.685Z",
+      "name": "Take A Bite",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1GClDyMiSLrpzjzwIfWRIa",
+      "duration_ms": 158866
+    },
+    {
+      "played_at": "2026-10-23T22:59:03.070Z",
+      "name": "Once then we'll be free",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Once then we'll be free",
+      "image": "https://i.scdn.co/image/ab67616d0000b27331334c3404c3cc987c18c95f",
+      "uri": "spotify:track:654f3RV4IZdpvH189db8mQ",
+      "duration_ms": 203893
+    },
+    {
+      "played_at": "2026-10-23T23:02:58.524Z",
+      "name": "Never Be Like You",
+      "artists": [
+        "Flume",
+        "kai"
+      ],
+      "album": "Skin",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d3903ee6971ff1c6b9eb25c",
+      "uri": "spotify:track:2ZYz5aPLnEkGR1DfWGZGn6",
+      "duration_ms": 234909
     }
   ]
 }
