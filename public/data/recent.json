@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-22T21:08:24.780Z",
+  "updated_at": "2026-10-23T03:07:45.544Z",
   "plays": [
-    {
-      "played_at": "2026-07-27T19:12:01.917Z",
-      "name": "Wildflower",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Depression Cherry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab",
-      "uri": "spotify:track:24bzJwjGBWtGCs7xKIKQsB",
-      "duration_ms": 219453
-    },
     {
       "played_at": "2026-07-27T19:15:36.636Z",
       "name": "Lost",
@@ -22168,6 +22157,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
       "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
       "duration_ms": 167799
+    },
+    {
+      "played_at": "2026-10-23T02:47:15.829Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
     }
   ]
 }
