@@ -1,94 +1,6 @@
 {
-  "updated_at": "2026-10-23T23:43:39.411Z",
+  "updated_at": "2026-10-24T03:03:05.752Z",
   "plays": [
-    {
-      "played_at": "2026-07-27T19:33:20.951Z",
-      "name": "Dealer",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Blue Banisters",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e",
-      "uri": "spotify:track:7iqQz931tn59mK6IZ3knRx",
-      "duration_ms": 274293
-    },
-    {
-      "played_at": "2026-07-27T19:38:19.728Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-07-27T19:42:24.780Z",
-      "name": "I’ve Gotta Stop",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "Seasons of Your Day",
-      "image": "https://i.scdn.co/image/ab67616d0000b273696bceaee71bf3637f1f6c9d",
-      "uri": "spotify:track:68oQiNfNgA05TjCOOaivl2",
-      "duration_ms": 244680
-    },
-    {
-      "played_at": "2026-07-27T19:45:34.471Z",
-      "name": "Young",
-      "artists": [
-        "Vacations"
-      ],
-      "album": "Vibes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
-      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
-      "duration_ms": 189160
-    },
-    {
-      "played_at": "2026-07-27T19:46:59.549Z",
-      "name": "(dream)",
-      "artists": [
-        "salvia palth"
-      ],
-      "album": "melanchole",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734a82bda3507d50ac3e039bb0",
-      "uri": "spotify:track:17YNmMy03QLPirmBzWxFa6",
-      "duration_ms": 84701
-    },
-    {
-      "played_at": "2026-07-27T19:51:29.756Z",
-      "name": "Younger Than You",
-      "artists": [
-        "Whirr"
-      ],
-      "album": "Feels Like You",
-      "image": "https://i.scdn.co/image/ab67616d0000b27369d0325053f2c6413da72365",
-      "uri": "spotify:track:079RTKdIkyTvNOwBzRvoh7",
-      "duration_ms": 269654
-    },
-    {
-      "played_at": "2026-07-27T19:53:51.244Z",
-      "name": "Inside Out",
-      "artists": [
-        "Duster"
-      ],
-      "album": "Stratosphere",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732241587c8ce3d9051f4d4f74",
-      "uri": "spotify:track:6WlmEymaXKMRs3D2c4j6os",
-      "duration_ms": 141040
-    },
-    {
-      "played_at": "2026-07-27T19:59:46.631Z",
-      "name": "In My Head",
-      "artists": [
-        "Bedroom"
-      ],
-      "album": "In My Head",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c3b630a32628bdc23d55a359",
-      "uri": "spotify:track:5vwXQUwkpmnkJrfv69L6Mp",
-      "duration_ms": 354691
-    },
     {
       "played_at": "2026-07-27T20:15:52.151Z",
       "name": "Linger",
@@ -22169,6 +22081,97 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734d3903ee6971ff1c6b9eb25c",
       "uri": "spotify:track:2ZYz5aPLnEkGR1DfWGZGn6",
       "duration_ms": 234909
+    },
+    {
+      "played_at": "2026-10-24T00:59:22.046Z",
+      "name": "the cure",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "uri": "spotify:track:55pBIZO1cqoldeqpp5WR7H",
+      "duration_ms": 297090
+    },
+    {
+      "played_at": "2026-10-24T01:05:14.161Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-10-24T01:08:19.254Z",
+      "name": "Switchblade",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
+      "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
+      "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-10-24T01:12:03.640Z",
+      "name": "expectations (feat. Chappell Roan)",
+      "artists": [
+        "Olivia Rodrigo",
+        "Chappell Roan"
+      ],
+      "album": "expectations (feat. Chappell Roan)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273706ab55cf3e8cb64efb0ccba",
+      "uri": "spotify:track:3XmwAZpIMNpTJy8faw3ajD",
+      "duration_ms": 223935
+    },
+    {
+      "played_at": "2026-10-24T01:15:47.903Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-24T01:20:57.178Z",
+      "name": "Lemon Glow",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "7",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af2276ae66a42e73eb07683",
+      "uri": "spotify:track:6NLRMu1qF1kJQnntDNWDmy",
+      "duration_ms": 244946
+    },
+    {
+      "played_at": "2026-10-24T01:25:42.134Z",
+      "name": "Disparate Youth",
+      "artists": [
+        "Santigold"
+      ],
+      "album": "Master of My Make-Believe",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731df652eb00ae939358d8f3b1",
+      "uri": "spotify:track:0t2QiRkpag0fAgs9zuCPlH",
+      "duration_ms": 284400
+    },
+    {
+      "played_at": "2026-10-24T01:56:37.817Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
     }
   ]
 }
