@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-26T02:56:10.167Z",
-  "is_playing": false,
+  "updated_at": "2026-10-26T08:31:36.859Z",
+  "is_playing": true,
   "track": {
-    "name": "When the Sun Hits",
+    "name": "Hole in the Earth",
     "artists": [
-      "Slowdive"
+      "Deftones"
     ],
-    "album": "Souvlaki",
-    "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
-    "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44"
+    "album": "Saturday Night Wrist",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+    "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB"
   },
-  "played_at": "2026-10-26T02:00:16.388Z"
+  "played_at": "2026-10-26T08:31:36.859Z"
 }
