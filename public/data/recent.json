@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-10-26T08:31:36.747Z",
+  "updated_at": "2026-10-26T15:46:57.746Z",
   "plays": [
-    {
-      "played_at": "2026-07-29T04:25:21.572Z",
-      "name": "Hate Yourself",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:7ijyGfG4NxMBobHgvu4lIM",
-      "duration_ms": 213760
-    },
-    {
-      "played_at": "2026-07-29T17:53:57.022Z",
-      "name": "jester",
-      "artists": [
-        "overtonight",
-        "KXLLSWXTCH"
-      ],
-      "album": "jester",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733973a88e9c99beb94dead649",
-      "uri": "spotify:track:7ndL7IGTgssMS46Y5iQRxz",
-      "duration_ms": 141349
-    },
-    {
-      "played_at": "2026-07-29T18:14:41.342Z",
-      "name": "jester",
-      "artists": [
-        "overtonight",
-        "KXLLSWXTCH"
-      ],
-      "album": "jester",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733973a88e9c99beb94dead649",
-      "uri": "spotify:track:7ndL7IGTgssMS46Y5iQRxz",
-      "duration_ms": 141349
-    },
     {
       "played_at": "2026-07-29T18:19:18.824Z",
       "name": "Covet",
@@ -22172,6 +22137,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2739c32432a6118559878b79123",
       "uri": "spotify:track:089jl361OtZ6VpYvhgPiTS",
       "duration_ms": 216744
+    },
+    {
+      "played_at": "2026-10-26T08:32:23.981Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB",
+      "duration_ms": 249320
+    },
+    {
+      "played_at": "2026-10-26T08:36:38.278Z",
+      "name": "Street Spirit (Fade Out)",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "The Bends",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
+      "uri": "spotify:track:2QwObYJWyJTiozvs0RI7CF",
+      "duration_ms": 253853
+    },
+    {
+      "played_at": "2026-10-26T08:39:10.716Z",
+      "name": "Dumb",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "In Utero",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
+      "duration_ms": 151893
     }
   ]
 }

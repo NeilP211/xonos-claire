@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-26T08:31:36.859Z",
-  "is_playing": true,
+  "updated_at": "2026-10-26T15:46:57.824Z",
+  "is_playing": false,
   "track": {
-    "name": "Hole in the Earth",
+    "name": "Dumb",
     "artists": [
-      "Deftones"
+      "Nirvana"
     ],
-    "album": "Saturday Night Wrist",
-    "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-    "uri": "spotify:track:5Bpc360LNUScK53FrM8nvB"
+    "album": "In Utero",
+    "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
+    "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q"
   },
-  "played_at": "2026-10-26T08:31:36.859Z"
+  "played_at": "2026-10-26T08:39:10.716Z"
 }
