@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-10-27T03:28:50.132Z",
+  "updated_at": "2026-10-27T11:30:50.169Z",
   "plays": [
-    {
-      "played_at": "2026-07-29T18:23:20.874Z",
-      "name": "Sextape",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Diamond Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-      "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
-      "duration_ms": 241533
-    },
-    {
-      "played_at": "2026-07-29T18:27:30.904Z",
-      "name": "Youngest Daughter",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-      "duration_ms": 249514
-    },
-    {
-      "played_at": "2026-07-29T18:31:21.094Z",
-      "name": "Your face",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-      "duration_ms": 229728
-    },
-    {
-      "played_at": "2026-07-29T18:33:31.699Z",
-      "name": "unrequited",
-      "artists": [
-        "Midrift"
-      ],
-      "album": "unrequited",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a4ce00760ca56e00dd51ac39",
-      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
-      "duration_ms": 130142
-    },
-    {
-      "played_at": "2026-07-29T18:39:32.883Z",
-      "name": "Beware",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
-      "duration_ms": 360666
-    },
     {
       "played_at": "2026-07-29T18:41:36.616Z",
       "name": "Into Me",
@@ -22170,6 +22115,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738bebed1a542c6b07e0aa362d",
       "uri": "spotify:track:3SLEmILstFcyEkFFhL4QE1",
       "duration_ms": 278048
+    },
+    {
+      "played_at": "2026-10-27T04:13:14.246Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-10-27T04:18:05.829Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-10-27T04:21:50.095Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-27T04:26:31.663Z",
+      "name": "Salvatore",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+      "duration_ms": 281093
+    },
+    {
+      "played_at": "2026-10-27T07:44:01.602Z",
+      "name": "Lemon Glow",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "7",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af2276ae66a42e73eb07683",
+      "uri": "spotify:track:6NLRMu1qF1kJQnntDNWDmy",
+      "duration_ms": 244946
     }
   ]
 }
