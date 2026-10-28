@@ -1,238 +1,6 @@
 {
-  "updated_at": "2026-10-28T03:44:47.760Z",
+  "updated_at": "2026-10-28T12:00:51.757Z",
   "plays": [
-    {
-      "played_at": "2026-07-29T23:27:55.732Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-07-29T23:30:57.034Z",
-      "name": "Are You The One",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Be Here Now / Are You The One",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
-      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
-      "duration_ms": 180906
-    },
-    {
-      "played_at": "2026-07-30T03:03:25.929Z",
-      "name": "The Man Who Sold The World - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-      "duration_ms": 261093
-    },
-    {
-      "played_at": "2026-07-30T03:04:30.004Z",
-      "name": "The Man Who Sold The World - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-      "duration_ms": 261093
-    },
-    {
-      "played_at": "2026-07-30T03:07:18.763Z",
-      "name": "About A Girl",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Bleach",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
-      "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
-      "duration_ms": 168428
-    },
-    {
-      "played_at": "2026-07-30T03:11:34.383Z",
-      "name": "In Bloom",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:30HCB1FoE77IfGRyNv4eFq",
-      "duration_ms": 255080
-    },
-    {
-      "played_at": "2026-07-30T03:15:26.903Z",
-      "name": "Something In The Way",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
-      "duration_ms": 232146
-    },
-    {
-      "played_at": "2026-07-30T03:19:20.533Z",
-      "name": "All Apologies",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
-      "duration_ms": 233173
-    },
-    {
-      "played_at": "2026-07-30T03:23:05.727Z",
-      "name": "Drain You",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:5Ddlk6C2JVxb1SReZ6O1wk",
-      "duration_ms": 223880
-    },
-    {
-      "played_at": "2026-07-30T18:35:10.937Z",
-      "name": "You Know You're Right",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nirvana",
-      "image": "https://i.scdn.co/image/ab67616d0000b27356072fea6785a3ad2d24237c",
-      "uri": "spotify:track:5O8L4I2S4izFGDjvP7xAKv",
-      "duration_ms": 217000
-    },
-    {
-      "played_at": "2026-07-30T18:39:19.133Z",
-      "name": "matrix (bl studio loop)",
-      "artists": [
-        "chrmbchrmb"
-      ],
-      "album": "doodles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1dd19a7f521864eedfaeb8b",
-      "uri": "spotify:track:0J1EjKUyxMkYXwdGZ8AsrB",
-      "duration_ms": 108648
-    },
-    {
-      "played_at": "2026-07-30T18:42:06.006Z",
-      "name": "Missing Textures",
-      "artists": [
-        "NIVEK FFORHS"
-      ],
-      "album": "Missing Textures",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732c904e7c27c0e16a9b60b2d7",
-      "uri": "spotify:track:3YsSke12CuFEJUpCysd4VU",
-      "duration_ms": 166363
-    },
-    {
-      "played_at": "2026-07-30T18:45:12.843Z",
-      "name": "Untrust Us",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
-      "duration_ms": 186373
-    },
-    {
-      "played_at": "2026-07-30T18:47:07.360Z",
-      "name": "#voyuitwaaien - SUPER slowed -pitch",
-      "artists": [
-        "latex fruit"
-      ],
-      "album": "#voyuitwaaien Remixes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737afc09e7873c32344780a23a",
-      "uri": "spotify:track:6yV3akSoxxh006bFLHPfVW",
-      "duration_ms": 114091
-    },
-    {
-      "played_at": "2026-07-30T18:51:23.390Z",
-      "name": "worry - ultra slowed",
-      "artists": [
-        "LONOWN",
-        "riserayss"
-      ],
-      "album": "worry (ultra slowed)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27367bfd6348da5d2fe09cf265a",
-      "uri": "spotify:track:18j6GCxt5aFKbYqdvksL7N",
-      "duration_ms": 255591
-    },
-    {
-      "played_at": "2026-07-30T23:53:18.811Z",
-      "name": "BEVLYNOUS - Ultra Slowed",
-      "artists": [
-        "ilyhiryu"
-      ],
-      "album": "BEVLYNOUS (ULTRA SLOWED)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d0efd143b339c56587731a7",
-      "uri": "spotify:track:5aDOFkVIFpGD3AbUruTvyF",
-      "duration_ms": 193557
-    },
-    {
-      "played_at": "2026-07-31T00:10:04.326Z",
-      "name": "녹슨 칼",
-      "artists": [
-        "past self"
-      ],
-      "album": "Die Cry Hate",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731b307cc223fb66142581d11e",
-      "uri": "spotify:track:6xoGlkNoRinA8mujzKhqFd",
-      "duration_ms": 193589
-    },
-    {
-      "played_at": "2026-07-31T00:14:00.692Z",
-      "name": "불꽃으로 / Bulkkoch Eulo",
-      "artists": [
-        "past self"
-      ],
-      "album": "불꽃으로 / Bulkkoch Eulo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
-      "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
-      "duration_ms": 236000
-    },
-    {
-      "played_at": "2026-07-31T00:18:15.201Z",
-      "name": "무당 / Mudang",
-      "artists": [
-        "past self"
-      ],
-      "album": "무당 / Mudang",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-      "duration_ms": 253977
-    },
-    {
-      "played_at": "2026-07-31T00:29:42.676Z",
-      "name": "귀신 / Gwisin",
-      "artists": [
-        "past self"
-      ],
-      "album": "Premonitions EP",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b163290b9451f15d895a65d",
-      "uri": "spotify:track:1ssFbq7366yo6zUxmq0Tmn",
-      "duration_ms": 248500
-    },
-    {
-      "played_at": "2026-07-31T00:34:16.994Z",
-      "name": "Myth",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Bloom",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bb9f22f4b196fa10308d77a7",
-      "uri": "spotify:track:2NfxtzCIrpCmJX5Z2KMdD5",
-      "duration_ms": 258653
-    },
     {
       "played_at": "2026-07-31T00:37:56.899Z",
       "name": "Wildflower",
@@ -22172,6 +21940,240 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
       "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
       "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-10-28T04:19:44.654Z",
+      "name": "Radio",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+      "duration_ms": 160230
+    },
+    {
+      "played_at": "2026-10-28T04:23:34.276Z",
+      "name": "No Surprises",
+      "artists": [
+        "Radiohead"
+      ],
+      "album": "OK Computer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+      "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
+      "duration_ms": 229120
+    },
+    {
+      "played_at": "2026-10-28T04:26:13.678Z",
+      "name": "Take A Bite",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1GClDyMiSLrpzjzwIfWRIa",
+      "duration_ms": 158866
+    },
+    {
+      "played_at": "2026-10-28T04:31:41.144Z",
+      "name": "He Gets Me So High",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Our Extended Play",
+      "image": "https://i.scdn.co/image/ab67616d0000b273110bbc10d8188cf73b3d336c",
+      "uri": "spotify:track:6PvxbkegGnVGxd1NDYS6fZ",
+      "duration_ms": 165682
+    },
+    {
+      "played_at": "2026-10-28T05:00:06.642Z",
+      "name": "Brooklyn Baby",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
+      "duration_ms": 351640
+    },
+    {
+      "played_at": "2026-10-28T05:05:24.903Z",
+      "name": "Sad Girl",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:11MyiSGZSYSmhhqwGUTtAq",
+      "duration_ms": 317760
+    },
+    {
+      "played_at": "2026-10-28T05:09:02.127Z",
+      "name": "Join Me In Death",
+      "artists": [
+        "HIM"
+      ],
+      "album": "Razorblade Romance (Deluxe Remastered Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c32432a6118559878b79123",
+      "uri": "spotify:track:089jl361OtZ6VpYvhgPiTS",
+      "duration_ms": 216744
+    },
+    {
+      "played_at": "2026-10-28T05:11:25.932Z",
+      "name": "Doll Hearts",
+      "artists": [
+        "Babyteeth"
+      ],
+      "album": "Cemetery Sweetheart",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd53e22fbe02ec19ecc026f2",
+      "uri": "spotify:track:5gMRC8MDAznJs7MLgSyItq",
+      "duration_ms": 143267
+    },
+    {
+      "played_at": "2026-10-28T05:15:01.633Z",
+      "name": "Nobody New",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "Nobody New",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
+      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
+      "duration_ms": 215200
+    },
+    {
+      "played_at": "2026-10-28T05:18:31.825Z",
+      "name": "stupid song",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "album": "you seem pretty sad for a girl so in love",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
+      "uri": "spotify:track:49j6SvuvWfbEKZKzsHCdLJ",
+      "duration_ms": 209680
+    },
+    {
+      "played_at": "2026-10-28T05:22:06.230Z",
+      "name": "Sour Switchblade",
+      "artists": [
+        "Elita"
+      ],
+      "album": "Sour Switchblade",
+      "image": "https://i.scdn.co/image/ab67616d0000b273983f6e0739cdb099c9cf99b5",
+      "uri": "spotify:track:5efTda0aHZNWNB5srlwFmK",
+      "duration_ms": 148955
+    },
+    {
+      "played_at": "2026-10-28T05:25:04.288Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-10-28T05:29:59.822Z",
+      "name": "Art Deco",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:5jqNQZBwbZWQXPWfo0ygZF",
+      "duration_ms": 295066
+    },
+    {
+      "played_at": "2026-10-28T05:35:06.120Z",
+      "name": "I Love You",
+      "artists": [
+        "Fontaines D.C."
+      ],
+      "album": "Skinty Fia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
+      "uri": "spotify:track:5XhMgAWzou6EjDmQtoyoZE",
+      "duration_ms": 305800
+    },
+    {
+      "played_at": "2026-10-28T05:38:13.020Z",
+      "name": "Untrust Us",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
+      "duration_ms": 186373
+    },
+    {
+      "played_at": "2026-10-28T05:43:58.758Z",
+      "name": "Better in the Dark",
+      "artists": [
+        "Jordana",
+        "TV Girl"
+      ],
+      "album": "Summer's Over",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3",
+      "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
+      "duration_ms": 155500
+    },
+    {
+      "played_at": "2026-10-28T05:47:54.992Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
+    },
+    {
+      "played_at": "2026-10-28T05:52:54.090Z",
+      "name": "Silver Soul",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "Teen Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
+      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
+      "duration_ms": 298680
+    },
+    {
+      "played_at": "2026-10-28T05:56:05.372Z",
+      "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
+      "artists": [
+        "A$AP Rocky",
+        "Imogen Heap",
+        "Clams Casino"
+      ],
+      "album": "Don't Be Dumb",
+      "image": "https://i.scdn.co/image/ab67616d0000b27327b7133c976e8ae6c3add683",
+      "uri": "spotify:track:3jnYCrF7UpSYAwwy1URW8d",
+      "duration_ms": 190724
+    },
+    {
+      "played_at": "2026-10-28T06:01:20.383Z",
+      "name": "Black Beauty",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:63hHlajVLQnlFMAqSyePxO",
+      "duration_ms": 314533
+    },
+    {
+      "played_at": "2026-10-28T07:22:07.434Z",
+      "name": "Les",
+      "artists": [
+        "Childish Gambino"
+      ],
+      "album": "Camp",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0",
+      "uri": "spotify:track:7ghKr0pCYyPPyp7t1FH8k4",
+      "duration_ms": 317293
     }
   ]
 }
