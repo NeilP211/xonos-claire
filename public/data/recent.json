@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-10-27T21:45:19.010Z",
+  "updated_at": "2026-10-28T03:44:47.760Z",
   "plays": [
-    {
-      "played_at": "2026-07-29T18:41:36.616Z",
-      "name": "Into Me",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Into You",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735b956c9f8b6f17910d7d0fdb",
-      "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
-      "duration_ms": 123253
-    },
-    {
-      "played_at": "2026-07-29T18:43:51.655Z",
-      "name": "wonder if you care",
-      "artists": [
-        "flyingfish"
-      ],
-      "album": "wonder if you care",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
-      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
-      "duration_ms": 134556
-    },
-    {
-      "played_at": "2026-07-29T20:08:48.278Z",
-      "name": "My Girlfriend",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Lonely Women",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
-      "uri": "spotify:track:36RNOJkIDAoyfEOHdLhmD3",
-      "duration_ms": 248222
-    },
-    {
-      "played_at": "2026-07-29T20:13:50.690Z",
-      "name": "Roseblood",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "Among My Swan",
-      "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
-      "uri": "spotify:track:2qV5Ce0sMlFsrseRO5CTMU",
-      "duration_ms": 291040
-    },
-    {
-      "played_at": "2026-07-29T20:18:38.991Z",
-      "name": "Look On Down From The Bridge",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "Among My Swan",
-      "image": "https://i.scdn.co/image/ab67616d0000b27340f8e560e743f9b5d382c0af",
-      "uri": "spotify:track:010ALbbh5KlQ4fKWgSdhRd",
-      "duration_ms": 287893
-    },
-    {
-      "played_at": "2026-07-29T23:15:13.537Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-07-29T23:16:29.606Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-07-29T23:21:12.723Z",
-      "name": "Linger",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Stars: The Best Of The Cranberries 1992-2002",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
-      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
-      "duration_ms": 274773
-    },
-    {
-      "played_at": "2026-07-29T23:23:49.140Z",
-      "name": "Velvet Ring",
-      "artists": [
-        "Big Thief"
-      ],
-      "album": "Masterpiece",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
-      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
-      "duration_ms": 155938
-    },
     {
       "played_at": "2026-07-29T23:27:55.732Z",
       "name": "Covet",
@@ -22171,6 +22072,106 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2730af2276ae66a42e73eb07683",
       "uri": "spotify:track:6NLRMu1qF1kJQnntDNWDmy",
       "duration_ms": 244946
+    },
+    {
+      "played_at": "2026-10-27T23:10:06.394Z",
+      "name": "Lemon Glow",
+      "artists": [
+        "Beach House"
+      ],
+      "album": "7",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730af2276ae66a42e73eb07683",
+      "uri": "spotify:track:6NLRMu1qF1kJQnntDNWDmy",
+      "duration_ms": 244946
+    },
+    {
+      "played_at": "2026-10-27T23:14:25.365Z",
+      "name": "Crimewave",
+      "artists": [
+        "Crystal Castles"
+      ],
+      "album": "Crystal Castles",
+      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+      "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+      "duration_ms": 258453
+    },
+    {
+      "played_at": "2026-10-27T23:17:29.799Z",
+      "name": "Mo Bamba",
+      "artists": [
+        "Sheck Wes"
+      ],
+      "album": "MUDBOY",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359cd47039c5b10ed919fbaa8",
+      "uri": "spotify:track:1xzBco0xcoJEDXktl7Jxrr",
+      "duration_ms": 183906
+    },
+    {
+      "played_at": "2026-10-27T23:20:18.995Z",
+      "name": "Memories",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+      "duration_ms": 168733
+    },
+    {
+      "played_at": "2026-10-27T23:22:59.741Z",
+      "name": "Radio",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+      "duration_ms": 160230
+    },
+    {
+      "played_at": "2026-10-27T23:34:23.911Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-10-27T23:38:08.171Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-28T01:42:34.554Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-10-28T01:46:33.382Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
     }
   ]
 }
