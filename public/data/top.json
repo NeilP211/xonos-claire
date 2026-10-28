@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:00:51.640Z",
+  "generated_at": "2026-10-28T20:01:51.443Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,18 +17,6 @@
         },
         {
           "rank": 2,
-          "name": "Switchblade",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
-          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
-          "duration_ms": 181926
-        },
-        {
-          "rank": 3,
           "name": "Take A Bite",
           "artists": [
             "beabadoobee"
@@ -40,19 +28,19 @@
           "duration_ms": 158866
         },
         {
-          "rank": 4,
-          "name": "Satellite",
+          "rank": 3,
+          "name": "Switchblade",
           "artists": [
             "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
-          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
-          "duration_ms": 285425
+          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
+          "duration_ms": 181926
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "Let The Light In (feat. Father John Misty)",
           "artists": [
             "Lana Del Rey",
@@ -65,19 +53,7 @@
           "duration_ms": 278126
         },
         {
-          "rank": 6,
-          "name": "Radio",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
-          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
-          "duration_ms": 160230
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -89,19 +65,19 @@
           "duration_ms": 281093
         },
         {
-          "rank": 8,
-          "name": "Pylon",
+          "rank": 6,
+          "name": "Satellite",
           "artists": [
             "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
-          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
-          "duration_ms": 215256
+          "uri": "spotify:track:2tfzV1WcXJIb19GtcuIiVk",
+          "url": "https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk",
+          "duration_ms": 285425
         },
         {
-          "rank": 9,
+          "rank": 7,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -113,7 +89,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 10,
+          "rank": 8,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -125,7 +101,19 @@
           "duration_ms": 286253
         },
         {
-          "rank": 11,
+          "rank": 9,
+          "name": "Radio",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
+          "duration_ms": 160230
+        },
+        {
+          "rank": 10,
           "name": "Ya Soshla S Uma",
           "artists": [
             "t.A.T.u."
@@ -137,19 +125,7 @@
           "duration_ms": 214253
         },
         {
-          "rank": 12,
-          "name": "Estranged",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
-          "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ",
-          "duration_ms": 178281
-        },
-        {
-          "rank": 13,
+          "rank": 11,
           "name": "Abbi",
           "artists": [
             "Vincemp3"
@@ -161,7 +137,7 @@
           "duration_ms": 160867
         },
         {
-          "rank": 14,
+          "rank": 12,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -173,31 +149,19 @@
           "duration_ms": 213920
         },
         {
-          "rank": 15,
-          "name": "Write Me A Letter",
+          "rank": 13,
+          "name": "Pylon",
           "artists": [
             "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
-          "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo",
-          "duration_ms": 194103
+          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
+          "duration_ms": 215256
         },
         {
-          "rank": 16,
-          "name": "Memories",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
-          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
-          "duration_ms": 168733
-        },
-        {
-          "rank": 17,
+          "rank": 14,
           "name": "Smells Like Teen Spirit - Remastered",
           "artists": [
             "Nirvana"
@@ -209,19 +173,7 @@
           "duration_ms": 300893
         },
         {
-          "rank": 18,
-          "name": "Spark",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
-          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
-          "duration_ms": 167799
-        },
-        {
-          "rank": 19,
+          "rank": 15,
           "name": "Fine",
           "artists": [
             "Lemon Demon"
@@ -233,7 +185,7 @@
           "duration_ms": 279939
         },
         {
-          "rank": 20,
+          "rank": 16,
           "name": "American",
           "artists": [
             "Lana Del Rey"
@@ -245,19 +197,7 @@
           "duration_ms": 248907
         },
         {
-          "rank": 21,
-          "name": "Despite That",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
-          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
-          "duration_ms": 89678
-        },
-        {
-          "rank": 22,
+          "rank": 17,
           "name": "Home Alone",
           "artists": [
             "Glokk40Spaz"
@@ -269,7 +209,7 @@
           "duration_ms": 183954
         },
         {
-          "rank": 23,
+          "rank": 18,
           "name": "Dance For Me Wallis",
           "artists": [
             "Abel Korzeniowski"
@@ -281,7 +221,19 @@
           "duration_ms": 188346
         },
         {
-          "rank": 24,
+          "rank": 19,
+          "name": "Estranged",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4M7lT4DNieS5JTs2dEKiBQ",
+          "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ",
+          "duration_ms": 178281
+        },
+        {
+          "rank": 20,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -293,7 +245,7 @@
           "duration_ms": 230053
         },
         {
-          "rank": 25,
+          "rank": 21,
           "name": "Creep",
           "artists": [
             "Stone Temple Pilots"
@@ -305,7 +257,7 @@
           "duration_ms": 333346
         },
         {
-          "rank": 26,
+          "rank": 22,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -317,152 +269,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 27,
-          "name": "Are You The One",
-          "artists": [
-            "Basement"
-          ],
-          "album": "Be Here Now / Are You The One",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
-          "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
-          "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
-          "duration_ms": 180906
-        },
-        {
-          "rank": 28,
-          "name": "Crimewave",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
-          "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
-          "duration_ms": 258453
-        },
-        {
-          "rank": 29,
-          "name": "Powerlines",
-          "artists": [
-            "beabadoobee",
-            "Brendan Yates"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:7uvsxYvJwAGTdxMNJrgtbQ",
-          "url": "https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ",
-          "duration_ms": 178391
-        },
-        {
-          "rank": 30,
-          "name": "Darla",
-          "artists": [
-            "Vundabar"
-          ],
-          "album": "Gawk",
-          "image": "https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da",
-          "uri": "spotify:track:0SRaDY4S9Xv5aO3iUkk7Xe",
-          "url": "https://open.spotify.com/track/0SRaDY4S9Xv5aO3iUkk7Xe",
-          "duration_ms": 231026
-        },
-        {
-          "rank": 31,
-          "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
-          "artists": [
-            "Craig Armstrong"
-          ],
-          "album": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1f9f26b46c05fa55eab5d0a",
-          "uri": "spotify:track:0x1rnXl24iJl8xZFMkoyNv",
-          "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv",
-          "duration_ms": 279546
-        },
-        {
-          "rank": 32,
-          "name": "Burn The Bones",
-          "artists": [
-            "Kodain"
-          ],
-          "album": "Burn The Bones",
-          "image": "https://i.scdn.co/image/ab67616d0000b27355cda5653a6e65af4f255ada",
-          "uri": "spotify:track:14L1IMqkG4RY9M60fa3nvW",
-          "url": "https://open.spotify.com/track/14L1IMqkG4RY9M60fa3nvW",
-          "duration_ms": 174456
-        },
-        {
-          "rank": 33,
-          "name": "The Man Who Sold The World - Live",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "MTV Unplugged In New York",
-          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
-          "duration_ms": 261093
-        },
-        {
-          "rank": 34,
-          "name": "Summertime Sadness",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
-          "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
-          "duration_ms": 264773
-        },
-        {
-          "rank": 35,
-          "name": "This Is What Makes Us Girls",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b850da1e1301dba85b08681",
-          "uri": "spotify:track:1HQTBTQdjR9XZ5ZUA9E9yW",
-          "url": "https://open.spotify.com/track/1HQTBTQdjR9XZ5ZUA9E9yW",
-          "duration_ms": 240293
-        },
-        {
-          "rank": 36,
-          "name": "how u seen me??",
-          "artists": [
-            "ksuuvi"
-          ],
-          "album": "#sameone2",
-          "image": "https://i.scdn.co/image/ab67616d0000b2734ed6167ad00a7cb69adfbccb",
-          "uri": "spotify:track:1ZYtRFw3ZSbhx38KPKz9xT",
-          "url": "https://open.spotify.com/track/1ZYtRFw3ZSbhx38KPKz9xT",
-          "duration_ms": 168228
-        },
-        {
-          "rank": 37,
-          "name": "vampire",
-          "artists": [
-            "Olivia Rodrigo"
-          ],
-          "album": "GUTS",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-          "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
-          "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
-          "duration_ms": 219724
-        },
-        {
-          "rank": 38,
-          "name": "Dawn of Faith",
-          "artists": [
-            "Eternal Eclipse"
-          ],
-          "album": "Forgotten Odes",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c2bd7abf07b25df4dae63d5d",
-          "uri": "spotify:track:2N8pjeNjFT8Fw58e5z2LDf",
-          "url": "https://open.spotify.com/track/2N8pjeNjFT8Fw58e5z2LDf",
-          "duration_ms": 193239
-        },
-        {
-          "rank": 39,
+          "rank": 23,
           "name": "Something About You",
           "artists": [
             "Eyedress",
@@ -475,7 +282,187 @@
           "duration_ms": 153312
         },
         {
-          "rank": 40,
+          "rank": 24,
+          "name": "Are You The One",
+          "artists": [
+            "Basement"
+          ],
+          "album": "Be Here Now / Are You The One",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+          "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+          "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
+          "duration_ms": 180906
+        },
+        {
+          "rank": 25,
+          "name": "Crimewave",
+          "artists": [
+            "Crystal Castles"
+          ],
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
+          "url": "https://open.spotify.com/track/1xzsEmaU4IXjvxxwQlA8Lz",
+          "duration_ms": 258453
+        },
+        {
+          "rank": 26,
+          "name": "Write Me A Letter",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
+          "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo",
+          "duration_ms": 194103
+        },
+        {
+          "rank": 27,
+          "name": "Memories",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
+          "duration_ms": 168733
+        },
+        {
+          "rank": 28,
+          "name": "Darla",
+          "artists": [
+            "Vundabar"
+          ],
+          "album": "Gawk",
+          "image": "https://i.scdn.co/image/ab67616d0000b2738fbee639aeab14f94d7561da",
+          "uri": "spotify:track:0SRaDY4S9Xv5aO3iUkk7Xe",
+          "url": "https://open.spotify.com/track/0SRaDY4S9Xv5aO3iUkk7Xe",
+          "duration_ms": 231026
+        },
+        {
+          "rank": 29,
+          "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
+          "artists": [
+            "Craig Armstrong"
+          ],
+          "album": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1f9f26b46c05fa55eab5d0a",
+          "uri": "spotify:track:0x1rnXl24iJl8xZFMkoyNv",
+          "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv",
+          "duration_ms": 279546
+        },
+        {
+          "rank": 30,
+          "name": "Burn The Bones",
+          "artists": [
+            "Kodain"
+          ],
+          "album": "Burn The Bones",
+          "image": "https://i.scdn.co/image/ab67616d0000b27355cda5653a6e65af4f255ada",
+          "uri": "spotify:track:14L1IMqkG4RY9M60fa3nvW",
+          "url": "https://open.spotify.com/track/14L1IMqkG4RY9M60fa3nvW",
+          "duration_ms": 174456
+        },
+        {
+          "rank": 31,
+          "name": "The Man Who Sold The World - Live",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "MTV Unplugged In New York",
+          "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+          "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
+          "url": "https://open.spotify.com/track/15VRO9CQwMpbqUYA7e6Hwg",
+          "duration_ms": 261093
+        },
+        {
+          "rank": 32,
+          "name": "Spark",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:17Tz2rfUvH7SqDs9B4B9kT",
+          "url": "https://open.spotify.com/track/17Tz2rfUvH7SqDs9B4B9kT",
+          "duration_ms": 167799
+        },
+        {
+          "rank": 33,
+          "name": "Summertime Sadness",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die (Deluxe Version)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
+          "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
+          "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
+          "duration_ms": 264773
+        },
+        {
+          "rank": 34,
+          "name": "This Is What Makes Us Girls",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Born To Die",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736b850da1e1301dba85b08681",
+          "uri": "spotify:track:1HQTBTQdjR9XZ5ZUA9E9yW",
+          "url": "https://open.spotify.com/track/1HQTBTQdjR9XZ5ZUA9E9yW",
+          "duration_ms": 240293
+        },
+        {
+          "rank": 35,
+          "name": "how u seen me??",
+          "artists": [
+            "ksuuvi"
+          ],
+          "album": "#sameone2",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734ed6167ad00a7cb69adfbccb",
+          "uri": "spotify:track:1ZYtRFw3ZSbhx38KPKz9xT",
+          "url": "https://open.spotify.com/track/1ZYtRFw3ZSbhx38KPKz9xT",
+          "duration_ms": 168228
+        },
+        {
+          "rank": 36,
+          "name": "vampire",
+          "artists": [
+            "Olivia Rodrigo"
+          ],
+          "album": "GUTS",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
+          "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
+          "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
+          "duration_ms": 219724
+        },
+        {
+          "rank": 37,
+          "name": "Dawn of Faith",
+          "artists": [
+            "Eternal Eclipse"
+          ],
+          "album": "Forgotten Odes",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c2bd7abf07b25df4dae63d5d",
+          "uri": "spotify:track:2N8pjeNjFT8Fw58e5z2LDf",
+          "url": "https://open.spotify.com/track/2N8pjeNjFT8Fw58e5z2LDf",
+          "duration_ms": 193239
+        },
+        {
+          "rank": 38,
+          "name": "Despite That",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2nyCiGvIqREI3u8Tf95iCr",
+          "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr",
+          "duration_ms": 89678
+        },
+        {
+          "rank": 39,
           "name": "Baby Came Home 2 / Valentines",
           "artists": [
             "The Neighbourhood"
@@ -487,7 +474,7 @@
           "duration_ms": 390502
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Truman Sleeps",
           "artists": [
             "Philip Glass"
@@ -499,7 +486,7 @@
           "duration_ms": 111831
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -511,19 +498,7 @@
           "duration_ms": 218920
         },
         {
-          "rank": 43,
-          "name": "Sun Has Set",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:5lXmwQPyv08yBsGhsB05qi",
-          "url": "https://open.spotify.com/track/5lXmwQPyv08yBsGhsB05qi",
-          "duration_ms": 141804
-        },
-        {
-          "rank": 44,
+          "rank": 42,
           "name": "Summer 78 (2)",
           "artists": [
             "Yann Tiersen"
@@ -535,7 +510,7 @@
           "duration_ms": 230680
         },
         {
-          "rank": 45,
+          "rank": 43,
           "name": "brutal",
           "artists": [
             "Olivia Rodrigo"
@@ -547,7 +522,7 @@
           "duration_ms": 143746
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "La terre vue du ciel",
           "artists": [
             "Armand Amar"
@@ -559,7 +534,7 @@
           "duration_ms": 616086
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "No Hands (feat. Roscoe Dash & Wale)",
           "artists": [
             "Waka Flocka Flame",
@@ -573,7 +548,7 @@
           "duration_ms": 263773
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -585,7 +560,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -597,7 +572,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 50,
+          "rank": 48,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -607,6 +582,31 @@
           "uri": "spotify:track:4IvuZUCcI6sq37pbHzf3FQ",
           "url": "https://open.spotify.com/track/4IvuZUCcI6sq37pbHzf3FQ",
           "duration_ms": 165597
+        },
+        {
+          "rank": 49,
+          "name": "Towns",
+          "artists": [
+            "Sandbox Interactive",
+            "Jonne Valtonen"
+          ],
+          "album": "Albion Online (Original Game Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
+          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
+          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
+          "duration_ms": 174547
+        },
+        {
+          "rank": 50,
+          "name": "Strange",
+          "artists": [
+            "Vincemp3"
+          ],
+          "album": "Strange",
+          "image": "https://i.scdn.co/image/ab67616d0000b27328c2a7b010df72ac1b9bbf72",
+          "uri": "spotify:track:4g4Y8YUXyAMQgilS6R27An",
+          "url": "https://open.spotify.com/track/4g4Y8YUXyAMQgilS6R27An",
+          "duration_ms": 225038
         }
       ],
       "artists": [
@@ -1005,18 +1005,6 @@
         },
         {
           "rank": 20,
-          "name": "in your head",
-          "artists": [
-            "cloudyfield"
-          ],
-          "album": "in your head",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
-          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
-          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
-          "duration_ms": 170000
-        },
-        {
-          "rank": 21,
           "name": "Cherry Waves",
           "artists": [
             "Deftones"
@@ -1026,6 +1014,18 @@
           "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
           "url": "https://open.spotify.com/track/70L6nHORQsblY813yNqUR3",
           "duration_ms": 317706
+        },
+        {
+          "rank": 21,
+          "name": "in your head",
+          "artists": [
+            "cloudyfield"
+          ],
+          "album": "in your head",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a51d9c1f181661c0a99d370f",
+          "uri": "spotify:track:0GrAc2fGqrvY7xMsAPdTKC",
+          "url": "https://open.spotify.com/track/0GrAc2fGqrvY7xMsAPdTKC",
+          "duration_ms": 170000
         },
         {
           "rank": 22,
