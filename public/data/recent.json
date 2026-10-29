@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-28T20:01:51.670Z",
+  "updated_at": "2026-10-29T00:33:58.091Z",
   "plays": [
-    {
-      "played_at": "2026-07-31T01:09:50.197Z",
-      "name": "Mrs Magic",
-      "artists": [
-        "Strawberry Guy"
-      ],
-      "album": "Mrs Magic",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c",
-      "uri": "spotify:track:0TZejo18HlJ86OrWNsXKnw",
-      "duration_ms": 208500
-    },
     {
       "played_at": "2026-07-31T01:14:42.439Z",
       "name": "Nothing Lasts",
@@ -22177,6 +22166,18 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
       "uri": "spotify:track:3oNQ6NkihVzQkV5qhk2Pbe",
       "duration_ms": 153312
+    },
+    {
+      "played_at": "2026-10-28T21:48:58.534Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
     }
   ]
 }
