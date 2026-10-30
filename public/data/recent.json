@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-29T22:30:06.637Z",
+  "updated_at": "2026-10-30T04:07:07.157Z",
   "plays": [
-    {
-      "played_at": "2026-07-31T01:14:42.439Z",
-      "name": "Nothing Lasts",
-      "artists": [
-        "Bedroom"
-      ],
-      "album": "Grow",
-      "image": "https://i.scdn.co/image/ab67616d0000b273671e75962261138f1b16a242",
-      "uri": "spotify:track:7KKoGA5nKLJ6Q4wPXFJcNt",
-      "duration_ms": 291785
-    },
-    {
-      "played_at": "2026-07-31T01:20:51.441Z",
-      "name": "PPP",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Depression Cherry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab",
-      "uri": "spotify:track:5JyJsAZyLTD7W5oWLeB0JK",
-      "duration_ms": 368546
-    },
-    {
-      "played_at": "2026-07-31T01:25:16.356Z",
-      "name": "What Did You See?",
-      "artists": [
-        "Cemeteries"
-      ],
-      "album": "The Wilderness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273877efee02b03c87119ce178f",
-      "uri": "spotify:track:2lnvyh4RtkI5XmYCK9bkaz",
-      "duration_ms": 264466
-    },
     {
       "played_at": "2026-07-31T01:32:38.463Z",
       "name": "Champagne Coast",
@@ -22169,6 +22136,40 @@
     },
     {
       "played_at": "2026-10-28T21:48:58.534Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-30T01:57:43.505Z",
+      "name": "Radio",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Pylon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+      "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+      "duration_ms": 160230
+    },
+    {
+      "played_at": "2026-10-30T02:00:33.080Z",
+      "name": "Take A Bite",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1GClDyMiSLrpzjzwIfWRIa",
+      "duration_ms": 158866
+    },
+    {
+      "played_at": "2026-10-30T02:04:32.970Z",
       "name": "All I Did Was Dream of You (feat. The Marías)",
       "artists": [
         "beabadoobee",
