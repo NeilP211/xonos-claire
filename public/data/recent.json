@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-10-31T00:19:10.304Z",
+  "updated_at": "2026-10-31T09:13:16.193Z",
   "plays": [
-    {
-      "played_at": "2026-07-31T04:46:28.164Z",
-      "name": "Be Quiet and Drive (Far Away)",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Around the Fur",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
-      "uri": "spotify:track:4Uiw0Sl9yskBaC6P4DcdVD",
-      "duration_ms": 299866
-    },
     {
       "played_at": "2026-07-31T04:46:40.543Z",
       "name": "Monolith",
@@ -22181,6 +22170,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
       "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
       "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-10-31T06:55:07.939Z",
+      "name": "Take A Bite",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1GClDyMiSLrpzjzwIfWRIa",
+      "duration_ms": 158866
     }
   ]
 }
