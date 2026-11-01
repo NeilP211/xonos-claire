@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-10-31T23:55:29.934Z",
+  "updated_at": "2026-11-01T04:09:47.333Z",
   "plays": [
-    {
-      "played_at": "2026-08-01T05:19:47.175Z",
-      "name": "Today - 2011 Remaster",
-      "artists": [
-        "The Smashing Pumpkins"
-      ],
-      "album": "Siamese Dream (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd",
-      "uri": "spotify:track:0u5aO1GYsIhAWCPuXdwnak",
-      "duration_ms": 201173
-    },
-    {
-      "played_at": "2026-08-01T05:24:02.277Z",
-      "name": "Tonight, Tonight - Remastered 2012",
-      "artists": [
-        "The Smashing Pumpkins"
-      ],
-      "album": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
-      "uri": "spotify:track:7bu0znpSbTks0O6I98ij0W",
-      "duration_ms": 254626
-    },
-    {
-      "played_at": "2026-08-01T05:27:19.602Z",
-      "name": "Disarm - 2011 Remaster",
-      "artists": [
-        "The Smashing Pumpkins"
-      ],
-      "album": "Siamese Dream (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735274788f34fc7656d2856dfd",
-      "uri": "spotify:track:6YIggUJW3ttAAPRdnki8RM",
-      "duration_ms": 196905
-    },
     {
       "played_at": "2026-08-01T05:33:09.083Z",
       "name": "Mayonaise - 2011 Remaster",
@@ -22183,6 +22150,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273efd6923be28f035a6a7fe24d",
       "uri": "spotify:track:551ynJcmHdcUt4u28iE2sy",
       "duration_ms": 181926
+    },
+    {
+      "played_at": "2026-11-01T00:06:12.990Z",
+      "name": "Talk",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:4tf04WrZTy60CawyvueIdK",
+      "duration_ms": 158293
+    },
+    {
+      "played_at": "2026-11-01T00:30:29.428Z",
+      "name": "Talk",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:4tf04WrZTy60CawyvueIdK",
+      "duration_ms": 158293
+    },
+    {
+      "played_at": "2026-11-01T03:12:41.951Z",
+      "name": "Charlie Brown",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Fake It Flowers",
+      "image": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
+      "uri": "spotify:track:1NBQUtKSQdu7Nlw2isLxAV",
+      "duration_ms": 152649
     }
   ]
 }
