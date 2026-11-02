@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:10:49.179Z",
+  "generated_at": "2026-11-02T10:28:09.187Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -53,18 +53,6 @@
         },
         {
           "rank": 5,
-          "name": "Salvatore",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Honeymoon",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
-          "duration_ms": 281093
-        },
-        {
-          "rank": 6,
           "name": "Satellite",
           "artists": [
             "beabadoobee"
@@ -76,7 +64,7 @@
           "duration_ms": 285425
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -88,7 +76,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -100,7 +88,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Ya Soshla S Uma",
           "artists": [
             "t.A.T.u."
@@ -112,7 +100,7 @@
           "duration_ms": 214253
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Abbi",
           "artists": [
             "Vincemp3"
@@ -124,7 +112,7 @@
           "duration_ms": 160867
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Smells Like Teen Spirit - Remastered",
           "artists": [
             "Nirvana"
@@ -136,7 +124,7 @@
           "duration_ms": 300893
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Fine",
           "artists": [
             "Lemon Demon"
@@ -148,19 +136,7 @@
           "duration_ms": 279939
         },
         {
-          "rank": 13,
-          "name": "American",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die - The Paradise Edition",
-          "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
-          "uri": "spotify:track:1Yfgbr2kZrb3u0NP8ioyuk",
-          "url": "https://open.spotify.com/track/1Yfgbr2kZrb3u0NP8ioyuk",
-          "duration_ms": 248907
-        },
-        {
-          "rank": 14,
+          "rank": 12,
           "name": "Dance For Me Wallis",
           "artists": [
             "Abel Korzeniowski"
@@ -172,7 +148,7 @@
           "duration_ms": 188346
         },
         {
-          "rank": 15,
+          "rank": 13,
           "name": "Estranged",
           "artists": [
             "beabadoobee"
@@ -184,7 +160,7 @@
           "duration_ms": 178281
         },
         {
-          "rank": 16,
+          "rank": 14,
           "name": "Beaches",
           "artists": [
             "beabadoobee"
@@ -196,7 +172,7 @@
           "duration_ms": 230053
         },
         {
-          "rank": 17,
+          "rank": 15,
           "name": "Pylon",
           "artists": [
             "beabadoobee"
@@ -208,7 +184,7 @@
           "duration_ms": 215256
         },
         {
-          "rank": 18,
+          "rank": 16,
           "name": "Creep",
           "artists": [
             "Stone Temple Pilots"
@@ -220,7 +196,19 @@
           "duration_ms": 333346
         },
         {
-          "rank": 19,
+          "rank": 17,
+          "name": "Salvatore",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
+          "url": "https://open.spotify.com/track/21qg0IBZf8R12qHd9A3AA4",
+          "duration_ms": 281093
+        },
+        {
+          "rank": 18,
           "name": "Reunion",
           "artists": [
             "Korea Girl"
@@ -232,7 +220,7 @@
           "duration_ms": 259266
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Something About You",
           "artists": [
             "Eyedress",
@@ -245,7 +233,7 @@
           "duration_ms": 153312
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -255,6 +243,18 @@
           "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
           "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
           "duration_ms": 180906
+        },
+        {
+          "rank": 21,
+          "name": "Swan Song",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Honeymoon",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+          "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
+          "url": "https://open.spotify.com/track/1DYRRZ5rSlc1PopnB7azLZ",
+          "duration_ms": 323475
         },
         {
           "rank": 22,
@@ -330,30 +330,6 @@
         },
         {
           "rank": 28,
-          "name": "Summertime Sadness",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die (Deluxe Version)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273959280fee07d485cb5b56fe7",
-          "uri": "spotify:track:1FEiijYPJtyswChfcpv3p0",
-          "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
-          "duration_ms": 264773
-        },
-        {
-          "rank": 29,
-          "name": "This Is What Makes Us Girls",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Born To Die",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736b850da1e1301dba85b08681",
-          "uri": "spotify:track:1HQTBTQdjR9XZ5ZUA9E9yW",
-          "url": "https://open.spotify.com/track/1HQTBTQdjR9XZ5ZUA9E9yW",
-          "duration_ms": 240293
-        },
-        {
-          "rank": 30,
           "name": "Dawn of Faith",
           "artists": [
             "Eternal Eclipse"
@@ -365,7 +341,7 @@
           "duration_ms": 193239
         },
         {
-          "rank": 31,
+          "rank": 29,
           "name": "Baby Came Home 2 / Valentines",
           "artists": [
             "The Neighbourhood"
@@ -377,7 +353,7 @@
           "duration_ms": 390502
         },
         {
-          "rank": 32,
+          "rank": 30,
           "name": "Truman Sleeps",
           "artists": [
             "Philip Glass"
@@ -389,7 +365,7 @@
           "duration_ms": 111831
         },
         {
-          "rank": 33,
+          "rank": 31,
           "name": "Come As You Are - Remastered",
           "artists": [
             "Nirvana"
@@ -401,7 +377,19 @@
           "duration_ms": 218920
         },
         {
-          "rank": 34,
+          "rank": 32,
+          "name": "Rain, in Your Black Eyes",
+          "artists": [
+            "Ezio Bosso"
+          ],
+          "album": "And the Things that Remain",
+          "image": "https://i.scdn.co/image/ab67616d0000b273665ca59546dc652b010c5319",
+          "uri": "spotify:track:5Xf8gE5CdRnWfkFpm5RUgR",
+          "url": "https://open.spotify.com/track/5Xf8gE5CdRnWfkFpm5RUgR",
+          "duration_ms": 664560
+        },
+        {
+          "rank": 33,
           "name": "Summer 78 (2)",
           "artists": [
             "Yann Tiersen"
@@ -413,7 +401,7 @@
           "duration_ms": 230680
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "brutal",
           "artists": [
             "Olivia Rodrigo"
@@ -425,7 +413,7 @@
           "duration_ms": 143746
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "La terre vue du ciel",
           "artists": [
             "Armand Amar"
@@ -437,7 +425,7 @@
           "duration_ms": 616086
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -449,7 +437,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -461,7 +449,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -473,7 +461,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -486,7 +474,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Strange",
           "artists": [
             "Vincemp3"
@@ -498,7 +486,7 @@
           "duration_ms": 225038
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Flying",
           "artists": [
             "Dan Cullen",
@@ -511,7 +499,7 @@
           "duration_ms": 246765
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Letters",
           "artists": [
             "Abel Korzeniowski"
@@ -523,7 +511,7 @@
           "duration_ms": 259213
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -535,7 +523,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -548,7 +536,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Write Me A Letter",
           "artists": [
             "beabadoobee"
@@ -560,7 +548,7 @@
           "duration_ms": 194103
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -572,7 +560,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "the cure",
           "artists": [
             "Olivia Rodrigo"
@@ -584,7 +572,7 @@
           "duration_ms": 297090
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "I Just Threw Out The Love Of My Dreams",
           "artists": [
             "Weezer"
@@ -596,7 +584,7 @@
           "duration_ms": 157960
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -606,6 +594,18 @@
           "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
           "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
           "duration_ms": 213920
+        },
+        {
+          "rank": 50,
+          "name": "Talk",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Beatopia",
+          "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+          "uri": "spotify:track:4tf04WrZTy60CawyvueIdK",
+          "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK",
+          "duration_ms": 158293
         }
       ],
       "artists": [
@@ -635,14 +635,6 @@
         },
         {
           "rank": 4,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 5,
           "name": "Abel Korzeniowski",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1470dc2e1d28f770429e6b55",
           "genres": [],
@@ -650,12 +642,20 @@
           "url": "https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        {
+          "rank": 6,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 7,
@@ -755,6 +755,14 @@
         },
         {
           "rank": 19,
+          "name": "Suki Waterhouse",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1696da72cfcb968be92b84d4",
+          "genres": [],
+          "uri": "spotify:artist:5GGJosGMs08YEmKTZJe1fL",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        },
+        {
+          "rank": 20,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
