@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-02T10:28:09.293Z",
+  "updated_at": "2026-11-02T21:19:27.555Z",
   "plays": [
-    {
-      "played_at": "2026-08-02T07:09:40.242Z",
-      "name": "The Edge Of Memory",
-      "artists": [
-        "Flawed Mangoes"
-      ],
-      "album": "Killswitch Melodies",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bf870840227ff8f8af84705e",
-      "uri": "spotify:track:2432PpbEeepJTvQRT2QZ78",
-      "duration_ms": 177427
-    },
-    {
-      "played_at": "2026-08-02T07:10:43.008Z",
-      "name": "Waiting",
-      "artists": [
-        "leverfall"
-      ],
-      "album": "Waiting",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731d11f6a209d5db90b4f68e6f",
-      "uri": "spotify:track:0n20laNpcg84CViNdXbwsE",
-      "duration_ms": 61522
-    },
     {
       "played_at": "2026-08-02T07:15:52.908Z",
       "name": "On Possession",
@@ -22216,6 +22194,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2736e7b0061bc080ec7d61bba47",
       "uri": "spotify:track:7ci8UKkaffhrdXN4vbt15m",
       "duration_ms": 322680
+    },
+    {
+      "played_at": "2026-11-02T20:52:51.183Z",
+      "name": "Trouble",
+      "artists": [
+        "Hope Sandoval & The Warm Inventions"
+      ],
+      "album": "Through The Devil Softly",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e7b0061bc080ec7d61bba47",
+      "uri": "spotify:track:7ci8UKkaffhrdXN4vbt15m",
+      "duration_ms": 322680
+    },
+    {
+      "played_at": "2026-11-02T21:01:50.744Z",
+      "name": "Yayo",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die – Paradise Edition (Special Version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
+      "uri": "spotify:track:34l2nKu9kSj0BZahVIAT3L",
+      "duration_ms": 321053
     }
   ]
 }
