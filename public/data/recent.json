@@ -1,183 +1,6 @@
 {
-  "updated_at": "2026-11-02T21:19:27.555Z",
+  "updated_at": "2026-11-03T05:05:34.416Z",
   "plays": [
-    {
-      "played_at": "2026-08-02T07:15:52.908Z",
-      "name": "On Possession",
-      "artists": [
-        "Sea Oleena"
-      ],
-      "album": "Weaving a Basket",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738d85b2a8d631a92e2b442aa8",
-      "uri": "spotify:track:6aRxPUFYYelGmVtDLriWXO",
-      "duration_ms": 309520
-    },
-    {
-      "played_at": "2026-08-02T07:20:21.861Z",
-      "name": "Call Me",
-      "artists": [
-        "Gigi Masin"
-      ],
-      "album": "Wind",
-      "image": "https://i.scdn.co/image/ab67616d0000b273feb70b207347e24304d9c023",
-      "uri": "spotify:track:3KEjqz0kXInHGqMYRKAiew",
-      "duration_ms": 268500
-    },
-    {
-      "played_at": "2026-08-02T07:24:12.361Z",
-      "name": "The Beach (Instrumental)",
-      "artists": [
-        "mxpheebz"
-      ],
-      "album": "The Beach (Instrumental)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e38d0ad0fb108a46e2d7768c",
-      "uri": "spotify:track:5cDNzcok72q3HC0Lw6FyAR",
-      "duration_ms": 230038
-    },
-    {
-      "played_at": "2026-08-02T17:21:51.351Z",
-      "name": "Missing Pieces",
-      "artists": [
-        "Flawed Mangoes"
-      ],
-      "album": "The Unwavering Hand",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737e69db58ddd04401750fc73e",
-      "uri": "spotify:track:4Y7kSEgDsV4U4iPfbPqJX5",
-      "duration_ms": 201818
-    },
-    {
-      "played_at": "2026-08-02T17:26:29.867Z",
-      "name": "Pretty When You Cry",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
-      "duration_ms": 234146
-    },
-    {
-      "played_at": "2026-08-02T17:28:17.627Z",
-      "name": "Tattoo",
-      "artists": [
-        "ShyBully"
-      ],
-      "album": "Tattoo",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ba019533fccaf98a41901fe8",
-      "uri": "spotify:track:4euQ7vAaBdNCmoVcqND2l7",
-      "duration_ms": 107303
-    },
-    {
-      "played_at": "2026-08-02T17:29:46.551Z",
-      "name": "hope you're happy",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hope you're happy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fa1b81aca85ce8460abdc6d6",
-      "uri": "spotify:track:1f7ycIZhPsNe5ylQyn46nJ",
-      "duration_ms": 88484
-    },
-    {
-      "played_at": "2026-08-02T17:35:53.668Z",
-      "name": "I'm Not In Love",
-      "artists": [
-        "10cc"
-      ],
-      "album": "The Original Soundtrack",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d3e47e52f8f218c9ba12b8eb",
-      "uri": "spotify:track:5HQEmiV2lKnSO6qa2fsR7x",
-      "duration_ms": 366640
-    },
-    {
-      "played_at": "2026-08-02T17:40:36.064Z",
-      "name": "Video Games",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die – Paradise Edition (Special Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
-      "uri": "spotify:track:3WD91HQDBIavSapet3ZpjG",
-      "duration_ms": 281946
-    },
-    {
-      "played_at": "2026-08-02T17:45:11.303Z",
-      "name": "Linger",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Stars: The Best Of The Cranberries 1992-2002",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
-      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
-      "duration_ms": 274773
-    },
-    {
-      "played_at": "2026-08-02T17:47:15.019Z",
-      "name": "Into Me",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Into You",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735b956c9f8b6f17910d7d0fdb",
-      "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
-      "duration_ms": 123253
-    },
-    {
-      "played_at": "2026-08-02T17:51:36.765Z",
-      "name": "Pandora",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:3SBhQh5X7tO8ejCMUdjSRu",
-      "duration_ms": 261293
-    },
-    {
-      "played_at": "2026-08-02T17:54:27.239Z",
-      "name": "i love u. (ultra slowed)",
-      "artists": [
-        "wiv"
-      ],
-      "album": "quiet disappearance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
-      "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
-      "duration_ms": 170008
-    },
-    {
-      "played_at": "2026-08-02T17:56:42.880Z",
-      "name": "strangers",
-      "artists": [
-        "proderics",
-        "melodybloom"
-      ],
-      "album": "strangers",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f753fa08e3115b19bd62ca10",
-      "uri": "spotify:track:20tqXTp7TJRtLA8s2vpgEB",
-      "duration_ms": 135192
-    },
-    {
-      "played_at": "2026-08-02T17:59:29.727Z",
-      "name": "misery.",
-      "artists": [
-        "pupsies"
-      ],
-      "album": "misery.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273316b7fde50dfbf4be72735c2",
-      "uri": "spotify:track:6De8sirPzVyAoBDlQpcutY",
-      "duration_ms": 166401
-    },
-    {
-      "played_at": "2026-08-02T18:02:33.494Z",
-      "name": "No One's Deserving",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
-      "duration_ms": 183317
-    },
     {
       "played_at": "2026-08-02T18:06:23.463Z",
       "name": "Leach",
@@ -22216,6 +22039,183 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f894be72a77b1488292672c7",
       "uri": "spotify:track:34l2nKu9kSj0BZahVIAT3L",
       "duration_ms": 321053
+    },
+    {
+      "played_at": "2026-11-02T22:11:11.914Z",
+      "name": "Sexy Boy",
+      "artists": [
+        "Air"
+      ],
+      "album": "Moon Safari",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737f4dc15877a3c43f611a2709",
+      "uri": "spotify:track:7Fx3o9QtK1vtpkEWkM6OJu",
+      "duration_ms": 298466
+    },
+    {
+      "played_at": "2026-11-02T22:50:19.974Z",
+      "name": "Angel",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Loveworm",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ceca3ef39ab8f9b59acff394",
+      "uri": "spotify:track:6mZPt7IcgSaqk5H4NX9a6f",
+      "duration_ms": 193253
+    },
+    {
+      "played_at": "2026-11-02T22:53:49.027Z",
+      "name": "yours, forever",
+      "artists": [
+        "frank"
+      ],
+      "album": "yours, forever",
+      "image": "https://i.scdn.co/image/ab67616d0000b273da78769a6edf29ac5d2871fd",
+      "uri": "spotify:track:0i9RiEyH3GFk6igXlpUPES",
+      "duration_ms": 208571
+    },
+    {
+      "played_at": "2026-11-02T23:01:25.822Z",
+      "name": "Everlong",
+      "artists": [
+        "Foo Fighters"
+      ],
+      "album": "The Colour And The Shape",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
+      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
+      "duration_ms": 250546
+    },
+    {
+      "played_at": "2026-11-02T23:05:03.022Z",
+      "name": "Join Me In Death",
+      "artists": [
+        "HIM"
+      ],
+      "album": "Razorblade Romance (Deluxe Remastered Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c32432a6118559878b79123",
+      "uri": "spotify:track:089jl361OtZ6VpYvhgPiTS",
+      "duration_ms": 216744
+    },
+    {
+      "played_at": "2026-11-02T23:07:51.997Z",
+      "name": "About A Girl",
+      "artists": [
+        "Nirvana"
+      ],
+      "album": "Bleach",
+      "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
+      "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
+      "duration_ms": 168428
+    },
+    {
+      "played_at": "2026-11-03T01:08:52.029Z",
+      "name": "Swan Song",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Honeymoon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "uri": "spotify:track:1DYRRZ5rSlc1PopnB7azLZ",
+      "duration_ms": 323475
+    },
+    {
+      "played_at": "2026-11-03T01:16:58.135Z",
+      "name": "Man in the Box",
+      "artists": [
+        "Alice In Chains"
+      ],
+      "album": "Facelift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cf83c82a8e976d7b51e2d00",
+      "uri": "spotify:track:6gZVQvQZOFpzIy3HblJ20F",
+      "duration_ms": 285200
+    },
+    {
+      "played_at": "2026-11-03T01:22:25.609Z",
+      "name": "All They Wanted",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "One Car Hits Another",
+      "image": "https://i.scdn.co/image/ab67616d0000b27341b6f280070b55314075fa6d",
+      "uri": "spotify:track:1lCc7W3oD5c3mA0NNpmdbg",
+      "duration_ms": 127875
+    },
+    {
+      "played_at": "2026-11-03T01:25:05.572Z",
+      "name": "Blue Fairy",
+      "artists": [
+        "Clarion"
+      ],
+      "album": "Blue Fairy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739b160b3ccd68a45f2359cffb",
+      "uri": "spotify:track:0tTfzkTDrCO9iX5hiBHjl7",
+      "duration_ms": 159527
+    },
+    {
+      "played_at": "2026-11-03T01:30:11.655Z",
+      "name": "Undone - The Sweater Song",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Weezer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
+      "duration_ms": 305533
+    },
+    {
+      "played_at": "2026-11-03T01:35:09.157Z",
+      "name": "Pillars",
+      "artists": [
+        "Sunny Day Real Estate"
+      ],
+      "album": "How It Feels To Be Something On",
+      "image": "https://i.scdn.co/image/ab67616d0000b273862746caa24330f9c01238a1",
+      "uri": "spotify:track:0nqItUdx96RDxP32foWt7H",
+      "duration_ms": 297066
+    },
+    {
+      "played_at": "2026-11-03T01:38:28.935Z",
+      "name": "Angel",
+      "artists": [
+        "NewDad"
+      ],
+      "album": "MADRA",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732392a7230aed7d58429151d1",
+      "uri": "spotify:track:1kiw6IXeTauPy3L964yxoZ",
+      "duration_ms": 199220
+    },
+    {
+      "played_at": "2026-11-03T01:42:25.731Z",
+      "name": "Rain",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:2ovLRfotBro4W3pRaEha8I",
+      "duration_ms": 236266
+    },
+    {
+      "played_at": "2026-11-03T01:47:23.671Z",
+      "name": "Black Sheep",
+      "artists": [
+        "Metric"
+      ],
+      "album": "Black Sheep",
+      "image": "https://i.scdn.co/image/ab67616d0000b273add7088b90038ceadcd09b78",
+      "uri": "spotify:track:72hSmnleYTiiOo23q8ZJIS",
+      "duration_ms": 297459
+    },
+    {
+      "played_at": "2026-11-03T01:51:07.915Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
     }
   ]
 }
