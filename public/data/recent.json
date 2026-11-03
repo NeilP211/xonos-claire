@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-03T13:31:01.364Z",
+  "updated_at": "2026-11-03T20:44:37.918Z",
   "plays": [
-    {
-      "played_at": "2026-08-02T18:06:23.463Z",
-      "name": "Leach",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
-      "duration_ms": 229515
-    },
-    {
-      "played_at": "2026-08-02T18:11:09.314Z",
-      "name": "Born To Die",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Born To Die - The Paradise Edition",
-      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
-      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
-      "duration_ms": 285400
-    },
-    {
-      "played_at": "2026-08-02T18:15:30.852Z",
-      "name": "No One's Deserving",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
-      "duration_ms": 183317
-    },
-    {
-      "played_at": "2026-08-02T18:19:20.825Z",
-      "name": "Leach",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
-      "duration_ms": 229515
-    },
-    {
-      "played_at": "2026-08-02T18:21:17.404Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
-    {
-      "played_at": "2026-08-02T18:24:53.061Z",
-      "name": "Nobody New",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Nobody New",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-      "duration_ms": 215200
-    },
     {
       "played_at": "2026-08-02T18:50:41.790Z",
       "name": "Monolith",
@@ -22216,6 +22150,73 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
       "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
       "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-11-03T08:36:40.234Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-11-03T15:21:04.302Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-11-03T15:25:51.138Z",
+      "name": "Stranger In You",
+      "artists": [
+        "Ebril"
+      ],
+      "album": "In Copula",
+      "image": "https://i.scdn.co/image/ab67616d0000b27329c1b768bfafff6f8c86fd28",
+      "uri": "spotify:track:0u1xjU4iiZYgChkqGfIp1y",
+      "duration_ms": 133333
+    },
+    {
+      "played_at": "2026-11-03T15:29:57.540Z",
+      "name": "We Say Goodbye",
+      "artists": [
+        "Solya"
+      ],
+      "album": "We Say Goodbye",
+      "image": "https://i.scdn.co/image/ab67616d0000b27312356fdfa8db22b79dfca53c",
+      "uri": "spotify:track:5YhYzgnAgRj1sKXLqcaM6N",
+      "duration_ms": 143267
+    },
+    {
+      "played_at": "2026-11-03T15:32:01.335Z",
+      "name": "Perfect Pair",
+      "artists": [
+        "R.L. Beats"
+      ],
+      "album": "Perfect Pair",
+      "image": "https://i.scdn.co/image/ab67616d0000b273589a0c98518fcf7d408c16d7",
+      "uri": "spotify:track:1J6ZMaOzEvsy3pPFbMi1LB",
+      "duration_ms": 123287
+    },
+    {
+      "played_at": "2026-11-03T15:35:09.636Z",
+      "name": "the way things go",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "the way things go",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402",
+      "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
+      "duration_ms": 187800
     }
   ]
 }
