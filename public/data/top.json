@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T20:44:37.506Z",
+  "generated_at": "2026-11-04T01:00:21.666Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -450,6 +450,18 @@
         },
         {
           "rank": 38,
+          "name": "Breed - Remastered",
+          "artists": [
+            "Nirvana"
+          ],
+          "album": "Nevermind (30th Anniversary Super Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
+          "uri": "spotify:track:31T3xoQRBLl81KPQJWXD6A",
+          "url": "https://open.spotify.com/track/31T3xoQRBLl81KPQJWXD6A",
+          "duration_ms": 183333
+        },
+        {
+          "rank": 39,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -461,7 +473,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -473,7 +485,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Into Dark",
           "artists": [
             "Annie Baltic"
@@ -485,7 +497,7 @@
           "duration_ms": 165597
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -498,7 +510,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Strange",
           "artists": [
             "Vincemp3"
@@ -510,7 +522,7 @@
           "duration_ms": 225038
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "HALLOWEEN",
           "artists": [
             "Current Joys"
@@ -522,7 +534,7 @@
           "duration_ms": 215711
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Learn to Fly",
           "artists": [
             "Foo Fighters"
@@ -534,7 +546,7 @@
           "duration_ms": 235293
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Flying",
           "artists": [
             "Dan Cullen",
@@ -547,7 +559,7 @@
           "duration_ms": 246765
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Letters",
           "artists": [
             "Abel Korzeniowski"
@@ -559,7 +571,7 @@
           "duration_ms": 259213
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -572,7 +584,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Write Me A Letter",
           "artists": [
             "beabadoobee"
@@ -584,7 +596,7 @@
           "duration_ms": 194103
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -594,18 +606,6 @@
           "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
           "url": "https://open.spotify.com/track/2VtXANhW6YpAzsMDQCFkAv",
           "duration_ms": 229728
-        },
-        {
-          "rank": 50,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         }
       ],
       "artists": [
@@ -627,19 +627,19 @@
         },
         {
           "rank": 3,
-          "name": "Abel Korzeniowski",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1470dc2e1d28f770429e6b55",
-          "genres": [],
-          "uri": "spotify:artist:5RGAUCWFZyymaMSAZJeice",
-          "url": "https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice"
-        },
-        {
-          "rank": 4,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        },
+        {
+          "rank": 4,
+          "name": "Abel Korzeniowski",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1470dc2e1d28f770429e6b55",
+          "genres": [],
+          "uri": "spotify:artist:5RGAUCWFZyymaMSAZJeice",
+          "url": "https://open.spotify.com/artist/5RGAUCWFZyymaMSAZJeice"
         },
         {
           "rank": 5,
