@@ -1,174 +1,6 @@
 {
-  "updated_at": "2026-11-06T01:20:09.102Z",
+  "updated_at": "2026-11-06T10:18:36.849Z",
   "plays": [
-    {
-      "played_at": "2026-08-07T18:39:32.139Z",
-      "name": "demise",
-      "artists": [
-        "death by falling"
-      ],
-      "album": "demise",
-      "image": "https://i.scdn.co/image/ab67616d0000b27386c57cd3066a6163db4e90a4",
-      "uri": "spotify:track:58RkkDUjchw6afFkItEgy7",
-      "duration_ms": 162059
-    },
-    {
-      "played_at": "2026-08-07T18:41:54.499Z",
-      "name": "childhood - Instrumental Version",
-      "artists": [
-        "daniel.mp3",
-        "Zamaro"
-      ],
-      "album": "childhood (Instrumental Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738881b9fabf29c670a212b02c",
-      "uri": "spotify:track:1BkkFDeXd3DuGPsYM9Yx5K",
-      "duration_ms": 141921
-    },
-    {
-      "played_at": "2026-08-08T01:47:29.649Z",
-      "name": "childhood - Instrumental Version",
-      "artists": [
-        "daniel.mp3",
-        "Zamaro"
-      ],
-      "album": "childhood (Instrumental Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738881b9fabf29c670a212b02c",
-      "uri": "spotify:track:1BkkFDeXd3DuGPsYM9Yx5K",
-      "duration_ms": 141921
-    },
-    {
-      "played_at": "2026-08-08T01:51:39.056Z",
-      "name": "Vanished",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-      "duration_ms": 242960
-    },
-    {
-      "played_at": "2026-08-08T01:56:11.257Z",
-      "name": "Yugoslavskiy Groove",
-      "artists": [
-        "Soft Blade"
-      ],
-      "album": "Softic",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730964e199a69d8152017d0a88",
-      "uri": "spotify:track:0CRZ3cFFZEUglP5RlU2f9o",
-      "duration_ms": 244000
-    },
-    {
-      "played_at": "2026-08-08T02:00:30.144Z",
-      "name": "Crimewave",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:1xzsEmaU4IXjvxxwQlA8Lz",
-      "duration_ms": 258453
-    },
-    {
-      "played_at": "2026-08-08T02:08:30.976Z",
-      "name": "Vampiro",
-      "artists": [
-        "French Police"
-      ],
-      "album": "Haunted Castle (Extended Play)",
-      "image": "https://i.scdn.co/image/ab67616d0000b27357c113f0a42bc3d06a08fee6",
-      "uri": "spotify:track:2ZgKOGthLtSzmDWde75FtY",
-      "duration_ms": 136803
-    },
-    {
-      "played_at": "2026-08-08T02:16:10.331Z",
-      "name": "Leni (Crystal Castles vs GoodBooks)",
-      "artists": [
-        "GoodBooks",
-        "Crystal Castles"
-      ],
-      "album": "Control Freaks (The Remixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f521dbee5da92520be22d63b",
-      "uri": "spotify:track:6slWUMiyoNNWcQGu6tkTlH",
-      "duration_ms": 256398
-    },
-    {
-      "played_at": "2026-08-08T02:56:37.922Z",
-      "name": "Pretty Boy",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Death of a Party Girl",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731556d166d0ed059b34a00e1b",
-      "uri": "spotify:track:2vVXZKnEIU5j0yVDGQX46l",
-      "duration_ms": 166000
-    },
-    {
-      "played_at": "2026-08-08T03:27:36.652Z",
-      "name": "Laura",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Lonely Women",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ecf2eb70f21d2ef61680ab72",
-      "uri": "spotify:track:0JB7DcI1AJZUaytdPQll0Z",
-      "duration_ms": 215394
-    },
-    {
-      "played_at": "2026-08-08T05:08:57.621Z",
-      "name": "Louise",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-      "duration_ms": 194453
-    },
-    {
-      "played_at": "2026-08-08T18:00:49.575Z",
-      "name": "Young",
-      "artists": [
-        "Vacations"
-      ],
-      "album": "Vibes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
-      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
-      "duration_ms": 189160
-    },
-    {
-      "played_at": "2026-08-09T04:33:40.693Z",
-      "name": "Closure",
-      "artists": [
-        "Chevelle"
-      ],
-      "album": "Wonder What's Next (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
-      "uri": "spotify:track:3wwoB2eYeGnuOSuIYqXEdl",
-      "duration_ms": 251800
-    },
-    {
-      "played_at": "2026-08-09T04:36:52.048Z",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740
-    },
-    {
-      "played_at": "2026-08-09T04:38:45.216Z",
-      "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "Hatful of Hollow",
-      "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660",
-      "uri": "spotify:track:6BrMEbPSSj55nQhkgf6DnE",
-      "duration_ms": 112706
-    },
     {
       "played_at": "2026-08-09T04:40:57.812Z",
       "name": "Beanie",
@@ -22221,6 +22053,171 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f80c6f7889f034a6e9f44947",
       "uri": "spotify:track:6xN1tjRU7FDcwqylM1wfre",
       "duration_ms": 229103
+    },
+    {
+      "played_at": "2026-11-06T03:58:55.403Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:4nPkOVxpgSMYVOb8YJv6Sc",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-11-06T04:04:40.469Z",
+      "name": "976-EVIL",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:6aN4NJSDzO0qQSyrlZyql0",
+      "duration_ms": 272560
+    },
+    {
+      "played_at": "2026-11-06T04:07:49.179Z",
+      "name": "Diamond Eyes",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:5zbCDA6QlScwMdl8TCaYlm",
+      "duration_ms": 188266
+    },
+    {
+      "played_at": "2026-11-06T04:11:59.208Z",
+      "name": "Hole in the Earth",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:1BtTF0QcV75B16GbAujxoN",
+      "duration_ms": 249506
+    },
+    {
+      "played_at": "2026-11-06T04:17:27.868Z",
+      "name": "Deathblow",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:4Od10pSvFp9DnUW9uL9HhM",
+      "duration_ms": 328173
+    },
+    {
+      "played_at": "2026-11-06T04:38:17.004Z",
+      "name": "Minerva",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:23oW2YterQoC1rlkslkKJ4",
+      "duration_ms": 257813
+    },
+    {
+      "played_at": "2026-11-06T04:42:02.769Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:35LOWnUVpr5TmgqfwyiERf",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-11-06T04:45:42.140Z",
+      "name": "Risk",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:1YBcaD5lKRS3XCZuN8GjhQ",
+      "duration_ms": 218800
+    },
+    {
+      "played_at": "2026-11-06T04:49:31.508Z",
+      "name": "This Place Is Death",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:0Ln79iqU5OpUH4SFQ3KrvQ",
+      "duration_ms": 228933
+    },
+    {
+      "played_at": "2026-11-06T04:52:17.053Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:4nPkOVxpgSMYVOb8YJv6Sc",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-11-06T04:56:55.071Z",
+      "name": "Romantic Dreams",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:4crgoNPYN42xNdZuLzYcdO",
+      "duration_ms": 278106
+    },
+    {
+      "played_at": "2026-11-06T05:01:04.002Z",
+      "name": "Leathers",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:5jVDOVRGkOxUHY5RQf6fTI",
+      "duration_ms": 248893
+    },
+    {
+      "played_at": "2026-11-06T05:03:30.203Z",
+      "name": "CMND/CTRL",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:1K1ftY1nSDJiFslBZ05Rml",
+      "duration_ms": 145666
+    },
+    {
+      "played_at": "2026-11-06T05:08:29.864Z",
+      "name": "Entombed",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:5SHkSvNnHMG5LaaKJty0mz",
+      "duration_ms": 299240
+    },
+    {
+      "played_at": "2026-11-06T05:14:35.873Z",
+      "name": "Tempest",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:3Rf6v6yyamwnrVcr4yIOSh",
+      "duration_ms": 365480
     }
   ]
 }
