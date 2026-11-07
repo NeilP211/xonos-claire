@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-11-06T18:48:23.904Z",
+  "updated_at": "2026-11-07T00:34:47.191Z",
   "plays": [
-    {
-      "played_at": "2026-08-09T05:02:36.424Z",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740
-    },
-    {
-      "played_at": "2026-08-09T05:08:07.969Z",
-      "name": "Silver Soul",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Teen Dream",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739ba6a1b973e91955ab23c50c",
-      "uri": "spotify:track:2LZ2CNbcbJrwh53pitRgom",
-      "duration_ms": 298680
-    },
-    {
-      "played_at": "2026-08-09T05:10:12.913Z",
-      "name": "The Way I Feel",
-      "artists": [
-        "Basement"
-      ],
-      "album": "The Way I Feel",
-      "image": "https://i.scdn.co/image/ab6742d3000053b785b617ad6b05e02a6695606e",
-      "uri": "spotify:track:0NnkBlDN23zcSRKUpxSqz0",
-      "duration_ms": 169898
-    },
-    {
-      "played_at": "2026-08-09T05:12:53.038Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
     {
       "played_at": "2026-08-09T05:16:27.543Z",
       "name": "Her",
@@ -22218,6 +22174,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
       "uri": "spotify:track:23ZfYXdy2deoaf4u1XObHZ",
       "duration_ms": 278106
+    },
+    {
+      "played_at": "2026-11-07T00:20:15.411Z",
+      "name": "Goon Squad",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:2iVntH88RxmBmKTc9v90MF",
+      "duration_ms": 340000
+    },
+    {
+      "played_at": "2026-11-07T00:23:47.311Z",
+      "name": "Poltergeist",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:5C7qsvcLDVmpb0o9X3GNlt",
+      "duration_ms": 211413
+    },
+    {
+      "played_at": "2026-11-07T00:28:46.520Z",
+      "name": "Entombed",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:5SHkSvNnHMG5LaaKJty0mz",
+      "duration_ms": 299240
+    },
+    {
+      "played_at": "2026-11-07T00:33:17.980Z",
+      "name": "Graphic Nature",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "The Studio Album Collection",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373efcc27c1611c2ca389c8fd",
+      "uri": "spotify:track:0lXOVEb58PxyCmVD6Hvhut",
+      "duration_ms": 271533
     }
   ]
 }
