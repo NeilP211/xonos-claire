@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:19:55.051Z",
+  "generated_at": "2026-11-07T21:22:14.131Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -17,18 +17,6 @@
         },
         {
           "rank": 2,
-          "name": "Radio",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
-          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
-          "duration_ms": 160230
-        },
-        {
-          "rank": 3,
           "name": "Dawn of the Sun",
           "artists": [
             "softsurf"
@@ -38,6 +26,18 @@
           "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
           "url": "https://open.spotify.com/track/5aF5DeX3VGCp3qFZ8hXtp5",
           "duration_ms": 244133
+        },
+        {
+          "rank": 3,
+          "name": "Radio",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
+          "duration_ms": 160230
         },
         {
           "rank": 4,
@@ -130,10 +130,10 @@
             "Vincemp3"
           ],
           "album": "Abbi",
-          "image": "https://i.scdn.co/image/ab67616d0000b27308bd664a1d2f1433876f5d68",
-          "uri": "spotify:track:7iIQkOIwWJoZeTMJgBwuq8",
-          "url": "https://open.spotify.com/track/7iIQkOIwWJoZeTMJgBwuq8",
-          "duration_ms": 160867
+          "image": "https://i.scdn.co/image/ab67616d0000b273532954e14a32492b4bdfaf48",
+          "uri": "spotify:track:22UUd8vw5Ow7xAl11OX5qd",
+          "url": "https://open.spotify.com/track/22UUd8vw5Ow7xAl11OX5qd",
+          "duration_ms": 160821
         },
         {
           "rank": 12,
@@ -425,18 +425,6 @@
         },
         {
           "rank": 36,
-          "name": "brutal",
-          "artists": [
-            "Olivia Rodrigo"
-          ],
-          "album": "SOUR",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
-          "uri": "spotify:track:6SRsiMl7w1USE4mFqrOhHC",
-          "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC",
-          "duration_ms": 143746
-        },
-        {
-          "rank": 37,
           "name": "La terre vue du ciel",
           "artists": [
             "Armand Amar"
@@ -448,7 +436,7 @@
           "duration_ms": 616086
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -460,7 +448,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -472,7 +460,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -484,7 +472,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -496,7 +484,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -508,7 +496,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -520,7 +508,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -532,7 +520,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -545,7 +533,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "Strange",
           "artists": [
             "Vincemp3"
@@ -557,7 +545,7 @@
           "duration_ms": 225038
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "HALLOWEEN",
           "artists": [
             "Current Joys"
@@ -569,7 +557,7 @@
           "duration_ms": 215711
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "Learn to Fly",
           "artists": [
             "Foo Fighters"
@@ -581,7 +569,7 @@
           "duration_ms": 235293
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Flying",
           "artists": [
             "Dan Cullen",
@@ -594,7 +582,7 @@
           "duration_ms": 246765
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "I Just Threw Out The Love Of My Dreams",
           "artists": [
             "Weezer"
@@ -604,6 +592,18 @@
           "uri": "spotify:track:5cKZYv4D4lJkLioWIBJRvN",
           "url": "https://open.spotify.com/track/5cKZYv4D4lJkLioWIBJRvN",
           "duration_ms": 157960
+        },
+        {
+          "rank": 50,
+          "name": "Letters",
+          "artists": [
+            "Abel Korzeniowski"
+          ],
+          "album": "W.E. - Music From The Motion Picture",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b96aa371fa634f635ab2a2d4",
+          "uri": "spotify:track:7ADpLwo307sPU6jqQnOgzw",
+          "url": "https://open.spotify.com/track/7ADpLwo307sPU6jqQnOgzw",
+          "duration_ms": 259213
         }
       ],
       "artists": [
@@ -681,14 +681,6 @@
         },
         {
           "rank": 10,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 11,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
           "genres": [],
@@ -696,7 +688,7 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 12,
+          "rank": 11,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
@@ -704,7 +696,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 13,
+          "rank": 12,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -712,7 +704,7 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
           "genres": [],
@@ -720,12 +712,20 @@
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        {
+          "rank": 15,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 16,

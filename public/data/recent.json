@@ -1,28 +1,6 @@
 {
-  "updated_at": "2026-11-07T17:19:55.119Z",
+  "updated_at": "2026-11-07T21:22:14.230Z",
   "plays": [
-    {
-      "played_at": "2026-08-09T06:28:49.680Z",
-      "name": "Sunday - Remastered 2026",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
-      "uri": "spotify:track:2nTcgF0BGEJBI3argOQWps",
-      "duration_ms": 210760
-    },
-    {
-      "played_at": "2026-08-09T06:37:25.556Z",
-      "name": "Duvet",
-      "artists": [
-        "bôa"
-      ],
-      "album": "Twilight",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
-      "uri": "spotify:track:42qNWdLKCI41S4uzfamhFM",
-      "duration_ms": 203600
-    },
     {
       "played_at": "2026-08-09T06:41:39.306Z",
       "name": "Heavy",
@@ -22217,6 +22195,28 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27344d6ec5fb0a74c51db1bfd9f",
       "uri": "spotify:track:6WZt5mCpGrWeGIFrREeE2t",
       "duration_ms": 230200
+    },
+    {
+      "played_at": "2026-11-07T20:06:22.272Z",
+      "name": "鴿哨",
+      "artists": [
+        "缺省"
+      ],
+      "album": "California Nebula",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736ef15af90a01c3453339a2f2",
+      "uri": "spotify:track:27pcK7Kva8Wk3DM7j5dUrJ",
+      "duration_ms": 346997
+    },
+    {
+      "played_at": "2026-11-07T20:26:22.399Z",
+      "name": "Dawn of the Sun",
+      "artists": [
+        "softsurf"
+      ],
+      "album": "Into the Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad9723af7930c8ce617b5b75",
+      "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
+      "duration_ms": 244133
     }
   ]
 }
