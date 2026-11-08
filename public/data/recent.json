@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-08T04:05:31.262Z",
+  "updated_at": "2026-11-08T12:39:53.032Z",
   "plays": [
-    {
-      "played_at": "2026-08-10T04:34:27.383Z",
-      "name": "Black Hair Beauty",
-      "artists": [
-        "SKARS"
-      ],
-      "album": "Decay",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736b2925c62002041abf926b48",
-      "uri": "spotify:track:1NXR0bj4cWRohhXxQmRjEc",
-      "duration_ms": 150843
-    },
     {
       "played_at": "2026-08-10T05:39:43.397Z",
       "name": "Brian is the Most Beautiful",
@@ -22218,6 +22207,17 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
       "uri": "spotify:track:269xqcgGTN9PlivhUkOLhX",
       "duration_ms": 238718
+    },
+    {
+      "played_at": "2026-11-08T07:01:46.780Z",
+      "name": "Flash",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:6eknHC7HjAKchl23x2A7dW",
+      "duration_ms": 274106
     }
   ]
 }
