@@ -1,339 +1,6 @@
 {
-  "updated_at": "2026-11-07T21:22:14.230Z",
+  "updated_at": "2026-11-08T04:05:31.262Z",
   "plays": [
-    {
-      "played_at": "2026-08-09T06:41:39.306Z",
-      "name": "Heavy",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "CINEMA",
-      "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
-      "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1",
-      "duration_ms": 253213
-    },
-    {
-      "played_at": "2026-08-09T06:46:22.432Z",
-      "name": "Whole",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:29EPImPtRiMHXONTJGMhip",
-      "duration_ms": 190641
-    },
-    {
-      "played_at": "2026-08-09T06:50:13.810Z",
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Smiths",
-      "image": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085",
-      "uri": "spotify:track:3wUMcPzXcmaeW8QxTdyXQO",
-      "duration_ms": 223253
-    },
-    {
-      "played_at": "2026-08-09T06:54:21.444Z",
-      "name": "Unloveable - 2017 Master",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Queen Is Dead (Deluxe Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731975ea8dd6bc8157dcaef1af",
-      "uri": "spotify:track:14WNN9XlshGSckMBNcP6Ez",
-      "duration_ms": 235706
-    },
-    {
-      "played_at": "2026-08-09T06:58:27.116Z",
-      "name": "No. 1 Party Anthem",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:5TTGoX70AFrTvuEtqHK37S",
-      "duration_ms": 243131
-    },
-    {
-      "played_at": "2026-08-09T07:06:15.418Z",
-      "name": "Weird Fishes / Arpeggi",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "In Rainbows",
-      "image": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
-      "uri": "spotify:track:4wajJ1o7jWIg62YqpkHC7S",
-      "duration_ms": 318186
-    },
-    {
-      "played_at": "2026-08-09T07:09:33.595Z",
-      "name": "Mary",
-      "artists": [
-        "Alex G"
-      ],
-      "album": "Trick",
-      "image": "https://i.scdn.co/image/ab67616d0000b273967a4c16d8a54f634979cceb",
-      "uri": "spotify:track:4p9iQNEmsIGkB6eG8Val8n",
-      "duration_ms": 197733
-    },
-    {
-      "played_at": "2026-08-09T07:13:37.670Z",
-      "name": "Dream, Ivory",
-      "artists": [
-        "Dream, Ivory"
-      ],
-      "album": "Dream, Ivory",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b405027d5b63acb6945f3beb",
-      "uri": "spotify:track:6Hzle86uYcpy3QkcCmMKgE",
-      "duration_ms": 188265
-    },
-    {
-      "played_at": "2026-08-09T18:11:04.869Z",
-      "name": "Undone - The Sweater Song",
-      "artists": [
-        "Weezer"
-      ],
-      "album": "Weezer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
-      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
-      "duration_ms": 305533
-    },
-    {
-      "played_at": "2026-08-09T18:48:40.668Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-08-09T18:51:55.479Z",
-      "name": "Louise",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-      "duration_ms": 194453
-    },
-    {
-      "played_at": "2026-08-09T18:57:18.005Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-08-09T23:52:52.137Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-08-09T23:55:48.919Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-08-09T23:58:21.237Z",
-      "name": "Dumb",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-      "duration_ms": 151893
-    },
-    {
-      "played_at": "2026-08-10T03:43:29.553Z",
-      "name": "grave",
-      "artists": [
-        "kyszenn"
-      ],
-      "album": "grave",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b2fd5e3e779efd0bc44d9168",
-      "uri": "spotify:track:2SmF9INQrybbcScwMqSnEO",
-      "duration_ms": 145123
-    },
-    {
-      "played_at": "2026-08-10T03:47:19.785Z",
-      "name": "Your face",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-      "duration_ms": 229728
-    },
-    {
-      "played_at": "2026-08-10T03:52:22.619Z",
-      "name": "(L)MIRL",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Gore",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
-      "uri": "spotify:track:4hYNZvsCnAOZP0lADhpmgC",
-      "duration_ms": 302413
-    },
-    {
-      "played_at": "2026-08-10T03:55:05.941Z",
-      "name": "feel your heart",
-      "artists": [
-        "pinkwoodz",
-        "kyszenn"
-      ],
-      "album": "feel your heart",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ba7e23e9e4fb936b28c98ae7",
-      "uri": "spotify:track:0AONViVVEpqt6PMxPReORL",
-      "duration_ms": 162899
-    },
-    {
-      "played_at": "2026-08-10T03:57:15.328Z",
-      "name": "Save the World",
-      "artists": [
-        "We Are Not Friends",
-        "Nextime"
-      ],
-      "album": "Save the World",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734c1682ea81e21202df79d220",
-      "uri": "spotify:track:6wF1rPeGa5a7kyWO80P0AP",
-      "duration_ms": 128955
-    },
-    {
-      "played_at": "2026-08-10T03:59:40.989Z",
-      "name": "molly and sex",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "DEAR DIARY",
-      "image": "https://i.scdn.co/image/ab67616d0000b27356247d72afaf360ff1b48acf",
-      "uri": "spotify:track:5TI9MPAaOt7dqol5rPxynh",
-      "duration_ms": 145199
-    },
-    {
-      "played_at": "2026-08-10T04:04:06.103Z",
-      "name": "Monolith",
-      "artists": [
-        "Twin Tribes"
-      ],
-      "album": "Pendulum",
-      "image": "https://i.scdn.co/image/ab67616d0000b273654049c8cf6b041f21acee51",
-      "uri": "spotify:track:4T1oZ3UAFKbraSp5JAISWW",
-      "duration_ms": 264656
-    },
-    {
-      "played_at": "2026-08-10T04:06:19.220Z",
-      "name": "i love u. - slowed + reverb",
-      "artists": [
-        "wiv"
-      ],
-      "album": "i love u. (extras)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e57698883e7259c2218dd1f3",
-      "uri": "spotify:track:1gCpf5jhAqegPJeXG0BCn5",
-      "duration_ms": 132639
-    },
-    {
-      "played_at": "2026-08-10T04:07:49.187Z",
-      "name": "nothing is left",
-      "artists": [
-        "kyszenn"
-      ],
-      "album": "nothing is left",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735c3922f0baac4f088cf762d3",
-      "uri": "spotify:track:1N8Y9ZuBNaegZGm7ZFHLU5",
-      "duration_ms": 89488
-    },
-    {
-      "played_at": "2026-08-10T04:12:28.445Z",
-      "name": "Void in Blue",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Void in Blue",
-      "image": "https://i.scdn.co/image/ab67616d0000b27358275126d7b69e097139fa22",
-      "uri": "spotify:track:0eZjwNa0wGZSzsOnt4T2hG",
-      "duration_ms": 278822
-    },
-    {
-      "played_at": "2026-08-10T04:15:08.884Z",
-      "name": "nothing left",
-      "artists": [
-        "We Are Not Friends",
-        "Nextime"
-      ],
-      "album": "The sun will rise again like nothing's wrong.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c85faf2578bd09d874cd8b17",
-      "uri": "spotify:track:6oowAH0MKFW7hXDzikZdNc",
-      "duration_ms": 160000
-    },
-    {
-      "played_at": "2026-08-10T04:17:39.905Z",
-      "name": "Euthanasia",
-      "artists": [
-        "NXW TIME"
-      ],
-      "album": "Euthanasia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273001a5748b8357b1c0a3a8ea9",
-      "uri": "spotify:track:4O7IlXQQFa8G34YFFaCw5S",
-      "duration_ms": 150588
-    },
-    {
-      "played_at": "2026-08-10T04:24:47.648Z",
-      "name": "WASTE",
-      "artists": [
-        "KXLLSWXTCH"
-      ],
-      "album": "DISORDER",
-      "image": "https://i.scdn.co/image/ab67616d0000b273933ae980d2d8a06b53226231",
-      "uri": "spotify:track:4NgherJDfCXWBZBYheM4jK",
-      "duration_ms": 120428
-    },
-    {
-      "played_at": "2026-08-10T04:29:04.978Z",
-      "name": "Cry",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:7mDTvYD2ieE4Q28XFziMfJ",
-      "duration_ms": 256799
-    },
-    {
-      "played_at": "2026-08-10T04:31:56.135Z",
-      "name": "Black Rose",
-      "artists": [
-        "SKARS"
-      ],
-      "album": "Black Rose",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ea2c2a2b0dd50d559f4317b9",
-      "uri": "spotify:track:1KpdXCRYGNqgVMjdp8MEiP",
-      "duration_ms": 137969
-    },
     {
       "played_at": "2026-08-10T04:34:27.383Z",
       "name": "Black Hair Beauty",
@@ -22217,6 +21884,340 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273ad9723af7930c8ce617b5b75",
       "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
       "duration_ms": 244133
+    },
+    {
+      "played_at": "2026-11-07T22:17:26.185Z",
+      "name": "Video Games",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:24jvD83UgLmrdGjhWTFslY",
+      "duration_ms": 281960
+    },
+    {
+      "played_at": "2026-11-07T22:20:11.668Z",
+      "name": "Swerve City",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:2OUR8g12h5qsGDs1v5lqvp",
+      "duration_ms": 164986
+    },
+    {
+      "played_at": "2026-11-07T22:23:55.924Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-11-07T23:11:09.142Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-11-07T23:13:03.946Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-11-07T23:17:35.016Z",
+      "name": "Your face",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
+      "duration_ms": 229728
+    },
+    {
+      "played_at": "2026-11-07T23:21:59.402Z",
+      "name": "Beaches",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "This Is How Tomorrow Moves",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
+      "uri": "spotify:track:1a19jsjG2DvbN1fVJonKUU",
+      "duration_ms": 230053
+    },
+    {
+      "played_at": "2026-11-07T23:40:39.535Z",
+      "name": "Petals",
+      "artists": [
+        "Hole"
+      ],
+      "album": "Celebrity Skin",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730649124c37ce988317263671",
+      "uri": "spotify:track:4VedfquAzkjR15ntcWmNfL",
+      "duration_ms": 329240
+    },
+    {
+      "played_at": "2026-11-07T23:44:10.511Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-11-07T23:46:02.618Z",
+      "name": "Stargirl Interlude",
+      "artists": [
+        "The Weeknd",
+        "Lana Del Rey"
+      ],
+      "album": "Starboy",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a048415db06a5b6fa7ec4e1a",
+      "uri": "spotify:track:5gDWsRxpJ2lZAffh5p7K0w",
+      "duration_ms": 111626
+    },
+    {
+      "played_at": "2026-11-07T23:49:32.617Z",
+      "name": "She's My Collar (feat. Kali Uchis)",
+      "artists": [
+        "Gorillaz",
+        "Kali Uchis"
+      ],
+      "album": "Humanz (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a5952c0e2e649f588603b743",
+      "uri": "spotify:track:3lIxtCaROdRDuTnNBDm3n2",
+      "duration_ms": 209560
+    },
+    {
+      "played_at": "2026-11-07T23:53:11.420Z",
+      "name": "Fuck it I love you",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Norman Fucking Rockwell!",
+      "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9",
+      "uri": "spotify:track:7MtVPRGtZl6rPjMfLoI3Lh",
+      "duration_ms": 218287
+    },
+    {
+      "played_at": "2026-11-08T00:02:11.787Z",
+      "name": "John Wayne",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
+      "duration_ms": 258013
+    },
+    {
+      "played_at": "2026-11-08T00:05:52.849Z",
+      "name": "In My Room",
+      "artists": [
+        "Julia Wolf"
+      ],
+      "album": "In My Room",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c314ae07968354119a803da",
+      "uri": "spotify:track:79IgD1wf3xltQdDK3l5Why",
+      "duration_ms": 163874
+    },
+    {
+      "played_at": "2026-11-08T00:10:02.625Z",
+      "name": "When I'm Small",
+      "artists": [
+        "Phantogram"
+      ],
+      "album": "Eyelid Movies",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735f192d3bcd5fed10b0884af9",
+      "uri": "spotify:track:1U3BASc885MPCYOzYwOIpO",
+      "duration_ms": 249066
+    },
+    {
+      "played_at": "2026-11-08T00:14:49.901Z",
+      "name": "Hot Blooded",
+      "artists": [
+        "New Constellations"
+      ],
+      "album": "It Comes in Waves",
+      "image": "https://i.scdn.co/image/ab67616d0000b273debbc97cbabb7e91e224d4db",
+      "uri": "spotify:track:1CLZzeLWqdhz5IfR5vHy4u",
+      "duration_ms": 287000
+    },
+    {
+      "played_at": "2026-11-08T00:30:31.979Z",
+      "name": "The Perfect Girl",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "The Perfect Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6",
+      "uri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh",
+      "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-11-08T00:31:24.174Z",
+      "name": "The Perfect Girl",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "The Perfect Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6",
+      "uri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh",
+      "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-11-08T00:35:28.745Z",
+      "name": "Dawn of the Sun",
+      "artists": [
+        "softsurf"
+      ],
+      "album": "Into the Dream",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ad9723af7930c8ce617b5b75",
+      "uri": "spotify:track:5aF5DeX3VGCp3qFZ8hXtp5",
+      "duration_ms": 244133
+    },
+    {
+      "played_at": "2026-11-08T00:40:12.191Z",
+      "name": "the perfect pair",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Beatopia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+      "uri": "spotify:track:41P6Tnd8KIHqON0QIydx6a",
+      "duration_ms": 177533
+    },
+    {
+      "played_at": "2026-11-08T00:43:53.525Z",
+      "name": "Fucked My Way Up To The Top",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:70Laus6ozJIHDpfTtUSmAZ",
+      "duration_ms": 212226
+    },
+    {
+      "played_at": "2026-11-08T00:46:26.188Z",
+      "name": "It Almost Worked",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "The Night in Question: French Exit Outtakes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
+      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
+      "duration_ms": 152000
+    },
+    {
+      "played_at": "2026-11-08T00:57:10.773Z",
+      "name": "Headache",
+      "artists": [
+        "Asal"
+      ],
+      "album": "Missing Something",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b8dde909d6e44be287c83cde",
+      "uri": "spotify:track:6juffWW6TFI5geCgjU6Lvp",
+      "duration_ms": 184000
+    },
+    {
+      "played_at": "2026-11-08T01:51:05.848Z",
+      "name": "Twilight",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:6d67Xv8ms2noA8wWFLiPDN",
+      "duration_ms": 228800
+    },
+    {
+      "played_at": "2026-11-08T01:58:48.054Z",
+      "name": "Touch",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:1v7ptGUBS2DbbRmfIG0hU2",
+      "duration_ms": 292853
+    },
+    {
+      "played_at": "2026-11-08T02:01:21.842Z",
+      "name": "Something About You",
+      "artists": [
+        "Eyedress",
+        "Dent May"
+      ],
+      "album": "Mulholland Drive",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
+      "uri": "spotify:track:3oNQ6NkihVzQkV5qhk2Pbe",
+      "duration_ms": 153312
+    },
+    {
+      "played_at": "2026-11-08T03:27:47.397Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-11-08T03:29:40.031Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-11-08T03:33:22.330Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-11-08T03:37:21.656Z",
+      "name": "In My Feelings",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Lust For Life",
+      "image": "https://i.scdn.co/image/ab67616d0000b27395e2fd1accb339fa14878190",
+      "uri": "spotify:track:269xqcgGTN9PlivhUkOLhX",
+      "duration_ms": 238718
     }
   ]
 }
