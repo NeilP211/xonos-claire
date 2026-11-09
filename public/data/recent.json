@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-11-09T10:50:13.352Z",
+  "updated_at": "2026-11-09T21:52:48.820Z",
   "plays": [
-    {
-      "played_at": "2026-08-11T22:07:16.836Z",
-      "name": "Louise",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-      "duration_ms": 194453
-    },
-    {
-      "played_at": "2026-08-11T22:11:23.544Z",
-      "name": "The Blonde",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
-      "duration_ms": 227760
-    },
-    {
-      "played_at": "2026-08-11T22:15:27.017Z",
-      "name": "Vanished",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-      "duration_ms": 242960
-    },
-    {
-      "played_at": "2026-08-11T22:18:24.412Z",
-      "name": "Do You Know Who You Are?",
-      "artists": [
-        "Texas Is The Reason"
-      ],
-      "album": "Do You Know Who You Are?: The Complete Collection",
-      "image": "https://i.scdn.co/image/ab67616d0000b273198d3379f0eb1599fc6a5da1",
-      "uri": "spotify:track:74HsNf2R9s09gpib6m9nbz",
-      "duration_ms": 163053
-    },
-    {
-      "played_at": "2026-08-11T22:23:46.299Z",
-      "name": "Swing Lynn",
-      "artists": [
-        "Harmless"
-      ],
-      "album": "I'm Sure",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735713e82880ef7c842a8f104e",
-      "uri": "spotify:track:3VCXx37jNGNOMns6z2OnvJ",
-      "duration_ms": 321438
-    },
     {
       "played_at": "2026-08-12T05:07:24.384Z",
       "name": "Where Is My Mind? - 2007 Remaster",
@@ -22220,6 +22165,62 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
       "uri": "spotify:track:24jvD83UgLmrdGjhWTFslY",
       "duration_ms": 281960
+    },
+    {
+      "played_at": "2026-11-09T15:26:53.488Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-11-09T15:30:48.159Z",
+      "name": "Pretty When You Cry",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:6PnluwP0fjGnpIBsqTdUTq",
+      "duration_ms": 234146
+    },
+    {
+      "played_at": "2026-11-09T15:34:32.416Z",
+      "name": "All I Did Was Dream of You (feat. The Marías)",
+      "artists": [
+        "beabadoobee",
+        "The Marías"
+      ],
+      "album": "All I Did Was Dream of You (feat. The Marías)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0cd9495603ed7f6b4867494",
+      "uri": "spotify:track:0qWoOHqTirzo59FQ9eoECH",
+      "duration_ms": 223788
+    },
+    {
+      "played_at": "2026-11-09T15:38:18.679Z",
+      "name": "All I Wanted",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "Brand New Eyes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6",
+      "uri": "spotify:track:1Bv3h7Vc4AaYA2BcSM3rVd",
+      "duration_ms": 225786
+    },
+    {
+      "played_at": "2026-11-09T15:43:05.981Z",
+      "name": "Heavenly",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cry",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
+      "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
+      "duration_ms": 286773
     }
   ]
 }
