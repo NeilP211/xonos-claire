@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:17:39.381Z",
+  "generated_at": "2026-11-09T00:27:08.377Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -257,6 +257,18 @@
         },
         {
           "rank": 22,
+          "name": "Flash",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+          "uri": "spotify:track:6eknHC7HjAKchl23x2A7dW",
+          "url": "https://open.spotify.com/track/6eknHC7HjAKchl23x2A7dW",
+          "duration_ms": 274106
+        },
+        {
+          "rank": 23,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -268,7 +280,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Trouble",
           "artists": [
             "Hope Sandoval & The Warm Inventions"
@@ -280,7 +292,7 @@
           "duration_ms": 322680
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Memories",
           "artists": [
             "beabadoobee"
@@ -292,7 +304,19 @@
           "duration_ms": 168733
         },
         {
-          "rank": 25,
+          "rank": 26,
+          "name": "Here With Me",
+          "artists": [
+            "d4vd"
+          ],
+          "album": "Here With Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4ddcc23f630f4c2728a5255",
+          "uri": "spotify:track:0dS2u2UFd88TIzDDaZDLvS",
+          "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS",
+          "duration_ms": 242484
+        },
+        {
+          "rank": 27,
           "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
           "artists": [
             "Craig Armstrong"
@@ -304,7 +328,7 @@
           "duration_ms": 279546
         },
         {
-          "rank": 26,
+          "rank": 28,
           "name": "Burn The Bones",
           "artists": [
             "Kodain"
@@ -316,7 +340,7 @@
           "duration_ms": 174456
         },
         {
-          "rank": 27,
+          "rank": 29,
           "name": "Tempest",
           "artists": [
             "Deftones"
@@ -328,7 +352,7 @@
           "duration_ms": 365480
         },
         {
-          "rank": 28,
+          "rank": 30,
           "name": "Romantic Dreams",
           "artists": [
             "Deftones"
@@ -340,7 +364,7 @@
           "duration_ms": 278106
         },
         {
-          "rank": 29,
+          "rank": 31,
           "name": "Dawn of Faith",
           "artists": [
             "Eternal Eclipse"
@@ -352,7 +376,19 @@
           "duration_ms": 193239
         },
         {
-          "rank": 30,
+          "rank": 32,
+          "name": "Perfume & Cigarettes",
+          "artists": [
+            "Wisborg"
+          ],
+          "album": "Into the Void",
+          "image": "https://i.scdn.co/image/ab67616d0000b27331d9d5a790120442acb8fb00",
+          "uri": "spotify:track:2YQPSPFlgwwNt4Lsy5LpdO",
+          "url": "https://open.spotify.com/track/2YQPSPFlgwwNt4Lsy5LpdO",
+          "duration_ms": 262000
+        },
+        {
+          "rank": 33,
           "name": "976-EVIL",
           "artists": [
             "Deftones"
@@ -364,7 +400,7 @@
           "duration_ms": 272560
         },
         {
-          "rank": 31,
+          "rank": 34,
           "name": "Truman Sleeps",
           "artists": [
             "Philip Glass"
@@ -376,7 +412,7 @@
           "duration_ms": 111831
         },
         {
-          "rank": 32,
+          "rank": 35,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -388,7 +424,7 @@
           "duration_ms": 299240
         },
         {
-          "rank": 33,
+          "rank": 36,
           "name": "Rain, in Your Black Eyes",
           "artists": [
             "Ezio Bosso"
@@ -400,7 +436,7 @@
           "duration_ms": 664560
         },
         {
-          "rank": 34,
+          "rank": 37,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -412,7 +448,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 35,
+          "rank": 38,
           "name": "Summer 78 (2)",
           "artists": [
             "Yann Tiersen"
@@ -424,7 +460,7 @@
           "duration_ms": 230680
         },
         {
-          "rank": 36,
+          "rank": 39,
           "name": "La terre vue du ciel",
           "artists": [
             "Armand Amar"
@@ -436,7 +472,7 @@
           "duration_ms": 616086
         },
         {
-          "rank": 37,
+          "rank": 40,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -448,7 +484,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 38,
+          "rank": 41,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -460,7 +496,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 39,
+          "rank": 42,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -472,7 +508,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 40,
+          "rank": 43,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -484,7 +520,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 41,
+          "rank": 44,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -496,7 +532,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 42,
+          "rank": 45,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -508,7 +544,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 43,
+          "rank": 46,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -520,7 +556,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 44,
+          "rank": 47,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -533,7 +569,7 @@
           "duration_ms": 174547
         },
         {
-          "rank": 45,
+          "rank": 48,
           "name": "Strange",
           "artists": [
             "Vincemp3"
@@ -545,7 +581,7 @@
           "duration_ms": 225038
         },
         {
-          "rank": 46,
+          "rank": 49,
           "name": "HALLOWEEN",
           "artists": [
             "Current Joys"
@@ -557,7 +593,7 @@
           "duration_ms": 215711
         },
         {
-          "rank": 47,
+          "rank": 50,
           "name": "Learn to Fly",
           "artists": [
             "Foo Fighters"
@@ -567,43 +603,6 @@
           "uri": "spotify:track:5OQsiBsky2k2kDKy2bX2eT",
           "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT",
           "duration_ms": 235293
-        },
-        {
-          "rank": 48,
-          "name": "Flying",
-          "artists": [
-            "Dan Cullen",
-            "Deryn Cullen"
-          ],
-          "album": "Flying",
-          "image": "https://i.scdn.co/image/ab67616d0000b2732290bfcab0c1bb0872f1ed5d",
-          "uri": "spotify:track:5Vttf460mOLJ1xWeL8r8H6",
-          "url": "https://open.spotify.com/track/5Vttf460mOLJ1xWeL8r8H6",
-          "duration_ms": 246765
-        },
-        {
-          "rank": 49,
-          "name": "I Just Threw Out The Love Of My Dreams",
-          "artists": [
-            "Weezer"
-          ],
-          "album": "Pinkerton (Deluxe Edition)",
-          "image": "https://i.scdn.co/image/ab67616d0000b27375cc00dff759f51b285c35e6",
-          "uri": "spotify:track:5cKZYv4D4lJkLioWIBJRvN",
-          "url": "https://open.spotify.com/track/5cKZYv4D4lJkLioWIBJRvN",
-          "duration_ms": 157960
-        },
-        {
-          "rank": 50,
-          "name": "Letters",
-          "artists": [
-            "Abel Korzeniowski"
-          ],
-          "album": "W.E. - Music From The Motion Picture",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b96aa371fa634f635ab2a2d4",
-          "uri": "spotify:track:7ADpLwo307sPU6jqQnOgzw",
-          "url": "https://open.spotify.com/track/7ADpLwo307sPU6jqQnOgzw",
-          "duration_ms": 259213
         }
       ],
       "artists": [
@@ -689,6 +688,14 @@
         },
         {
           "rank": 11,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        },
+        {
+          "rank": 12,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
           "genres": [],
@@ -696,20 +703,12 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
-        },
-        {
-          "rank": 13,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 14,
@@ -2321,6 +2320,18 @@
         },
         {
           "rank": 46,
+          "name": "무당 / Mudang",
+          "artists": [
+            "past self"
+          ],
+          "album": "무당 / Mudang",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
+          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
+          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
+          "duration_ms": 253977
+        },
+        {
+          "rank": 47,
           "name": "The Adults Are Talking",
           "artists": [
             "The Strokes"
@@ -2332,7 +2343,7 @@
           "duration_ms": 309053
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Always Forever",
           "artists": [
             "Cults"
@@ -2342,18 +2353,6 @@
           "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
           "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
           "duration_ms": 223750
-        },
-        {
-          "rank": 48,
-          "name": "무당 / Mudang",
-          "artists": [
-            "past self"
-          ],
-          "album": "무당 / Mudang",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-          "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-          "url": "https://open.spotify.com/track/2JIMWEMYEVSOtUMaHFeNXN",
-          "duration_ms": 253977
         },
         {
           "rank": 49,
@@ -2559,6 +2558,14 @@
         },
         {
           "rank": 23,
+          "name": "d4vd",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
+          "genres": [],
+          "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "rank": 24,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -2566,7 +2573,7 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
@@ -2574,7 +2581,7 @@
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Gibran Alcocer",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3b8bdbbc4308ec6f7b3c6528",
           "genres": [],
@@ -2582,20 +2589,12 @@
           "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        },
-        {
-          "rank": 27,
-          "name": "d4vd",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
-          "genres": [],
-          "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
           "rank": 28,
