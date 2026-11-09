@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-09T00:27:08.559Z",
+  "updated_at": "2026-11-09T10:50:13.352Z",
   "plays": [
-    {
-      "played_at": "2026-08-11T18:28:34.907Z",
-      "name": "girl",
-      "artists": [
-        "salvia palth"
-      ],
-      "album": "melanchole",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734a82bda3507d50ac3e039bb0",
-      "uri": "spotify:track:464XMdxuH3QmvwLpMrOhGj",
-      "duration_ms": 157608
-    },
-    {
-      "played_at": "2026-08-11T20:18:55.352Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-11T20:22:42.126Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-11T20:29:56.417Z",
-      "name": "Where Is My Mind? - 2007 Remaster",
-      "artists": [
-        "Pixies"
-      ],
-      "album": "Surfer Rosa (2007 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-      "duration_ms": 234973
-    },
-    {
-      "played_at": "2026-08-11T22:00:43.163Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-08-11T22:04:01.901Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
     {
       "played_at": "2026-08-11T22:07:16.836Z",
       "name": "Louise",
@@ -22220,6 +22154,72 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a7292b6863258e889b78d787",
       "uri": "spotify:track:3YuaBvuZqcwN3CEAyyoaei",
       "duration_ms": 293960
+    },
+    {
+      "played_at": "2026-11-09T00:29:53.817Z",
+      "name": "Can't Stop",
+      "artists": [
+        "Red Hot Chili Peppers"
+      ],
+      "album": "By the Way (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273de1af2785a83cc660155a0c4",
+      "uri": "spotify:track:3ZOEytgrvLwQaqXreDs2Jx",
+      "duration_ms": 269000
+    },
+    {
+      "played_at": "2026-11-09T01:05:20.965Z",
+      "name": "I Love You",
+      "artists": [
+        "Fontaines D.C."
+      ],
+      "album": "Skinty Fia",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b23737878e75582c2e255029",
+      "uri": "spotify:track:5XhMgAWzou6EjDmQtoyoZE",
+      "duration_ms": 305800
+    },
+    {
+      "played_at": "2026-11-09T01:09:06.013Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-11-09T01:12:54.312Z",
+      "name": "The Blonde",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
+      "duration_ms": 227760
+    },
+    {
+      "played_at": "2026-11-09T03:52:12.674Z",
+      "name": "Mascara",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Around the Fur",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b1129853982ea17845d4eb6",
+      "uri": "spotify:track:4cLdpErILMO8Db8pQVAVcZ",
+      "duration_ms": 225293
+    },
+    {
+      "played_at": "2026-11-09T06:59:30.395Z",
+      "name": "Video Games",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:24jvD83UgLmrdGjhWTFslY",
+      "duration_ms": 281960
     }
   ]
 }
