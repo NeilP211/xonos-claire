@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:12:21.475Z",
+  "generated_at": "2026-11-10T21:09:54.630Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -269,42 +269,6 @@
         },
         {
           "rank": 23,
-          "name": "Pylon",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
-          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
-          "duration_ms": 215256
-        },
-        {
-          "rank": 24,
-          "name": "Untrust Us",
-          "artists": [
-            "Crystal Castles"
-          ],
-          "album": "Crystal Castles",
-          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
-          "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2",
-          "duration_ms": 186373
-        },
-        {
-          "rank": 25,
-          "name": "Flash",
-          "artists": [
-            "Cigarettes After Sex"
-          ],
-          "album": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-          "uri": "spotify:track:6eknHC7HjAKchl23x2A7dW",
-          "url": "https://open.spotify.com/track/6eknHC7HjAKchl23x2A7dW",
-          "duration_ms": 274106
-        },
-        {
-          "rank": 26,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -316,139 +280,31 @@
           "duration_ms": 180906
         },
         {
-          "rank": 27,
-          "name": "Trouble",
-          "artists": [
-            "Hope Sandoval & The Warm Inventions"
-          ],
-          "album": "Through The Devil Softly",
-          "image": "https://i.scdn.co/image/ab67616d0000b2736e7b0061bc080ec7d61bba47",
-          "uri": "spotify:track:7ci8UKkaffhrdXN4vbt15m",
-          "url": "https://open.spotify.com/track/7ci8UKkaffhrdXN4vbt15m",
-          "duration_ms": 322680
-        },
-        {
-          "rank": 28,
-          "name": "Memories",
+          "rank": 24,
+          "name": "Pylon",
           "artists": [
             "beabadoobee"
           ],
           "album": "Pylon",
           "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
-          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
-          "duration_ms": 168733
+          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
+          "duration_ms": 215256
         },
         {
-          "rank": 29,
-          "name": "Here With Me",
+          "rank": 25,
+          "name": "Untrust Us",
           "artists": [
-            "d4vd"
+            "Crystal Castles"
           ],
-          "album": "Here With Me",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c4ddcc23f630f4c2728a5255",
-          "uri": "spotify:track:0dS2u2UFd88TIzDDaZDLvS",
-          "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS",
-          "duration_ms": 242484
+          "album": "Crystal Castles",
+          "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
+          "uri": "spotify:track:3d8zIv577en5PxwwAzadN2",
+          "url": "https://open.spotify.com/track/3d8zIv577en5PxwwAzadN2",
+          "duration_ms": 186373
         },
         {
-          "rank": 30,
-          "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
-          "artists": [
-            "Craig Armstrong"
-          ],
-          "album": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273a1f9f26b46c05fa55eab5d0a",
-          "uri": "spotify:track:0x1rnXl24iJl8xZFMkoyNv",
-          "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv",
-          "duration_ms": 279546
-        },
-        {
-          "rank": 31,
-          "name": "Burn The Bones",
-          "artists": [
-            "Kodain"
-          ],
-          "album": "Burn The Bones",
-          "image": "https://i.scdn.co/image/ab67616d0000b27355cda5653a6e65af4f255ada",
-          "uri": "spotify:track:14L1IMqkG4RY9M60fa3nvW",
-          "url": "https://open.spotify.com/track/14L1IMqkG4RY9M60fa3nvW",
-          "duration_ms": 174456
-        },
-        {
-          "rank": 32,
-          "name": "Tempest",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Koi No Yokan",
-          "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-          "uri": "spotify:track:1parffUcsk8pfGbyMtGnmW",
-          "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW",
-          "duration_ms": 365480
-        },
-        {
-          "rank": 33,
-          "name": "Romantic Dreams",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Koi No Yokan",
-          "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-          "uri": "spotify:track:23ZfYXdy2deoaf4u1XObHZ",
-          "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ",
-          "duration_ms": 278106
-        },
-        {
-          "rank": 34,
-          "name": "Dawn of Faith",
-          "artists": [
-            "Eternal Eclipse"
-          ],
-          "album": "Forgotten Odes",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c2bd7abf07b25df4dae63d5d",
-          "uri": "spotify:track:2N8pjeNjFT8Fw58e5z2LDf",
-          "url": "https://open.spotify.com/track/2N8pjeNjFT8Fw58e5z2LDf",
-          "duration_ms": 193239
-        },
-        {
-          "rank": 35,
-          "name": "Perfume & Cigarettes",
-          "artists": [
-            "Wisborg"
-          ],
-          "album": "Into the Void",
-          "image": "https://i.scdn.co/image/ab67616d0000b27331d9d5a790120442acb8fb00",
-          "uri": "spotify:track:2YQPSPFlgwwNt4Lsy5LpdO",
-          "url": "https://open.spotify.com/track/2YQPSPFlgwwNt4Lsy5LpdO",
-          "duration_ms": 262000
-        },
-        {
-          "rank": 36,
-          "name": "976-EVIL",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Diamond Eyes",
-          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-          "uri": "spotify:track:3hb4W4FUPjyWUbYY2Sfih5",
-          "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5",
-          "duration_ms": 272560
-        },
-        {
-          "rank": 37,
-          "name": "Truman Sleeps",
-          "artists": [
-            "Philip Glass"
-          ],
-          "album": "The Truman Show (Original Motion Picture Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e3a0b6cbfd0bf57d5e430a56",
-          "uri": "spotify:track:4N7h4IHWRaJCOo1VFdTMHV",
-          "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV",
-          "duration_ms": 111831
-        },
-        {
-          "rank": 38,
+          "rank": 26,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -460,7 +316,163 @@
           "duration_ms": 299240
         },
         {
+          "rank": 27,
+          "name": "Flash",
+          "artists": [
+            "Cigarettes After Sex"
+          ],
+          "album": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+          "uri": "spotify:track:6eknHC7HjAKchl23x2A7dW",
+          "url": "https://open.spotify.com/track/6eknHC7HjAKchl23x2A7dW",
+          "duration_ms": 274106
+        },
+        {
+          "rank": 28,
+          "name": "Trouble",
+          "artists": [
+            "Hope Sandoval & The Warm Inventions"
+          ],
+          "album": "Through The Devil Softly",
+          "image": "https://i.scdn.co/image/ab67616d0000b2736e7b0061bc080ec7d61bba47",
+          "uri": "spotify:track:7ci8UKkaffhrdXN4vbt15m",
+          "url": "https://open.spotify.com/track/7ci8UKkaffhrdXN4vbt15m",
+          "duration_ms": 322680
+        },
+        {
+          "rank": 29,
+          "name": "Memories",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:2Zy3t3v5NntHzEQW3NEd8K",
+          "url": "https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K",
+          "duration_ms": 168733
+        },
+        {
+          "rank": 30,
+          "name": "Medicine Bottle",
+          "artists": [
+            "Red House Painters"
+          ],
+          "album": "Down Colorful Hill",
+          "image": "https://i.scdn.co/image/ab67616d0000b2739693cd33fc6ed430e1825fd6",
+          "uri": "spotify:track:0HtTmvEzJVpEDkg7mARpxD",
+          "url": "https://open.spotify.com/track/0HtTmvEzJVpEDkg7mARpxD",
+          "duration_ms": 589440
+        },
+        {
+          "rank": 31,
+          "name": "Here With Me",
+          "artists": [
+            "d4vd"
+          ],
+          "album": "Here With Me",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c4ddcc23f630f4c2728a5255",
+          "uri": "spotify:track:0dS2u2UFd88TIzDDaZDLvS",
+          "url": "https://open.spotify.com/track/0dS2u2UFd88TIzDDaZDLvS",
+          "duration_ms": 242484
+        },
+        {
+          "rank": 32,
+          "name": "Opening (From \"Far from the Madding Crowd\" Soundtrack)",
+          "artists": [
+            "Craig Armstrong"
+          ],
+          "album": "Far from the Madding Crowd (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273a1f9f26b46c05fa55eab5d0a",
+          "uri": "spotify:track:0x1rnXl24iJl8xZFMkoyNv",
+          "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv",
+          "duration_ms": 279546
+        },
+        {
+          "rank": 33,
+          "name": "Burn The Bones",
+          "artists": [
+            "Kodain"
+          ],
+          "album": "Burn The Bones",
+          "image": "https://i.scdn.co/image/ab67616d0000b27355cda5653a6e65af4f255ada",
+          "uri": "spotify:track:14L1IMqkG4RY9M60fa3nvW",
+          "url": "https://open.spotify.com/track/14L1IMqkG4RY9M60fa3nvW",
+          "duration_ms": 174456
+        },
+        {
+          "rank": 34,
+          "name": "Tempest",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Koi No Yokan",
+          "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+          "uri": "spotify:track:1parffUcsk8pfGbyMtGnmW",
+          "url": "https://open.spotify.com/track/1parffUcsk8pfGbyMtGnmW",
+          "duration_ms": 365480
+        },
+        {
+          "rank": 35,
+          "name": "Romantic Dreams",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Koi No Yokan",
+          "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+          "uri": "spotify:track:23ZfYXdy2deoaf4u1XObHZ",
+          "url": "https://open.spotify.com/track/23ZfYXdy2deoaf4u1XObHZ",
+          "duration_ms": 278106
+        },
+        {
+          "rank": 36,
+          "name": "Dawn of Faith",
+          "artists": [
+            "Eternal Eclipse"
+          ],
+          "album": "Forgotten Odes",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c2bd7abf07b25df4dae63d5d",
+          "uri": "spotify:track:2N8pjeNjFT8Fw58e5z2LDf",
+          "url": "https://open.spotify.com/track/2N8pjeNjFT8Fw58e5z2LDf",
+          "duration_ms": 193239
+        },
+        {
+          "rank": 37,
+          "name": "Perfume & Cigarettes",
+          "artists": [
+            "Wisborg"
+          ],
+          "album": "Into the Void",
+          "image": "https://i.scdn.co/image/ab67616d0000b27331d9d5a790120442acb8fb00",
+          "uri": "spotify:track:2YQPSPFlgwwNt4Lsy5LpdO",
+          "url": "https://open.spotify.com/track/2YQPSPFlgwwNt4Lsy5LpdO",
+          "duration_ms": 262000
+        },
+        {
+          "rank": 38,
+          "name": "976-EVIL",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Diamond Eyes",
+          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+          "uri": "spotify:track:3hb4W4FUPjyWUbYY2Sfih5",
+          "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5",
+          "duration_ms": 272560
+        },
+        {
           "rank": 39,
+          "name": "Truman Sleeps",
+          "artists": [
+            "Philip Glass"
+          ],
+          "album": "The Truman Show (Original Motion Picture Soundtrack)",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e3a0b6cbfd0bf57d5e430a56",
+          "uri": "spotify:track:4N7h4IHWRaJCOo1VFdTMHV",
+          "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV",
+          "duration_ms": 111831
+        },
+        {
+          "rank": 40,
           "name": "Rain, in Your Black Eyes",
           "artists": [
             "Ezio Bosso"
@@ -472,7 +484,7 @@
           "duration_ms": 664560
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -484,7 +496,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Summer 78 (2)",
           "artists": [
             "Yann Tiersen"
@@ -496,7 +508,7 @@
           "duration_ms": 230680
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "La terre vue du ciel",
           "artists": [
             "Armand Amar"
@@ -508,7 +520,7 @@
           "duration_ms": 616086
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -520,7 +532,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -532,7 +544,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -544,7 +556,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -556,7 +568,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -568,7 +580,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -580,7 +592,7 @@
           "duration_ms": 75849
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Towns",
           "artists": [
             "Sandbox Interactive",
@@ -591,18 +603,6 @@
           "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
           "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
           "duration_ms": 174547
-        },
-        {
-          "rank": 50,
-          "name": "Strange",
-          "artists": [
-            "Vincemp3"
-          ],
-          "album": "Strange",
-          "image": "https://i.scdn.co/image/ab67616d0000b27328c2a7b010df72ac1b9bbf72",
-          "uri": "spotify:track:4g4Y8YUXyAMQgilS6R27An",
-          "url": "https://open.spotify.com/track/4g4Y8YUXyAMQgilS6R27An",
-          "duration_ms": 225038
         }
       ],
       "artists": [
@@ -2671,7 +2671,7 @@
         {
           "rank": 36,
           "name": "Alexandre Desplat",
-          "image": "https://i.scdn.co/image/ab6772690000c46cf9a8d4c2fbbdba7962061bf9",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb51a6e9bcc1d733ab5c1372dd",
           "genres": [],
           "uri": "spotify:artist:71jzN72g8qWMCMkWC5p1Z0",
           "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
