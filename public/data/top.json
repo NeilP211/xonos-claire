@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T05:45:36.398Z",
+  "generated_at": "2026-11-10T14:12:21.475Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1466,6 +1466,14 @@
         },
         {
           "rank": 12,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 13,
           "name": "The Smiths",
           "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
           "genres": [],
@@ -1473,20 +1481,12 @@
           "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
-        },
-        {
-          "rank": 14,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
-          "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         },
         {
           "rank": 15,
@@ -1667,7 +1667,7 @@
         {
           "rank": 37,
           "name": "Rehash",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba155dff7274745a2254f10e1",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba1132a44bde4af28ec9ab75d",
           "genres": [],
           "uri": "spotify:artist:10WfoBIKKTSqCvkeG1XW9T",
           "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
@@ -2783,7 +2783,7 @@
         {
           "rank": 50,
           "name": "Rehash",
-          "image": "https://i.scdn.co/image/ab6761610000e5eba155dff7274745a2254f10e1",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba1132a44bde4af28ec9ab75d",
           "genres": [],
           "uri": "spotify:artist:10WfoBIKKTSqCvkeG1XW9T",
           "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
