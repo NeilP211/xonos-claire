@@ -1,206 +1,6 @@
 {
-  "updated_at": "2026-11-11T04:26:20.229Z",
+  "updated_at": "2026-11-11T13:27:46.690Z",
   "plays": [
-    {
-      "played_at": "2026-08-12T19:17:34.295Z",
-      "name": "WILDFLOWER",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "album": "HIT ME HARD AND SOFT",
-      "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
-      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
-      "duration_ms": 261466
-    },
-    {
-      "played_at": "2026-08-12T19:20:54.937Z",
-      "name": "lovely (with Khalid)",
-      "artists": [
-        "Billie Eilish",
-        "Khalid"
-      ],
-      "album": "lovely (with Khalid)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
-      "uri": "spotify:track:0u2P5u6lvoDfwTYjAADbn4",
-      "duration_ms": 200185
-    },
-    {
-      "played_at": "2026-08-12T19:24:15.951Z",
-      "name": "ocean eyes",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "album": "Ocean Eyes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732cafcdd985630d72594ecc49",
-      "uri": "spotify:track:2uIX8YMNjGMD7441kqyyNU",
-      "duration_ms": 200560
-    },
-    {
-      "played_at": "2026-08-13T01:25:44.609Z",
-      "name": "ilomilo",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
-      "uri": "spotify:track:7qEKqBCD2vE5vIBsrUitpD",
-      "duration_ms": 156370
-    },
-    {
-      "played_at": "2026-08-13T01:28:59.757Z",
-      "name": "i love u. (ultra slowed)",
-      "artists": [
-        "wiv"
-      ],
-      "album": "quiet disappearance",
-      "image": "https://i.scdn.co/image/ab67616d0000b273380729fcfd3689a70730f40a",
-      "uri": "spotify:track:2NUqjbsDUwEFM6TyqN0moy",
-      "duration_ms": 170008
-    },
-    {
-      "played_at": "2026-08-13T01:30:10.922Z",
-      "name": "three (slowed)",
-      "artists": [
-        "Cult Member Archive"
-      ],
-      "album": "three (remixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f22c01ec6782368bf5af5cb1",
-      "uri": "spotify:track:4Rzsg8KRcoWrjHsNlpsUkO",
-      "duration_ms": 70700
-    },
-    {
-      "played_at": "2026-08-13T01:34:37.782Z",
-      "name": "Dark Beach - Slowed",
-      "artists": [
-        "Pastel Ghost"
-      ],
-      "album": "Dark Beach (Remixes)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273212b0d275d01eb8c459a8935",
-      "uri": "spotify:track:7BweTrvwLUIPWpBpUmpO2g",
-      "duration_ms": 266400
-    },
-    {
-      "played_at": "2026-08-13T01:40:42.939Z",
-      "name": "Karma Police",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-      "duration_ms": 264066
-    },
-    {
-      "played_at": "2026-08-13T01:43:15.385Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-08-13T01:50:32.307Z",
-      "name": "Playground Love (with Gordon Tracks)",
-      "artists": [
-        "Air",
-        "Gordon Tracks"
-      ],
-      "album": "The Virgin Suicides (Original Motion Picture Score)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
-      "duration_ms": 212693
-    },
-    {
-      "played_at": "2026-08-13T01:54:46.337Z",
-      "name": "505",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "Favourite Worst Nightmare (Standard Version)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
-      "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
-      "duration_ms": 253586
-    },
-    {
-      "played_at": "2026-08-13T01:59:33.570Z",
-      "name": "Heavenly",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738324db1ae37be249aed887e7",
-      "uri": "spotify:track:5E02BgqYNN9VzafXrYP6Np",
-      "duration_ms": 286773
-    },
-    {
-      "played_at": "2026-08-13T02:02:53.078Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-08-13T03:43:56.871Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
-    {
-      "played_at": "2026-08-13T03:47:36.245Z",
-      "name": "Come As You Are",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:4P5KoWXOxwuobLmHXLMobV",
-      "duration_ms": 218920
-    },
-    {
-      "played_at": "2026-08-13T03:52:41.860Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-13T03:56:05.611Z",
-      "name": "life imitates life",
-      "artists": [
-        "quannnic"
-      ],
-      "album": "kenopsia",
-      "image": "https://i.scdn.co/image/ab67616d0000b273780766f32cfa6359c93ae2dc",
-      "uri": "spotify:track:5E9qBEUja2yAjUPhQO8Gx7",
-      "duration_ms": 203294
-    },
-    {
-      "played_at": "2026-08-13T03:58:01.471Z",
-      "name": "Realize",
-      "artists": [
-        "Trxy!"
-      ],
-      "album": "Realize",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731c018184e313c42174ff8e13",
-      "uri": "spotify:track:51RriaGnB6VILb54rXHKj8",
-      "duration_ms": 115401
-    },
     {
       "played_at": "2026-08-13T04:01:18.184Z",
       "name": "In Slow Time",
@@ -22218,6 +22018,204 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
       "uri": "spotify:track:4m8wPzkI1y0sUdqEh4A7fq",
       "duration_ms": 194306
+    },
+    {
+      "played_at": "2026-11-11T06:31:29.724Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-11-11T06:39:12.470Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-11-11T06:44:00.767Z",
+      "name": "Beauty School",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Diamond Eyes (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733ed600911146712083a3cb19",
+      "uri": "spotify:track:7lUU34CDrnSxdx6psbNDL3",
+      "duration_ms": 287813
+    },
+    {
+      "played_at": "2026-11-11T06:46:11.398Z",
+      "name": "unrequited",
+      "artists": [
+        "Midrift"
+      ],
+      "album": "unrequited",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e4311ecab051e9d17083ee1f",
+      "uri": "spotify:track:5Re0786ijOJsOhe83qIbIC",
+      "duration_ms": 130142
+    },
+    {
+      "played_at": "2026-11-11T06:49:35.165Z",
+      "name": "In On It",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
+      "duration_ms": 203253
+    },
+    {
+      "played_at": "2026-11-11T06:53:58.062Z",
+      "name": "Tangled dreams",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Tangled dreams",
+      "image": "https://i.scdn.co/image/ab67616d0000b27398b81526d3c0f73f3c8ba753",
+      "uri": "spotify:track:5PCoCu7jl8FJTm6rKAmFDZ",
+      "duration_ms": 262387
+    },
+    {
+      "played_at": "2026-11-11T06:58:01.858Z",
+      "name": "goodnight moon",
+      "artists": [
+        "smush"
+      ],
+      "album": "if you were here i'd be home now",
+      "image": "https://i.scdn.co/image/ab67616d0000b273797859d472ee8b8baad364de",
+      "uri": "spotify:track:1zgN8cRDdUx6bM7V9P1APj",
+      "duration_ms": 243320
+    },
+    {
+      "played_at": "2026-11-11T07:00:55.960Z",
+      "name": "In-Between",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Floral Green",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f",
+      "uri": "spotify:track:6PzZiqF13ODniN3s7It7Cd",
+      "duration_ms": 173613
+    },
+    {
+      "played_at": "2026-11-11T07:04:19.266Z",
+      "name": "Relay",
+      "artists": [
+        "trauma ray"
+      ],
+      "album": "[trauma ray]",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732446888901aaa6928657b6d1",
+      "uri": "spotify:track:3vuG06ETVyqQlxW2wbBVjg",
+      "duration_ms": 202747
+    },
+    {
+      "played_at": "2026-11-11T07:06:39.159Z",
+      "name": "mental disorder",
+      "artists": [
+        "C:/18hzr/breakcore"
+      ],
+      "album": "Posttraumatic stress disorder/幻想を壊す/alternative/breakcore/EDM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737e166bb19961085564d330ce",
+      "uri": "spotify:track:68JVQuDMRSot44SLU6tp0y",
+      "duration_ms": 139415
+    },
+    {
+      "played_at": "2026-11-11T07:10:10.038Z",
+      "name": "Ever Since WWI",
+      "artists": [
+        "Team Sleep"
+      ],
+      "album": "Team Sleep (U.S. Release)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
+      "uri": "spotify:track:2VqqujOR7u0rTs3ZTNFI24",
+      "duration_ms": 210360
+    },
+    {
+      "played_at": "2026-11-11T07:15:12.553Z",
+      "name": "Taxidermy",
+      "artists": [
+        "Clarion"
+      ],
+      "album": "Clarion",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737c0a7f8d483d355d834e5cb1",
+      "uri": "spotify:track:3clRihex2OF0QQbLctftag",
+      "duration_ms": 302000
+    },
+    {
+      "played_at": "2026-11-11T07:18:02.362Z",
+      "name": "Warm Stay",
+      "artists": [
+        "Blossom"
+      ],
+      "album": "Warm Stay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e53ec8ebfe4c97b102a1d102",
+      "uri": "spotify:track:0gKYihhcPJtiLoJnZFe3wk",
+      "duration_ms": 169380
+    },
+    {
+      "played_at": "2026-11-11T07:21:44.660Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-11-11T07:23:29.261Z",
+      "name": "Twin Flames",
+      "artists": [
+        "Midrift"
+      ],
+      "album": "Midrift",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736df83d9e2e102a8ac6f6b854",
+      "uri": "spotify:track:0vOlE1XiaGQW85CXE9OpMi",
+      "duration_ms": 104071
+    },
+    {
+      "played_at": "2026-11-11T07:27:10.362Z",
+      "name": "Downswing",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:1V7XV0nFnqmCCWXgFjXTvi",
+      "duration_ms": 220557
+    },
+    {
+      "played_at": "2026-11-11T07:31:11.259Z",
+      "name": "Lefty",
+      "artists": [
+        "Title Fight"
+      ],
+      "album": "Floral Green",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730b269b6186be2a9904080a2f",
+      "uri": "spotify:track:74dEWc3oRfuNCM3AbiD2xb",
+      "duration_ms": 240480
+    },
+    {
+      "played_at": "2026-11-11T07:34:27.760Z",
+      "name": "I remember how your hands felt on mine",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "I remember how your hands felt on mine",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fbfb6cabdf8e0bba84dc31ab",
+      "uri": "spotify:track:4rWWNbsiorGPfSb7B4c8sy",
+      "duration_ms": 195968
     }
   ]
 }
