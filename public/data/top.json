@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:09:54.630Z",
+  "generated_at": "2026-11-11T04:26:20.137Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -269,15 +269,15 @@
         },
         {
           "rank": 23,
-          "name": "Are You The One",
+          "name": "Two-Way Mirror",
           "artists": [
-            "Basement"
+            "Loathe"
           ],
-          "album": "Be Here Now / Are You The One",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
-          "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
-          "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
-          "duration_ms": 180906
+          "album": "I Let It in and It Took Everything",
+          "image": "https://i.scdn.co/image/ab67616d0000b273101232ffd5af0e3c37e2c528",
+          "uri": "spotify:track:0b4TKuvZ4eJ8eHgJgXaCnN",
+          "url": "https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN",
+          "duration_ms": 300186
         },
         {
           "rank": 24,
@@ -521,6 +521,18 @@
         },
         {
           "rank": 44,
+          "name": "Safe In Your Skin",
+          "artists": [
+            "Title Fight"
+          ],
+          "album": "Shed",
+          "image": "https://i.scdn.co/image/ab67616d0000b2734cf48c2dd382e6d7ca37cf30",
+          "uri": "spotify:track:1FpSnm4bMaZD0KFH3f4Fso",
+          "url": "https://open.spotify.com/track/1FpSnm4bMaZD0KFH3f4Fso",
+          "duration_ms": 154800
+        },
+        {
+          "rank": 45,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -532,7 +544,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -544,7 +556,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -556,7 +568,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -568,7 +580,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -580,7 +592,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "The Departure",
           "artists": [
             "Max Richter"
@@ -590,19 +602,6 @@
           "uri": "spotify:track:3KG9I4JXpDwNQOsotE3uLh",
           "url": "https://open.spotify.com/track/3KG9I4JXpDwNQOsotE3uLh",
           "duration_ms": 75849
-        },
-        {
-          "rank": 50,
-          "name": "Towns",
-          "artists": [
-            "Sandbox Interactive",
-            "Jonne Valtonen"
-          ],
-          "album": "Albion Online (Original Game Soundtrack)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273f775e2fb507da19aa287c397",
-          "uri": "spotify:track:4MLJd3jN9y2trCP1QKOhm0",
-          "url": "https://open.spotify.com/track/4MLJd3jN9y2trCP1QKOhm0",
-          "duration_ms": 174547
         }
       ],
       "artists": [
@@ -752,14 +751,6 @@
         },
         {
           "rank": 19,
-          "name": "Basement",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
-          "genres": [],
-          "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
-        },
-        {
-          "rank": 20,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
@@ -1362,17 +1353,15 @@
         },
         {
           "rank": 50,
-          "name": "No Hands (feat. Roscoe Dash & Wale)",
+          "name": "Leach",
           "artists": [
-            "Waka Flocka Flame",
-            "Roscoe Dash",
-            "Wale"
+            "Superheaven"
           ],
-          "album": "Flockaveli",
-          "image": "https://i.scdn.co/image/fade577145599daff924bb7b28386a84f67bd1db",
-          "uri": "spotify:track:03tqyYWC9Um2ZqU0ZN849H",
-          "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H",
-          "duration_ms": 263773
+          "album": "Ours Is Chrome",
+          "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+          "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
+          "url": "https://open.spotify.com/track/6G8CPgiHTKlB094svbH6Fu",
+          "duration_ms": 229515
         }
       ],
       "artists": [
@@ -1474,19 +1463,19 @@
         },
         {
           "rank": 13,
-          "name": "The Smiths",
-          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-          "genres": [],
-          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        },
-        {
-          "rank": 14,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        },
+        {
+          "rank": 14,
+          "name": "The Smiths",
+          "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+          "genres": [],
+          "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
         },
         {
           "rank": 15,
@@ -2550,6 +2539,14 @@
         },
         {
           "rank": 21,
+          "name": "Olivia Rodrigo",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "genres": [],
+          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "rank": 22,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
@@ -2557,23 +2554,7 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 22,
-          "name": "Massive Attack",
-          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
-          "genres": [],
-          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
           "rank": 23,
-          "name": "d4vd",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
-          "genres": [],
-          "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        },
-        {
-          "rank": 24,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -2581,12 +2562,20 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 25,
-          "name": "Olivia Rodrigo",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+          "rank": 24,
+          "name": "Massive Attack",
+          "image": "https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c",
           "genres": [],
-          "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "uri": "spotify:artist:6FXMGgJwohJLUSr5nVlf9X",
+          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
+        },
+        {
+          "rank": 25,
+          "name": "d4vd",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
+          "genres": [],
+          "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
           "rank": 26,
