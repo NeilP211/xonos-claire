@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:27:46.600Z",
+  "generated_at": "2026-11-11T21:42:56.550Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1720,6 +1720,14 @@
         },
         {
           "rank": 44,
+          "name": "Title Fight",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
+          "genres": [],
+          "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        },
+        {
+          "rank": 45,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
@@ -1727,7 +1735,7 @@
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "flyingfish",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34",
           "genres": [],
@@ -1735,7 +1743,7 @@
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "d4vd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
           "genres": [],
@@ -1743,7 +1751,7 @@
           "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "Alex G",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcfa32469a372188d27bd17b7",
           "genres": [],
@@ -1751,7 +1759,7 @@
           "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "sign crushes motorist",
           "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
           "genres": [],
@@ -1759,20 +1767,12 @@
           "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "salvia palth",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6a01d62c22e19a0fafbf5b10",
           "genres": [],
           "uri": "spotify:artist:0pg0Zm8FsGAYy5kdHuBnSo",
           "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        },
-        {
-          "rank": 50,
-          "name": "CORTIS",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb267afab76836557af2bd37c8",
-          "genres": [],
-          "uri": "spotify:artist:1ebt9HnXdyYA6KgLXr1n4P",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
         }
       ]
     },
