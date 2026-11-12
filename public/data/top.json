@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:42:56.550Z",
+  "generated_at": "2026-11-12T05:31:44.339Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -142,10 +142,10 @@
             "Vincemp3"
           ],
           "album": "Abbi",
-          "image": "https://i.scdn.co/image/ab67616d0000b273532954e14a32492b4bdfaf48",
-          "uri": "spotify:track:22UUd8vw5Ow7xAl11OX5qd",
-          "url": "https://open.spotify.com/track/22UUd8vw5Ow7xAl11OX5qd",
-          "duration_ms": 160821
+          "image": "https://i.scdn.co/image/ab67616d0000b27308bd664a1d2f1433876f5d68",
+          "uri": "spotify:track:7iIQkOIwWJoZeTMJgBwuq8",
+          "url": "https://open.spotify.com/track/7iIQkOIwWJoZeTMJgBwuq8",
+          "duration_ms": 160867
         },
         {
           "rank": 13,
@@ -425,18 +425,6 @@
         },
         {
           "rank": 36,
-          "name": "976-EVIL",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Diamond Eyes",
-          "image": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
-          "uri": "spotify:track:3hb4W4FUPjyWUbYY2Sfih5",
-          "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5",
-          "duration_ms": 272560
-        },
-        {
-          "rank": 37,
           "name": "Truman Sleeps",
           "artists": [
             "Philip Glass"
@@ -446,6 +434,18 @@
           "uri": "spotify:track:4N7h4IHWRaJCOo1VFdTMHV",
           "url": "https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV",
           "duration_ms": 111831
+        },
+        {
+          "rank": 37,
+          "name": "976-EVIL",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Diamond Eyes (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733ed600911146712083a3cb19",
+          "uri": "spotify:track:5CeKb7EIMs0ZYBuARr04kJ",
+          "url": "https://open.spotify.com/track/5CeKb7EIMs0ZYBuARr04kJ",
+          "duration_ms": 272573
         },
         {
           "rank": 38,
