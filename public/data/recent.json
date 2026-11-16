@@ -1,336 +1,6 @@
 {
-  "updated_at": "2026-11-15T18:24:48.936Z",
+  "updated_at": "2026-11-16T00:40:12.436Z",
   "plays": [
-    {
-      "played_at": "2026-08-15T04:22:42.151Z",
-      "name": "Nodding Off",
-      "artists": [
-        "Narrow Head"
-      ],
-      "album": "12th House Rock",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737a731c5771554329713ff774",
-      "uri": "spotify:track:7jd5bSsJ3pdPVDU7PdFVJL",
-      "duration_ms": 345408
-    },
-    {
-      "played_at": "2026-08-15T04:24:26.677Z",
-      "name": "Twin Flames",
-      "artists": [
-        "Midrift"
-      ],
-      "album": "Midrift",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dd540e846f264e69d68acb80",
-      "uri": "spotify:track:2xnIV4DQp2D0qVHCQYRIn9",
-      "duration_ms": 104071
-    },
-    {
-      "played_at": "2026-08-15T04:46:19.656Z",
-      "name": "Romantic Homicide",
-      "artists": [
-        "d4vd"
-      ],
-      "album": "Romantic Homicide",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd1a52b3d5903ee01c216da0",
-      "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
-      "duration_ms": 132630
-    },
-    {
-      "played_at": "2026-08-15T04:49:29.264Z",
-      "name": "Young",
-      "artists": [
-        "Vacations"
-      ],
-      "album": "Vibes",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
-      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
-      "duration_ms": 189160
-    },
-    {
-      "played_at": "2026-08-15T04:50:30.426Z",
-      "name": "hotline (edit)",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "album": "hotline (edit)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c820a9669147be3addd7f221",
-      "uri": "spotify:track:0WFryfbNKPXVtVQlz5dZ8H",
-      "duration_ms": 60719
-    },
-    {
-      "played_at": "2026-08-15T05:12:11.248Z",
-      "name": "K.",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
-      "duration_ms": 319560
-    },
-    {
-      "played_at": "2026-08-15T08:02:20.723Z",
-      "name": "K.",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:2xGjfbXZnI8uQDhukoQURQ",
-      "duration_ms": 319560
-    },
-    {
-      "played_at": "2026-08-15T08:06:10.292Z",
-      "name": "No Surprises",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "OK Computer",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-      "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
-      "duration_ms": 229120
-    },
-    {
-      "played_at": "2026-08-15T08:13:15.280Z",
-      "name": "Young And Beautiful",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Young And Beautiful",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d7fb3e4c63020039d1cff6b2",
-      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-      "duration_ms": 236053
-    },
-    {
-      "played_at": "2026-08-15T08:19:54.643Z",
-      "name": "ilomilo",
-      "artists": [
-        "Billie Eilish"
-      ],
-      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-      "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
-      "uri": "spotify:track:7qEKqBCD2vE5vIBsrUitpD",
-      "duration_ms": 156370
-    },
-    {
-      "played_at": "2026-08-15T08:25:48.175Z",
-      "name": "Do I Wanna Know?",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst",
-      "duration_ms": 272394
-    },
-    {
-      "played_at": "2026-08-15T08:39:05.656Z",
-      "name": "Brooklyn Baby",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-      "duration_ms": 351640
-    },
-    {
-      "played_at": "2026-08-15T08:52:06.832Z",
-      "name": "I Bet on Losing Dogs",
-      "artists": [
-        "Mitski"
-      ],
-      "album": "Puberty 2",
-      "image": "https://i.scdn.co/image/ab67616d0000b27342cb382726e956058bf73ed3",
-      "uri": "spotify:track:2Co0IjcLTSHMtodwD4gzfg",
-      "duration_ms": 170240
-    },
-    {
-      "played_at": "2026-08-15T16:34:06.479Z",
-      "name": "Washing Machine Heart",
-      "artists": [
-        "Mitski"
-      ],
-      "album": "Be the Cowboy",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117",
-      "uri": "spotify:track:3jjsRKEsF42ccXf8kWR3nu",
-      "duration_ms": 128198
-    },
-    {
-      "played_at": "2026-08-15T16:38:29.359Z",
-      "name": "Something In The Way",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:1nFtiJxYdhtFfFtfXBv06s",
-      "duration_ms": 232146
-    },
-    {
-      "played_at": "2026-08-15T16:57:02.074Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-08-15T17:00:55.538Z",
-      "name": "Keep on Loving You",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Affection",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
-      "uri": "spotify:track:3GUSidbQwd7xuvU6AQorRh",
-      "duration_ms": 233000
-    },
-    {
-      "played_at": "2026-08-15T17:05:04.948Z",
-      "name": "New Moon (The Meadow)",
-      "artists": [
-        "Alexandre Desplat"
-      ],
-      "album": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738cdc3315bbb5331eddf6a21d",
-      "uri": "spotify:track:4xHpqKKjWAULcbFlVefLrw",
-      "duration_ms": 249026
-    },
-    {
-      "played_at": "2026-08-15T17:07:30.527Z",
-      "name": "grave",
-      "artists": [
-        "kyszenn"
-      ],
-      "album": "grave",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b2fd5e3e779efd0bc44d9168",
-      "uri": "spotify:track:2SmF9INQrybbcScwMqSnEO",
-      "duration_ms": 145123
-    },
-    {
-      "played_at": "2026-08-15T17:11:44.962Z",
-      "name": "무당 / Mudang",
-      "artists": [
-        "past self"
-      ],
-      "album": "무당 / Mudang",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-      "duration_ms": 253977
-    },
-    {
-      "played_at": "2026-08-15T17:16:20.174Z",
-      "name": "Linger",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Stars: The Best Of The Cranberries 1992-2002",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
-      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
-      "duration_ms": 274773
-    },
-    {
-      "played_at": "2026-08-15T17:18:56.594Z",
-      "name": "Velvet Ring",
-      "artists": [
-        "Big Thief"
-      ],
-      "album": "Masterpiece",
-      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
-      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
-      "duration_ms": 155938
-    },
-    {
-      "played_at": "2026-08-15T17:23:52.639Z",
-      "name": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "album": "So Tonight That I Might See",
-      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
-      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
-      "duration_ms": 295600
-    },
-    {
-      "played_at": "2026-08-15T17:27:40.844Z",
-      "name": "The Blonde",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:72cGBEqu7RitIOoACXYjfR",
-      "duration_ms": 227760
-    },
-    {
-      "played_at": "2026-08-15T17:29:46.836Z",
-      "name": "it hurts, now that you're gone",
-      "artists": [
-        "i don't like mirrors"
-      ],
-      "album": "it hurts, now that you're gone",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bbce93679d0dd58d7b7c46ec",
-      "uri": "spotify:track:5ZNrtDCYDwzIBKmZAclBOu",
-      "duration_ms": 125538
-    },
-    {
-      "played_at": "2026-08-15T18:32:59.582Z",
-      "name": "dead fish",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "dead fish",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bb96054356cae2ebb19dd225",
-      "uri": "spotify:track:6qruVLSB5yVGYBmDpJycsp",
-      "duration_ms": 60379
-    },
-    {
-      "played_at": "2026-08-15T19:59:18.475Z",
-      "name": "All Apologies",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
-      "duration_ms": 233173
-    },
-    {
-      "played_at": "2026-08-15T20:05:14.938Z",
-      "name": "Brooklyn Baby",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Ultraviolence (Deluxe)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-      "uri": "spotify:track:1NZs6n6hl8UuMaX0UC0YTz",
-      "duration_ms": 351640
-    },
-    {
-      "played_at": "2026-08-15T20:08:51.925Z",
-      "name": "Fear",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "A Different Age",
-      "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a",
-      "uri": "spotify:track:1JbbYSre3n6j2YlfHH31UL",
-      "duration_ms": 216539
-    },
-    {
-      "played_at": "2026-08-15T20:17:50.679Z",
-      "name": "Vanished",
-      "artists": [
-        "Crystal Castles"
-      ],
-      "album": "Crystal Castles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273379438a3e296d1d19bf8515f",
-      "uri": "spotify:track:4bQ7mjty0UVlKRalhizpGT",
-      "duration_ms": 242960
-    },
     {
       "played_at": "2026-08-15T20:21:22.123Z",
       "name": "Cigarettes out the Window",
@@ -22218,6 +21888,337 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd58b0acc797040664ff6838",
       "uri": "spotify:track:4lSoQgxzAEUPgun7t6jaqn",
       "duration_ms": 98930
+    },
+    {
+      "played_at": "2026-11-15T19:49:05.766Z",
+      "name": "the way things go",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "the way things go",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739c835164f2d56dae7ee8a402",
+      "uri": "spotify:track:5sA3i6SGkILMiZW6Fhx4wv",
+      "duration_ms": 187800
+    },
+    {
+      "played_at": "2026-11-15T19:53:04.387Z",
+      "name": "Eighteen",
+      "artists": [
+        "beabadoobee"
+      ],
+      "album": "Patched Up",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fe11583497b2a332995b88ed",
+      "uri": "spotify:track:0GfIqYpp0Ln7VErDoKBibv",
+      "duration_ms": 238162
+    },
+    {
+      "played_at": "2026-11-15T19:55:34.553Z",
+      "name": "nothing",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Oh yeah?",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042",
+      "uri": "spotify:track:3lIHa4fUwNKOCSS5k3Za0i",
+      "duration_ms": 149663
+    },
+    {
+      "played_at": "2026-11-15T19:57:40.150Z",
+      "name": "Body Dysmorphia",
+      "artists": [
+        "Eyedress"
+      ],
+      "album": "Mulholland Drive",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd",
+      "uri": "spotify:track:4VZIqvbRWlxhHtSD30wSZL",
+      "duration_ms": 125085
+    },
+    {
+      "played_at": "2026-11-15T20:00:24.198Z",
+      "name": "Laputa",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "D>E>A>T>H>M>E>T>A>L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542",
+      "uri": "spotify:track:5doZqVE0PWb3tcHY5eB6B4",
+      "duration_ms": 163544
+    },
+    {
+      "played_at": "2026-11-15T20:53:23.426Z",
+      "name": "Talk to Her",
+      "artists": [
+        "The Marías"
+      ],
+      "album": "CINEMA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b",
+      "uri": "spotify:track:0ZpgDIYEJ7H2g8zkIEDQJz",
+      "duration_ms": 326760
+    },
+    {
+      "played_at": "2026-11-15T20:57:44.861Z",
+      "name": "Where Is My Mind?",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Death to the Pixies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa13b5cb5c07db8c508b96db",
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "duration_ms": 229226
+    },
+    {
+      "played_at": "2026-11-15T21:04:38.703Z",
+      "name": "Rosemary",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:4FEr6dIdH6EqLKR0jB560J",
+      "duration_ms": 413346
+    },
+    {
+      "played_at": "2026-11-15T21:58:57.538Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-11-15T22:05:46.749Z",
+      "name": "Fool",
+      "artists": [
+        "bôa"
+      ],
+      "album": "Twilight",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
+      "uri": "spotify:track:5PQwmOZwMhhV8q8QMpCRAZ",
+      "duration_ms": 307200
+    },
+    {
+      "played_at": "2026-11-15T22:09:45.571Z",
+      "name": "Dig Into Me",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:1f8u7SvOO4dDQMtatS4dAE",
+      "duration_ms": 215032
+    },
+    {
+      "played_at": "2026-11-15T22:12:54.168Z",
+      "name": "Blvd. Nights",
+      "artists": [
+        "Team Sleep"
+      ],
+      "album": "Team Sleep (U.S. Release)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
+      "uri": "spotify:track:7xDAU9IAMyWjl7ia3hRxs7",
+      "duration_ms": 188133
+    },
+    {
+      "played_at": "2026-11-15T22:22:44.030Z",
+      "name": "Medicine Bottle",
+      "artists": [
+        "Red House Painters"
+      ],
+      "album": "Down Colorful Hill",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739693cd33fc6ed430e1825fd6",
+      "uri": "spotify:track:0HtTmvEzJVpEDkg7mARpxD",
+      "duration_ms": 589440
+    },
+    {
+      "played_at": "2026-11-15T22:30:05.104Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-11-15T22:33:26.480Z",
+      "name": "100",
+      "artists": [
+        "Dean Blunt"
+      ],
+      "album": "BLACK METAL",
+      "image": "https://i.scdn.co/image/ab67616d0000b27391b903d2bce7feb9cc1f35bc",
+      "uri": "spotify:track:784VjdNkpXhFV0RHquzsi2",
+      "duration_ms": 200906
+    },
+    {
+      "played_at": "2026-11-15T22:38:22.576Z",
+      "name": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "album": "So Tonight That I Might See",
+      "image": "https://i.scdn.co/image/ab67616d0000b27389a392107ebd79818022b3ea",
+      "uri": "spotify:track:1LzNfuep1bnAUR9skqdHCK",
+      "duration_ms": 295600
+    },
+    {
+      "played_at": "2026-11-15T22:43:32.456Z",
+      "name": "theres this girl",
+      "artists": [
+        "sign crushes motorist"
+      ],
+      "album": "i'll be okay",
+      "image": "https://i.scdn.co/image/ab67616d0000b273db673e5288f81cb962e2b081",
+      "uri": "spotify:track:6whOApl6TgeCGRwMM52tkl",
+      "duration_ms": 297875
+    },
+    {
+      "played_at": "2026-11-15T22:46:14.848Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-11-15T22:48:29.941Z",
+      "name": "unknown feelings",
+      "artists": [
+        "Novulent"
+      ],
+      "album": "unknown feelings",
+      "image": "https://i.scdn.co/image/ab67616d0000b27388a96ef15faaa875a0a33859",
+      "uri": "spotify:track:4zyHmSSneytuFEdU2TbU7w",
+      "duration_ms": 134627
+    },
+    {
+      "played_at": "2026-11-15T22:52:09.428Z",
+      "name": "resonance - midwest emo version",
+      "artists": [
+        "jacal"
+      ],
+      "album": "resonance (midwest emo version)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732b715e5cf6b242e86db633f1",
+      "uri": "spotify:track:0luw44Of3IgnW2CHRnW2f7",
+      "duration_ms": 219024
+    },
+    {
+      "played_at": "2026-11-15T22:54:41.407Z",
+      "name": "blissful lights",
+      "artists": [
+        "voi"
+      ],
+      "album": "blissful lights",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732cfaab9f98c6edcf8752b232",
+      "uri": "spotify:track:5XATagtnWgdR6bF23g5sWm",
+      "duration_ms": 151456
+    },
+    {
+      "played_at": "2026-11-15T22:59:01.147Z",
+      "name": "Reunion",
+      "artists": [
+        "Korea Girl"
+      ],
+      "album": "Korea Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735b12b99ff908389cd09ed297",
+      "uri": "spotify:track:2fehVgZ1rciAcl0lYh1Mpq",
+      "duration_ms": 259266
+    },
+    {
+      "played_at": "2026-11-15T23:02:33.990Z",
+      "name": "Insomniac",
+      "artists": [
+        "Memo Boy",
+        "Chakra Efendi"
+      ],
+      "album": "Songs & Demos 2015-2017",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+      "duration_ms": 212307
+    },
+    {
+      "played_at": "2026-11-15T23:23:58.638Z",
+      "name": "Young",
+      "artists": [
+        "Vacations"
+      ],
+      "album": "Vibes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+      "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+      "duration_ms": 189160
+    },
+    {
+      "played_at": "2026-11-15T23:28:33.900Z",
+      "name": "Linger",
+      "artists": [
+        "The Cranberries"
+      ],
+      "album": "Stars: The Best Of The Cranberries 1992-2002",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736c4efca9f5e949a2f9cc3ac4",
+      "uri": "spotify:track:3HHehSGzW9dhs2V7Sod4jX",
+      "duration_ms": 274773
+    },
+    {
+      "played_at": "2026-11-15T23:30:52.178Z",
+      "name": "My Love Mine All Mine",
+      "artists": [
+        "Mitski"
+      ],
+      "album": "The Land Is Inhospitable and So Are We",
+      "image": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10",
+      "uri": "spotify:track:3vkCueOmm7xQDoJ17W1Pm3",
+      "duration_ms": 137773
+    },
+    {
+      "played_at": "2026-11-15T23:44:02.654Z",
+      "name": "Not Allowed",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:3IznIgmXtrUaoPWpQTy5jB",
+      "duration_ms": 167864
+    },
+    {
+      "played_at": "2026-11-15T23:47:55.893Z",
+      "name": "Lovers Rock",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+      "duration_ms": 213920
+    },
+    {
+      "played_at": "2026-11-15T23:54:08.518Z",
+      "name": "The Perfect Girl",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "The Perfect Girl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733d54a30e59638f60f56dd4e6",
+      "uri": "spotify:track:5RBOcBpJXaNnHCGViJmYhh",
+      "duration_ms": 194423
+    },
+    {
+      "played_at": "2026-11-15T23:58:59.103Z",
+      "name": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "album": "Cigarettes After Sex",
+      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
+      "uri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
+      "duration_ms": 290146
     }
   ]
 }
