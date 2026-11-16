@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-16T00:40:12.436Z",
+  "updated_at": "2026-11-16T10:33:35.037Z",
   "plays": [
-    {
-      "played_at": "2026-08-15T20:21:22.123Z",
-      "name": "Cigarettes out the Window",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "Who Really Cares",
-      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
-      "duration_ms": 198960
-    },
-    {
-      "played_at": "2026-08-15T20:23:00.606Z",
-      "name": "Babydoll",
-      "artists": [
-        "Dominic Fike"
-      ],
-      "album": "Don't Forget About Me, Demos",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-      "uri": "spotify:track:7yNf9YjeO5JXUE3JEBgnYc",
-      "duration_ms": 97960
-    },
-    {
-      "played_at": "2026-08-15T21:48:33.812Z",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740
-    },
     {
       "played_at": "2026-08-15T21:53:13.354Z",
       "name": "Dreams - Remastered 2026",
@@ -22219,6 +22186,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
       "uri": "spotify:track:1oAwsWBovWRIp7qLMGPIet",
       "duration_ms": 290146
+    },
+    {
+      "played_at": "2026-11-16T02:15:58.063Z",
+      "name": "Cigarettes out the Window",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "Who Really Cares",
+      "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+      "uri": "spotify:track:6QeYSvYqYUsfBzsApbjDHO",
+      "duration_ms": 198960
+    },
+    {
+      "played_at": "2026-11-16T02:18:51.659Z",
+      "name": "Dark Red",
+      "artists": [
+        "Steve Lacy"
+      ],
+      "album": "Dark Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b27342d7d84288846bbeef6f6bc9",
+      "uri": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
+      "duration_ms": 173104
+    },
+    {
+      "played_at": "2026-11-16T02:20:54.558Z",
+      "name": "Jealous",
+      "artists": [
+        "Eyedress"
+      ],
+      "album": "Let's Skip to the Wedding",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f",
+      "uri": "spotify:track:0bhudMmr0XdtBOjFbjq8R0",
+      "duration_ms": 122338
     }
   ]
 }
