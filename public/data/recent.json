@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-16T10:33:35.037Z",
+  "updated_at": "2026-11-16T21:33:53.812Z",
   "plays": [
-    {
-      "played_at": "2026-08-15T21:53:13.354Z",
-      "name": "Dreams - Remastered 2026",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
-      "uri": "spotify:track:458JkK5eJhh4C4s6nTuz7g",
-      "duration_ms": 273706
-    },
-    {
-      "played_at": "2026-08-15T22:28:06.097Z",
-      "name": "insurance",
-      "artists": [
-        "Rehash"
-      ],
-      "album": "mock",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
-      "uri": "spotify:track:2SOmSOFCgASyBrf3DHwBt4",
-      "duration_ms": 216234
-    },
-    {
-      "played_at": "2026-08-15T22:32:32.246Z",
-      "name": "Letting Go",
-      "artists": [
-        "Rehash"
-      ],
-      "album": "Rehash",
-      "image": "https://i.scdn.co/image/ab67616d0000b273478caac085cbc2607f6ab1d1",
-      "uri": "spotify:track:62zj6l5dQuzO7FrePuxP2D",
-      "duration_ms": 191360
-    },
     {
       "played_at": "2026-08-15T22:52:46.528Z",
       "name": "hold me in your arms",
@@ -22219,6 +22186,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f",
       "uri": "spotify:track:0bhudMmr0XdtBOjFbjq8R0",
       "duration_ms": 122338
+    },
+    {
+      "played_at": "2026-11-16T15:36:37.977Z",
+      "name": "Enjoy the Silence",
+      "artists": [
+        "Depeche Mode"
+      ],
+      "album": "Violator (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273234bbbad4dce31cd2950af3e",
+      "uri": "spotify:track:1JekRMGQ8iN4G1AAdh0SBa",
+      "duration_ms": 372826
+    },
+    {
+      "played_at": "2026-11-16T15:42:42.259Z",
+      "name": "Beware",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:2ASygm7048ssav4ekbehPS",
+      "duration_ms": 360666
+    },
+    {
+      "played_at": "2026-11-16T15:48:03.315Z",
+      "name": "Hearts / Wires",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Gore",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
+      "uri": "spotify:track:1SeMnyEb5dwCBLU3QUC0K2",
+      "duration_ms": 320546
     }
   ]
 }

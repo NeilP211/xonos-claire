@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:33:34.930Z",
+  "generated_at": "2026-11-16T21:33:53.702Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -101,6 +101,18 @@
         },
         {
           "rank": 9,
+          "name": "Beware",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Saturday Night Wrist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b1612d4821f07087c17598e5",
+          "uri": "spotify:track:3WLapRZFPVYY4OJhcVPOhX",
+          "url": "https://open.spotify.com/track/3WLapRZFPVYY4OJhcVPOhX",
+          "duration_ms": 360720
+        },
+        {
+          "rank": 10,
           "name": "No Surprises",
           "artists": [
             "Radiohead"
@@ -112,7 +124,7 @@
           "duration_ms": 229120
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -124,7 +136,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Crimewave",
           "artists": [
             "Crystal Castles"
@@ -136,7 +148,7 @@
           "duration_ms": 258453
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -148,7 +160,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Video Games",
           "artists": [
             "Lana Del Rey"
@@ -160,7 +172,7 @@
           "duration_ms": 281946
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -172,7 +184,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -184,7 +196,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -196,7 +208,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Medicine Bottle",
           "artists": [
             "Red House Painters"
@@ -208,7 +220,7 @@
           "duration_ms": 589440
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Two-Way Mirror",
           "artists": [
             "Loathe"
@@ -220,7 +232,7 @@
           "duration_ms": 300186
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -232,7 +244,7 @@
           "duration_ms": 242484
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Pylon",
           "artists": [
             "beabadoobee"
@@ -244,7 +256,7 @@
           "duration_ms": 215256
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "Switchblade",
           "artists": [
             "beabadoobee"
@@ -254,18 +266,6 @@
           "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
           "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
           "duration_ms": 181926
-        },
-        {
-          "rank": 22,
-          "name": "Beware",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Saturday Night Wrist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b1612d4821f07087c17598e5",
-          "uri": "spotify:track:3WLapRZFPVYY4OJhcVPOhX",
-          "url": "https://open.spotify.com/track/3WLapRZFPVYY4OJhcVPOhX",
-          "duration_ms": 360720
         },
         {
           "rank": 23,
@@ -1961,6 +1961,19 @@
         },
         {
           "rank": 14,
+          "name": "Insomniac",
+          "artists": [
+            "Memo Boy",
+            "Chakra Efendi"
+          ],
+          "album": "Songs & Demos 2015-2017",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
+          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
+          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
+          "duration_ms": 212307
+        },
+        {
+          "rank": 15,
           "name": "Snowman",
           "artists": [
             "Sia"
@@ -1972,7 +1985,7 @@
           "duration_ms": 165900
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -1982,19 +1995,6 @@
           "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
           "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
           "duration_ms": 264066
-        },
-        {
-          "rank": 16,
-          "name": "Insomniac",
-          "artists": [
-            "Memo Boy",
-            "Chakra Efendi"
-          ],
-          "album": "Songs & Demos 2015-2017",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-          "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-          "url": "https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6",
-          "duration_ms": 212307
         },
         {
           "rank": 17,
@@ -2058,6 +2058,18 @@
         },
         {
           "rank": 22,
+          "name": "Young",
+          "artists": [
+            "Vacations"
+          ],
+          "album": "Vibes",
+          "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
+          "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
+          "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE",
+          "duration_ms": 189160
+        },
+        {
+          "rank": 23,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -2069,7 +2081,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Nope your too late i already died",
           "artists": [
             "wifiskeleton",
@@ -2080,18 +2092,6 @@
           "uri": "spotify:track:0hta2Lb2zKJ7kEnAEZEE3G",
           "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
           "duration_ms": 90067
-        },
-        {
-          "rank": 24,
-          "name": "Young",
-          "artists": [
-            "Vacations"
-          ],
-          "album": "Vibes",
-          "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24",
-          "uri": "spotify:track:1KIJclzEbNhSVw8tiHPWwE",
-          "url": "https://open.spotify.com/track/1KIJclzEbNhSVw8tiHPWwE",
-          "duration_ms": 189160
         },
         {
           "rank": 25,
