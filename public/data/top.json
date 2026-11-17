@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T21:33:53.702Z",
+  "generated_at": "2026-11-17T06:16:27.696Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -402,18 +402,6 @@
         },
         {
           "rank": 34,
-          "name": "Rain, in Your Black Eyes",
-          "artists": [
-            "Ezio Bosso"
-          ],
-          "album": "And the Things that Remain",
-          "image": "https://i.scdn.co/image/ab67616d0000b273665ca59546dc652b010c5319",
-          "uri": "spotify:track:5Xf8gE5CdRnWfkFpm5RUgR",
-          "url": "https://open.spotify.com/track/5Xf8gE5CdRnWfkFpm5RUgR",
-          "duration_ms": 664560
-        },
-        {
-          "rank": 35,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -425,7 +413,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -437,7 +425,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -449,7 +437,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -461,7 +449,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "bacardi",
           "artists": [
             "phreshboyswag"
@@ -473,7 +461,7 @@
           "duration_ms": 112198
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -485,7 +473,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -497,7 +485,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -509,7 +497,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -521,7 +509,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 44,
+          "rank": 43,
           "name": "HALLOWEEN",
           "artists": [
             "Current Joys"
@@ -533,7 +521,7 @@
           "duration_ms": 215711
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Learn to Fly",
           "artists": [
             "Foo Fighters"
@@ -545,7 +533,7 @@
           "duration_ms": 235293
         },
         {
-          "rank": 46,
+          "rank": 45,
           "name": "I Just Threw Out The Love Of My Dreams",
           "artists": [
             "Weezer"
@@ -557,7 +545,7 @@
           "duration_ms": 157960
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -569,7 +557,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "The Perfect Girl",
           "artists": [
             "Mareux"
@@ -581,7 +569,7 @@
           "duration_ms": 194423
         },
         {
-          "rank": 49,
+          "rank": 48,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -594,7 +582,7 @@
           "duration_ms": 144316
         },
         {
-          "rank": 50,
+          "rank": 49,
           "name": "Write Me A Letter",
           "artists": [
             "beabadoobee"
@@ -604,6 +592,18 @@
           "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
           "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo",
           "duration_ms": 194103
+        },
+        {
+          "rank": 50,
+          "name": "Hole in the Earth",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Saturday Night Wrist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b1612d4821f07087c17598e5",
+          "uri": "spotify:track:2gkoXzgrLmLksaqBwwgLcG",
+          "url": "https://open.spotify.com/track/2gkoXzgrLmLksaqBwwgLcG",
+          "duration_ms": 249373
         }
       ],
       "artists": [
@@ -697,19 +697,19 @@
         },
         {
           "rank": 12,
-          "name": "Beach House",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
-          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        },
-        {
-          "rank": 13,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        },
+        {
+          "rank": 13,
+          "name": "Beach House",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
+          "genres": [],
+          "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
           "rank": 14,
@@ -721,19 +721,19 @@
         },
         {
           "rank": 15,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 16,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
           "genres": [],
           "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 16,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 17,
@@ -1457,19 +1457,19 @@
         },
         {
           "rank": 8,
-          "name": "Memo Boy",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
-          "genres": [],
-          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
-          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
-        },
-        {
-          "rank": 9,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        },
+        {
+          "rank": 9,
+          "name": "Memo Boy",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcaa7f3adf74ada8d6daa5941",
+          "genres": [],
+          "uri": "spotify:artist:2jwC7uml6QVgLBfx1Hbtek",
+          "url": "https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek"
         },
         {
           "rank": 10,
@@ -1561,14 +1561,6 @@
         },
         {
           "rank": 21,
-          "name": "Weezer",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
-          "genres": [],
-          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        },
-        {
-          "rank": 22,
           "name": "Strawberry Guy",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7ac4cc120d86b3e14bc0a4cd",
           "genres": [],
@@ -1576,12 +1568,20 @@
           "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
           "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL",
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        },
+        {
+          "rank": 23,
+          "name": "Weezer",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebed4caac362c0498e92337a5c",
+          "genres": [],
+          "uri": "spotify:artist:3jOstUTkEu2JkjvRdBA5Gu",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         },
         {
           "rank": 24,

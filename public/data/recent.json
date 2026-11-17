@@ -1,62 +1,6 @@
 {
-  "updated_at": "2026-11-16T21:33:53.812Z",
+  "updated_at": "2026-11-17T06:16:27.817Z",
   "plays": [
-    {
-      "played_at": "2026-08-15T22:52:46.528Z",
-      "name": "hold me in your arms",
-      "artists": [
-        "Blood Nose"
-      ],
-      "album": "hold me in your arms",
-      "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423",
-      "uri": "spotify:track:3e4iMLD1QVefLYMtlSF63F",
-      "duration_ms": 80097
-    },
-    {
-      "played_at": "2026-08-16T05:09:58.204Z",
-      "name": "Pure",
-      "artists": [
-        "SIENNA SPIRO"
-      ],
-      "album": "Visitor",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b09eea420767969b6729962b",
-      "uri": "spotify:track:31IKMjvv6Oskp4hjGVeYsT",
-      "duration_ms": 219924
-    },
-    {
-      "played_at": "2026-08-16T05:17:51.558Z",
-      "name": "Insomniac",
-      "artists": [
-        "Memo Boy",
-        "Chakra Efendi"
-      ],
-      "album": "Songs & Demos 2015-2017",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fd062989b0b63b82f5949524",
-      "uri": "spotify:track:2klj0StczYde6WUHBJo5F6",
-      "duration_ms": 212307
-    },
-    {
-      "played_at": "2026-08-16T15:49:28.574Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-16T15:51:43.652Z",
-      "name": "unknown feelings",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "unknown feelings",
-      "image": "https://i.scdn.co/image/ab67616d0000b27388a96ef15faaa875a0a33859",
-      "uri": "spotify:track:4zyHmSSneytuFEdU2TbU7w",
-      "duration_ms": 134627
-    },
     {
       "played_at": "2026-08-16T15:55:33.832Z",
       "name": "Your face",
@@ -22219,6 +22163,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a1de34b79834eddf96f803ff",
       "uri": "spotify:track:1SeMnyEb5dwCBLU3QUC0K2",
       "duration_ms": 320546
+    },
+    {
+      "played_at": "2026-11-16T23:07:18.131Z",
+      "name": "Undone - The Sweater Song",
+      "artists": [
+        "Weezer"
+      ],
+      "album": "Weezer",
+      "image": "https://i.scdn.co/image/ab67616d0000b273345536847e60f622ee0eae96",
+      "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
+      "duration_ms": 305533
+    },
+    {
+      "played_at": "2026-11-16T23:16:18.472Z",
+      "name": "No One's Deserving",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:68NXTtyVOS3rNGaYCxeHfW",
+      "duration_ms": 183317
+    },
+    {
+      "played_at": "2026-11-16T23:23:30.470Z",
+      "name": "See you soon",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:5TMGf0iNjOVLOgBf9vgq2O",
+      "duration_ms": 220192
+    },
+    {
+      "played_at": "2026-11-16T23:27:43.329Z",
+      "name": "Send the Pain Below",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:6dRAAG4sB71NAtVCHJep7s",
+      "duration_ms": 252360
+    },
+    {
+      "played_at": "2026-11-17T05:04:57.463Z",
+      "name": "CUT",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "D>E>A>T>H>M>E>T>A>L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542",
+      "uri": "spotify:track:6Mf5JBCIWVDSj8HZDaDG5d",
+      "duration_ms": 293038
     }
   ]
 }
