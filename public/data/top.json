@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T06:16:27.696Z",
+  "generated_at": "2026-11-17T18:05:17.940Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -317,6 +317,18 @@
         },
         {
           "rank": 27,
+          "name": "Are You The One",
+          "artists": [
+            "Basement"
+          ],
+          "album": "Be Here Now / Are You The One",
+          "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+          "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+          "url": "https://open.spotify.com/track/6wxW10ewY9UlXw7IFsD6eu",
+          "duration_ms": 180906
+        },
+        {
+          "rank": 28,
           "name": "Trouble",
           "artists": [
             "Hope Sandoval & The Warm Inventions"
@@ -328,7 +340,7 @@
           "duration_ms": 322680
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -340,7 +352,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Tempest",
           "artists": [
             "Deftones"
@@ -352,7 +364,7 @@
           "duration_ms": 365480
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Romantic Dreams",
           "artists": [
             "Deftones"
@@ -364,7 +376,19 @@
           "duration_ms": 278106
         },
         {
-          "rank": 31,
+          "rank": 32,
+          "name": "insurance",
+          "artists": [
+            "Rehash"
+          ],
+          "album": "mock",
+          "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+          "uri": "spotify:track:2SOmSOFCgASyBrf3DHwBt4",
+          "url": "https://open.spotify.com/track/2SOmSOFCgASyBrf3DHwBt4",
+          "duration_ms": 216234
+        },
+        {
+          "rank": 33,
           "name": "Perfume & Cigarettes",
           "artists": [
             "Wisborg"
@@ -376,7 +400,7 @@
           "duration_ms": 262000
         },
         {
-          "rank": 32,
+          "rank": 34,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -389,7 +413,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 33,
+          "rank": 35,
           "name": "976-EVIL",
           "artists": [
             "Deftones"
@@ -401,7 +425,7 @@
           "duration_ms": 272573
         },
         {
-          "rank": 34,
+          "rank": 36,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -413,7 +437,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 35,
+          "rank": 37,
           "name": "Where Is My Mind? - 2007 Remaster",
           "artists": [
             "Pixies"
@@ -425,7 +449,7 @@
           "duration_ms": 234973
         },
         {
-          "rank": 36,
+          "rank": 38,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -437,7 +461,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 37,
+          "rank": 39,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -449,7 +473,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 38,
+          "rank": 40,
           "name": "bacardi",
           "artists": [
             "phreshboyswag"
@@ -461,7 +485,7 @@
           "duration_ms": 112198
         },
         {
-          "rank": 39,
+          "rank": 41,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -473,7 +497,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 40,
+          "rank": 42,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -485,7 +509,7 @@
           "duration_ms": 259200
         },
         {
-          "rank": 41,
+          "rank": 43,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -497,7 +521,7 @@
           "duration_ms": 183333
         },
         {
-          "rank": 42,
+          "rank": 44,
           "name": "Ribs",
           "artists": [
             "Lorde"
@@ -509,7 +533,7 @@
           "duration_ms": 258969
         },
         {
-          "rank": 43,
+          "rank": 45,
           "name": "HALLOWEEN",
           "artists": [
             "Current Joys"
@@ -521,7 +545,7 @@
           "duration_ms": 215711
         },
         {
-          "rank": 44,
+          "rank": 46,
           "name": "Learn to Fly",
           "artists": [
             "Foo Fighters"
@@ -533,7 +557,7 @@
           "duration_ms": 235293
         },
         {
-          "rank": 45,
+          "rank": 47,
           "name": "I Just Threw Out The Love Of My Dreams",
           "artists": [
             "Weezer"
@@ -545,7 +569,7 @@
           "duration_ms": 157960
         },
         {
-          "rank": 46,
+          "rank": 48,
           "name": "Your face",
           "artists": [
             "Wisp"
@@ -557,7 +581,7 @@
           "duration_ms": 229728
         },
         {
-          "rank": 47,
+          "rank": 49,
           "name": "The Perfect Girl",
           "artists": [
             "Mareux"
@@ -569,7 +593,7 @@
           "duration_ms": 194423
         },
         {
-          "rank": 48,
+          "rank": 50,
           "name": "Nothing To Prove",
           "artists": [
             "beabadoobee",
@@ -580,30 +604,6 @@
           "uri": "spotify:track:1nxXhsu7dofByVV8BqGleK",
           "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK",
           "duration_ms": 144316
-        },
-        {
-          "rank": 49,
-          "name": "Write Me A Letter",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:2NQKHBLNYbTKyd3jHzAdoo",
-          "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo",
-          "duration_ms": 194103
-        },
-        {
-          "rank": 50,
-          "name": "Hole in the Earth",
-          "artists": [
-            "Deftones"
-          ],
-          "album": "Saturday Night Wrist",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b1612d4821f07087c17598e5",
-          "uri": "spotify:track:2gkoXzgrLmLksaqBwwgLcG",
-          "url": "https://open.spotify.com/track/2gkoXzgrLmLksaqBwwgLcG",
-          "duration_ms": 249373
         }
       ],
       "artists": [
@@ -753,6 +753,14 @@
         },
         {
           "rank": 19,
+          "name": "Eyedress",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
+          "genres": [],
+          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "rank": 20,
           "name": "Suki Waterhouse",
           "image": "https://i.scdn.co/image/ab6761610000e5eb1696da72cfcb968be92b84d4",
           "genres": [],
@@ -760,20 +768,12 @@
           "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Olivia Rodrigo",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
           "genres": [],
           "uri": "spotify:artist:1McMsnEElThX1knmY4oliG",
           "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        },
-        {
-          "rank": 21,
-          "name": "Eyedress",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebb1693f731eacb1e3f294a120",
-          "genres": [],
-          "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
         },
         {
           "rank": 22,
@@ -790,6 +790,14 @@
           "genres": [],
           "uri": "spotify:artist:7KJSk2ytUFik1LGqFGHOLW",
           "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
+        },
+        {
+          "rank": 24,
+          "name": "The Neighbourhood",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "genres": [],
+          "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ]
     },
@@ -1769,6 +1777,14 @@
         },
         {
           "rank": 47,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 48,
           "name": "flyingfish",
           "image": "https://i.scdn.co/image/ab6761610000e5ebf8ecb51ffd078a1dcfbddd34",
           "genres": [],
@@ -1776,7 +1792,7 @@
           "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "d4vd",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7dad3e7c38bc881e6d2ae432",
           "genres": [],
@@ -1784,20 +1800,12 @@
           "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Arctic Monkeys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
           "genres": [],
           "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH",
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        },
-        {
-          "rank": 50,
-          "name": "Panchiko",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
-          "genres": [],
-          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         }
       ]
     },

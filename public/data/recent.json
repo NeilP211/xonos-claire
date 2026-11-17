@@ -1,83 +1,6 @@
 {
-  "updated_at": "2026-11-17T06:16:27.817Z",
+  "updated_at": "2026-11-17T18:05:18.064Z",
   "plays": [
-    {
-      "played_at": "2026-08-16T15:55:33.832Z",
-      "name": "Your face",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:2VtXANhW6YpAzsMDQCFkAv",
-      "duration_ms": 229728
-    },
-    {
-      "played_at": "2026-08-16T19:15:36.397Z",
-      "name": "tower of memories",
-      "artists": [
-        "ivri"
-      ],
-      "album": "the theory of you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
-      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
-      "duration_ms": 208510
-    },
-    {
-      "played_at": "2026-08-16T19:16:56.085Z",
-      "name": "tower of memories",
-      "artists": [
-        "ivri"
-      ],
-      "album": "the theory of you",
-      "image": "https://i.scdn.co/image/ab67616d0000b273585518a52e54e0d76c14bcc4",
-      "uri": "spotify:track:3KZTPBbTMFLNbfoQoxEpXn",
-      "duration_ms": 208510
-    },
-    {
-      "played_at": "2026-08-16T19:49:27.171Z",
-      "name": "In My Room",
-      "artists": [
-        "Julia Wolf"
-      ],
-      "album": "PRESSURE",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a89fdceada45b52f0de8601c",
-      "uri": "spotify:track:2Ui2JtVjnbHZuExldryCOA",
-      "duration_ms": 163874
-    },
-    {
-      "played_at": "2026-08-16T19:53:37.548Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-16T20:05:38.105Z",
-      "name": "Youngest Daughter",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-      "duration_ms": 249514
-    },
-    {
-      "played_at": "2026-08-16T20:27:49.394Z",
-      "name": "I'd stay forever",
-      "artists": [
-        "whither"
-      ],
-      "album": "I'd stay forever",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ffa0eb97a0ec7eb9cd419922",
-      "uri": "spotify:track:2ClFwxCrSbg472DuKbCpej",
-      "duration_ms": 271058
-    },
     {
       "played_at": "2026-08-16T20:32:30.060Z",
       "name": "Into Me",
@@ -22218,6 +22141,83 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542",
       "uri": "spotify:track:6Mf5JBCIWVDSj8HZDaDG5d",
       "duration_ms": 293038
+    },
+    {
+      "played_at": "2026-11-17T15:23:37.086Z",
+      "name": "Lovers From The Past",
+      "artists": [
+        "Mareux"
+      ],
+      "album": "Lovers From The Past",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fcccf691e05e86753bb954a9",
+      "uri": "spotify:track:69cGlmgNyMf2K6AvmLBuRD",
+      "duration_ms": 199280
+    },
+    {
+      "played_at": "2026-11-17T15:40:28.099Z",
+      "name": "Are You The One",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Be Here Now / Are You The One",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+      "duration_ms": 180906
+    },
+    {
+      "played_at": "2026-11-17T15:44:01.234Z",
+      "name": "infinite source",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "private music",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a81aba1785543095f3c56913",
+      "uri": "spotify:track:3txlvthoUa9vWvG1zr2Lnr",
+      "duration_ms": 212577
+    },
+    {
+      "played_at": "2026-11-17T15:47:51.233Z",
+      "name": "Leach",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Ours Is Chrome",
+      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
+      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
+      "duration_ms": 229515
+    },
+    {
+      "played_at": "2026-11-17T16:22:40.828Z",
+      "name": "insurance",
+      "artists": [
+        "Rehash"
+      ],
+      "album": "mock",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732f50a9ad97d36ef45ac44937",
+      "uri": "spotify:track:2SOmSOFCgASyBrf3DHwBt4",
+      "duration_ms": 216234
+    },
+    {
+      "played_at": "2026-11-17T16:26:41.797Z",
+      "name": "Sweater Weather",
+      "artists": [
+        "The Neighbourhood"
+      ],
+      "album": "I Love You.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+      "uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
+      "duration_ms": 240400
+    },
+    {
+      "played_at": "2026-11-17T16:29:02.593Z",
+      "name": "Romantic Lover",
+      "artists": [
+        "Eyedress"
+      ],
+      "album": "Let's Skip to the Wedding",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f",
+      "uri": "spotify:track:7wAJfa8XOZmtCWrsxzE88T",
+      "duration_ms": 86739
     }
   ]
 }
