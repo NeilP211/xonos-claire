@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:01:13.032Z",
+  "generated_at": "2026-11-18T19:53:25.927Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1736,6 +1736,14 @@
         },
         {
           "rank": 42,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 43,
           "name": "KXLLSWXTCH",
           "image": "https://i.scdn.co/image/ab6761610000e5eb331ab4e3c9903e7bfdb78e32",
           "genres": [],
@@ -1743,7 +1751,7 @@
           "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Pastel Ghost",
           "image": "https://i.scdn.co/image/ab6761610000e5eb8a20e785e4bdc296ebd54d68",
           "genres": [],
@@ -1751,7 +1759,7 @@
           "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "The Smashing Pumpkins",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2897dd777bbd8e3f23e49c99",
           "genres": [],
@@ -1759,7 +1767,7 @@
           "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Title Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
           "genres": [],
@@ -1767,20 +1775,12 @@
           "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "Novulent",
           "image": "https://i.scdn.co/image/ab6761610000e5eb0d1d89685e0c29b3278e4b7a",
           "genres": [],
           "uri": "spotify:artist:2Q0rAyTIfdTUwDt8jpEpv0",
           "url": "https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0"
-        },
-        {
-          "rank": 47,
-          "name": "Panchiko",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
-          "genres": [],
-          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
           "rank": 48,
