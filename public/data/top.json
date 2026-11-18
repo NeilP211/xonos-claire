@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T02:42:01.035Z",
+  "generated_at": "2026-11-18T11:01:13.032Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -245,30 +245,6 @@
         },
         {
           "rank": 21,
-          "name": "Pylon",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
-          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
-          "duration_ms": 215256
-        },
-        {
-          "rank": 22,
-          "name": "Switchblade",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
-          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
-          "duration_ms": 181926
-        },
-        {
-          "rank": 23,
           "name": "Untrust Us",
           "artists": [
             "Crystal Castles"
@@ -280,7 +256,7 @@
           "duration_ms": 186373
         },
         {
-          "rank": 24,
+          "rank": 22,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -292,7 +268,7 @@
           "duration_ms": 299240
         },
         {
-          "rank": 25,
+          "rank": 23,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -304,7 +280,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 26,
+          "rank": 24,
           "name": "Flash",
           "artists": [
             "Cigarettes After Sex"
@@ -316,7 +292,7 @@
           "duration_ms": 274106
         },
         {
-          "rank": 27,
+          "rank": 25,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -328,7 +304,7 @@
           "duration_ms": 180906
         },
         {
-          "rank": 28,
+          "rank": 26,
           "name": "Trouble",
           "artists": [
             "Hope Sandoval & The Warm Inventions"
@@ -338,6 +314,30 @@
           "uri": "spotify:track:7ci8UKkaffhrdXN4vbt15m",
           "url": "https://open.spotify.com/track/7ci8UKkaffhrdXN4vbt15m",
           "duration_ms": 322680
+        },
+        {
+          "rank": 27,
+          "name": "Pylon",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
+          "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
+          "duration_ms": 215256
+        },
+        {
+          "rank": 28,
+          "name": "Switchblade",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:3RnTtNu46XxvcEIMse4Dt1",
+          "url": "https://open.spotify.com/track/3RnTtNu46XxvcEIMse4Dt1",
+          "duration_ms": 181926
         },
         {
           "rank": 29,
@@ -672,6 +672,14 @@
         },
         {
           "rank": 9,
+          "name": "Panchiko",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
+          "genres": [],
+          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+        },
+        {
+          "rank": 10,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
@@ -679,7 +687,7 @@
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
           "genres": [],
@@ -687,7 +695,7 @@
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
           "genres": [],
@@ -695,7 +703,7 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -703,7 +711,7 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -711,20 +719,12 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 15,
-          "name": "Panchiko",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
-          "genres": [],
-          "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
         {
           "rank": 16,

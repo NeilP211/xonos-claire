@@ -1,72 +1,6 @@
 {
-  "updated_at": "2026-11-18T02:42:01.457Z",
+  "updated_at": "2026-11-18T11:01:13.144Z",
   "plays": [
-    {
-      "played_at": "2026-08-16T22:03:24.849Z",
-      "name": "Kids",
-      "artists": [
-        "Current Joys"
-      ],
-      "album": "Kids",
-      "image": "https://i.scdn.co/image/ab67616d0000b2730df6a00937f62abc0e73c0ab",
-      "uri": "spotify:track:6cMMZ2pdP4PkYsVJqX2WUh",
-      "duration_ms": 269142
-    },
-    {
-      "played_at": "2026-08-16T23:09:33.398Z",
-      "name": "불꽃으로 / Bulkkoch Eulo",
-      "artists": [
-        "past self"
-      ],
-      "album": "불꽃으로 / Bulkkoch Eulo",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733114dd018570113cc458c8dc",
-      "uri": "spotify:track:4aSu60cZXfMbu6y7TcsPp1",
-      "duration_ms": 236000
-    },
-    {
-      "played_at": "2026-08-16T23:15:57.040Z",
-      "name": "PPP",
-      "artists": [
-        "Beach House"
-      ],
-      "album": "Depression Cherry",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739b7190e673e46271b2754aab",
-      "uri": "spotify:track:5JyJsAZyLTD7W5oWLeB0JK",
-      "duration_ms": 368546
-    },
-    {
-      "played_at": "2026-08-16T23:20:40.146Z",
-      "name": "무당 / Mudang",
-      "artists": [
-        "past self"
-      ],
-      "album": "무당 / Mudang",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-      "duration_ms": 253977
-    },
-    {
-      "played_at": "2026-08-17T00:13:24.232Z",
-      "name": "matrix (bl studio loop)",
-      "artists": [
-        "chrmbchrmb"
-      ],
-      "album": "doodles",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a1dd19a7f521864eedfaeb8b",
-      "uri": "spotify:track:0J1EjKUyxMkYXwdGZ8AsrB",
-      "duration_ms": 108648
-    },
-    {
-      "played_at": "2026-08-17T00:26:09.739Z",
-      "name": "The Man Who Sold The World - Live",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "MTV Unplugged In New York",
-      "image": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-      "uri": "spotify:track:15VRO9CQwMpbqUYA7e6Hwg",
-      "duration_ms": 261093
-    },
     {
       "played_at": "2026-08-17T00:30:05.161Z",
       "name": "Where Is My Mind? - 2007 Remaster",
@@ -22218,6 +22152,74 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738a1dc8049634f963d579c215",
       "uri": "spotify:track:5Mu5BFHb4vFS5cw0hbDICV",
       "duration_ms": 131730
+    },
+    {
+      "played_at": "2026-11-18T06:02:08.865Z",
+      "name": "Kicking Cars",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "D>E>A>T>H>M>E>T>A>L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542",
+      "uri": "spotify:track:2ZUiVwXQi0hthL1ISr5Jm2",
+      "duration_ms": 251271
+    },
+    {
+      "played_at": "2026-11-18T06:02:20.682Z",
+      "name": "Lost",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "uri": "spotify:track:3GZD6HmiNUhxXYf8Gch723",
+      "duration_ms": 234093
+    },
+    {
+      "played_at": "2026-11-18T06:05:25.246Z",
+      "name": "DNA.",
+      "artists": [
+        "Kendrick Lamar"
+      ],
+      "album": "DAMN.",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+      "uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
+      "duration_ms": 185946
+    },
+    {
+      "played_at": "2026-11-18T06:09:05.030Z",
+      "name": "Alright",
+      "artists": [
+        "Kendrick Lamar"
+      ],
+      "album": "To Pimp A Butterfly",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+      "uri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs",
+      "duration_ms": 219333
+    },
+    {
+      "played_at": "2026-11-18T06:11:37.096Z",
+      "name": "TOXIC (with Skepta)",
+      "artists": [
+        "Playboi Carti",
+        "Skepta"
+      ],
+      "album": "MUSIC",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b219c8d8462bfe254a20469",
+      "uri": "spotify:track:4evMMKc2HD6fV9slMfgkMx",
+      "duration_ms": 135275
+    },
+    {
+      "played_at": "2026-11-18T06:14:38.007Z",
+      "name": "See You Again (feat. Kali Uchis)",
+      "artists": [
+        "Tyler, The Creator",
+        "Kali Uchis"
+      ],
+      "album": "Flower Boy",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+      "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB",
+      "duration_ms": 180386
     }
   ]
 }
