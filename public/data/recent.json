@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-11-17T18:05:18.064Z",
+  "updated_at": "2026-11-18T02:42:01.457Z",
   "plays": [
-    {
-      "played_at": "2026-08-16T20:32:30.060Z",
-      "name": "Into Me",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Into You",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735b956c9f8b6f17910d7d0fdb",
-      "uri": "spotify:track:38CbWMaYnma3byQ4CDomBu",
-      "duration_ms": 123253
-    },
-    {
-      "played_at": "2026-08-16T20:36:05.379Z",
-      "name": "so hard to quit you",
-      "artists": [
-        "juggler"
-      ],
-      "album": "so hard to quit you",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732e6e5b9edd4f08de62dcb83e",
-      "uri": "spotify:track:38pgm3S0t7KI4N4K3z11e6",
-      "duration_ms": 214861
-    },
-    {
-      "played_at": "2026-08-16T20:37:52.090Z",
-      "name": "Oztroja",
-      "artists": [
-        "Zeruel"
-      ],
-      "album": "Awakening",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735a419e7c44d0e7acb36308c2",
-      "uri": "spotify:track:1sFXU1kjheYk4i42JIYaqU",
-      "duration_ms": 105341
-    },
-    {
-      "played_at": "2026-08-16T20:40:05.512Z",
-      "name": "Burden",
-      "artists": [
-        "Midrift"
-      ],
-      "album": "Elysian",
-      "image": "https://i.scdn.co/image/ab67616d0000b273220b874c94a54ae2895057d1",
-      "uri": "spotify:track:57nAMWHr1d771Oai4i3niQ",
-      "duration_ms": 132963
-    },
-    {
-      "played_at": "2026-08-16T21:32:22.022Z",
-      "name": "In Slow Time",
-      "artists": [
-        "Narrow Head"
-      ],
-      "album": "Far Removed",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735cf8a200c245f5548e963004",
-      "uri": "spotify:track:3C7Qjn5zpc6xJ81pamYWtJ",
-      "duration_ms": 196250
-    },
     {
       "played_at": "2026-08-16T22:03:24.849Z",
       "name": "Kids",
@@ -22218,6 +22163,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f",
       "uri": "spotify:track:7wAJfa8XOZmtCWrsxzE88T",
       "duration_ms": 86739
+    },
+    {
+      "played_at": "2026-11-17T21:20:08.147Z",
+      "name": "Highschool Lover",
+      "artists": [
+        "Air"
+      ],
+      "album": "The Virgin Suicides Redux",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ff818ca10579bfc270ee6e6c",
+      "uri": "spotify:track:24DYKYnSpyxxyoHEDXlIO1",
+      "duration_ms": 160173
+    },
+    {
+      "played_at": "2026-11-17T21:24:08.531Z",
+      "name": "Serpentskirt",
+      "artists": [
+        "Cocteau Twins"
+      ],
+      "album": "Milk & Kisses",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
+      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
+      "duration_ms": 239920
+    },
+    {
+      "played_at": "2026-11-17T21:28:10.362Z",
+      "name": "wonder if you care",
+      "artists": [
+        "flyingfish"
+      ],
+      "album": "wonder if you care",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735ba5008eef8036b72f9584b9",
+      "uri": "spotify:track:0KdEx2ETCXYZeEVAZS4sJ4",
+      "duration_ms": 134556
+    },
+    {
+      "played_at": "2026-11-17T21:32:06.773Z",
+      "name": "Luna",
+      "artists": [
+        "Wisp"
+      ],
+      "album": "Pandora",
+      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
+      "uri": "spotify:track:5ZKWXHh40U2QX1NHiWTnTk",
+      "duration_ms": 235894
+    },
+    {
+      "played_at": "2026-11-17T21:35:14.802Z",
+      "name": "i miss your warm hands",
+      "artists": [
+        "i don't like mirrors"
+      ],
+      "album": "Not How it's Supposed to be",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738a1dc8049634f963d579c215",
+      "uri": "spotify:track:5Mu5BFHb4vFS5cw0hbDICV",
+      "duration_ms": 131730
     }
   ]
 }
