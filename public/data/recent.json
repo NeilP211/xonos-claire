@@ -1,39 +1,6 @@
 {
-  "updated_at": "2026-11-19T02:12:32.426Z",
+  "updated_at": "2026-11-19T11:03:08.007Z",
   "plays": [
-    {
-      "played_at": "2026-08-17T00:33:39.533Z",
-      "name": "Lovers Rock",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-      "duration_ms": 213920
-    },
-    {
-      "played_at": "2026-08-17T00:36:54.435Z",
-      "name": "Louise",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "French Exit",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
-      "duration_ms": 194453
-    },
-    {
-      "played_at": "2026-08-17T00:40:58.507Z",
-      "name": "Always Forever",
-      "artists": [
-        "Cults"
-      ],
-      "album": "Static",
-      "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93",
-      "uri": "spotify:track:2enPRFda84VE2wtI8c86Uf",
-      "duration_ms": 223750
-    },
     {
       "played_at": "2026-08-17T00:47:07.251Z",
       "name": "I Wanna Be Yours",
@@ -22222,6 +22189,39 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
       "uri": "spotify:track:2tudvzsrR56uom6smgOcSf",
       "duration_ms": 267706
+    },
+    {
+      "played_at": "2026-11-19T04:17:13.276Z",
+      "name": "Where Is My Mind?",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Death to the Pixies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa13b5cb5c07db8c508b96db",
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "duration_ms": 229226
+    },
+    {
+      "played_at": "2026-11-19T05:00:39.718Z",
+      "name": "Do I Wanna Know?",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+      "uri": "spotify:track:5FVd6KXrgO9B3JPmC8OPst",
+      "duration_ms": 272394
+    },
+    {
+      "played_at": "2026-11-19T09:42:50.444Z",
+      "name": "Where Is My Mind?",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Death to the Pixies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa13b5cb5c07db8c508b96db",
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "duration_ms": 229226
     }
   ]
 }
