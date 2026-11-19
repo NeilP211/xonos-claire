@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-18T19:53:26.043Z",
+  "updated_at": "2026-11-19T02:12:32.426Z",
   "plays": [
-    {
-      "played_at": "2026-08-17T00:30:05.161Z",
-      "name": "Where Is My Mind? - 2007 Remaster",
-      "artists": [
-        "Pixies"
-      ],
-      "album": "Surfer Rosa (2007 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738aa545a0ea869940cce358b5",
-      "uri": "spotify:track:7wCmS9TTVUcIhRalDYFgPy",
-      "duration_ms": 234973
-    },
     {
       "played_at": "2026-08-17T00:33:39.533Z",
       "name": "Lovers Rock",
@@ -22220,6 +22209,19 @@
       "image": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
       "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB",
       "duration_ms": 180386
+    },
+    {
+      "played_at": "2026-11-18T20:37:31.848Z",
+      "name": "Like That",
+      "artists": [
+        "Future",
+        "Metro Boomin",
+        "Kendrick Lamar"
+      ],
+      "album": "WE DON'T TRUST YOU",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
+      "uri": "spotify:track:2tudvzsrR56uom6smgOcSf",
+      "duration_ms": 267706
     }
   ]
 }

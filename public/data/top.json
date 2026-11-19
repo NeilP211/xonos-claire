@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:53:25.927Z",
+  "generated_at": "2026-11-19T02:12:32.337Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -618,7 +618,13 @@
           "rank": 2,
           "name": "Deftones",
           "image": "https://i.scdn.co/image/ab6761610000e5ebe3ac5eb948e78d9285d1dbdb",
-          "genres": [],
+          "genres": [
+            "nu metal",
+            "alternative metal",
+            "rap metal",
+            "rock",
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6Ghvu1VvMGScGpOUJBAHNH",
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         },
@@ -626,7 +632,9 @@
           "rank": 3,
           "name": "beabadoobee",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         },
@@ -634,7 +642,9 @@
           "rank": 4,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:3TJZG17pjOKXwx1ELKJPfm",
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
@@ -650,7 +660,11 @@
           "rank": 6,
           "name": "Snow Strippers",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2949c67f381d533010389d6a",
-          "genres": [],
+          "genres": [
+            "electroclash",
+            "witch house",
+            "hyperpop"
+          ],
           "uri": "spotify:artist:6TsAG8Ve1icEC8ydeHm3C8",
           "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
         },
@@ -658,7 +672,9 @@
           "rank": 7,
           "name": "Cigarettes After Sex",
           "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
           "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
@@ -666,7 +682,12 @@
           "rank": 8,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
-          "genres": [],
+          "genres": [
+            "witch house",
+            "electroclash",
+            "new rave",
+            "alternative dance"
+          ],
           "uri": "spotify:artist:7K3zpFXBvPcvzhj7zlGJdO",
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
@@ -674,7 +695,9 @@
           "rank": 9,
           "name": "Panchiko",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcf8dba8e52a9db482ec83205",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:4KEHIUSoWCcqrk8AddTE1O",
           "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         },
@@ -682,7 +705,9 @@
           "rank": 10,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
-          "genres": [],
+          "genres": [
+            "lo-fi indie"
+          ],
           "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL",
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
         },
@@ -690,7 +715,10 @@
           "rank": 11,
           "name": "Alice In Chains",
           "image": "https://i.scdn.co/image/ab6761610000e5eb6114a63659d0d5c0a801f733",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:64tNsm6TnZe2zpcMVMOoHL",
           "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         },
@@ -698,7 +726,10 @@
           "rank": 12,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
-          "genres": [],
+          "genres": [
+            "art rock",
+            "alternative rock"
+          ],
           "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb",
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
@@ -706,7 +737,10 @@
           "rank": 13,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
-          "genres": [],
+          "genres": [
+            "shoegaze",
+            "post-grunge"
+          ],
           "uri": "spotify:artist:1IHjrY7ygKbmLVoUV1VcXc",
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
@@ -714,7 +748,9 @@
           "rank": 14,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
-          "genres": [],
+          "genres": [
+            "dream pop"
+          ],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
@@ -722,7 +758,9 @@
           "rank": 15,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
+          "genres": [
+            "bedroom pop"
+          ],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
@@ -730,7 +768,10 @@
           "rank": 16,
           "name": "Nirvana",
           "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
+          "genres": [
+            "grunge",
+            "rock"
+          ],
           "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
@@ -746,7 +787,13 @@
           "rank": 18,
           "name": "Title Fight",
           "image": "https://i.scdn.co/image/ab6761610000e5ebddf610c5554917515472fc89",
-          "genres": [],
+          "genres": [
+            "midwest emo",
+            "shoegaze",
+            "post-hardcore",
+            "melodic hardcore",
+            "emo"
+          ],
           "uri": "spotify:artist:2CnhqfjUG0qzsru0SMuhrk",
           "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
         },
@@ -778,7 +825,9 @@
           "rank": 22,
           "name": "Midrift",
           "image": "https://i.scdn.co/image/ab6761610000e5eb734a06826aa0fdea94a7f7e7",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:6ROfszneZDogjnbgqkxA7E",
           "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
         },
@@ -786,7 +835,9 @@
           "rank": 23,
           "name": "Clarion",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4c9c81ea4a021a1776e71de4",
-          "genres": [],
+          "genres": [
+            "shoegaze"
+          ],
           "uri": "spotify:artist:7KJSk2ytUFik1LGqFGHOLW",
           "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
         },
@@ -2822,7 +2873,56 @@
     }
   },
   "genres": {
-    "short_term": [],
+    "short_term": [
+      {
+        "genre": "shoegaze",
+        "weight": 0.1937363437727604
+      },
+      {
+        "genre": "electroclash",
+        "weight": 0.06409322651128915
+      },
+      {
+        "genre": "witch house",
+        "weight": 0.06409322651128915
+      },
+      {
+        "genre": "rock",
+        "weight": 0.06117989803350328
+      },
+      {
+        "genre": "bedroom pop",
+        "weight": 0.06117989803350328
+      },
+      {
+        "genre": "dream pop",
+        "weight": 0.05899490167516387
+      },
+      {
+        "genre": "post-grunge",
+        "weight": 0.05680990531682447
+      },
+      {
+        "genre": "grunge",
+        "weight": 0.05462490895848507
+      },
+      {
+        "genre": "nu metal",
+        "weight": 0.035688273852876914
+      },
+      {
+        "genre": "alternative metal",
+        "weight": 0.035688273852876914
+      },
+      {
+        "genre": "rap metal",
+        "weight": 0.035688273852876914
+      },
+      {
+        "genre": "hyperpop",
+        "weight": 0.03277494537509104
+      }
+    ],
     "medium_term": [],
     "long_term": []
   }
