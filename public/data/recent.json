@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-11-19T19:53:39.284Z",
+  "updated_at": "2026-11-20T01:59:18.702Z",
   "plays": [
-    {
-      "played_at": "2026-08-17T00:47:07.251Z",
-      "name": "I Wanna Be Yours",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:5XeFesFbtLpXzIVDNQP22n",
-      "duration_ms": 183956
-    },
-    {
-      "played_at": "2026-08-17T00:49:19.865Z",
-      "name": "Beanie",
-      "artists": [
-        "Chezile"
-      ],
-      "album": "Beanie",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537",
-      "uri": "spotify:track:5e0b9LgOfi3aJSKXFcOWRe",
-      "duration_ms": 132160
-    },
-    {
-      "played_at": "2026-08-17T04:13:58.016Z",
-      "name": "Her",
-      "artists": [
-        "The American Dawn"
-      ],
-      "album": "Her",
-      "image": "https://i.scdn.co/image/ab67616d0000b273975493c69e395bf309144b81",
-      "uri": "spotify:track:2vlkTkPqdATznKHu9gD2c1",
-      "duration_ms": 214086
-    },
-    {
-      "played_at": "2026-08-17T04:18:23.528Z",
-      "name": "Youngest Daughter",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
-      "duration_ms": 249514
-    },
     {
       "played_at": "2026-08-17T16:21:05.701Z",
       "name": "Poor Aileen",
@@ -22222,6 +22178,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273aa13b5cb5c07db8c508b96db",
       "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
       "duration_ms": 229226
+    },
+    {
+      "played_at": "2026-11-19T21:02:49.365Z",
+      "name": "Are You The One",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Be Here Now / Are You The One",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
+      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
+      "duration_ms": 180906
+    },
+    {
+      "played_at": "2026-11-19T21:05:53.866Z",
+      "name": "I Wanna Be Yours",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "album": "AM",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+      "uri": "spotify:track:5XeFesFbtLpXzIVDNQP22n",
+      "duration_ms": 183956
+    },
+    {
+      "played_at": "2026-11-19T21:10:03.867Z",
+      "name": "Youngest Daughter",
+      "artists": [
+        "Superheaven"
+      ],
+      "album": "Jar",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
+      "uri": "spotify:track:3tYxhPqkioZEV5el3DJxLQ",
+      "duration_ms": 249514
+    },
+    {
+      "played_at": "2026-11-19T23:40:15.059Z",
+      "name": "Leathers",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Koi No Yokan",
+      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
+      "uri": "spotify:track:0RLhtEt50QUwKXNwKI4dSJ",
+      "duration_ms": 248893
     }
   ]
 }
