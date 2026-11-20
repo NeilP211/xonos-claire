@@ -1,105 +1,6 @@
 {
-  "updated_at": "2026-11-20T01:59:18.702Z",
+  "updated_at": "2026-11-20T10:51:18.827Z",
   "plays": [
-    {
-      "played_at": "2026-08-17T16:21:05.701Z",
-      "name": "Poor Aileen",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6ysZGg7CqStzPV1ZALpNky",
-      "duration_ms": 267284
-    },
-    {
-      "played_at": "2026-08-17T16:22:41.167Z",
-      "name": "scars",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "VOL. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
-      "uri": "spotify:track:0ENO8Pu1riZdUdYEErLA8z",
-      "duration_ms": 95002
-    },
-    {
-      "played_at": "2026-08-17T16:27:40.953Z",
-      "name": "Entombed",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Koi No Yokan",
-      "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
-      "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
-      "duration_ms": 299240
-    },
-    {
-      "played_at": "2026-08-17T16:29:51.470Z",
-      "name": "unrequited",
-      "artists": [
-        "Midrift"
-      ],
-      "album": "unrequited",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a4ce00760ca56e00dd51ac39",
-      "uri": "spotify:track:1v4jO5ca9OVgii1glFjz3h",
-      "duration_ms": 130142
-    },
-    {
-      "played_at": "2026-08-17T16:33:00.381Z",
-      "name": "Enough for you",
-      "artists": [
-        "Wisp"
-      ],
-      "album": "Pandora",
-      "image": "https://i.scdn.co/image/ab67616d0000b27393b67dcb944df8174fd8356a",
-      "uri": "spotify:track:1z8nQqjNwNtuj0aoALh7gf",
-      "duration_ms": 185875
-    },
-    {
-      "played_at": "2026-08-17T16:36:36.868Z",
-      "name": "Blank",
-      "artists": [
-        "Glare"
-      ],
-      "album": "Into You",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735b956c9f8b6f17910d7d0fdb",
-      "uri": "spotify:track:2gpkmR9oX3Jk6rDI6KUwHj",
-      "duration_ms": 216089
-    },
-    {
-      "played_at": "2026-08-17T16:40:26.817Z",
-      "name": "Leach",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6G8CPgiHTKlB094svbH6Fu",
-      "duration_ms": 229515
-    },
-    {
-      "played_at": "2026-08-17T16:42:39.608Z",
-      "name": "savior",
-      "artists": [
-        "Novulent"
-      ],
-      "album": "VOL. 1",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e603debabd10fa9f00b6a021",
-      "uri": "spotify:track:2AxxfzxsozTmBL2qUPQVRX",
-      "duration_ms": 132356
-    },
-    {
-      "played_at": "2026-08-17T16:45:48.294Z",
-      "name": "Blvd. Nights",
-      "artists": [
-        "Team Sleep"
-      ],
-      "album": "Team Sleep (U.S. Release)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b2a07c3a9b8230f687ca5ba",
-      "uri": "spotify:track:7xDAU9IAMyWjl7ia3hRxs7",
-      "duration_ms": 188133
-    },
     {
       "played_at": "2026-08-17T16:48:44.304Z",
       "name": "Need",
@@ -22222,6 +22123,106 @@
       "image": "https://i.scdn.co/image/ab67616d0000b27373652b7a0dc388dd1d044b69",
       "uri": "spotify:track:0RLhtEt50QUwKXNwKI4dSJ",
       "duration_ms": 248893
+    },
+    {
+      "played_at": "2026-11-20T02:52:01.311Z",
+      "name": "Whole",
+      "artists": [
+        "Basement"
+      ],
+      "album": "Colourmeinkindness",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+      "uri": "spotify:track:29EPImPtRiMHXONTJGMhip",
+      "duration_ms": 190641
+    },
+    {
+      "played_at": "2026-11-20T07:20:52.617Z",
+      "name": "Velvet Ring",
+      "artists": [
+        "Big Thief"
+      ],
+      "album": "Masterpiece",
+      "image": "https://i.scdn.co/image/ab67616d0000b27328b2424c5b007b0e073c42ce",
+      "uri": "spotify:track:7qshYIOUFQAGgYfWXg1m9N",
+      "duration_ms": 155938
+    },
+    {
+      "played_at": "2026-11-20T07:24:27.911Z",
+      "name": "Good Looking",
+      "artists": [
+        "Suki Waterhouse"
+      ],
+      "album": "Good Looking",
+      "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3",
+      "uri": "spotify:track:026wpXkLAjImiWOzzcJBHj",
+      "duration_ms": 214800
+    },
+    {
+      "played_at": "2026-11-20T07:28:17.610Z",
+      "name": "Where Is My Mind?",
+      "artists": [
+        "Pixies"
+      ],
+      "album": "Death to the Pixies",
+      "image": "https://i.scdn.co/image/ab67616d0000b273aa13b5cb5c07db8c508b96db",
+      "uri": "spotify:track:0KzAbK6nItSqNh8q70tb0K",
+      "duration_ms": 229226
+    },
+    {
+      "played_at": "2026-11-20T07:29:38.211Z",
+      "name": "hold me in your arms",
+      "artists": [
+        "Blood Nose"
+      ],
+      "album": "hold me in your arms",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730115dfec691d42601b62ab4e",
+      "uri": "spotify:track:3dUKirVbYJqKfc4Kk9TXXH",
+      "duration_ms": 80097
+    },
+    {
+      "played_at": "2026-11-20T07:34:24.105Z",
+      "name": "Born To Die",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Born To Die - The Paradise Edition",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cb76604d9c5963544cf5be64",
+      "uri": "spotify:track:487OPlneJNni3NWC8SYqhW",
+      "duration_ms": 285400
+    },
+    {
+      "played_at": "2026-11-20T07:39:02.760Z",
+      "name": "Let The Light In (feat. Father John Misty)",
+      "artists": [
+        "Lana Del Rey",
+        "Father John Misty"
+      ],
+      "album": "Did you know that there's a tunnel under Ocean Blvd",
+      "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634",
+      "uri": "spotify:track:4qG7hWhljsqqENL5PaLA2z",
+      "duration_ms": 278126
+    },
+    {
+      "played_at": "2026-11-20T07:42:17.704Z",
+      "name": "Louise",
+      "artists": [
+        "TV Girl"
+      ],
+      "album": "French Exit",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+      "uri": "spotify:track:263KsGZODTZouh3RFGNaLX",
+      "duration_ms": 194453
+    },
+    {
+      "played_at": "2026-11-20T07:45:01.769Z",
+      "name": "Laputa",
+      "artists": [
+        "Panchiko"
+      ],
+      "album": "D>E>A>T>H>M>E>T>A>L",
+      "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542",
+      "uri": "spotify:track:5doZqVE0PWb3tcHY5eB6B4",
+      "duration_ms": 163544
     }
   ]
 }
