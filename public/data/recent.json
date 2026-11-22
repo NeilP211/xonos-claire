@@ -1,50 +1,6 @@
 {
-  "updated_at": "2026-11-21T18:37:54.083Z",
+  "updated_at": "2026-11-22T00:53:09.974Z",
   "plays": [
-    {
-      "played_at": "2026-08-17T21:45:56.100Z",
-      "name": "Just",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "The Bends",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "uri": "spotify:track:1dyTcli07c77mtQK3ahUZR",
-      "duration_ms": 234800
-    },
-    {
-      "played_at": "2026-08-17T21:50:07.104Z",
-      "name": "Everlong",
-      "artists": [
-        "Foo Fighters"
-      ],
-      "album": "The Colour And The Shape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb",
-      "uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-      "duration_ms": 250546
-    },
-    {
-      "played_at": "2026-08-18T14:15:42.081Z",
-      "name": "Duvet - Acoustic",
-      "artists": [
-        "bôa"
-      ],
-      "album": "Twilight",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736173e498401502583046f42c",
-      "uri": "spotify:track:0wlsgzAk1LaO8MMoXxpz7W",
-      "duration_ms": 314320
-    },
-    {
-      "played_at": "2026-08-18T14:19:51.465Z",
-      "name": "Serpentskirt",
-      "artists": [
-        "Cocteau Twins"
-      ],
-      "album": "Milk & Kisses",
-      "image": "https://i.scdn.co/image/ab67616d0000b273ccde2c4c37b539a187f95796",
-      "uri": "spotify:track:4Qa2oLW0tlTTP7jymgWPeu",
-      "duration_ms": 239920
-    },
     {
       "played_at": "2026-08-18T14:23:18.445Z",
       "name": "Ease",
@@ -22223,6 +22179,50 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273401327dd3276d4bacbfac28f",
       "uri": "spotify:track:5Bmc87iF3wRWGyDbzcMrG3",
       "duration_ms": 323133
+    },
+    {
+      "played_at": "2026-11-21T21:38:08.990Z",
+      "name": "Xerces",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Saturday Night Wrist",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
+      "uri": "spotify:track:5hxcxipGOjgTzrPOkfsyyS",
+      "duration_ms": 221800
+    },
+    {
+      "played_at": "2026-11-21T21:45:03.131Z",
+      "name": "Ohms",
+      "artists": [
+        "Deftones"
+      ],
+      "album": "Ohms",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e142a930bfba61f6a3592b29",
+      "uri": "spotify:track:0h6vLT1rLneoc5I4sOxvB1",
+      "duration_ms": 250222
+    },
+    {
+      "played_at": "2026-11-21T21:49:21.008Z",
+      "name": "Babylon...",
+      "artists": [
+        "Loathe"
+      ],
+      "album": "The Cold Sun",
+      "image": "https://i.scdn.co/image/ab67616d0000b273394871f10feb6f0bffc26aab",
+      "uri": "spotify:track:08on2wzs5D8ccY4oRrMR7G",
+      "duration_ms": 257464
+    },
+    {
+      "played_at": "2026-11-21T21:53:04.771Z",
+      "name": "Comfortable Liar",
+      "artists": [
+        "Chevelle"
+      ],
+      "album": "Wonder What's Next (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
+      "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
+      "duration_ms": 223266
     }
   ]
 }

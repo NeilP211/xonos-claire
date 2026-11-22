@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T18:37:53.944Z",
+  "generated_at": "2026-11-22T00:53:09.749Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -233,6 +233,18 @@
         },
         {
           "rank": 20,
+          "name": "Xerces",
+          "artists": [
+            "Deftones"
+          ],
+          "album": "Saturday Night Wrist",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b1612d4821f07087c17598e5",
+          "uri": "spotify:track:2xZprD2HPuJdPGt349fzQC",
+          "url": "https://open.spotify.com/track/2xZprD2HPuJdPGt349fzQC",
+          "duration_ms": 221866
+        },
+        {
+          "rank": 21,
           "name": "Let Down",
           "artists": [
             "Radiohead"
@@ -244,7 +256,7 @@
           "duration_ms": 299560
         },
         {
-          "rank": 21,
+          "rank": 22,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -256,7 +268,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -268,7 +280,7 @@
           "duration_ms": 299240
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -280,7 +292,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Medicine Bottle",
           "artists": [
             "Red House Painters"
@@ -292,7 +304,7 @@
           "duration_ms": 589440
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Two-Way Mirror",
           "artists": [
             "Loathe"
@@ -304,7 +316,7 @@
           "duration_ms": 300186
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -316,7 +328,7 @@
           "duration_ms": 242484
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Untrust Us",
           "artists": [
             "Crystal Castles"
@@ -328,7 +340,7 @@
           "duration_ms": 186373
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -340,7 +352,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Flash",
           "artists": [
             "Cigarettes After Sex"
@@ -352,7 +364,7 @@
           "duration_ms": 274106
         },
         {
-          "rank": 30,
+          "rank": 31,
           "name": "Trouble",
           "artists": [
             "Hope Sandoval & The Warm Inventions"
@@ -364,7 +376,7 @@
           "duration_ms": 322680
         },
         {
-          "rank": 31,
+          "rank": 32,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -376,7 +388,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -388,7 +400,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 33,
+          "rank": 34,
           "name": "Tempest",
           "artists": [
             "Deftones"
@@ -400,7 +412,7 @@
           "duration_ms": 365480
         },
         {
-          "rank": 34,
+          "rank": 35,
           "name": "Romantic Dreams",
           "artists": [
             "Deftones"
@@ -412,7 +424,7 @@
           "duration_ms": 278106
         },
         {
-          "rank": 35,
+          "rank": 36,
           "name": "Highschool Lover",
           "artists": [
             "Air"
@@ -424,7 +436,7 @@
           "duration_ms": 160173
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "insurance",
           "artists": [
             "Rehash"
@@ -436,7 +448,7 @@
           "duration_ms": 216234
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Perfume & Cigarettes",
           "artists": [
             "Wisborg"
@@ -448,7 +460,7 @@
           "duration_ms": 262000
         },
         {
-          "rank": 38,
+          "rank": 39,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -461,7 +473,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "976-EVIL",
           "artists": [
             "Deftones"
@@ -473,7 +485,7 @@
           "duration_ms": 272573
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -485,7 +497,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -497,7 +509,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "Karma Police",
           "artists": [
             "Radiohead"
@@ -509,7 +521,7 @@
           "duration_ms": 264066
         },
         {
-          "rank": 43,
+          "rank": 44,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -521,7 +533,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 44,
+          "rank": 45,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -533,7 +545,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 45,
+          "rank": 46,
           "name": "Perfect Pair",
           "artists": [
             "R.L. Beats"
@@ -545,7 +557,7 @@
           "duration_ms": 123287
         },
         {
-          "rank": 46,
+          "rank": 47,
           "name": "bacardi",
           "artists": [
             "phreshboyswag"
@@ -557,7 +569,7 @@
           "duration_ms": 112198
         },
         {
-          "rank": 47,
+          "rank": 48,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -569,7 +581,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 48,
+          "rank": 49,
           "name": "Dance For Me Wallis",
           "artists": [
             "Abel Korzeniowski"
@@ -581,7 +593,7 @@
           "duration_ms": 188346
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -591,18 +603,6 @@
           "uri": "spotify:track:2JuasWPUodaUxf5nwNpciQ",
           "url": "https://open.spotify.com/track/2JuasWPUodaUxf5nwNpciQ",
           "duration_ms": 259200
-        },
-        {
-          "rank": 50,
-          "name": "Breed - Remastered",
-          "artists": [
-            "Nirvana"
-          ],
-          "album": "Nevermind (30th Anniversary Super Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b273444f118a9126af9e1483dcc0",
-          "uri": "spotify:track:31T3xoQRBLl81KPQJWXD6A",
-          "url": "https://open.spotify.com/track/31T3xoQRBLl81KPQJWXD6A",
-          "duration_ms": 183333
         }
       ],
       "artists": [
@@ -704,6 +704,14 @@
         },
         {
           "rank": 13,
+          "name": "Basement",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
+          "genres": [],
+          "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        },
+        {
+          "rank": 14,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
@@ -711,7 +719,7 @@
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Superheaven",
           "image": "https://i.scdn.co/image/ab6761610000e5eb70e164a7c5093e347f46edb0",
           "genres": [],
@@ -719,20 +727,12 @@
           "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "The Marías",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
           "genres": [],
           "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
           "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 16,
-          "name": "Basement",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb1fa6ef6ef1a7e759a348ef5b",
-          "genres": [],
-          "uri": "spotify:artist:4DUQBYAyOTZotSEdKhaf6c",
-          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         },
         {
           "rank": 17,
@@ -776,6 +776,14 @@
         },
         {
           "rank": 22,
+          "name": "Loathe",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebc4e8bc66dcecb7e07a32871b",
+          "genres": [],
+          "uri": "spotify:artist:4G9wSdX0klmoHfjm9i6DLd",
+          "url": "https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd"
+        },
+        {
+          "rank": 23,
           "name": "Midrift",
           "image": "https://i.scdn.co/image/ab6761610000e5eb734a06826aa0fdea94a7f7e7",
           "genres": [],
@@ -783,7 +791,7 @@
           "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Clarion",
           "image": "https://i.scdn.co/image/ab6761610000e5eb4c9c81ea4a021a1776e71de4",
           "genres": [],
@@ -791,7 +799,7 @@
           "url": "https://open.spotify.com/artist/7KJSk2ytUFik1LGqFGHOLW"
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Mitski",
           "image": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89",
           "genres": [],
@@ -1956,6 +1964,18 @@
         },
         {
           "rank": 13,
+          "name": "Karma Police",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "OK Computer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
+          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
+          "duration_ms": 264066
+        },
+        {
+          "rank": 14,
           "name": "Lithium",
           "artists": [
             "Nirvana"
@@ -1967,7 +1987,7 @@
           "duration_ms": 257053
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Insomniac",
           "artists": [
             "Memo Boy",
@@ -1980,7 +2000,7 @@
           "duration_ms": 212307
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Snowman",
           "artists": [
             "Sia"
@@ -1990,18 +2010,6 @@
           "uri": "spotify:track:7uoFMmxln0GPXQ0AcCBXRq",
           "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
           "duration_ms": 165900
-        },
-        {
-          "rank": 16,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
         },
         {
           "rank": 17,
@@ -2053,18 +2061,6 @@
         },
         {
           "rank": 21,
-          "name": "Be My Baby",
-          "artists": [
-            "The Ronettes"
-          ],
-          "album": "Presenting the Fabulous Ronettes Featuring Veronica",
-          "image": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
-          "uri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
-          "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1",
-          "duration_ms": 160906
-        },
-        {
-          "rank": 22,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -2074,6 +2070,18 @@
           "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
           "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
           "duration_ms": 227340
+        },
+        {
+          "rank": 22,
+          "name": "Be My Baby",
+          "artists": [
+            "The Ronettes"
+          ],
+          "album": "Presenting the Fabulous Ronettes Featuring Veronica",
+          "image": "https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675",
+          "uri": "spotify:track:1WN4uNclrDuczTO3bCr8s1",
+          "url": "https://open.spotify.com/track/1WN4uNclrDuczTO3bCr8s1",
+          "duration_ms": 160906
         },
         {
           "rank": 23,
