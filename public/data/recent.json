@@ -1,61 +1,6 @@
 {
-  "updated_at": "2026-11-22T18:58:12.118Z",
+  "updated_at": "2026-11-23T01:21:42.033Z",
   "plays": [
-    {
-      "played_at": "2026-08-18T14:23:18.445Z",
-      "name": "Ease",
-      "artists": [
-        "Whirr"
-      ],
-      "album": "Whirr & Nothing",
-      "image": "https://i.scdn.co/image/ab67616d0000b2737fd40afc490d1abf8c7f5d80",
-      "uri": "spotify:track:4gOGOvsQkmUCRYCWQYY3mP",
-      "duration_ms": 206533
-    },
-    {
-      "played_at": "2026-08-18T14:28:04.793Z",
-      "name": "When the Sun Hits",
-      "artists": [
-        "Slowdive"
-      ],
-      "album": "Souvlaki",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
-      "uri": "spotify:track:0oxYB9GoOIDrdzniNdKC44",
-      "duration_ms": 285906
-    },
-    {
-      "played_at": "2026-08-18T14:31:53.482Z",
-      "name": "Go Slowly",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "In Rainbows (Disk 2)",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734b88d5c1b3358cca2c94ec0b",
-      "uri": "spotify:track:6yiSyupeI7KYdBZKJdnIUO",
-      "duration_ms": 228236
-    },
-    {
-      "played_at": "2026-08-18T14:34:25.932Z",
-      "name": "It Almost Worked",
-      "artists": [
-        "TV Girl"
-      ],
-      "album": "The Night in Question: French Exit Outtakes",
-      "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af",
-      "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
-      "duration_ms": 152000
-    },
-    {
-      "played_at": "2026-08-18T22:02:23.379Z",
-      "name": "Drown",
-      "artists": [
-        "Strange Boutique"
-      ],
-      "album": "The Loved One",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738bebed1a542c6b07e0aa362d",
-      "uri": "spotify:track:3SLEmILstFcyEkFFhL4QE1",
-      "duration_ms": 278048
-    },
     {
       "played_at": "2026-08-19T00:53:19.397Z",
       "name": "Red Wine Supernova",
@@ -22223,6 +22168,61 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
       "uri": "spotify:track:412LyfktkgWKEn8kmKiyQe",
       "duration_ms": 223266
+    },
+    {
+      "played_at": "2026-11-23T01:04:05.868Z",
+      "name": "West Coast",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "album": "Ultraviolence (Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+      "uri": "spotify:track:5Y6nVaayzitvsD5F7nr3DV",
+      "duration_ms": 256760
+    },
+    {
+      "played_at": "2026-11-23T01:10:18.884Z",
+      "name": "Last Christmas",
+      "artists": [
+        "Wham!"
+      ],
+      "album": "LAST CHRISTMAS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
+      "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78",
+      "duration_ms": 262960
+    },
+    {
+      "played_at": "2026-11-23T01:14:20.874Z",
+      "name": "All I Want for Christmas Is You",
+      "artists": [
+        "Mariah Carey"
+      ],
+      "album": "Merry Christmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0862332847213b151ffab31",
+      "uri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn",
+      "duration_ms": 241562
+    },
+    {
+      "played_at": "2026-11-23T01:16:27.670Z",
+      "name": "Rockin' Around The Christmas Tree",
+      "artists": [
+        "Brenda Lee"
+      ],
+      "album": "Merry Christmas From Brenda Lee",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3",
+      "uri": "spotify:track:2EjXfH91m7f8HiJN1yQg97",
+      "duration_ms": 126266
+    },
+    {
+      "played_at": "2026-11-23T01:19:52.266Z",
+      "name": "Santa Tell Me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "Santa Tell Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5",
+      "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb",
+      "duration_ms": 204093
     }
   ]
 }
