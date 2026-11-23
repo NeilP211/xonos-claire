@@ -1,371 +1,6 @@
 {
-  "updated_at": "2026-11-23T01:21:42.033Z",
+  "updated_at": "2026-11-23T11:42:27.599Z",
   "plays": [
-    {
-      "played_at": "2026-08-19T00:53:19.397Z",
-      "name": "Red Wine Supernova",
-      "artists": [
-        "Chappell Roan"
-      ],
-      "album": "The Rise and Fall of a Midwest Princess",
-      "image": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
-      "uri": "spotify:track:7FOgcfdz9Nx5V9lCNXdBYv",
-      "duration_ms": 192720
-    },
-    {
-      "played_at": "2026-08-19T00:57:42.891Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
-    {
-      "played_at": "2026-08-19T01:02:45.297Z",
-      "name": "Smells Like Teen Spirit",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:5ghIJDpPoe3CfHMGu71E6T",
-      "duration_ms": 301920
-    },
-    {
-      "played_at": "2026-08-19T01:06:44.167Z",
-      "name": "The Red",
-      "artists": [
-        "Chevelle"
-      ],
-      "album": "Wonder What's Next (Expanded Edition)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273bd444869348f556430c21890",
-      "uri": "spotify:track:1gyee1JuFFiP476LQpRMYU",
-      "duration_ms": 238400
-    },
-    {
-      "played_at": "2026-08-19T01:14:51.094Z",
-      "name": "My Iron Lung",
-      "artists": [
-        "Radiohead"
-      ],
-      "album": "The Bends",
-      "image": "https://i.scdn.co/image/ab67616d0000b2739293c743fa542094336c5e12",
-      "uri": "spotify:track:0jyikFM0Umv0KlnrOEKtTG",
-      "duration_ms": 276426
-    },
-    {
-      "played_at": "2026-08-19T01:18:44.720Z",
-      "name": "All Apologies",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:1Ic9pKxGSJGM0LKeqf6lGe",
-      "duration_ms": 233173
-    },
-    {
-      "played_at": "2026-08-19T01:23:07.118Z",
-      "name": "Bigmouth Strikes Again - 2011 Remaster",
-      "artists": [
-        "The Smiths"
-      ],
-      "album": "The Queen Is Dead",
-      "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601",
-      "uri": "spotify:track:2OErSh4oVVAUll0vHxdr6p",
-      "duration_ms": 193320
-    },
-    {
-      "played_at": "2026-08-19T14:20:57.959Z",
-      "name": "About A Girl",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Bleach",
-      "image": "https://i.scdn.co/image/ab67616d0000b27397507fd22fb690cb9085a864",
-      "uri": "spotify:track:2SHTKB8YYlawTGIuJ2b2ok",
-      "duration_ms": 168428
-    },
-    {
-      "played_at": "2026-08-19T14:25:47.951Z",
-      "name": "Keep on Loving You",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Affection",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb",
-      "uri": "spotify:track:3GUSidbQwd7xuvU6AQorRh",
-      "duration_ms": 233000
-    },
-    {
-      "played_at": "2026-08-19T14:30:06.417Z",
-      "name": "John Wayne",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "Cigarettes After Sex",
-      "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc",
-      "uri": "spotify:track:4xbN7giFhdGbSQTPyG178F",
-      "duration_ms": 258013
-    },
-    {
-      "played_at": "2026-08-19T14:33:16.502Z",
-      "name": "Sea, Swallow Me - 2024 Remaster",
-      "artists": [
-        "Cocteau Twins",
-        "Harold Budd"
-      ],
-      "album": "The Moon and the Melodies (2024 Remaster)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f510b1ab6184d8eecf6ba4bc",
-      "uri": "spotify:track:2kwKk1pkWM6ywaC4gQaByB",
-      "duration_ms": 189632
-    },
-    {
-      "played_at": "2026-08-19T14:37:10.968Z",
-      "name": "Playground Love (with Gordon Tracks)",
-      "artists": [
-        "Air",
-        "Gordon Tracks"
-      ],
-      "album": "The Virgin Suicides (Original Motion Picture Score)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d255944dd08e7fba8197aff8",
-      "uri": "spotify:track:6L5RI9isQPvFyl1yCxnFFb",
-      "duration_ms": 212693
-    },
-    {
-      "played_at": "2026-08-19T14:40:46.621Z",
-      "name": "Nobody New",
-      "artists": [
-        "The Marías"
-      ],
-      "album": "Nobody New",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734076c62eeace86cc7bde7aef",
-      "uri": "spotify:track:3BUc2A0MJ53FHwiy3eohBt",
-      "duration_ms": 215200
-    },
-    {
-      "played_at": "2026-08-19T16:22:02.201Z",
-      "name": "Nothing's Gonna Hurt You Baby",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "album": "I.",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f20d15ff288e94492f7097eb",
-      "uri": "spotify:track:3W7KHojYGgYaoX9ogKO9hU",
-      "duration_ms": 286293
-    },
-    {
-      "played_at": "2026-08-19T19:29:08.118Z",
-      "name": "escape",
-      "artists": [
-        "jacal"
-      ],
-      "album": "escape",
-      "image": "https://i.scdn.co/image/ab67616d0000b2733d968cf3ed00003dae43d49d",
-      "uri": "spotify:track:2C4uXFyCjXo7F2OVPDxVLY",
-      "duration_ms": 195428
-    },
-    {
-      "played_at": "2026-08-19T19:51:47.849Z",
-      "name": "Covet",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Colourmeinkindness",
-      "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-      "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-      "duration_ms": 227340
-    },
-    {
-      "played_at": "2026-08-19T19:54:29.159Z",
-      "name": "Abbi",
-      "artists": [
-        "Vincemp3"
-      ],
-      "album": "Abbi",
-      "image": "https://i.scdn.co/image/ab67616d0000b27308bd664a1d2f1433876f5d68",
-      "uri": "spotify:track:7iIQkOIwWJoZeTMJgBwuq8",
-      "duration_ms": 160867
-    },
-    {
-      "played_at": "2026-08-19T19:58:04.329Z",
-      "name": "so hard to quit you",
-      "artists": [
-        "juggler"
-      ],
-      "album": "so hard to quit you",
-      "image": "https://i.scdn.co/image/ab67616d0000b2732e6e5b9edd4f08de62dcb83e",
-      "uri": "spotify:track:38pgm3S0t7KI4N4K3z11e6",
-      "duration_ms": 214861
-    },
-    {
-      "played_at": "2026-08-19T20:01:58.616Z",
-      "name": "Dagger",
-      "artists": [
-        "Slowdive"
-      ],
-      "album": "Souvlaki",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41",
-      "uri": "spotify:track:3MmRfG64qt04Efx9gK9Ec8",
-      "duration_ms": 218253
-    },
-    {
-      "played_at": "2026-08-19T20:07:16.887Z",
-      "name": "Cherry Waves",
-      "artists": [
-        "Deftones"
-      ],
-      "album": "Saturday Night Wrist",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c869fa3b4e0ce4dd9818a40e",
-      "uri": "spotify:track:70L6nHORQsblY813yNqUR3",
-      "duration_ms": 317706
-    },
-    {
-      "played_at": "2026-08-19T21:51:39.405Z",
-      "name": "Are You The One",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Be Here Now / Are You The One",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
-      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
-      "duration_ms": 180906
-    },
-    {
-      "played_at": "2026-08-19T21:59:07.021Z",
-      "name": "In On It",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Jar",
-      "image": "https://i.scdn.co/image/ab67616d0000b2738f147e0af424cd7c6f91e9f2",
-      "uri": "spotify:track:0ey0KwCzoUdjvPzbLX8qSa",
-      "duration_ms": 203253
-    },
-    {
-      "played_at": "2026-08-19T22:03:34.752Z",
-      "name": "Poor Aileen",
-      "artists": [
-        "Superheaven"
-      ],
-      "album": "Ours Is Chrome",
-      "image": "https://i.scdn.co/image/ab67616d0000b27368f853b06423843e34c72422",
-      "uri": "spotify:track:6ysZGg7CqStzPV1ZALpNky",
-      "duration_ms": 267284
-    },
-    {
-      "played_at": "2026-08-19T22:07:52.263Z",
-      "name": "Lithium",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "Nevermind (Remastered)",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-      "uri": "spotify:track:2YodwKJnbPyNKe8XXSE9V7",
-      "duration_ms": 257053
-    },
-    {
-      "played_at": "2026-08-19T22:10:24.601Z",
-      "name": "Dumb",
-      "artists": [
-        "Nirvana"
-      ],
-      "album": "In Utero",
-      "image": "https://i.scdn.co/image/ab67616d0000b273c4f52ef8782f0e8ede4c1aaf",
-      "uri": "spotify:track:5gRcv46AMTrosmTOqrOV3Q",
-      "duration_ms": 151893
-    },
-    {
-      "played_at": "2026-08-20T02:30:24.328Z",
-      "name": "무당 / Mudang",
-      "artists": [
-        "past self"
-      ],
-      "album": "무당 / Mudang",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-      "duration_ms": 253977
-    },
-    {
-      "played_at": "2026-08-20T02:33:27.139Z",
-      "name": "무당 / Mudang",
-      "artists": [
-        "past self"
-      ],
-      "album": "무당 / Mudang",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f9bf394b412d8fa3531914c6",
-      "uri": "spotify:track:2JIMWEMYEVSOtUMaHFeNXN",
-      "duration_ms": 253977
-    },
-    {
-      "played_at": "2026-08-20T02:36:46.426Z",
-      "name": "Are You The One",
-      "artists": [
-        "Basement"
-      ],
-      "album": "Be Here Now / Are You The One",
-      "image": "https://i.scdn.co/image/ab67616d0000b273f8943dadca7e497d7e8f103f",
-      "uri": "spotify:track:6wxW10ewY9UlXw7IFsD6eu",
-      "duration_ms": 180906
-    },
-    {
-      "played_at": "2026-08-20T02:40:02.597Z",
-      "name": "Self Aware",
-      "artists": [
-        "Temper City"
-      ],
-      "album": "Self Aware",
-      "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc",
-      "uri": "spotify:track:4qW3BbQAwZsrnu8a3ZRdyT",
-      "duration_ms": 180740
-    },
-    {
-      "played_at": "2026-08-20T02:45:31.776Z",
-      "name": "Good Luck, Babe!",
-      "artists": [
-        "Chappell Roan"
-      ],
-      "album": "Good Luck, Babe!",
-      "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
-      "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
-      "duration_ms": 218423
-    },
-    {
-      "played_at": "2026-08-20T02:49:38.296Z",
-      "name": "No. 1 Party Anthem",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "album": "AM",
-      "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-      "uri": "spotify:track:5TTGoX70AFrTvuEtqHK37S",
-      "duration_ms": 243131
-    },
-    {
-      "played_at": "2026-08-20T02:54:19.872Z",
-      "name": "Salvatore",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "album": "Honeymoon",
-      "image": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
-      "uri": "spotify:track:21qg0IBZf8R12qHd9A3AA4",
-      "duration_ms": 281093
-    },
-    {
-      "played_at": "2026-08-20T02:58:10.518Z",
-      "name": "vampire",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "album": "GUTS",
-      "image": "https://i.scdn.co/image/ab67616d0000b273e85259a1cae29a8d91f2093d",
-      "uri": "spotify:track:1kuGVB7EU95pJObxwvfwKS",
-      "duration_ms": 219724
-    },
     {
       "played_at": "2026-08-20T03:00:52.120Z",
       "name": "Why'd You Only Call Me When You're High?",
@@ -22223,6 +21858,371 @@
       "image": "https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5",
       "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb",
       "duration_ms": 204093
+    },
+    {
+      "played_at": "2026-11-23T01:24:04.423Z",
+      "name": "Underneath the Tree",
+      "artists": [
+        "Kelly Clarkson"
+      ],
+      "album": "Wrapped In Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd7d6900edd4d3f7d0f160a1",
+      "uri": "spotify:track:3YZE5qDV7u1ZD1gZc47ZeR",
+      "duration_ms": 229638
+    },
+    {
+      "played_at": "2026-11-23T01:26:15.874Z",
+      "name": "Jingle Bell Rock",
+      "artists": [
+        "Bobby Helms"
+      ],
+      "album": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17",
+      "uri": "spotify:track:7vQbuQcyTflfCIOu3Uzzya",
+      "duration_ms": 130973
+    },
+    {
+      "played_at": "2026-11-23T01:29:31.848Z",
+      "name": "Snowman",
+      "artists": [
+        "Sia"
+      ],
+      "album": "Everyday Is Christmas (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a75e532b61dac3ddafd022ef",
+      "uri": "spotify:track:7uoFMmxln0GPXQ0AcCBXRq",
+      "duration_ms": 165900
+    },
+    {
+      "played_at": "2026-11-23T01:31:29.442Z",
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "artists": [
+        "Dean Martin"
+      ],
+      "album": "A Winter Romance",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea",
+      "uri": "spotify:track:2uFaJJtFpPDc5Pa95XzTvg",
+      "duration_ms": 117146
+    },
+    {
+      "played_at": "2026-11-23T01:34:16.441Z",
+      "name": "Christmas (Baby Please Come Home)",
+      "artists": [
+        "Darlene Love"
+      ],
+      "album": "Christmas (Baby, Please Come Home)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734bd42504ca3569f71af64fc8",
+      "uri": "spotify:track:47ohYW8e7dxCYn9qbUMBCI",
+      "duration_ms": 166453
+    },
+    {
+      "played_at": "2026-11-23T01:36:16.671Z",
+      "name": "Holly Jolly Christmas",
+      "artists": [
+        "Michael Bublé"
+      ],
+      "album": "Christmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273811d5066c4493519176fb687",
+      "uri": "spotify:track:6tjituizSxwSmBB5vtgHZE",
+      "duration_ms": 119786
+    },
+    {
+      "played_at": "2026-11-23T01:38:29.969Z",
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "artists": [
+        "Laufey"
+      ],
+      "album": "Spotify Singles Holiday",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d16831527ee5c1edd9327b78",
+      "uri": "spotify:track:1LmkdWSxjCV7wKTPsCvYWN",
+      "duration_ms": 132800
+    },
+    {
+      "played_at": "2026-11-23T01:41:42.633Z",
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "artists": [
+        "Nat King Cole"
+      ],
+      "album": "The Christmas Song (Expanded Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27330dc6027fd140c7ba68e900c",
+      "uri": "spotify:track:4PS1e8f2LvuTFgUs1Cn3ON",
+      "duration_ms": 192160
+    },
+    {
+      "played_at": "2026-11-23T01:43:08.379Z",
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
+      "artists": [
+        "John Williams"
+      ],
+      "album": "Home Alone (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f497846e25233023ca7cb8b1",
+      "uri": "spotify:track:4tHqQMWSqmL6YjXwsqthDI",
+      "duration_ms": 85266
+    },
+    {
+      "played_at": "2026-11-23T01:45:49.338Z",
+      "name": "It's the Most Wonderful Time of the Year",
+      "artists": [
+        "Andy Williams"
+      ],
+      "album": "The Andy Williams Christmas Album",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bc5b8079eaec602335cc6e5d",
+      "uri": "spotify:track:5hslUAKq9I9CG2bAulFkHN",
+      "duration_ms": 152570
+    },
+    {
+      "played_at": "2026-11-23T01:48:22.925Z",
+      "name": "A Nonsense Christmas",
+      "artists": [
+        "Sabrina Carpenter"
+      ],
+      "album": "fruitcake",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734114a7fb3bf4ed0bf4934b43",
+      "uri": "spotify:track:73ye7F9Ub51dQ3CrnCHFhr",
+      "duration_ms": 153099
+    },
+    {
+      "played_at": "2026-11-23T01:51:25.221Z",
+      "name": "Feliz Navidad",
+      "artists": [
+        "José Feliciano"
+      ],
+      "album": "Feliz Navidad",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ddf52275ffabcc1151c65cae",
+      "uri": "spotify:track:0oPdaY4dXtc3ZsaG17V972",
+      "duration_ms": 181794
+    },
+    {
+      "played_at": "2026-11-23T01:55:13.358Z",
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "artists": [
+        "Paul McCartney"
+      ],
+      "album": "McCartney II (Special Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733cef016d13d82873d45af84a",
+      "uri": "spotify:track:1SV1fxF65n9NhRHp3KlBuu",
+      "duration_ms": 227653
+    },
+    {
+      "played_at": "2026-11-23T01:58:42.787Z",
+      "name": "2000 Miles - Spotify Singles Holiday",
+      "artists": [
+        "Freya Skye"
+      ],
+      "album": "2000 Miles - Spotify Singles Holiday",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bab88a76034cd962ac206c68",
+      "uri": "spotify:track:1HftwnsmpwF97Q3hnbyYWg",
+      "duration_ms": 208880
+    },
+    {
+      "played_at": "2026-11-23T02:02:09.878Z",
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "artists": [
+        "Michael Bublé"
+      ],
+      "album": "Christmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273811d5066c4493519176fb687",
+      "uri": "spotify:track:0lLdorYw7lVrJydTINhWdI",
+      "duration_ms": 206639
+    },
+    {
+      "played_at": "2026-11-23T02:05:16.664Z",
+      "name": "Sleigh Ride",
+      "artists": [
+        "The Ronettes"
+      ],
+      "album": "A Christmas Gift For You From Phil Spector",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730899a5627109fbfd913f1727",
+      "uri": "spotify:track:5ASM6Qjiav2xPe7gRkQMsQ",
+      "duration_ms": 186241
+    },
+    {
+      "played_at": "2026-11-23T02:08:20.063Z",
+      "name": "Mistletoe",
+      "artists": [
+        "Justin Bieber"
+      ],
+      "album": "Under The Mistletoe (Deluxe Edition)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273af0aff7f601df9ed6d2d531d",
+      "uri": "spotify:track:7xapw9Oy21WpfEcib2ErSA",
+      "duration_ms": 182946
+    },
+    {
+      "played_at": "2026-11-23T02:12:48.158Z",
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "album": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736a68798b2ac41fde44823eb5",
+      "uri": "spotify:track:6s2wpWPFPAgKg2LXxi1Oee",
+      "duration_ms": 267600
+    },
+    {
+      "played_at": "2026-11-23T02:16:10.782Z",
+      "name": "Merry Christmas, Please Don't Call",
+      "artists": [
+        "Bleachers"
+      ],
+      "album": "Merry Christmas, Please Don't Call",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737fbed05d7226834da74c652b",
+      "uri": "spotify:track:0UOG0zUn7t8m8QcxfzR7AH",
+      "duration_ms": 202132
+    },
+    {
+      "played_at": "2026-11-23T02:20:40.251Z",
+      "name": "Hallelujah",
+      "artists": [
+        "Pentatonix"
+      ],
+      "album": "A Pentatonix Christmas Deluxe",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734170bf990141a556b4dc3b90",
+      "uri": "spotify:track:0HZk0QsXPhMNAWNDR3rYE8",
+      "duration_ms": 268937
+    },
+    {
+      "played_at": "2026-11-23T02:24:43.354Z",
+      "name": "Santa, Can’t You Hear Me",
+      "artists": [
+        "Kelly Clarkson",
+        "Ariana Grande"
+      ],
+      "album": "When Christmas Comes Around...",
+      "image": "https://i.scdn.co/image/ab67616d0000b27357f2f787970d13c57dfc7f4b",
+      "uri": "spotify:track:2O3MQ6H3gjrIWDcpeTrikT",
+      "duration_ms": 242644
+    },
+    {
+      "played_at": "2026-11-23T02:29:16.244Z",
+      "name": "Step Into Christmas - Remastered 1995",
+      "artists": [
+        "Elton John"
+      ],
+      "album": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734d005d6881d80313c1127580",
+      "uri": "spotify:track:6sBWmE23q6xQHlnEZ8jYPT",
+      "duration_ms": 272393
+    },
+    {
+      "played_at": "2026-11-23T02:31:53.539Z",
+      "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+      "artists": [
+        "Gwen Stefani",
+        "Blake Shelton"
+      ],
+      "album": "You Make It Feel Like Christmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f1ead165a7504b97e66ea7c4",
+      "uri": "spotify:track:2OQ6a4CfUeYskpTTgyawyJ",
+      "duration_ms": 156773
+    },
+    {
+      "played_at": "2026-11-23T02:34:29.830Z",
+      "name": "Run Rudolph Run - Spotify Singles Holiday",
+      "artists": [
+        "Mark Ambor"
+      ],
+      "album": "Run Rudolph Run - Spotify Singles Holiday",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd23af25b9cf738eb1abb755",
+      "uri": "spotify:track:6pheMGrfMwwnypqafU7d4k",
+      "duration_ms": 155846
+    },
+    {
+      "played_at": "2026-11-23T02:37:27.799Z",
+      "name": "Please Come Home for Christmas - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736d4362a2b2e39422000f8ed3",
+      "uri": "spotify:track:3QIoEi8Enr9uHffwInGIsC",
+      "duration_ms": 177440
+    },
+    {
+      "played_at": "2026-11-23T04:04:03.435Z",
+      "name": "My Only Wish (This Year)",
+      "artists": [
+        "Britney Spears"
+      ],
+      "album": "My Only Wish (This Year)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316ed688a08ecd351560f4566",
+      "uri": "spotify:track:0YWUHZPJVg4iujddsJDwhM",
+      "duration_ms": 255400
+    },
+    {
+      "played_at": "2026-11-23T04:05:32.376Z",
+      "name": "My Only Wish (This Year)",
+      "artists": [
+        "Britney Spears"
+      ],
+      "album": "My Only Wish (This Year)",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316ed688a08ecd351560f4566",
+      "uri": "spotify:track:0YWUHZPJVg4iujddsJDwhM",
+      "duration_ms": 255400
+    },
+    {
+      "played_at": "2026-11-23T04:11:19.361Z",
+      "name": "Last Christmas",
+      "artists": [
+        "Wham!"
+      ],
+      "album": "LAST CHRISTMAS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f2d2adaa21ad616df6241e7d",
+      "uri": "spotify:track:2FRnf9qhLbvw8fu4IBXx78",
+      "duration_ms": 262960
+    },
+    {
+      "played_at": "2026-11-23T04:15:21.445Z",
+      "name": "All I Want for Christmas Is You",
+      "artists": [
+        "Mariah Carey"
+      ],
+      "album": "Merry Christmas",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c0862332847213b151ffab31",
+      "uri": "spotify:track:0bYg9bo50gSsH3LtXe2SQn",
+      "duration_ms": 241562
+    },
+    {
+      "played_at": "2026-11-23T04:17:28.158Z",
+      "name": "Rockin' Around The Christmas Tree",
+      "artists": [
+        "Brenda Lee"
+      ],
+      "album": "Merry Christmas From Brenda Lee",
+      "image": "https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3",
+      "uri": "spotify:track:2EjXfH91m7f8HiJN1yQg97",
+      "duration_ms": 126266
+    },
+    {
+      "played_at": "2026-11-23T04:20:52.730Z",
+      "name": "Santa Tell Me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "album": "Santa Tell Me",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5",
+      "uri": "spotify:track:0lizgQ7Qw35od7CYaoMBZb",
+      "duration_ms": 204093
+    },
+    {
+      "played_at": "2026-11-23T04:24:42.893Z",
+      "name": "Underneath the Tree",
+      "artists": [
+        "Kelly Clarkson"
+      ],
+      "album": "Wrapped In Red",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bd7d6900edd4d3f7d0f160a1",
+      "uri": "spotify:track:3YZE5qDV7u1ZD1gZc47ZeR",
+      "duration_ms": 229638
+    },
+    {
+      "played_at": "2026-11-23T04:26:54.353Z",
+      "name": "Jingle Bell Rock",
+      "artists": [
+        "Bobby Helms"
+      ],
+      "album": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+      "image": "https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17",
+      "uri": "spotify:track:7vQbuQcyTflfCIOu3Uzzya",
+      "duration_ms": 130973
     }
   ]
 }
