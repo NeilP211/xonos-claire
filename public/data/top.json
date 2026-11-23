@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:42:27.443Z",
+  "generated_at": "2026-11-23T23:17:44.576Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -65,18 +65,6 @@
         },
         {
           "rank": 6,
-          "name": "No Surprises",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
-          "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB",
-          "duration_ms": 229120
-        },
-        {
-          "rank": 7,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -88,7 +76,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Video Games",
           "artists": [
             "Lana Del Rey"
@@ -100,7 +88,7 @@
           "duration_ms": 281946
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "West Coast",
           "artists": [
             "Lana Del Rey"
@@ -112,7 +100,7 @@
           "duration_ms": 256760
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Lovers Rock",
           "artists": [
             "TV Girl"
@@ -124,7 +112,7 @@
           "duration_ms": 213920
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -136,19 +124,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 12,
-          "name": "Ultraviolence",
-          "artists": [
-            "Lana Del Rey"
-          ],
-          "album": "Ultraviolence (Deluxe)",
-          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
-          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-          "duration_ms": 251480
-        },
-        {
-          "rank": 13,
+          "rank": 11,
           "name": "Beware",
           "artists": [
             "Deftones"
@@ -160,7 +136,7 @@
           "duration_ms": 360720
         },
         {
-          "rank": 14,
+          "rank": 12,
           "name": "Are You The One",
           "artists": [
             "Basement"
@@ -172,7 +148,19 @@
           "duration_ms": 180906
         },
         {
-          "rank": 15,
+          "rank": 13,
+          "name": "Ultraviolence",
+          "artists": [
+            "Lana Del Rey"
+          ],
+          "album": "Ultraviolence (Deluxe)",
+          "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+          "uri": "spotify:track:1y3r6RXiJZNBV1EI0NggpS",
+          "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
+          "duration_ms": 251480
+        },
+        {
+          "rank": 14,
           "name": "Do I Wanna Know?",
           "artists": [
             "Arctic Monkeys"
@@ -184,7 +172,7 @@
           "duration_ms": 272394
         },
         {
-          "rank": 16,
+          "rank": 15,
           "name": "Good Looking",
           "artists": [
             "Suki Waterhouse"
@@ -196,7 +184,7 @@
           "duration_ms": 214800
         },
         {
-          "rank": 17,
+          "rank": 16,
           "name": "Take A Bite",
           "artists": [
             "beabadoobee"
@@ -208,7 +196,7 @@
           "duration_ms": 158866
         },
         {
-          "rank": 18,
+          "rank": 17,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -220,7 +208,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -232,19 +220,19 @@
           "duration_ms": 155938
         },
         {
-          "rank": 20,
-          "name": "Let Down",
+          "rank": 19,
+          "name": "No Surprises",
           "artists": [
             "Radiohead"
           ],
           "album": "OK Computer",
           "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
-          "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
-          "duration_ms": 299560
+          "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
+          "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB",
+          "duration_ms": 229120
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Xerces",
           "artists": [
             "Deftones"
@@ -256,7 +244,7 @@
           "duration_ms": 221866
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "stupid song",
           "artists": [
             "Olivia Rodrigo"
@@ -268,7 +256,7 @@
           "duration_ms": 209680
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -280,7 +268,7 @@
           "duration_ms": 299240
         },
         {
-          "rank": 24,
+          "rank": 23,
           "name": "Medicine Bottle",
           "artists": [
             "Red House Painters"
@@ -292,7 +280,7 @@
           "duration_ms": 589440
         },
         {
-          "rank": 25,
+          "rank": 24,
           "name": "Two-Way Mirror",
           "artists": [
             "Loathe"
@@ -304,7 +292,7 @@
           "duration_ms": 300186
         },
         {
-          "rank": 26,
+          "rank": 25,
           "name": "Here With Me",
           "artists": [
             "d4vd"
@@ -316,7 +304,7 @@
           "duration_ms": 242484
         },
         {
-          "rank": 27,
+          "rank": 26,
           "name": "Untrust Us",
           "artists": [
             "Crystal Castles"
@@ -328,7 +316,7 @@
           "duration_ms": 186373
         },
         {
-          "rank": 28,
+          "rank": 27,
           "name": "the way things go",
           "artists": [
             "beabadoobee"
@@ -340,7 +328,7 @@
           "duration_ms": 187800
         },
         {
-          "rank": 29,
+          "rank": 28,
           "name": "Flash",
           "artists": [
             "Cigarettes After Sex"
@@ -352,7 +340,7 @@
           "duration_ms": 274106
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "Trouble",
           "artists": [
             "Hope Sandoval & The Warm Inventions"
@@ -364,7 +352,7 @@
           "duration_ms": 322680
         },
         {
-          "rank": 31,
+          "rank": 30,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -376,7 +364,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 32,
+          "rank": 31,
           "name": "In Motion",
           "artists": [
             "beabadoobee"
@@ -388,7 +376,7 @@
           "duration_ms": 187992
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Leathers",
           "artists": [
             "Deftones"
@@ -400,7 +388,7 @@
           "duration_ms": 248893
         },
         {
-          "rank": 34,
+          "rank": 33,
           "name": "Tempest",
           "artists": [
             "Deftones"
@@ -412,7 +400,7 @@
           "duration_ms": 365480
         },
         {
-          "rank": 35,
+          "rank": 34,
           "name": "Romantic Dreams",
           "artists": [
             "Deftones"
@@ -424,7 +412,7 @@
           "duration_ms": 278106
         },
         {
-          "rank": 36,
+          "rank": 35,
           "name": "Highschool Lover",
           "artists": [
             "Air"
@@ -436,7 +424,7 @@
           "duration_ms": 160173
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "insurance",
           "artists": [
             "Rehash"
@@ -448,7 +436,7 @@
           "duration_ms": 216234
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Perfume & Cigarettes",
           "artists": [
             "Wisborg"
@@ -460,7 +448,7 @@
           "duration_ms": 262000
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "NE CMOTPN",
           "artists": [
             "STAKILLAZ",
@@ -473,7 +461,7 @@
           "duration_ms": 89037
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "976-EVIL",
           "artists": [
             "Deftones"
@@ -485,7 +473,7 @@
           "duration_ms": 272573
         },
         {
-          "rank": 41,
+          "rank": 40,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -497,7 +485,7 @@
           "duration_ms": 218500
         },
         {
-          "rank": 42,
+          "rank": 41,
           "name": "Covet",
           "artists": [
             "Basement"
@@ -509,7 +497,7 @@
           "duration_ms": 227340
         },
         {
-          "rank": 43,
+          "rank": 42,
           "name": "Salvatore",
           "artists": [
             "Lana Del Rey"
@@ -521,19 +509,7 @@
           "duration_ms": 281093
         },
         {
-          "rank": 44,
-          "name": "Karma Police",
-          "artists": [
-            "Radiohead"
-          ],
-          "album": "OK Computer",
-          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
-          "uri": "spotify:track:63OQupATfueTdZMWTxW03A",
-          "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A",
-          "duration_ms": 264066
-        },
-        {
-          "rank": 45,
+          "rank": 43,
           "name": "bacardi",
           "artists": [
             "phreshboyswag"
@@ -545,7 +521,7 @@
           "duration_ms": 112198
         },
         {
-          "rank": 46,
+          "rank": 44,
           "name": "Safe In Your Skin",
           "artists": [
             "Title Fight"
@@ -557,7 +533,7 @@
           "duration_ms": 154800
         },
         {
-          "rank": 47,
+          "rank": 45,
           "name": "HOLE",
           "artists": [
             "Current Joys"
@@ -569,7 +545,7 @@
           "duration_ms": 153906
         },
         {
-          "rank": 48,
+          "rank": 46,
           "name": "Dance For Me Wallis",
           "artists": [
             "Abel Korzeniowski"
@@ -581,7 +557,7 @@
           "duration_ms": 188346
         },
         {
-          "rank": 49,
+          "rank": 47,
           "name": "Nutshell",
           "artists": [
             "Alice In Chains"
@@ -593,7 +569,19 @@
           "duration_ms": 259200
         },
         {
-          "rank": 50,
+          "rank": 48,
+          "name": "Let Down",
+          "artists": [
+            "Radiohead"
+          ],
+          "album": "OK Computer",
+          "image": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+          "uri": "spotify:track:2fuYa3Lx06QQJAm0MjztKr",
+          "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
+          "duration_ms": 299560
+        },
+        {
+          "rank": 49,
           "name": "Breed - Remastered",
           "artists": [
             "Nirvana"
@@ -603,6 +591,18 @@
           "uri": "spotify:track:31T3xoQRBLl81KPQJWXD6A",
           "url": "https://open.spotify.com/track/31T3xoQRBLl81KPQJWXD6A",
           "duration_ms": 183333
+        },
+        {
+          "rank": 50,
+          "name": "Departure (Lullaby)",
+          "artists": [
+            "Max Richter"
+          ],
+          "album": "The Leftovers: Season 1 (Music from the HBO Series)",
+          "image": "https://i.scdn.co/image/ab67616d0000b27358ebfd9621b687d56309c8d0",
+          "uri": "spotify:track:3veq5JPnFzBpkfts4G9ZvC",
+          "url": "https://open.spotify.com/track/3veq5JPnFzBpkfts4G9ZvC",
+          "duration_ms": 117865
         }
       ],
       "artists": [
@@ -648,14 +648,6 @@
         },
         {
           "rank": 6,
-          "name": "Cigarettes After Sex",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
-          "genres": [],
-          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        },
-        {
-          "rank": 7,
           "name": "Crystal Castles",
           "image": "https://i.scdn.co/image/5419a05563a9ba8cb16fe207199c298f621eef85",
           "genres": [],
@@ -663,7 +655,7 @@
           "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "Radiohead",
           "image": "https://i.scdn.co/image/ab6761610000e5eb959527d2fabc9c64287e57b9",
           "genres": [],
@@ -671,7 +663,7 @@
           "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "Wisp",
           "image": "https://i.scdn.co/image/ab6761610000e5eb3c452fd195cec342b58a3eea",
           "genres": [],
@@ -679,12 +671,20 @@
           "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "Current Joys",
           "image": "https://i.scdn.co/image/ab6761610000e5eb63cfc515253933d23314a3f4",
           "genres": [],
           "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL",
           "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        },
+        {
+          "rank": 10,
+          "name": "Cigarettes After Sex",
+          "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9",
+          "genres": [],
+          "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
         },
         {
           "rank": 11,
@@ -736,19 +736,19 @@
         },
         {
           "rank": 17,
-          "name": "Nirvana",
-          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
-          "genres": [],
-          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        },
-        {
-          "rank": 18,
           "name": "bôa",
           "image": "https://i.scdn.co/image/ab6761610000e5ebd699423e4d35ff7a7fb66b7d",
           "genres": [],
           "uri": "spotify:artist:5jTtGLk1mGFMY5lQOvJYUj",
           "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        },
+        {
+          "rank": 18,
+          "name": "Nirvana",
+          "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "genres": [],
+          "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         },
         {
           "rank": 19,
