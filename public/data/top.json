@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:28:54.525Z",
+  "generated_at": "2026-11-26T11:49:49.807Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -1055,6 +1055,18 @@
         },
         {
           "rank": 21,
+          "name": "hold me in your arms",
+          "artists": [
+            "Blood Nose"
+          ],
+          "album": "hold me in your arms",
+          "image": "https://i.scdn.co/image/ab67616d0000b2730115dfec691d42601b62ab4e",
+          "uri": "spotify:track:3dUKirVbYJqKfc4Kk9TXXH",
+          "url": "https://open.spotify.com/track/3dUKirVbYJqKfc4Kk9TXXH",
+          "duration_ms": 80097
+        },
+        {
+          "rank": 22,
           "name": "Brooklyn Baby",
           "artists": [
             "Lana Del Rey"
@@ -1066,7 +1078,7 @@
           "duration_ms": 351640
         },
         {
-          "rank": 22,
+          "rank": 23,
           "name": "John Wayne",
           "artists": [
             "Cigarettes After Sex"
@@ -1078,7 +1090,7 @@
           "duration_ms": 258013
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "Serpentskirt",
           "artists": [
             "Cocteau Twins"
@@ -1090,7 +1102,7 @@
           "duration_ms": 237600
         },
         {
-          "rank": 24,
+          "rank": 25,
           "name": "Youngest Daughter",
           "artists": [
             "Superheaven"
@@ -1102,7 +1114,7 @@
           "duration_ms": 249514
         },
         {
-          "rank": 25,
+          "rank": 26,
           "name": "Babydoll",
           "artists": [
             "Dominic Fike"
@@ -1114,7 +1126,7 @@
           "duration_ms": 97960
         },
         {
-          "rank": 26,
+          "rank": 27,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -1126,7 +1138,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 27,
+          "rank": 28,
           "name": "Pylon",
           "artists": [
             "beabadoobee"
@@ -1136,18 +1148,6 @@
           "uri": "spotify:track:1Uqar054oqRWSVbTRt13h8",
           "url": "https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8",
           "duration_ms": 215256
-        },
-        {
-          "rank": 28,
-          "name": "hold me in your arms",
-          "artists": [
-            "Blood Nose"
-          ],
-          "album": "hold me in your arms",
-          "image": "https://i.scdn.co/image/ab67616d0000b2730115dfec691d42601b62ab4e",
-          "uri": "spotify:track:3dUKirVbYJqKfc4Kk9TXXH",
-          "url": "https://open.spotify.com/track/3dUKirVbYJqKfc4Kk9TXXH",
-          "duration_ms": 80097
         },
         {
           "rank": 29,
@@ -2805,6 +2805,14 @@
         },
         {
           "rank": 48,
+          "name": "Rehash",
+          "image": "https://i.scdn.co/image/ab6761610000e5eba1132a44bde4af28ec9ab75d",
+          "genres": [],
+          "uri": "spotify:artist:10WfoBIKKTSqCvkeG1XW9T",
+          "url": "https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T"
+        },
+        {
+          "rank": 49,
           "name": "Duster",
           "image": "https://i.scdn.co/image/ab6761610000e5ebcd67bffd1bac79ac28e77d79",
           "genres": [],
@@ -2812,20 +2820,12 @@
           "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         },
         {
-          "rank": 49,
+          "rank": 50,
           "name": "Kendrick Lamar",
           "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
           "genres": [],
           "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "rank": 50,
-          "name": "Steve Lacy",
-          "image": "https://i.scdn.co/image/ab6761610000e5eb7e3150cffbfda40c6eaf28dd",
-          "genres": [],
-          "uri": "spotify:artist:57vWImR43h4CaDao012Ofp",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ]
     }
