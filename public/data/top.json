@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:51:45.682Z",
+  "generated_at": "2026-11-27T03:26:54.119Z",
   "ranges": {
     "short_term": {
       "tracks": [
@@ -29,6 +29,18 @@
         },
         {
           "rank": 3,
+          "name": "Lovers Rock",
+          "artists": [
+            "TV Girl"
+          ],
+          "album": "French Exit",
+          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
+          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
+          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
+          "duration_ms": 213920
+        },
+        {
+          "rank": 4,
           "name": "Swerve City",
           "artists": [
             "Deftones"
@@ -40,19 +52,19 @@
           "duration_ms": 164986
         },
         {
-          "rank": 4,
-          "name": "Radio",
+          "rank": 5,
+          "name": "Covet",
           "artists": [
-            "beabadoobee"
+            "Basement"
           ],
-          "album": "Pylon",
-          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
-          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
-          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
-          "duration_ms": 160230
+          "album": "Colourmeinkindness",
+          "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
+          "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
+          "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
+          "duration_ms": 227340
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Swan Song",
           "artists": [
             "Lana Del Rey"
@@ -64,7 +76,7 @@
           "duration_ms": 323475
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Video Games",
           "artists": [
             "Lana Del Rey"
@@ -74,18 +86,6 @@
           "uri": "spotify:track:33HucJaMg7OBQLqmaVx58p",
           "url": "https://open.spotify.com/track/33HucJaMg7OBQLqmaVx58p",
           "duration_ms": 281946
-        },
-        {
-          "rank": 7,
-          "name": "Lovers Rock",
-          "artists": [
-            "TV Girl"
-          ],
-          "album": "French Exit",
-          "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
-          "uri": "spotify:track:6dBUzqjtbnIa1TwYbyw5CM",
-          "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-          "duration_ms": 213920
         },
         {
           "rank": 8,
@@ -186,6 +186,18 @@
         },
         {
           "rank": 16,
+          "name": "Radio",
+          "artists": [
+            "beabadoobee"
+          ],
+          "album": "Pylon",
+          "image": "https://i.scdn.co/image/ab67616d0000b27312c805544ba208842da0d9f3",
+          "uri": "spotify:track:4twr2sQAmUk6wuQy3Qcrbe",
+          "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe",
+          "duration_ms": 160230
+        },
+        {
+          "rank": 17,
           "name": "Mr. Brightside",
           "artists": [
             "The Killers"
@@ -197,7 +209,7 @@
           "duration_ms": 222973
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Born To Die",
           "artists": [
             "Lana Del Rey"
@@ -209,7 +221,7 @@
           "duration_ms": 286253
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Velvet Ring - 2023 Remaster",
           "artists": [
             "Big Thief"
@@ -221,7 +233,7 @@
           "duration_ms": 155938
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Xerces",
           "artists": [
             "Deftones"
@@ -233,7 +245,7 @@
           "duration_ms": 221866
         },
         {
-          "rank": 20,
+          "rank": 21,
           "name": "Entombed",
           "artists": [
             "Deftones"
@@ -243,18 +255,6 @@
           "uri": "spotify:track:4bLCPfBLKlqiONo6TALTh5",
           "url": "https://open.spotify.com/track/4bLCPfBLKlqiONo6TALTh5",
           "duration_ms": 299240
-        },
-        {
-          "rank": 21,
-          "name": "Take A Bite",
-          "artists": [
-            "beabadoobee"
-          ],
-          "album": "This Is How Tomorrow Moves",
-          "image": "https://i.scdn.co/image/ab67616d0000b2737d9a2e7835a178df7b0153aa",
-          "uri": "spotify:track:1GClDyMiSLrpzjzwIfWRIa",
-          "url": "https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa",
-          "duration_ms": 158866
         },
         {
           "rank": 22,
@@ -463,6 +463,18 @@
         },
         {
           "rank": 39,
+          "name": "Letting Go",
+          "artists": [
+            "Rehash"
+          ],
+          "album": "Rehash",
+          "image": "https://i.scdn.co/image/ab67616d0000b273bffdb0e44e360bb2fc3b7e42",
+          "uri": "spotify:track:4wyj6tu4twVSDFQfZOpLl5",
+          "url": "https://open.spotify.com/track/4wyj6tu4twVSDFQfZOpLl5",
+          "duration_ms": 191360
+        },
+        {
+          "rank": 40,
           "name": "976-EVIL",
           "artists": [
             "Deftones"
@@ -474,7 +486,7 @@
           "duration_ms": 272573
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Under Your Spell",
           "artists": [
             "Snow Strippers"
@@ -484,18 +496,6 @@
           "uri": "spotify:track:5q0N5SaFhROG9UQiPukv9p",
           "url": "https://open.spotify.com/track/5q0N5SaFhROG9UQiPukv9p",
           "duration_ms": 218500
-        },
-        {
-          "rank": 41,
-          "name": "Covet",
-          "artists": [
-            "Basement"
-          ],
-          "album": "Colourmeinkindness",
-          "image": "https://i.scdn.co/image/ab67616d0000b273fb5759dc6a1d9eb96dadde10",
-          "uri": "spotify:track:1AMADyXgIWayh5vXLZo2qF",
-          "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF",
-          "duration_ms": 227340
         },
         {
           "rank": 42,
@@ -721,19 +721,19 @@
         },
         {
           "rank": 15,
-          "name": "The Marías",
-          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
-          "genres": [],
-          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        },
-        {
-          "rank": 16,
           "name": "Beach House",
           "image": "https://i.scdn.co/image/ab6761610000e5ebb3e38a46a56a423d8f741c09",
           "genres": [],
           "uri": "spotify:artist:56ZTgzPBDge0OvCGgMO3OY",
           "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        },
+        {
+          "rank": 16,
+          "name": "The Marías",
+          "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76",
+          "genres": [],
+          "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         },
         {
           "rank": 17,
